@@ -7,6 +7,7 @@ from sklearn.metrics import roc_auc_score, roc_curve, confusion_matrix
 import statsmodels.api as sm
 import matplotlib.pyplot as plt
 import seaborn as sns
+from scipy import stats
 
 def normalize_column_names(df):
     # Normalize the columns names
@@ -259,6 +260,28 @@ def plot_scatter_to_file(df, x, y, hue, normalizing_col, apply_log_x, apply_log_
     plt.close(fig)
 
 
+def plot_biomarker_correlation(df, biomarker_x, biomarker_y):
+    # Create the scatter plot
+    sns.scatterplot(data=df, x=biomarker_x, y=biomarker_y, hue='Pathology')
+    
+    # Plot the line y = x
+    plt.plot([df[biomarker_x].min(), df[biomarker_x].max()], 
+             [df[biomarker_x].min(), df[biomarker_x].max()], color='red')
+    
+    # Perform linear regression
+    slope, intercept, r_value, p_value, std_err = stats.linregress(df[biomarker_x], df[biomarker_y])
+    
+    # Generate regression line
+    x = np.linspace(df[biomarker_x].min(), df[biomarker_x].max(), 100)
+    y = slope * x + intercept
+    plt.plot(x, y, color='black')
+    
+    # Plot the confidence interval
+    plt.fill_between(x, y + std_err, y - std_err, color='black', alpha=0.2)
+    
+    # Show the plot
+    plt.show()
+
 def models_to_csv(models, path, append=False):
     # ensure the path exists
     os.makedirs(os.path.dirname(path), exist_ok=True)
@@ -275,7 +298,7 @@ def models_to_csv(models, path, append=False):
             f.write(f'{bmk_cols},AUC,Sensitivity,Specificity,NPV,PPV,Best_Threshold\n')
 
         for model in sorted(models.values(), key=lambda x: x['auc'], reverse=True):
-            f.write(f'{",".join(model['biomarkers'])}')
+            f.write(f'{",".join(model["biomarkers"])}')
             for i in range(max_len + 1 - len(model['biomarkers'])):
                 f.write(',')
             f.write(f'{model["auc"]},{model["sensitivity"]},{model["specificity"]},{model["npv"]},{model["ppv"]},{model["best_threshold"]}\n')
