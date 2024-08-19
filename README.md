@@ -7,7 +7,7 @@ Repository for cohort analyses code safekeeping.
 ### 60x60 cohort
 
 - [AUCs calculation](<./notebooks/60x60_aucs_analysis.ipynb>)
-- [Comparison vs 240 cohort](<./notebooks/60x60_vs_240_analysis.ipynb>)
+- [Preanalytical analysis](<./notebooks/60x60_preanalytical.ipynb>)
 
 ### 20x20 cohort
 
