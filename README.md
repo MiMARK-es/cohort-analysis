@@ -4,6 +4,10 @@ Repository for cohort analyses code safekeeping.
 
 ## Analyses directory
 
+### 240 cohort
+
+- [AUCs calculation](<./notebooks/240_aucs_analysis.ipynb>)
+
 ### 60x60 cohort
 
 - [AUCs calculation](<./notebooks/60x60_aucs_analysis.ipynb>)
