@@ -86,13 +86,15 @@ def find_optimal_threshold(y_true, y_pred_prob):
 
 def compute_models( df, 
                     cols, 
-                    max_combination_size, 
+                    max_combination_size=1, 
                     method='direct', 
                     normalizing_col = None,
                     volume_col = None,
                     volume_added = 0.5,
                     apply_log=False, 
-                    avoid_same_biomarker=True ):
+                    avoid_same_biomarker=True,
+                    target_col='Pathology',
+                    compute_auc_ci=False):
     '''
     Compute all the models for the combinations of the columns in the dataframe df.
 
@@ -120,6 +122,10 @@ def compute_models( df,
         If True, apply the log to the columns.
     avoid_same_biomarker: bool
         If True, avoid the same biomarker in the combination.
+    target_col: str
+        The column to be used as the dependent variable.
+    compute_auc_ci: bool
+        If True, compute the AUC confidence interval.
     '''
 
     models = dict()
@@ -134,7 +140,9 @@ def compute_models( df,
                     continue
 
             # delete nan values from the columns in a copy of the dataframe
-            df_copy = df.dropna(subset=list(combo) + ['Pathology', normalizing_col])
+            df_copy = df.dropna(subset=list(combo) + [target_col])
+            if normalizing_col:
+                df_copy = df_copy.dropna(subset=[normalizing_col])
 
             if method == 'undo_dilution':
                 df_copy = df_copy.dropna(subset=[volume_col])
@@ -158,17 +166,28 @@ def compute_models( df,
 
             if apply_log:
                 X = np.log(X + 1)
-            y = df_copy['Pathology']
+            y = df_copy[target_col]
 
             # define the dependent variable
-            y = df_copy['Pathology']
+            y = df_copy[target_col]
 
             # fit the logistic regression model
-            model = sm.Logit(y, X).fit(disp=0)
+            try:
+                model = sm.Logit(y, X).fit(disp=0)
+            except Exception as e:
+                print(f'Could not fit the model for biomarkers: {list(combo)}')
+                print(e)
+                continue
 
             # compute the AUC
             y_pred = model.predict(X)
             auc = roc_auc_score(y, y_pred)
+
+            # compute the auc confidence interval
+            if compute_auc_ci:
+                auc_ci = roc_auc_score(y, y_pred, method='bootstrap', n_bootstraps=1000)
+            else:
+                auc_ci = None
 
             best_threshold, best_sensitivity, best_specificity, best_npv, best_ppv = find_optimal_threshold(y, y_pred)
 
@@ -181,6 +200,7 @@ def compute_models( df,
                              'y_pred': y_pred,
                              'roc_values': roc_curve(y, y_pred),
                              'auc': round(auc, 5), 
+                             'auc_ci': round(auc_ci, 5) if auc_ci else None,
                              'sensitivity': best_sensitivity, 
                              'specificity': best_specificity, 
                              'npv': best_npv, 
@@ -260,9 +280,9 @@ def plot_scatter_to_file(df, x, y, hue, normalizing_col, apply_log_x, apply_log_
     plt.close(fig)
 
 
-def plot_biomarker_correlation(df, biomarker_x, biomarker_y):
+def plot_biomarker_correlation(df, biomarker_x, biomarker_y, target_col='Pathology'):
     # Create the scatter plot
-    sns.scatterplot(data=df, x=biomarker_x, y=biomarker_y, hue='Pathology')
+    sns.scatterplot(data=df, x=biomarker_x, y=biomarker_y, hue=target_col)
     
     # Plot the line y = x
     plt.plot([df[biomarker_x].min(), df[biomarker_x].max()], 
@@ -309,12 +329,13 @@ results_path = lambda folder_name,method, max_biomarker_count : f'{folder_name}/
 
 def compute_all_models_and_save(df,
                                 biomarkers,
-                                normalizing_col,
-                                volume_col,
+                                target_col='Pathology',
+                                normalizing_col=None,
+                                volume_col=None,
                                 volume_added=0.5,
                                 apply_log=True,
                                 avoid_same_biomarker=True,
-                                methods=['normalized'],
+                                methods=['direct'],
                                 max_biomarker_count=1,
                                 folder_name='',
                                 plot_rocs=False,
@@ -333,7 +354,8 @@ def compute_all_models_and_save(df,
                                     volume_col,
                                     volume_added,
                                     apply_log, 
-                                    avoid_same_biomarker)
+                                    avoid_same_biomarker,
+                                    target_col)
             
             if models == dict():
                 continue

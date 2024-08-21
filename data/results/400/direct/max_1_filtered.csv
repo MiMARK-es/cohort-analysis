@@ -1,0 +1,75 @@
+Biomarker_1,AUC,Protein.Group,Protein.Names,First.Protein.Description
+LDHA_0,0.8304,P00338-2;P00338-3,LDHA_HUMAN,Isoform 2 of L-lactate dehydrogenase A chain
+FASN,0.81286,P49327,FAS_HUMAN,Fatty acid synthase
+PKM_0,0.80301,H3BN34;H3BU13,H3BN34_HUMAN;H3BU13_HUMAN,Pyruvate kinase M1/2 (Fragment)
+SFN_1,0.79626,P31947,1433S_HUMAN,14-3-3 protein sigma
+ENO1_0,0.79146,P06733,ENOA_HUMAN,Alpha-enolase
+MPO_1,0.78817,A0A8V8TPE5,A0A8V8TPE5_HUMAN,Myeloperoxidase (Fragment)
+TARS1_2,0.7853,P26639,SYTC_HUMAN,"Threonine--tRNA ligase 1, cytoplasmic"
+AGRN_0,0.77426,O00468-6,AGRIN_HUMAN,Isoform 6 of Agrin
+MMP9_0,0.77328,P14780,MMP9_HUMAN,Matrix metalloproteinase-9
+UGDH_2,0.76058,O60701,UGDH_HUMAN,UDP-glucose 6-dehydrogenase
+KPNB1_1,0.75898,Q14974,IMB1_HUMAN,Importin subunit beta-1
+S100A12,0.75894,P80511,S10AC_HUMAN,Protein S100-A12
+MCM3_1,0.75251,P25205,MCM3_HUMAN,DNA replication licensing factor MCM3
+GMDS_2,0.7523,O60547,GMDS_HUMAN,"GDP-mannose 4,6 dehydratase"
+CASP3,0.75215,P42574,CASP3_HUMAN,Caspase-3
+ISG15_1,0.74955,P05161,ISG15_HUMAN,Ubiquitin-like protein ISG15
+CLIC1_1,0.7494,O00299,CLIC1_HUMAN,Chloride intracellular channel protein 1
+CAPG_1,0.74755,P40121,CAPG_HUMAN,Macrophage-capping protein
+PRDX1_0,0.74484,Q06830,PRDX1_HUMAN,Peroxiredoxin-1
+IARS1,0.74392,A0A804HL54,A0A804HL54_HUMAN,isoleucine--tRNA ligase
+PSMD2,0.74365,Q13200,PSMD2_HUMAN,26S proteasome non-ATPase regulatory subunit 2
+CTNNB1_1,0.74361,P35222,CTNB1_HUMAN,Catenin beta-1
+MVP_0,0.74239,Q14764,MVP_HUMAN,Major vault protein
+MX1_1,0.74038,H9KVD0,H9KVD0_HUMAN,Interferon-induced GTP-binding protein Mx1 (Fragment)
+HSPE1_0,0.73464,P61604,CH10_HUMAN,"10 kDa heat shock protein, mitochondrial"
+FABP5_0,0.73337,I6L8B7,I6L8B7_HUMAN,Fatty acid binding protein 5
+NAMPT_0,0.72889,A0A0C4DFS8,A0A0C4DFS8_HUMAN,Nicotinamide phosphoribosyltransferase
+RAB8A_0,0.72863,P61006,RAB8A_HUMAN,Ras-related protein Rab-8A
+RPSA_1,0.72692,P08865,RSSA_HUMAN,40S ribosomal protein SA
+SPP1_0,0.72552,P10451-3,OSTP_HUMAN,Isoform 3 of Osteopontin
+VPS35_0,0.72373,Q96QK1,VPS35_HUMAN,Vacuolar protein sorting-associated protein 35
+P4HB_1,0.7237,A0A7P0T8C0,A0A7P0T8C0_HUMAN,protein disulfide-isomerase
+EIF2AK2_0,0.72049,P19525,E2AK2_HUMAN,"Interferon-induced, double-stranded RNA-activated protein kinase"
+FUBP1_2,0.71968,Q96AE4,FUBP1_HUMAN,Far upstream element-binding protein 1
+SPINT1_1,0.7174,O43278,SPIT1_HUMAN,Kunitz-type protease inhibitor 1
+ILF2_0,0.71546,Q12905,ILF2_HUMAN,Interleukin enhancer-binding factor 2
+GTF2I_1,0.71454,P78347;P78347-2;P78347-3;P78347-4,GTF2I_HUMAN,General transcription factor II-I
+MIF,0.71452,P14174,MIF_HUMAN,Macrophage migration inhibitory factor
+RPS16_0,0.7135,P62249,RS16_HUMAN,40S ribosomal protein S16
+PFDN6_2,0.71087,O15212,PFD6_HUMAN,Prefoldin subunit 6
+RPL12,0.71039,P30050,RL12_HUMAN,60S ribosomal protein L12
+MAGED2_1,0.70686,Q9UNF1,MAGD2_HUMAN,Melanoma-associated antigen D2
+ANXA1_1,0.70627,P04083,ANXA1_HUMAN,Annexin A1
+KRT8_1,0.7057,F8W1U3,F8W1U3_HUMAN,Keratin 8 (Fragment)
+TPI1_1,0.70534,P60174-4,TPIS_HUMAN,Isoform 3 of Triosephosphate isomerase
+SFRP4_1,0.70423,Q6FHJ7,SFRP4_HUMAN,Secreted frizzled-related protein 4
+DDAH1_1,0.70354,O94760,DDAH1_HUMAN,"N(G),N(G)-dimethylarginine dimethylaminohydrolase 1"
+GOLM1_2,0.70285,Q8NBJ4;Q8NBJ4-2,GOLM1_HUMAN,Golgi membrane protein 1
+GSTP1_0,0.70285,P09211,GSTP1_HUMAN,Glutathione S-transferase P
+DCN_1,0.70277,F8VWU0,F8VWU0_HUMAN,Decorin (Fragment)
+PFDN4_0,0.70186,Q9NQP4,PFD4_HUMAN,Prefoldin subunit 4
+ABCF3_2,0.69632,Q9NUQ8,ABCF3_HUMAN,ATP-binding cassette sub-family F member 3
+ACE_0,0.69586,P12821,ACE_HUMAN,Angiotensin-converting enzyme
+EIF2B4_0,0.69482,Q9UI10,EI2BD_HUMAN,Translation initiation factor eIF-2B subunit delta
+VCP_1,0.69259,A0A7P0TBK7;A0A7P0Z4D1,A0A7P0TBK7_HUMAN;A0A7P0Z4D1_HUMAN,Valosin containing protein (Fragment)
+SNRPD3_1,0.6886,P62318;P62318-2,SMD3_HUMAN,Small nuclear ribonucleoprotein Sm D3
+PPIA_1,0.68553,P62937,PPIA_HUMAN,Peptidyl-prolyl cis-trans isomerase A
+RUVBL1_0,0.68483,Q9Y265,RUVB1_HUMAN,RuvB-like 1
+UBR4_0,0.6773,Q5T4S7;Q5T4S7-3,UBR4_HUMAN,E3 ubiquitin-protein ligase UBR4
+PPP2R2A_1,0.67658,P63151,2ABA_HUMAN,Serine/threonine-protein phosphatase 2A 55 kDa regulatory subunit B alpha isoform
+BCAM,0.67107,P50895,BCAM_HUMAN,Basal cell adhesion molecule
+CD14,0.66996,P08571,CD14_HUMAN,Monocyte differentiation antigen CD14
+TTC38_1,0.66996,Q5R3I4,TTC38_HUMAN,Tetratricopeptide repeat protein 38
+MAT2A_1,0.66677,P31153,METK2_HUMAN,S-adenosylmethionine synthase isoform type-2
+BROX_1,0.66615,Q5VW32,BROX_HUMAN,BRO1 domain-containing protein BROX
+CPNE3_1,0.66058,O75131,CPNE3_HUMAN,Copine-3
+SH3BGRL3,0.66021,Q9H299,SH3L3_HUMAN,SH3 domain-binding glutamic acid-rich-like protein 3
+HSPB1_1,0.65975,A0A6Q8PF43,A0A6Q8PF43_HUMAN,Heat shock protein family B (small) member 1
+RPL29_0,0.65789,P47914,RL29_HUMAN,60S ribosomal protein L29
+PDE12_1,0.65737,Q6L8Q7,PDE12_HUMAN,"2',5'-phosphodiesterase 12"
+CNDP2_1,0.65339,Q96KP4,CNDP2_HUMAN,Cytosolic non-specific dipeptidase
+CRYL1_1,0.65209,Q9Y2S2,CRYL1_HUMAN,Lambda-crystallin homolog
+PRPF31_1,0.65194,Q8WWY3,PRP31_HUMAN,U4/U6 small nuclear ribonucleoprotein Prp31
+ASRGL1_0,0.65007,Q7L266,ASGL1_HUMAN,Isoaspartyl peptidase/L-asparaginase

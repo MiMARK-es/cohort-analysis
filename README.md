@@ -16,3 +16,10 @@ Repository for cohort analyses code safekeeping.
 ### 20x20 cohort
 
 - [AUCs calculation](<./notebooks/20x20_aucs_analysis.ipynb>)
+
+### 400 cohort
+
+- [AUCs calculation](<./notebooks/400_aucs_analysis.ipynb>)
+- [AUCs ratios calculation](<./notebooks/400_ratios_aucs_analysis.ipynb>)
+
+
