@@ -185,7 +185,12 @@ def compute_models( df,
 
             # compute the auc confidence interval
             if compute_auc_ci:
-                auc_ci = roc_auc_score(y, y_pred, method='bootstrap', n_bootstraps=1000)
+                n_bootstraps = 1000
+                auc_values = np.zeros(n_bootstraps)
+                for i in range(n_bootstraps):
+                    indices = np.random.choice(len(y_pred), len(y_pred), replace=True)
+                    auc_values[i] = roc_auc_score(y.values[indices], y_pred.values[indices])
+                auc_ci = np.percentile(auc_values, [2.5, 97.5])
             else:
                 auc_ci = None
 
@@ -200,7 +205,7 @@ def compute_models( df,
                              'y_pred': y_pred,
                              'roc_values': roc_curve(y, y_pred),
                              'auc': round(auc, 5), 
-                             'auc_ci': round(auc_ci, 5) if auc_ci else None,
+                             'auc_ci': auc_ci,
                              'sensitivity': best_sensitivity, 
                              'specificity': best_specificity, 
                              'npv': best_npv, 
@@ -339,6 +344,7 @@ def compute_all_models_and_save(df,
                                 max_biomarker_count=1,
                                 folder_name='',
                                 plot_rocs=False,
+                                compute_auc_ci=False
                                 ):
 
     ret_models = dict()
@@ -355,7 +361,8 @@ def compute_all_models_and_save(df,
                                     volume_added,
                                     apply_log, 
                                     avoid_same_biomarker,
-                                    target_col)
+                                    target_col,
+                                    compute_auc_ci)
             
             if models == dict():
                 continue
