@@ -13,6 +13,10 @@ Repository for cohort analyses code safekeeping.
 - [AUCs calculation](<./notebooks/60x60_aucs_analysis.ipynb>)
 - [Preanalytical analysis](<./notebooks/60x60_preanalytical.ipynb>)
 
+#### 60x60 __enlarged__ cohort
+
+- [AUCs calculation](<./notebooks/60x60_enlarged_aucs_analysis.ipynb>)
+
 ### 20x20 cohort
 
 - [AUCs calculation](<./notebooks/20x20_aucs_analysis.ipynb>)
