@@ -34,6 +34,8 @@ def cols_as_numbers(df, cols):
             df[col] = df[col].str.strip().replace(',', '.')
             # if the value is empty, replace it with NaN
             df[col] = df[col].replace('', np.nan)
+            # if the value is non-numeric, replace it with NaN
+            df[col] = pd.to_numeric(df[col], errors='coerce')
             df[col] = df[col].astype(float)
         except Exception as e:
             print(f'Could not convert {col} to float')
