@@ -24,6 +24,7 @@ Repository for cohort analyses code safekeeping.
 ### 400 cohort
 
 - [AUCs calculation](<./notebooks/400_aucs_analysis.ipynb>)
-- [AUCs ratios calculation](<./notebooks/400_ratios_aucs_analysis.ipynb>)
+- [AUCs ratios (a/b) calculation](<./notebooks/400_ratios_aucs_analysis.ipynb>)
+- [AUCs ratios (a/c + b/c) calculation](<./notebooks/400_double_ratios_aucs_analysis.ipynb>)
 
 
