@@ -6,7 +6,8 @@ Repository for cohort analyses code safekeeping.
 
 ### 240 cohort
 
-- [AUCs calculation](<./notebooks/240_aucs_analysis.ipynb>)
+- [RUO 2022 AUCs calculation](<./notebooks/240_aucs_analysis.ipynb>)
+- [MMK 2024 AUCs calculation](<./notebooks/240_mmk_2024_aucs_analysis.ipynb>)
 
 ### 60x60 cohort
 
