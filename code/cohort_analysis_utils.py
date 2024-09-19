@@ -2,7 +2,7 @@
 import pandas as pd
 import numpy as np
 import os
-from itertools import combinations
+from itertools import combinations, permutations
 from sklearn.metrics import roc_auc_score, roc_curve, confusion_matrix
 import statsmodels.api as sm
 import matplotlib.pyplot as plt
@@ -94,7 +94,9 @@ def compute_models( df,
                     apply_log=False, 
                     avoid_same_biomarker=True,
                     target_col='Pathology',
-                    compute_auc_ci=False):
+                    compute_auc_ci=False,
+                    auc_threshold=0.6,
+                    ):
     '''
     Compute all the models for the combinations of the columns in the dataframe df.
 
@@ -126,12 +128,19 @@ def compute_models( df,
         The column to be used as the dependent variable.
     compute_auc_ci: bool
         If True, compute the AUC confidence interval.
+    auc_threshold: float
+        The threshold for the AUC to be considered in the models.
     '''
 
     models = dict()
     
-    for k in range(1, max_combination_size + 1):
-        for combo in combinations(cols, k):
+
+    initial_range = max_combination_size if method == 'biomarker_ratio' else 1
+
+    for k in range(initial_range, max_combination_size + 1):
+        # When computing ratios the order matters then we use permutations
+        combos = combinations(cols, k) if method != 'biomarker_ratio' else permutations(cols, k)
+        for combo in combos:
             # avoid the same biomarker in the combination
             # the biomarker is in the first element when splitting by _
             if avoid_same_biomarker:
@@ -157,10 +166,14 @@ def compute_models( df,
             elif method == 'direct':
                 X = df_copy[list(combo)]
             elif method == 'biomarker_ratio':
-                if len(combo) != 2:
+                if len(combo) == 2:
+                    df_copy = df_copy[df_copy[combo[1]] != 0]
+                    X = df_copy[[combo[0]]].div(df_copy[combo[1]], axis=0)
+                elif len(combo) == 3:
+                    df_copy = df_copy[df_copy[combo[2]] != 0]
+                    X = df_copy[[combo[0],combo[1]]].div(df_copy[combo[2]], axis=0)
+                else:
                     continue
-                df_copy = df_copy[df_copy[combo[1]] != 0]
-                X = df_copy[combo[0]].div(df_copy[combo[1]], axis=0)
             else:
                 raise ValueError('normalize should be one of {normalized, kronmal, undo_dilution, direct}')
 
@@ -182,6 +195,9 @@ def compute_models( df,
             # compute the AUC
             y_pred = model.predict(X)
             auc = roc_auc_score(y, y_pred)
+
+            if auc < auc_threshold:
+                continue
 
             # compute the auc confidence interval
             if compute_auc_ci:
@@ -344,7 +360,8 @@ def compute_all_models_and_save(df,
                                 max_biomarker_count=1,
                                 folder_name='',
                                 plot_rocs=False,
-                                compute_auc_ci=False
+                                compute_auc_ci=False,
+                                auc_threshold=0.6,
                                 ):
 
     ret_models = dict()
@@ -362,7 +379,9 @@ def compute_all_models_and_save(df,
                                     apply_log, 
                                     avoid_same_biomarker,
                                     target_col,
-                                    compute_auc_ci)
+                                    compute_auc_ci,
+                                    auc_threshold,
+                                    )
             
             if models == dict():
                 continue
