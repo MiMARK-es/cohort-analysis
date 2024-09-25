@@ -302,27 +302,190 @@ def plot_scatter_to_file(df, x, y, hue, normalizing_col, apply_log_x, apply_log_
     fig.savefig(folder+f'/{x}_vs_{y}.png')
     plt.close(fig)
 
-
 def plot_biomarker_correlation(df, biomarker_x, biomarker_y, target_col='Pathology'):
-    # Create the scatter plot
-    sns.scatterplot(data=df, x=biomarker_x, y=biomarker_y, hue=target_col)
-    
+    import matplotlib.pyplot as plt
+    import seaborn as sns
+    from scipy import stats
+    import numpy as np
+    import pandas as pd
+    import scipy
+
+    # Set significance level
+    alpha = 0.05
+
+    # Perform normality tests
+    shapiro_x = stats.shapiro(df[biomarker_x])
+    shapiro_y = stats.shapiro(df[biomarker_y])
+
+    is_normal_x = shapiro_x.pvalue > alpha
+    is_normal_y = shapiro_y.pvalue > alpha
+
+    # Decide which test to perform
+    if is_normal_x and is_normal_y:
+        # Paired t-test
+        test_stat, test_pvalue = stats.ttest_rel(df[biomarker_x], df[biomarker_y])
+        test_name = 'Paired t-test'
+        # Pearson correlation
+        corr_coef, corr_pval = stats.pearsonr(df[biomarker_x], df[biomarker_y])
+        corr_name = 'Pearson'
+    else:
+        # Wilcoxon signed-rank test
+        test_stat, test_pvalue = stats.wilcoxon(df[biomarker_x], df[biomarker_y])
+        test_name = 'Wilcoxon test'
+        # Spearman correlation
+        corr_coef, corr_pval = stats.spearmanr(df[biomarker_x], df[biomarker_y])
+        corr_name = 'Spearman'
+
+    # Function to format p-values in scientific notation
+    def format_pvalue(pvalue):
+        return f'{pvalue:.2e}'
+
+    # Compute Coefficient of Variation for each biomarker
+    def compute_cv(series):
+        return (series.std() / series.mean()) * 100
+
+    cv_x = compute_cv(df[biomarker_x])
+    cv_y = compute_cv(df[biomarker_y])
+
+    # Interpret CV values
+    def interpret_cv(cv):
+        if cv < 10:
+            return 'Low variability'
+        elif cv < 20:
+            return 'Moderate variability'
+        else:
+            return 'High variability'
+
+    # Simplify 'Result' text
+    def interpret_normality(pvalue):
+        return 'Normal (p>{})'.format(alpha) if pvalue > alpha else 'Not normal (p≤{})'.format(alpha)
+
+    def interpret_significance(pvalue):
+        return 'Significant (p<{})'.format(alpha) if pvalue < alpha else 'Not significant (p≥{})'.format(alpha)
+
+    # Create a summary table
+    table_data = {
+        'Test': [
+            f'Shapiro-Wilk {biomarker_x}',
+            f'Shapiro-Wilk {biomarker_y}',
+            test_name,
+            f'{corr_name} Correlation',
+            f'CV {biomarker_x}',
+            f'CV {biomarker_y}'
+        ],
+        'Statistic': [
+            f'{shapiro_x.statistic:.4f}',
+            f'{shapiro_y.statistic:.4f}',
+            f'{test_stat:.4f}',
+            f'{corr_coef:.4f}',
+            f'{cv_x:.2f}%',
+            f'{cv_y:.2f}%'
+        ],
+        'p-value': [
+            format_pvalue(shapiro_x.pvalue),
+            format_pvalue(shapiro_y.pvalue),
+            format_pvalue(test_pvalue),
+            format_pvalue(corr_pval),
+            'N/A',
+            'N/A'
+        ],
+        'Result': [
+            interpret_normality(shapiro_x.pvalue),
+            interpret_normality(shapiro_y.pvalue),
+            interpret_significance(test_pvalue),
+            interpret_significance(corr_pval),
+            interpret_cv(cv_x),
+            interpret_cv(cv_y)
+        ]
+    }
+    summary_table = pd.DataFrame(table_data)
+
+    # Create figure and subplots with adjusted layout
+    fig = plt.figure(constrained_layout=False, figsize=(15, 6))
+    gs_main = fig.add_gridspec(1, 3, width_ratios=[1.5, 1, 1.5])
+
+    # Scatter plot (Left)
+    ax0 = fig.add_subplot(gs_main[0, 0])
+    sns.scatterplot(data=df, x=biomarker_x, y=biomarker_y, hue=target_col, ax=ax0)
+    ax0.set_title(f'Correlation between {biomarker_x} and {biomarker_y}')
+
     # Plot the line y = x
-    plt.plot([df[biomarker_x].min(), df[biomarker_x].max()], 
-             [df[biomarker_x].min(), df[biomarker_x].max()], color='red')
-    
+    min_val = min(df[biomarker_x].min(), df[biomarker_y].min())
+    max_val = max(df[biomarker_x].max(), df[biomarker_y].max())
+    ax0.plot([min_val, max_val], [min_val, max_val], color='red', linestyle='--')
+
     # Perform linear regression
     slope, intercept, r_value, p_value, std_err = stats.linregress(df[biomarker_x], df[biomarker_y])
-    
+
     # Generate regression line
-    x = np.linspace(df[biomarker_x].min(), df[biomarker_x].max(), 100)
-    y = slope * x + intercept
-    plt.plot(x, y, color='black')
-    
-    # Plot the confidence interval
-    plt.fill_between(x, y + std_err, y - std_err, color='black', alpha=0.2)
-    
-    # Show the plot
+    x_vals = np.linspace(min_val, max_val, 100)
+    y_vals = slope * x_vals + intercept
+
+    # Calculate confidence intervals
+    n = len(df)
+    t = stats.t.ppf(1 - alpha / 2, n - 2)  # two-tailed t critical value
+    y_pred = intercept + slope * df[biomarker_x]
+    residuals = df[biomarker_y] - y_pred
+    s_err = np.sqrt(np.sum(residuals**2) / (n - 2))
+
+    mean_x = np.mean(df[biomarker_x])
+    se_line = s_err * np.sqrt(1 / n + (x_vals - mean_x)**2 / np.sum((df[biomarker_x] - mean_x)**2))
+    y_upper = y_vals + t * se_line
+    y_lower = y_vals - t * se_line
+
+    # Plot regression line and confidence interval
+    ax0.plot(x_vals, y_vals, color='black', label='Regression Line')
+    ax0.fill_between(x_vals, y_lower, y_upper, color='gray', alpha=0.2, label=f'{int((1 - alpha) * 100)}% Confidence Interval')
+
+    ax0.legend()
+
+    # Set aspect ratio to square
+    ax0.set_aspect('equal', adjustable='datalim')
+
+    # Distributions (Middle column)
+    gs_middle = gs_main[0, 1].subgridspec(2, 1, hspace=0.4)
+    ax1 = fig.add_subplot(gs_middle[0, 0])
+    sns.histplot(df[biomarker_x], kde=True, ax=ax1)
+    ax1.set_title(f'Distribution of {biomarker_x}')
+
+    ax2 = fig.add_subplot(gs_middle[1, 0])
+    sns.histplot(df[biomarker_y], kde=True, ax=ax2)
+    ax2.set_title(f'Distribution of {biomarker_y}')
+
+    # Table (Right)
+    ax3 = fig.add_subplot(gs_main[0, 2])
+    ax3.axis('off')
+    # Create the table
+    table = ax3.table(cellText=summary_table.values, colLabels=summary_table.columns, loc='center')
+
+    # Adjust table formatting
+    table.auto_set_font_size(False)
+    table.set_fontsize(8)
+    table.scale(1, 1.2)
+
+    # Adjust column widths
+    n_rows, n_cols = summary_table.shape
+    col_widths = [0.35, 0.15, 0.15, 0.35]  # Adjusted widths for columns
+    for i in range(n_rows+1):  # +1 for header row
+        for j in range(n_cols):
+            cell = table[i, j]
+            cell.set_width(col_widths[j])
+
+            # Adjust text wrapping if needed
+            if j == 3:  # 'Result' column index
+                cell.get_text().set_wrap(True)
+
+    # Adjust cell heights
+    for pos, cell in table.get_celld().items():
+        cell.set_height(0.1)
+
+    # Adjust table title position
+    ax3.set_title('Statistical Summary', fontweight='bold', pad=10)
+
+    # Increase spacing between subplots
+    plt.subplots_adjust(wspace=0.3)
+
+    plt.tight_layout()
     plt.show()
 
 def models_to_csv(models, path, append=False):
