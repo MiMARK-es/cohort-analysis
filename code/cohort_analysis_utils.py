@@ -488,7 +488,9 @@ def plot_biomarker_correlation(df, biomarker_x, biomarker_y, target_col='Patholo
     plt.tight_layout()
     plt.show()
 
-def plot_biomarkers_scatterplot(df, biomarker_x, biomarker_y, target_col='Pathology', label_x=None, label_y=None):
+def plot_biomarkers_scatterplot(
+    df, biomarker_x, biomarker_y, target_col='Pathology', label_x=None, label_y=None
+):
     import matplotlib.pyplot as plt
     import seaborn as sns
     from scipy import stats
@@ -501,7 +503,9 @@ def plot_biomarkers_scatterplot(df, biomarker_x, biomarker_y, target_col='Pathol
 
     # Clean data: remove NaN and infinite values
     df_clean = df[[biomarker_x, biomarker_y, target_col]].dropna()
-    df_clean = df_clean[np.isfinite(df_clean[biomarker_x]) & np.isfinite(df_clean[biomarker_y])]
+    df_clean = df_clean[
+        np.isfinite(df_clean[biomarker_x]) & np.isfinite(df_clean[biomarker_y])
+    ]
 
     # Map target_col values to 'Benign' and 'EC'
     mapping = {0: 'Benign', 1: 'EC'}
@@ -510,41 +514,68 @@ def plot_biomarkers_scatterplot(df, biomarker_x, biomarker_y, target_col='Pathol
     # Set significance level
     alpha = 0.05
 
-    # Create figure
-    plt.figure(figsize=(8, 8))
+    # Create figure and axes with explicit size and aspect ratio
+    fig, ax = plt.subplots(figsize=(8, 8))
 
-    # Scatter plot with hue based on mapped target labels
+    # Define custom colors for 'Benign' and 'EC'
+    custom_palette = {'Benign': '#f789c8', 'EC': '#f41c11'}
+
+    # Scatter plot with hue based on mapped target labels and custom colors
     sns.scatterplot(
         data=df_clean,
         x=biomarker_x,
         y=biomarker_y,
         hue='Target_Label',
-        palette={'Benign': 'blue', 'EC': 'orange'}
+        palette=custom_palette,
+        s=50,      # Marker size
+        alpha=0.8,  # Add transparency to markers
+        ax=ax
+        # Removed edgecolor parameter
     )
 
     # Label axes with anonymized labels
-    plt.xlabel(label_x)
-    plt.ylabel(label_y)
-    plt.title(f'Scatter Plot of {label_x} vs {label_y}')
+    ax.set_xlabel(label_x)
+    ax.set_ylabel(label_y)
+    ax.set_title(f'{label_x} vs {label_y}')
 
     # Calculate min and max values for axes limits and plotting lines
-    min_val = min(df_clean[biomarker_x].min(), df_clean[biomarker_y].min())
-    max_val = max(df_clean[biomarker_x].max(), df_clean[biomarker_y].max())
+    x_min, x_max = df_clean[biomarker_x].min(), df_clean[biomarker_x].max()
+    y_min, y_max = df_clean[biomarker_y].min(), df_clean[biomarker_y].max()
 
-    # Adjust min_val and max_val if they are equal
-    if min_val == max_val:
-        min_val -= 1
-        max_val += 1
+    # Add margins to the min and max values
+    x_range = x_max - x_min
+    y_range = y_max - y_min
 
-    # Set axes limits
-    plt.xlim(min_val, max_val)
-    plt.ylim(min_val, max_val)
+    margin = 0.05  # 5% margin
+    x_min_margin = x_min - margin * x_range if x_range != 0 else x_min - 1
+    x_max_margin = x_max + margin * x_range if x_range != 0 else x_max + 1
+    y_min_margin = y_min - margin * y_range if y_range != 0 else y_min - 1
+    y_max_margin = y_max + margin * y_range if y_range != 0 else y_max + 1
+
+    # Set axes limits with margins
+    ax.set_xlim(x_min_margin, x_max_margin)
+    ax.set_ylim(y_min_margin, y_max_margin)
+
+    # Ensure aspect ratio is square
+    ax.set_aspect('equal', adjustable='datalim')
 
     # Plot the line y = x
-    plt.plot([min_val, max_val], [min_val, max_val], color='red', linestyle='--', linewidth=2, label='y = x')
+    min_val = min(x_min_margin, y_min_margin)
+    max_val = max(x_max_margin, y_max_margin)
+    ax.plot(
+        [min_val, max_val],
+        [min_val, max_val],
+        color='#21759b',     # Changed from red to black
+        linestyle='--',
+        linewidth=2,
+        label='y = x',
+        alpha=0.5
+    )
 
     # Perform linear regression
-    slope, intercept, r_value, p_value, std_err = stats.linregress(df_clean[biomarker_x], df_clean[biomarker_y])
+    slope, intercept, r_value, p_value, std_err = stats.linregress(
+        df_clean[biomarker_x], df_clean[biomarker_y]
+    )
 
     # Generate regression line
     x_vals = np.linspace(min_val, max_val, 100)
@@ -555,25 +586,40 @@ def plot_biomarkers_scatterplot(df, biomarker_x, biomarker_y, target_col='Pathol
     t = stats.t.ppf(1 - alpha / 2, n - 2)  # two-tailed t critical value
     y_pred = intercept + slope * df_clean[biomarker_x]
     residuals = df_clean[biomarker_y] - y_pred
-    s_err = np.sqrt(np.sum(residuals**2) / (n - 2))
+    s_err = np.sqrt(np.sum(residuals ** 2) / (n - 2))
 
     mean_x = np.mean(df_clean[biomarker_x])
-    se_line = s_err * np.sqrt(1 / n + (x_vals - mean_x)**2 / np.sum((df_clean[biomarker_x] - mean_x)**2))
+    se_line = s_err * np.sqrt(
+        1 / n + (x_vals - mean_x) ** 2 / np.sum((df_clean[biomarker_x] - mean_x) ** 2)
+    )
     y_upper = y_vals + t * se_line
     y_lower = y_vals - t * se_line
 
     # Plot regression line and confidence interval
-    plt.plot(x_vals, y_vals, color='black', linestyle='-', linewidth=2, label='Regression Line')
-    plt.fill_between(x_vals, y_lower, y_upper, color='gray', alpha=0.2, label=f'{int((1 - alpha) * 100)}% Confidence Interval')
-
-    # Set aspect ratio to square
-    plt.gca().set_aspect('equal', adjustable='box')
+    ax.plot(
+        x_vals,
+        y_vals,
+        color='darkgray',
+        linestyle='-',
+        linewidth=2,
+        label='Regression Line'
+    )
+    ax.fill_between(
+        x_vals,
+        y_lower,
+        y_upper,
+        color='gray',
+        alpha=0.2,
+        label=f'{int((1 - alpha) * 100)}% Confidence Interval'
+    )
 
     # Show legend
-    plt.legend()
+    ax.legend()
+
+    # Adjust layout without changing figure size
+    plt.subplots_adjust(left=0.15, right=0.95, top=0.9, bottom=0.1)
 
     # Display the plot
-    plt.tight_layout()
     plt.show()
 
 
