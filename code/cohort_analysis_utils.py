@@ -488,6 +488,95 @@ def plot_biomarker_correlation(df, biomarker_x, biomarker_y, target_col='Patholo
     plt.tight_layout()
     plt.show()
 
+def plot_biomarkers_scatterplot(df, biomarker_x, biomarker_y, target_col='Pathology', label_x=None, label_y=None):
+    import matplotlib.pyplot as plt
+    import seaborn as sns
+    from scipy import stats
+    import numpy as np
+    import pandas as pd
+
+    # Use provided labels or default to biomarker names
+    label_x = label_x if label_x is not None else biomarker_x
+    label_y = label_y if label_y is not None else biomarker_y
+
+    # Clean data: remove NaN and infinite values
+    df_clean = df[[biomarker_x, biomarker_y, target_col]].dropna()
+    df_clean = df_clean[np.isfinite(df_clean[biomarker_x]) & np.isfinite(df_clean[biomarker_y])]
+
+    # Map target_col values to 'Benign' and 'EC'
+    mapping = {0: 'Benign', 1: 'EC'}
+    df_clean['Target_Label'] = df_clean[target_col].map(mapping)
+
+    # Set significance level
+    alpha = 0.05
+
+    # Create figure
+    plt.figure(figsize=(8, 8))
+
+    # Scatter plot with hue based on mapped target labels
+    sns.scatterplot(
+        data=df_clean,
+        x=biomarker_x,
+        y=biomarker_y,
+        hue='Target_Label',
+        palette={'Benign': 'blue', 'EC': 'orange'}
+    )
+
+    # Label axes with anonymized labels
+    plt.xlabel(label_x)
+    plt.ylabel(label_y)
+    plt.title(f'Scatter Plot of {label_x} vs {label_y}')
+
+    # Calculate min and max values for axes limits and plotting lines
+    min_val = min(df_clean[biomarker_x].min(), df_clean[biomarker_y].min())
+    max_val = max(df_clean[biomarker_x].max(), df_clean[biomarker_y].max())
+
+    # Adjust min_val and max_val if they are equal
+    if min_val == max_val:
+        min_val -= 1
+        max_val += 1
+
+    # Set axes limits
+    plt.xlim(min_val, max_val)
+    plt.ylim(min_val, max_val)
+
+    # Plot the line y = x
+    plt.plot([min_val, max_val], [min_val, max_val], color='red', linestyle='--', linewidth=2, label='y = x')
+
+    # Perform linear regression
+    slope, intercept, r_value, p_value, std_err = stats.linregress(df_clean[biomarker_x], df_clean[biomarker_y])
+
+    # Generate regression line
+    x_vals = np.linspace(min_val, max_val, 100)
+    y_vals = slope * x_vals + intercept
+
+    # Calculate confidence intervals
+    n = len(df_clean)
+    t = stats.t.ppf(1 - alpha / 2, n - 2)  # two-tailed t critical value
+    y_pred = intercept + slope * df_clean[biomarker_x]
+    residuals = df_clean[biomarker_y] - y_pred
+    s_err = np.sqrt(np.sum(residuals**2) / (n - 2))
+
+    mean_x = np.mean(df_clean[biomarker_x])
+    se_line = s_err * np.sqrt(1 / n + (x_vals - mean_x)**2 / np.sum((df_clean[biomarker_x] - mean_x)**2))
+    y_upper = y_vals + t * se_line
+    y_lower = y_vals - t * se_line
+
+    # Plot regression line and confidence interval
+    plt.plot(x_vals, y_vals, color='black', linestyle='-', linewidth=2, label='Regression Line')
+    plt.fill_between(x_vals, y_lower, y_upper, color='gray', alpha=0.2, label=f'{int((1 - alpha) * 100)}% Confidence Interval')
+
+    # Set aspect ratio to square
+    plt.gca().set_aspect('equal', adjustable='box')
+
+    # Show legend
+    plt.legend()
+
+    # Display the plot
+    plt.tight_layout()
+    plt.show()
+
+
 def models_to_csv(models, path, append=False):
     # ensure the path exists
     os.makedirs(os.path.dirname(path), exist_ok=True)
