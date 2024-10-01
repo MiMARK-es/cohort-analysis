@@ -42,7 +42,7 @@ def plot_heatmap_medians(df, bmk, group_col='Condition', value_col='Concentratio
 
     median_concentrations = df.groupby('Condition')['Concentration'].median().reset_index()
 
-    condition_order = ['Reference', '24h +PBS 4ºC', '24h -PBS 4ºC', '72h +PBS 4ºC', '72h -PBS 4ºC']
+    condition_order = ['Reference', '24h 4ºC +PBS', '24h 4ºC -PBS', '72h 4ºC +PBS', '72h 4ºC -PBS']
     median_concentrations['Condition'] = pd.Categorical(median_concentrations['Condition'], categories=condition_order, ordered=True)
     median_concentrations = median_concentrations.sort_values('Condition')
     
@@ -57,7 +57,7 @@ def plot_heatmap_medians(df, bmk, group_col='Condition', value_col='Concentratio
 def plot_raincloud(df, bmk, results_dir):
     plt.figure(figsize=(10, 6))
     pt.RainCloud(x='Condition', y='Concentration', data=df, palette="husl", bw=0.2, width_viol=0.6, ax=None, orient="h", alpha=0.65)
-    plt.ylabel(f'$log([{bmk}]/[Total Protein])$')
+    plt.xlabel(f'$log([{bmk}]/[Total Protein])$')
     plt.tight_layout()
     plt.savefig(os.path.join(results_dir, f'{bmk}_raincloud_plot.svg'), format='svg')
     plt.close()

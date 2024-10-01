@@ -75,9 +75,11 @@ def find_optimal_threshold(y_true, y_pred_prob):
     
     for threshold in thresholds:
         sensitivity, specificity, npv, ppv = compute_metrics(y_true, y_pred_prob, threshold)
-        if sensitivity > 0.95 and specificity > best_score:
+        #if sensitivity > 0.95 and specificity > best_score:
+        if sensitivity + specificity > best_score:
             
-            best_score = round(specificity, 5)
+            #best_score = round(specificity, 5)
+            best_score = sensitivity + specificity
             best_threshold = round(threshold, 5)
             best_sensitivity = round(sensitivity, 5)
             best_specificity = round(specificity, 5)
@@ -620,6 +622,40 @@ def plot_biomarkers_scatterplot(
     plt.subplots_adjust(left=0.15, right=0.95, top=0.9, bottom=0.1)
 
     # Display the plot
+    plt.show()
+
+def plot_aucs_with_confidence_intervals(models, method):
+    aucs = []
+    auc_cis = []
+    models_names = []
+    
+    # Extract the first key from models[method]
+    first_key = list(models[method].keys())[0]
+    
+    # Iterate over the models
+    for model in models[method][first_key]:
+        model_name = model[0]
+        model_data = models[method][first_key][model]
+        model_auc = float(model_data['auc'])
+        model_auc_ci = [float(ci) for ci in model_data['auc_ci']]
+        
+        aucs.append(model_auc)
+        auc_cis.append(model_auc_ci)
+        models_names.append(model_name)
+    
+    auc_cis = np.array(auc_cis)
+    
+    # Calculate the errors
+    lower_err = aucs - auc_cis[:, 0]
+    upper_err = auc_cis[:, 1] - aucs
+    yerr = [lower_err, upper_err]
+    
+    # Plot the bar chart with error bars
+    plt.figure(figsize=(10, 5))
+    plt.bar(models_names, aucs, yerr=yerr, capsize=5, align='center')
+    plt.xticks(rotation=90)
+    plt.ylabel('AUC')
+    plt.title(f'AUCs with Confidence Intervals for {method} Method')
     plt.show()
 
 
