@@ -18,6 +18,7 @@ Repository for cohort analyses code safekeeping.
 #### 60x60 __enlarged__ cohort
 
 - [AUCs calculation](<./notebooks/60x60_enlarged_aucs_analysis.ipynb>)
+- [MetaVars analysis](<./notebooks/60x60_enlarged_metavars_analysis.ipynb>)
 
 ### 20x20 cohort
 
