@@ -195,43 +195,46 @@ def compute_models( df,
                 print(f'Could not fit the model for biomarkers: {list(combo)}')
                 print(e)
                 continue
+            
+            try:
+                # compute the AUC
+                y_pred = model.predict(X)
+                auc = roc_auc_score(y, y_pred)
 
-            # compute the AUC
-            y_pred = model.predict(X)
-            auc = roc_auc_score(y, y_pred)
+                if auc < auc_threshold:
+                    continue
 
-            if auc < auc_threshold:
-                continue
+                # compute the auc confidence interval
+                if compute_auc_ci:
+                    n_bootstraps = 1000
+                    auc_values = np.zeros(n_bootstraps)
+                    for i in range(n_bootstraps):
+                        indices = np.random.choice(len(y_pred), len(y_pred), replace=True)
+                        auc_values[i] = roc_auc_score(y.values[indices], y_pred.values[indices])
+                    auc_ci = np.percentile(auc_values, [2.5, 97.5])
+                else:
+                    auc_ci = None
 
-            # compute the auc confidence interval
-            if compute_auc_ci:
-                n_bootstraps = 1000
-                auc_values = np.zeros(n_bootstraps)
-                for i in range(n_bootstraps):
-                    indices = np.random.choice(len(y_pred), len(y_pred), replace=True)
-                    auc_values[i] = roc_auc_score(y.values[indices], y_pred.values[indices])
-                auc_ci = np.percentile(auc_values, [2.5, 97.5])
-            else:
-                auc_ci = None
+                best_threshold, best_sensitivity, best_specificity, best_npv, best_ppv = find_optimal_threshold(y, y_pred)
 
-            best_threshold, best_sensitivity, best_specificity, best_npv, best_ppv = find_optimal_threshold(y, y_pred)
-
-            # save the model
-            models[combo] = {'model': model, 
-                             'coef': model.params,
-                             'df': df_copy, 
-                             'biomarkers': list(combo),
-                             'y_true': y,
-                             'y_pred': y_pred,
-                             'roc_values': roc_curve(y, y_pred),
-                             'auc': round(auc, 5), 
-                             'auc_ci': auc_ci,
-                             'sensitivity': best_sensitivity, 
-                             'specificity': best_specificity, 
-                             'npv': best_npv, 
-                             'ppv': best_ppv,
-                             'best_threshold': best_threshold
-                            }
+                # save the model
+                models[combo] = {'model': model, 
+                                'coef': model.params,
+                                'df': df_copy, 
+                                'biomarkers': list(combo),
+                                'y_true': y,
+                                'y_pred': y_pred,
+                                'roc_values': roc_curve(y, y_pred),
+                                'auc': round(auc, 5), 
+                                'auc_ci': auc_ci,
+                                'sensitivity': best_sensitivity, 
+                                'specificity': best_specificity, 
+                                'npv': best_npv, 
+                                'ppv': best_ppv,
+                                'best_threshold': best_threshold
+                                }
+            except Exception as e:
+                print(f'Could not compute the AUC for biomarkers: {list(combo)}')
 
     return models
 
@@ -624,7 +627,7 @@ def plot_biomarkers_scatterplot(
     # Display the plot
     plt.show()
 
-def plot_aucs_with_confidence_intervals(models, method):
+def plot_aucs_with_confidence_intervals(models, method, biomarkers=None):
     aucs = []
     auc_cis = []
     models_names = []
@@ -634,6 +637,8 @@ def plot_aucs_with_confidence_intervals(models, method):
     
     # Iterate over the models
     for model in models[method][first_key]:
+        if biomarkers is not None and model[0] not in biomarkers:
+            continue
         model_name = model[0]
         model_data = models[method][first_key][model]
         model_auc = float(model_data['auc'])

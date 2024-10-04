@@ -30,4 +30,14 @@ Repository for cohort analyses code safekeeping.
 - [AUCs ratios (a/b) calculation](<./notebooks/400_ratios_aucs_analysis.ipynb>)
 - [AUCs ratios (a/c + b/c) calculation](<./notebooks/400_double_ratios_aucs_analysis.ipynb>)
 
+### 38 cohort
 
+- [AUCs calculation](<./notebooks/38_aucs_analysis.ipynb>)
+
+### 107 cohort
+
+- [AUCs calculation](<./notebooks/107_aucs_analysis.ipynb>)
+
+## Mass spec cross-analyses
+
+- [Housekeeping analysis](<./notebooks/MS_housekeeping.ipynb>)
