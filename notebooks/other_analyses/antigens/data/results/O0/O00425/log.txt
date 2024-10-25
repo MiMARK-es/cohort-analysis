@@ -1,0 +1,4 @@
+[2024-10-22 15:21:45,383] Single-chain mode set, will predict PDBs as single chains
+[2024-10-22 15:21:45,384] Single PDB file input (O00425), extracting single chains to /tmp/tmpzp8iqhya
+[2024-10-22 15:21:45,449] Found 1 extracted single chains in /tmp/tmpzp8iqhya
+[2024-10-22 15:21:45,450] Pre-processing PDBs using ESM-IF1

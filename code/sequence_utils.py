@@ -135,7 +135,7 @@ def highlight_differences_in_alignment(alignment):
     
     return html_content
 
-def display_alignment_with_highlighting(alignment):
+def display_alignment_with_highlighting(alignment, save_to=None):
     """
     Display a multiple sequence alignment with highlighted differences in Jupyter.
     
@@ -143,5 +143,9 @@ def display_alignment_with_highlighting(alignment):
     - alignment: A MultipleSeqAlignment object to display.
     """
     html_content = highlight_differences_in_alignment(alignment)
-    display(HTML(html_content))
+    if save_to:
+        with open(save_to, "w") as f:
+            f.write(html_content)
+    else:
+        display(HTML(html_content))
 

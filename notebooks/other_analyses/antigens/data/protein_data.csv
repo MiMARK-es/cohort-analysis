@@ -1,0 +1,506 @@
+uniprot_accession,gene_name,protein_name,swiss_prot,origin,article_n,up_down_regulated,location,family,blood,uterine_aspirate,plasma_serum,saliva,urine,ovary,placenta,uterus,biomarker_application
+P07355,ANXA2,Annexin A2,ANXA2_HUMAN,Literature review,2,1,Plasma Membrane,other,1,0,1,0,0,1,1,1,"diagnosis,unspecified application"
+O00425,IGF2BP3,Insulin-like growth factor 2 mRNA-binding protein 3 /IMP3,IF2B3_HUMAN,Literature review,5,1,Cytoplasm,translation regulator,0,0,0,0,0,0,0,0,diagnosis
+O15392,BIRC5,survivin / Baculoviral IAP repeat-containing protein 5 ,BIRC5_HUMAN,Literature review,5,1,Cytoplasm,other,1,0,0,0,0,1,1,1,"diagnosis,disease progression,efficacy,prognosis,response to therapy"
+P00749,PLAU,Urokinase-type plasminogen activator / uPA,UROK_HUMAN,Literature review,6,1,Extracellular Space,peptidase,1,0,1,0,1,1,0,0,"disease progression,efficacy,prognosis,response to therapy"
+P02787,TF,transferrin,TRFE_HUMAN,Literature review,4,2,Extracellular Space,transporter,1,0,1,0,1,1,1,0,"diagnosis,efficacy,prognosis"
+P03372,ER (alpha),Estrogen receptor,ESR1_HUMAN,Literature review,6,1,Nucleus,ligand-dependent nuclear receptor,1,0,1,0,0,1,1,1,"diagnosis,disease progression,efficacy,prognosis,response to therapy"
+P04792,HSPB1,heat shock 27kDa protein 1,HSPB1_HUMAN,Literature review,4,-1,Cytoplasm,other,1,0,0,0,1,1,1,1,diagnosis
+P07339,CTSD,Cathepsin D,CATD_HUMAN,Literature review,4,-1,Cytoplasm,peptidase,1,0,1,0,1,1,1,1,"diagnosis,unspecified application"
+P08253,MMP2,"Matrix metalloproteinase-2",MMP2_HUMAN,Literature review,8,1,Extracellular Space,peptidase,1,0,1,0,1,1,1,1,"diagnosis,disease progression,efficacy,prognosis,response to therapy,unspecified application"
+P09603,M-CSF,Macrophage colony-stimulating factor 1,CSF1_HUMAN,Literature review,5,1,Extracellular Space,cytokine,1,0,1,0,1,1,1,1,"diagnosis,disease progression,efficacy,prognosis,unspecified application"
+P10415,Bcl2,Apoptosis regulator Bcl-2,BCL2_HUMAN,Literature review,7,2,Cytoplasm,transporter,1,0,0,0,0,1,0,1,"diagnosis,disease progression,efficacy,prognosis"
+P11166,Glut1,"Solute carrier family 2, facilitated glucose transporter member 1, Glucose transporter type 1 /// ",GTR1_HUMAN,Literature review,4,1,Plasma Membrane,transporter,1,0,0,0,0,1,1,1,"diagnosis,efficacy,prognosis"
+P14780,MMP9,metalloproteinases 9,MMP9_HUMAN,Literature review,6,2,Extracellular Space,peptidase,1,0,1,1,1,1,0,1,"diagnosis,disease progression,efficacy,prognosis,unspecified application"
+P15692,VEGF ,Vascular endothelial growth factor A ,VEGFA_HUMAN,Literature review,10,2,Extracellular Space,growth factor,1,0,1,0,0,1,1,1,"diagnosis,efficacy,prognosis,response to therapy,safety,unspecified application"
+P15941,MUC1 /CA 15-3 / EMA,Mucin-1 /cancer antigen 15.3 / epithelial membrane antigen,MUC1_HUMAN,Literature review,7,2,Plasma Membrane,transcription regulator,1,0,1,0,1,1,0,1,"diagnosis,disease progression,efficacy,prognosis,safety,unspecified application"
+P17813,ENG,Endoglin /CD105,EGLN_HUMAN,Literature review,4,1,Plasma Membrane,transmembrane receptor,1,0,1,0,1,1,1,1,"diagnosis,disease progression,efficacy,prognosis"
+P35354,COX 2,"Prostaglandin G/H synthase 2/ Cyclooxygenase-2",PGH2_HUMAN,Literature review,6,1,Cytoplasm,enzyme,1,0,1,0,0,1,1,1,"diagnosis,disease progression,efficacy,prognosis,unspecified application"
+P38936,P21 / CDKN1A,Cyclin-dependent kinase inhibitor 1,CDN1A_HUMAN,Literature review,4,-1,Nucleus,kinase,1,0,1,0,0,1,1,1,"diagnosis,efficacy,prognosis,response to therapy"
+P42771,P16/ CDKN2A /MTS1,"Cyclin-dependent kinase inhibitor 2A",CD2A1_HUMAN,Literature review,5,-1,Nucleus,transcription regulator,1,0,0,0,0,1,1,1,"diagnosis,disease progression,efficacy,prognosis,response to therapy,safety"
+P60484,PTEN,"Phosphatidylinositol 3,4,5-trisphosphate 3-phosphatase and dual-specificity protein phosphatase PTEN",PTEN_HUMAN,Literature review,10,-1,Cytoplasm,phosphatase,1,0,0,0,0,1,1,1,"diagnosis,disease progression,efficacy,prognosis,response to therapy"
+P61604,HSPE1,heat shock 10kDa protein 1 (chaperonin 10),CH10_HUMAN,Literature review,7,1,Cytoplasm,enzyme,0,0,0,0,1,1,1,1, 
+Q13938,CAPS,calcyphosine,CAYP1_HUMAN,Literature review,4,1,Cytoplasm,other,0,0,0,0,1,0,0,0, 
+Q14508,WFDC2 (HE4),WAP four-disulfide core domain 2 (human epididymis secretory protein 4 (HE4),WFDC2_HUMAN,Literature review,10,1,Extracellular Space,other,1,0,1,0,1,1,1,1,"diagnosis,unspecified application"
+P12830,CDH1,"Cadherin-1 / E-cadherin",CADH1_HUMAN,Literature review,6,-1,Plasma Membrane,other,1,0,1,0,1,1,1,1,"diagnosis,disease progression,efficacy,prognosis"
+P11802,CDK4,cyclin-dependent kinase 4,CDK4_HUMAN,IPA,4,1,Nucleus,kinase,1,0,0,0,0,1,1,1,"diagnosis,prognosis"
+P17661,DES,desmin,DESM_HUMAN,Literature review,2,1,Cytoplasm,other,1,0,1,0,0,1,1,1,diagnosis
+O14497,ARID1A,AT-rich interactive domain-containing protein 1A,ARI1A_HUMAN,Literature review,5,-1,Nucleus,transcription regulator,0,0,0,0,0,1,1,1, 
+Q07812,BAX,Apoptosis regulator BAX,BAX_HUMAN,Literature review,4,2,Cytoplasm,transporter,1,0,0,0,0,1,1,1,"disease progression,efficacy,prognosis,unspecified application"
+P04626,ERBB2 (HER2/neu),Receptor tyrosine-protein kinase erbB-2,ERBB2_HUMAN,Literature review,11,2,Plasma Membrane,kinase,1,0,1,0,0,0,0,0,"diagnosis,disease progression,efficacy,prognosis,response to therapy,safety"
+P04637,TP53 (p53),Cellular tumor antigen p53,P53_HUMAN,Literature review,12,1,Nucleus,transcription regulator,1,0,1,0,0,1,1,1,"diagnosis,disease progression,efficacy,prognosis,response to therapy,unspecified application"
+Q8WXI7,MUC16 (CA125),Mucin-16,MUC16_HUMAN,Literature review,11,1,unknown,other,1,0,1,0,0,0,0,0,"diagnosis,disease progression,efficacy,prognosis,safety,unspecified application"
+P46013,MKI-67,Antigen KI-67,KI67_HUMAN,Literature review,7,1,Nucleus,other,1,0,1,0,0,1,0,1,"diagnosis,disease progression,efficacy,prognosis,response to therapy,unspecified application"
+Q9Y251,HPSE,heparanase,HPSE_HUMAN,IPA,4,1,Plasma Membrane,enzyme,1,0,0,0,0,1,1,0,"disease progression,efficacy"
+P35221,CTNNA1,Catenin alpha-1,CTNA1_HUMAN,Literature review,,2,,,0,0,0,0,0,0,0,0,
+Q15118,PDK1,"[Pyruvate dehydrogenase [lipoamide]] kinase isozyme 1, mitochondrial",PDK1_HUMAN,Literature review,,2,,,0,0,0,0,0,0,0,0,
+P43405,SYK,Tyrosine-protein kinase SYK,KSYK_HUMAN,Literature review,,2,,,0,0,0,0,0,0,0,0,
+Q92878,RAD50,DNA repair protein RAD50,RAD50_HUMAN,Literature review,,2,,,0,0,0,0,0,0,0,0,
+O96017,pCHK2,Serine/threonine-protein kinase Chk2,CHK2_HUMAN,Literature review,,2,,,0,0,0,0,0,0,0,0,
+P24864,cyclin E1,G1/S-specific cyclin-E1,CCNE1_HUMAN,Literature review,,2,,,0,0,0,0,0,0,0,0,
+P06493,CDK1,Cyclin-dependent kinase 1,CDK1_HUMAN,Literature review,,2,,,0,0,0,0,0,0,0,0,
+P08243,ASNS,Asparagine synthetase [glutamine-hydrolyzing],ASNS_HUMAN,Literature review,,2,,,0,0,0,0,0,0,0,0,
+P15328,FOLR1,Folate receptor alpha,FOLR1_HUMAN,Literature review,2,1,Plasma Membrane,transporter,0,0,0,0,1,1,1,1,diagnosis
+P40692,MLH1,DNA mismatch repair protein Mlh1,MLH1_HUMAN,Literature review,2,-1,Nucleus,enzyme,1,0,0,0,0,0,0,1,"diagnosis,efficacy,prognosis,response to therapy"
+P14618,PKM,"pyruvate kinase, muscle (PKM2)",KPY1_HUMAN,Literature review,9,1,Cytoplasm,kinase,1,0,1,0,1,1,1,1,"diagnosis,disease progression,unspecified application"
+P07237,P4HB,"Protein disulfide-isomerase / prolyl 4-hydroxylase, beta polypeptide ",PDIA1_HUMAN,Literature review,2,1,Cytoplasm,enzyme,1,1,1,0,1,1,1,1, 
+P06401,PR,Progesterone receptor,PRGR_HUMAN,Literature review,7,1,Nucleus,ligand-dependent nuclear receptor,1,0,1,0,0,1,1,1,"diagnosis,efficacy,response to therapy"
+P19544,WT1,Wilms tumor 1,WT1_HUMAN,IPA,5,2,Nucleus,transcription regulator,0,0,0,0,0,1,1,1,"diagnosis,disease progression,prognosis"
+O14493,CLDN4,claudin-4,CLD4_HUMAN,Literature review,4,1,Plasma Membrane,transmembrane receptor,0,0,0,0,0,1,1,1,"diagnosis,efficacy,prognosis"
+P16035,TIMP-2,Metalloproteinase inhibitor 2,TIMP2_HUMAN,Literature review,4,2,Extracellular Space,other,1,0,1,0,1,1,1,1,"efficacy,prognosis,unspecified application"
+P35222,CTNNB1,Beta-catenin,CTNB1_HUMAN,Literature review,4,2,Nucleus,transcription regulator,1,0,0,0,0,1,1,1,"diagnosis,disease progression,efficacy,prognosis"
+P48023,FasL,Tumor necrosis factor ligand superfamily member 6,TNFL6_HUMAN,Literature review,2,2,Extracellular Space,cytokine,1,0,1,0,0,1,0,1,"diagnosis,efficacy,prognosis,safety"
+A2N4P8,IL-2R,IL2R protein,A2N4P8_HUMAN,Literature review,3,1,Plasma Membrane,transmembrane receptor,1,0,0,0,1,0,0,0,"efficacy,prognosis"
+O95997,PTTG1,Securin/Human pituitary tumor-transforming gene 1,PTTG1_HUMAN,Literature review,2,1,Nucleus,transcription regulator,0,0,0,0,0,1,1,1,prognosis
+P00533,EGFR,Epidermal growth factor receptor,EGFR_HUMAN,Literature review,3,2,Plasma Membrane,kinase,1,0,1,0,0,1,1,1,"diagnosis,disease progression,efficacy,prognosis,response to therapy,safety,unspecified application"
+P01106,MYC,Myc proto-oncogene protein,MYC_HUMAN,Literature review,3,1,Nucleus,transcription regulator,1,0,0,0,0,1,0,1,"diagnosis,efficacy,prognosis,response to therapy,unspecified application"
+P01236,PRL,prolactin,PRL_HUMAN,Literature review,3,1,Extracellular Space,cytokine,1,0,1,0,0,1,1,1,"diagnosis,efficacy,safety"
+P01241,GH,"Somatotropin / Growth hormone",SOMA_HUMAN,Literature review,2,1,Extracellular Space,growth factor,1,0,1,0,0,0,1,0,efficacy
+P02647,APOA1,apolipoprotein A-I,APOA1_HUMAN,Literature review,3,-1,Extracellular Space,transporter,1,0,1,0,1,0,1,0,"diagnosis,efficacy,safety,unspecified application"
+P02741,CRP,C-reactive protein ,CRP_HUMAN,Literature review,3,1,Extracellular Space,other,1,0,1,0,0,0,0,0,"diagnosis,disease progression,efficacy,prognosis,safety,unspecified application"
+P02766,TTR,Transthyretin,TTHY_HUMAN,Literature review,3,-1,Extracellular Space,transporter,1,0,1,0,1,1,1,0,"diagnosis,efficacy,prognosis,unspecified application"
+P02771,AFP,Alpha-fetoprotein,FETA_HUMAN,Literature review,3,-1,Extracellular Space,transporter,1,0,1,0,0,0,1,0,"diagnosis,efficacy,prognosis"
+P04083,ANXA1,annexin A1,ANXA1_HUMAN,Literature review,2,1,Plasma Membrane,other,1,0,1,0,1,1,1,1,"diagnosis,prognosis,unspecified application"
+P08254,MMP-3,Stromelysin-1,MMP3_HUMAN,Literature review,2,-1,Extracellular Space,peptidase,1,0,1,0,0,0,0,1,"diagnosis,efficacy"
+P08476,INHBA,Inhibin beta A chain,INHBA_HUMAN,Literature review,2,1,Extracellular Space,growth factor,1,0,1,0,0,1,1,0,diagnosis
+P0DJI8,SAA1,Serum amyloid A-1 protein,SAA1_HUMAN,Literature review,3,1,Extracellular Space,transporter,1,0,1,0,0,0,0,0,"diagnosis,unspecified application"
+P10451,SPP1,Osteopontin,OSTP_HUMAN,Literature review,3,1,Extracellular Space,cytokine,1,0,1,0,1,1,1,1,"diagnosis,disease progression,efficacy,response to therapy,unspecified application"
+P11021,GRP78,78 kDa glucose-regulated protein,GRP78_HUMAN,Literature review,2,1,Cytoplasm,enzyme,1,0,1,0,1,1,1,1,unspecified application
+P30040,ERp29,"Podría meter esta, para tener GRP78, PDI y ERp29--> indicativo del estatus del reticulo endomeplasmatico--> articulo triplex profiling of functionally distinct chaperones",ERP29_HUMAN,,2,2,,,0,0,0,0,0,0,0,0,
+P13647,KRT5,"Keratin, type II cytoskeletal 5",K2C5_HUMAN,Literature review,3,2,Cytoplasm,other,1,0,1,0,0,0,0,0,"diagnosis,efficacy,unspecified application"
+P16070,CD44,CD44 antigen,CD44_HUMAN,Literature review,3,-1,Plasma Membrane,enzyme,1,0,1,0,1,1,1,1,"diagnosis,disease progression,prognosis,response to therapy,unspecified application"
+P16949,STMN1,stathmin 1,STMN1_HUMAN,Literature review,3,1,Cytoplasm,other,1,0,0,0,0,0,0,0,efficacy
+P17931,LGALS3,galectin 3,LEG3_HUMAN,Literature review,2,2,Extracellular Space,other,1,0,1,0,1,1,1,1,"diagnosis,unspecified application"
+P17948,FLT1,Vascular endothelial growth factor receptor 1,VGFR1_HUMAN,Literature review,3,1,Plasma Membrane,kinase,1,0,1,0,0,1,1,1,"diagnosis,disease progression,efficacy,prognosis,response to therapy,safety"
+P28906,CD34,Hematopoietic progenitor cell antigen CD34,CD34_HUMAN,Literature review,2,2,Plasma Membrane,other,1,0,0,0,0,1,1,1,"efficacy,prognosis"
+P29317,EphA2,Ephrin type-A receptor 2,EPHA2_HUMAN,Literature review,3,1,Plasma Membrane,kinase,1,0,0,0,0,1,0,0,disease progression
+P29508,SERPINB3,"Serpin B3",SPB3_HUMAN,Literature review,4,1,Cytoplasm,other,1,0,1,0,1,0,0,0,"diagnosis,prognosis"
+P30086,PEBP1 /RKIP,phosphatidylethanolamine binding protein 1,PEBP1_HUMAN,Literature review,2,2,Cytoplasm,other,0,0,0,0,1,1,1,1,unspecified application
+P35638,CHOP,"DNA damage-inducible transcript 3 protein O",DDIT3_HUMAN,Literature review,2,1,Nucleus,transcription regulator,1,0,0,0,0,1,1,1, 
+P37275,ZEB1,Zinc finger E-box-binding homeobox 1,ZEB1_HUMAN,Literature review,,1,Nucleus,transcription regulator,0,0,0,0,0,1,1,1, 
+P42345,MTOR,Serine/threonine-protein kinase mTOR,MTOR_HUMAN,Literature review,3,1,Nucleus,kinase,1,0,1,0,0,1,1,1,"diagnosis,efficacy,prognosis"
+P43246,MSH2,DNA mismatch repair protein Msh2,MSH2_HUMAN,Literature review,2,-1,Nucleus,enzyme,1,0,1,0,0,0,0,0,"diagnosis,disease progression,efficacy,prognosis,response to therapy"
+Q01469,FABP5,"fatty acid binding protein 5 (psoriasis-associated), epidermal fatty acid-binding protein",FABP5_HUMAN,Literature review,5,1,Cytoplasm,transporter,1,0,0,0,1,1,1,1,disease progression
+Q15672,TWIST1,Twist-related protein 1,TWST1_HUMAN,Literature review,2,1,Nucleus,transcription regulator,0,0,0,0,0,1,0,1,efficacy
+Q15848,ADIPOQ,Adiponectin,ADIPO_HUMAN,Literature review,3,-1,Extracellular Space,other,1,0,1,0,0,1,1,1,"diagnosis,disease progression,efficacy,prognosis,response to therapy,safety,unspecified application"
+Q16665,HIF-1A,Hypoxia-inducible factor 1-alpha,HIF1A_HUMAN,Literature review,3,1,Nucleus,transcription regulator,1,0,0,0,0,1,1,1,"diagnosis,efficacy,prognosis,response to therapy"
+P21802,FGFR2,fibroblast growth factor receptor 2,FGFR2_HUMAN,IPA,,2,Plasma Membrane,kinase,1,0,0,0,1,1,1,1,"diagnosis,prognosis,response to therapy"
+Q01995,TAGLN,transgelin,TAGL_HUMAN,Literature review,,-1,Cytoplasm,other,0,0,0,0,1,1,1,1,diagnosis
+P46527,CDKN1B / p27 /Kip1,Cyclin-dependent kinase inhibitor 1B ,CDN1B_HUMAN,Literature review,,-1,Nucleus,kinase,1,0,0,0,0,1,1,1,"diagnosis,disease progression,efficacy,prognosis,response to therapy"
+P14635,CCNB1,cyclin B1,CCNB1_HUMAN,Literature review,3,2,Cytoplasm,kinase,1,0,0,0,0,1,0,0,"diagnosis,disease progression,efficacy,prognosis"
+P31749,AKT1 (PHOSPHORILATED!),RAC-alpha serine/threonine-protein kinase / Protein kinase B,AKT1_HUMAN,Literature review,2,1,Cytoplasm,kinase,1,0,0,0,0,1,1,1,"diagnosis,efficacy,response to therapy"
+P40763,pSTAT3,Signal transducer and activator of transcription 3,STAT3_HUMAN,Literature review,2,1,Nucleus,transcription regulator,1,1,1,0,0,1,1,1,"diagnosis,efficacy,prognosis"
+P01833,PIGR,polymeric immunoglobulin receptor,PIGR_HUMAN,Literature review,,1,Plasma Membrane,transporter,1,0,1,0,1,1,0,1,unspecified application
+Q969H0,FBXW7,F-box/WD repeat-containing protein 7,FBXW7_HUMAN,Literature review,2,2,Nucleus,transcription regulator,0,0,0,0,0,1,1,1,unspecified application
+P30153,PPP2R1A,Serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A alpha isoform,2AAA_HUMAN,,,2,,,0,0,0,0,0,0,0,0,
+Q07864,POLE,DNA polymerase epsilon catalytic subunit A,DPOE1_HUMAN,Literature review,,2,,,0,0,0,0,0,0,0,0,
+P27986,PIK3R1,Phosphatidylinositol 3-kinase regulatory subunit alpha,P85A_HUMAN,Literature review,,2,,,0,0,0,0,0,0,0,0,
+P35268,RPL22,60S ribosomal protein L22,RL22_HUMAN,Literature review,,2,,,0,0,0,0,0,0,0,0,
+Q14865,ARID5B,AT-rich interactive domain-containing protein 5B,ARI5B_HUMAN,Literature review,,2,,,0,0,0,0,0,0,0,0,
+P09237,MMP-7,Matrilysin,MMP7_HUMAN,Literature review,2,1,Extracellular Space,peptidase,1,0,0,0,1,1,1,1,"diagnosis,efficacy,prognosis"
+P21583,SCF,Kit ligand / stem cell factor,SCF_HUMAN,Literature review,3,1,Extracellular Space,growth factor,1,0,1,0,0,1,1,1,"diagnosis,efficacy,unspecified application"
+P11388,TOP2A,topoisomerase (DNA) II alpha 170kDa,TOP2A_HUMAN,IPA,2,1,Nucleus,enzyme,1,0,0,0,0,1,0,1,"diagnosis,efficacy,response to therapy"
+P60174,TPI1,triosephosphate isomerase 1,TPIS_HUMAN,Literature review,2,1,Cytoplasm,enzyme,1,0,1,0,1,1,1,1,"diagnosis,unspecified application"
+P05109,S100A8,S100 calcium binding protein A8. calgranulin A ,S10A8_HUMAN,Literature review,3,1,Cytoplasm,other,1,0,1,1,1,1,1,0,"diagnosis,efficacy,response to therapy,unspecified application"
+Q13635,PTCH1,Protein patched homolog 1,PTC1_HUMAN,Literature review,2,-1,Plasma Membrane,transmembrane receptor,1,0,1,0,0,1,0,0,efficacy
+Q15465,SHH,Sonic hedgehog protein,SHH_HUMAN,Literature review,2,-1,Extracellular Space,peptidase,1,0,0,0,0,1,1,1,"diagnosis,efficacy,response to therapy,unspecified application"
+Q99835,SMO,Smoothened homolog,SMO_HUMAN,Literature review,2,-1,Plasma Membrane,G-protein coupled receptor,1,0,0,0,1,1,0,0,response to therapy
+P02461,COL3A1,"collagen, type III, alpha 1",CO3A1_HUMAN,IPA,2,2,Extracellular Space,other,1,0,1,0,1,1,1,1,"diagnosis,efficacy,prognosis"
+P01233,CGB,Choriogonadotropin subunit beta/ Chorionic gonadotrophin chain beta,CGHB_HUMAN,Literature review,3,1,Extracellular Space,other,0,0,0,0,0,0,1,0,prognosis
+O75390,CS,"Citrate synthase, mitochondrial",CISY_HUMAN,Literature review,2,2,Cytoplasm,enzyme,0,0,0,0,1,1,1,1, 
+P05787,KRT8,"Keratin, type II cytoskeletal 8",K2C8_HUMAN,Literature review,2,1,Cytoplasm,other,1,0,1,0,0,1,1,1,prognosis
+P09493,TPM1,human trypomyosin fibroblast isoform TM3,TPM1_HUMAN,Literature review,2,2,,,0,0,0,0,0,0,0,0,
+P22626,HNRNPA2B1,heterogenous nuclear ribonucleoprotein A2/B1,ROA2_HUMAN,Literature review,2,1,Nucleus,other,1,0,0,0,0,1,1,1, 
+O00559,RCAS1 / EBAG9,Receptor-binding cancer antigen expressed on SiSo cells,RCAS1_HUMAN,Literature review,3,1,Cytoplasm,other,1,0,0,0,1,0,0,0, 
+O76070,SNCG,Gamma-synuclein,SYUG_HUMAN,Literature review,3,2,Cytoplasm,other,0,0,0,0,0,1,1,1,unspecified application
+P01033,TIMP-1,Metalloproteinase inhibitor 1,TIMP1_HUMAN,Literature review,3,2,Extracellular Space,other,1,0,1,0,1,1,0,1,"diagnosis,disease progression,efficacy,prognosis,unspecified application"
+P02538,KRT6A,"Keratin, type II cytoskeletal 6A",K2C6A_HUMAN,Literature review,2,-1,Plasma Membrane,other,0,0,0,0,0,0,1,0,diagnosis
+P04259,KRT6B,"Keratin, type II cytoskeletal 6B",K2C6B_HUMAN,Literature review,2,-1,Cytoplasm,other,1,0,1,0,0,0,0,0,diagnosis
+P05111,INHA,Inhibin alpha chain,INHA_HUMAN,Literature review,2,1,Extracellular Space,growth factor,1,0,1,0,0,1,0,0,efficacy
+P05121,SERPINE1,plasminogen activator inhibitor type 1 (PAI-1),PAI1_HUMAN,Literature review,2,-1,Extracellular Space,other,1,0,1,0,0,1,1,1,"diagnosis,disease progression,efficacy,prognosis,response to therapy,safety"
+P09211,GSTP1,Glutathione S-transferase P,GSTP1_HUMAN,Literature review,2,1,Cytoplasm,enzyme,1,0,1,0,1,0,0,0,"diagnosis,efficacy,prognosis,response to therapy,safety,unspecified application"
+P14373,TRIM27 (RFP),Zinc finger protein RFP / ret finger protein,TRI27_HUMAN,Literature review,2,1,Nucleus,transcription regulator,0,0,0,0,0,0,0,0, 
+P19440,GGT1,gamma-glutamyltransferase 1,GGT1_HUMAN,Literature review,2,2,Plasma Membrane,enzyme,1,0,1,0,1,0,1,0,"diagnosis,efficacy,safety,unspecified application"
+P22223,CDH3,Cadherin-3 /P-cadherin,CADH3_HUMAN,Literature review,2,1,Plasma Membrane,other,1,0,1,0,1,1,1,1,"diagnosis,efficacy,prognosis"
+Q9H3D4,TP63,p63,P63_HUMAN,Literature review,2,-1,Nucleus,transcription regulator,1,0,0,0,0,1,1,1,"diagnosis,efficacy,prognosis,unspecified application"
+P01009,SERPINA1,"serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1",A1AT_HUMAN,Literature review,6,2,Extracellular Space,other,1,0,1,0,1,0,0,0,"diagnosis,disease progression,safety,unspecified application"
+P62937,PPIA,peptidylprolyl isomerase A (cyclophilin A),PPIA_HUMAN,Literature review,5,1,Cytoplasm,enzyme,1,1,0,0,1,1,1,1, 
+P42336,PIK3CA,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform",PK3CA_HUMAN,Literature review,4,2,Cytoplasm,kinase,1,0,1,0,0,1,1,1,"efficacy,prognosis,response to therapy"
+O54908,DKK1,Dickkopf-related protein 1,DKK1_MOUSE,Literature review,,2,,,0,0,0,0,0,0,0,0,
+P00441,SOD1,"superoxide dismutase 1, soluble",SODC_HUMAN,Literature review,,2,Cytoplasm,enzyme,1,0,1,0,1,1,1,1,unspecified application
+P01137,TGFB1 ,Transforming growth factor beta-1,TGFB1_HUMAN,Literature review,2,-1,Extracellular Space,growth factor,1,0,1,1,0,1,1,1,"diagnosis,disease progression,efficacy,prognosis,safety,unspecified application"
+P05019,IGF1,Insulin-like growth factor I,IGF1_HUMAN,Literature review,2,-1,Extracellular Space,growth factor,1,0,1,0,1,1,1,1,"diagnosis,disease progression,efficacy,prognosis,response to therapy,safety"
+P07333,FMS / CSF1R,Macrophage colony-stimulating factor 1 receptor,CSF1R_HUMAN,Literature review,2,1,Plasma Membrane,kinase,1,0,1,0,1,1,1,1,prognosis
+P07858,CTSB,cathepsin B,CATB_HUMAN,Literature review,3,1,Cytoplasm,peptidase,1,0,1,0,1,1,1,1, 
+P08670,VIM,Vimentin,VIME_HUMAN,Literature review,3,2,Cytoplasm,other,1,0,1,0,1,1,1,1,"diagnosis,efficacy,prognosis"
+P09038,FGF2,Fibroblast growth factor 2,FGF2_HUMAN,Literature review,2,1,Extracellular Space,growth factor,1,0,1,0,0,1,1,1,"diagnosis,disease progression,efficacy,prognosis"
+P0C0L4,C4A,complement component 4A,CO4A_HUMAN,Literature review,2,1,Extracellular Space,other,1,0,1,0,1,0,0,0,efficacy
+P24385,CCND1,G1/S-specific cyclin-D1,CCND1_HUMAN,Literature review,2,1,Nucleus,other,1,0,0,0,1,1,0,1,"diagnosis,efficacy,prognosis,response to therapy,unspecified application"
+P35968,KDR,Vascular endothelial growth factor receptor 2,VGFR2_HUMAN,Literature review,2,1,Plasma Membrane,kinase,1,0,0,0,0,1,1,1,"diagnosis,disease progression,efficacy,prognosis,response to therapy,safety"
+P42574,CASP3,caspase-3,CASP3_HUMAN,Literature review,2,1,Cytoplasm,peptidase,1,0,0,0,0,1,1,1,"diagnosis,disease progression,efficacy,prognosis,unspecified application"
+P46531,Notch 1,Neurogenic locus notch homolog protein 1,NOTC1_HUMAN,Literature review,2,1,Plasma Membrane,transcription regulator,1,0,0,0,1,1,1,1,"diagnosis,efficacy"
+P54760,EphB4,Ephrin type-B receptor 4,EPHB4_HUMAN,Literature review,2,1,Plasma Membrane,kinase,1,0,1,0,1,0,1,0, 
+Q02962,PAX2,Paired box protein Pax-2,PAX2_HUMAN,Literature review,3,-1,Nucleus,transcription regulator,0,0,0,0,0,0,0,1,diagnosis
+Q14624,ITIH4 (IHRP),Inter-alpha-trypsin inhibitor heavy chain H4,ITIH4_HUMAN,Literature review,3,1,Extracellular Space,other,1,0,1,0,1,0,0,0,diagnosis
+Q16658,FSCN1,Fascin,FSCN1_HUMAN,Literature review,2,1,Cytoplasm,other,1,0,0,0,0,0,0,0,unspecified application
+Q99572,P2RX7,P2X purinoceptor 7,P2RX7_HUMAN,Literature review,2,-1,Plasma Membrane,ion channel,1,0,0,0,0,1,0,0,diagnosis
+Q9UBP4,Dkk3,Dickkopf-related protein 3,DKK3_HUMAN,Literature review,2,2,Extracellular Space,cytokine,0,0,0,0,0,1,1,1, 
+P52926,HMGA2,high mobility group AT-hook 2,HMGA2_HUMAN,IPA,2,1,Nucleus,enzyme,0,0,0,0,0,1,1,1,prognosis
+Q13753,LAMC2,"laminin, gamma 2",LAMC2_HUMAN,IPA,2,2,Extracellular Space,other,0,0,0,0,0,1,1,1,diagnosis
+O00755,WNT7A,Wnt7,WNT7A_HUMAN,Literature review,1,1,Extracellular Space,cytokine,0,0,0,0,0,0,0,1, 
+O43597,SPRY2,Protein sprouty homolog 2,SPY2_HUMAN,Literature review,1,-1,Plasma Membrane,other,0,0,0,0,0,1,1,1, 
+O96028,MMSET,multiple myeloma SET,,Literature review,1,1,Nucleus,enzyme,0,0,0,0,0,1,0,1, 
+P01135,TGFA,Protransforming growth factor alpha,TGFA_HUMAN,Literature review,1,1,Extracellular Space,growth factor,1,0,0,1,0,1,1,1,"efficacy,response to therapy"
+P05164,MPO,Myeloperoxidase,PERM_HUMAN,Literature review,1,-1,Cytoplasm,enzyme,1,0,1,0,1,0,0,0,"diagnosis,disease progression,efficacy,unspecified application"
+P05231,IL-6,Interleukin-6,IL6_HUMAN,Literature review,1,1,Extracellular Space,cytokine,1,0,1,0,0,1,1,1,"diagnosis,disease progression,efficacy,prognosis,response to therapy,safety,unspecified application"
+P05362,ICAM1,Intercellular adhesion molecule 1,ICAM1_HUMAN,Literature review,1,-1,Plasma Membrane,transmembrane receptor,1,0,1,0,1,1,1,1,"diagnosis,disease progression,efficacy,prognosis,unspecified application"
+Q06830,PRDX1,Peroxiredoxin-1,PRDX1_HUMAN,Literature review,1,1,,,0,0,0,0,0,0,0,0,
+P08833,IGFBP-I,Insulin-like growth factor-binding protein 1,IBP1_HUMAN,Literature review,1,1,Extracellular Space,other,1,0,1,0,0,1,1,1,"diagnosis,efficacy"
+P10147,CCL3 (MIP1A),C-C motif chemokine 3,CCL3_HUMAN,Literature review,1,1,Extracellular Space,cytokine,1,0,1,0,0,0,0,1,"diagnosis,efficacy,prognosis"
+P13236,CCL4 (MIP1B),C-C motif chemokine 4,CCL4_HUMAN,Literature review,1,1,Extracellular Space,cytokine,1,0,1,0,0,0,0,1,"diagnosis,efficacy,prognosis,unspecified application"
+P13501,CCL5,"C-C motif chemokine 5",CCL5_HUMAN,Literature review,1,2,Extracellular Space,cytokine,1,0,1,0,0,1,1,1,"diagnosis,efficacy,unspecified application"
+P16581,SELE,E-selectin,LYAM2_HUMAN,Literature review,1,2,Plasma Membrane,transmembrane receptor,1,0,1,0,0,0,1,0,"diagnosis,disease progression,efficacy,unspecified application"
+P19320,VCAM1,Vascular cell adhesion protein 1 / sVCAM-1,VCAM1_HUMAN,Literature review,1,-1,Plasma Membrane,transmembrane receptor,1,0,1,0,1,1,0,1,"diagnosis,disease progression,efficacy,prognosis,unspecified application"
+P19438,TNFRSF1A (TNFR-I),Tumor necrosis factor receptor superfamily member 1A,TNR1A_HUMAN,Literature review,1,1,Plasma Membrane,transmembrane receptor,1,0,1,0,1,1,1,1,"efficacy,prognosis,safety,unspecified application"
+P21741,MDK,midkine / MK,MK_HUMAN,Literature review,1,1,Extracellular Space,growth factor,1,0,1,0,0,1,1,1,diagnosis
+P22894,MMP-8,Neutrophil collagenase,MMP8_HUMAN,Literature review,1,-1,Extracellular Space,peptidase,1,0,1,0,0,0,0,0,efficacy
+P29965,CD40LG (CD40L),CD40 ligand,CD40L_HUMAN,Literature review,1,-1,Extracellular Space,cytokine,1,0,1,0,0,0,0,0,"diagnosis,efficacy,safety,unspecified application"
+P33993,MCM7,DNA replication licensing factor MCM7,MCM7_HUMAN,Literature review,1,1,Nucleus,enzyme,1,0,1,0,0,1,0,1,"diagnosis,disease progression,prognosis"
+P43490,NAMPT,Visfatin,NAMPT_HUMAN,Literature review,1,1,Extracellular Space,cytokine,1,0,0,0,0,1,1,1,"diagnosis,disease progression,prognosis"
+P49789,FHIT,Bis(5'-adenosyl)-triphosphatase// Fragile histidine triad protein,FHIT_HUMAN,Literature review,1,-1,Cytoplasm,enzyme,1,0,0,0,0,0,0,0,efficacy
+P51671,CCL11,Eotaxin,CCL11_HUMAN,Literature review,1,-1,Extracellular Space,cytokine,1,0,0,0,0,1,0,1,unspecified application
+P80188,LCN2,Neutrophil gelatinase-associated lipocalin - Lipocalin2,NGAL_HUMAN,Literature review,1,1,Extracellular Space,transporter,1,0,1,0,1,1,1,1,"diagnosis,efficacy,unspecified application"
+Q04743,EMX2,Homeobox protein EMX2,EMX2_HUMAN,Literature review,1,-1,Nucleus,transcription regulator,0,0,0,0,0,1,1,1, 
+Q13421,MSLN,Mesothelin,MSLN_HUMAN,Literature review,1,-1,Extracellular Space,other,0,0,0,0,1,1,1,1,"diagnosis,prognosis"
+Q16629,SRSF7,serine/arginine-rich splicing factor 7,SRSF7_HUMAN,Literature review,1,-1,Nucleus,other,0,0,0,0,0,1,1,1, 
+Q29983,MICA,MHC class I polypeptide-related sequence A,MICA_HUMAN,Literature review,1,1,Plasma Membrane,other,1,0,1,0,0,0,0,0,safety
+Q99988,GDF-15,Growth/differentiation factor 15,GDF15_HUMAN,Literature review,1,1,Extracellular Space,growth factor,1,0,1,0,1,0,1,1,diagnosis
+Q9BZM4,ULBP3,NKG2D ligand 3,N2DL3_HUMAN,Literature review,,-1,Plasma Membrane,transmembrane receptor,0,0,0,0,0,0,0,0, 
+Q9BZM6,ULBP1,NKG2D ligand 1,N2DL1_HUMAN,Literature review,,-1,Plasma Membrane,transmembrane receptor,1,0,1,0,0,0,0,0, 
+Q9Y6M1,IGF2BP2,Insulin-like growth factor 2 mRNA-binding protein 2 / IMP2,IF2B2_HUMAN,Literature review,,2,Cytoplasm,translation regulator,0,0,0,0,0,0,1,0, 
+Q15831,STK11 /LKB1,serine/threonine kinase 11,STK11_HUMAN,IPA,,-1,Cytoplasm,kinase,1,0,0,0,0,1,1,1,diagnosis
+P06396,GSN,Gelsolin,GELS_HUMAN,Literature review,,2,Extracellular Space,other,1,0,1,0,1,1,1,1,"disease progression,efficacy"
+P06733,ENO1,Alpha-enolase,ENOA_HUMAN,Literature review,,2,Cytoplasm,enzyme,1,0,1,0,1,1,0,0,diagnosis
+P07951,TPM2,Tropomyosin beta chain,TPM2_HUMAN,Literature review,,2,Cytoplasm,other,1,0,1,0,0,1,1,1,diagnosis
+P12109,COL6A1,Collagen alpha-1(VI) chain,CO6A1_HUMAN,Literature review,,2,Extracellular Space,other,0,0,0,0,1,1,1,1, 
+P21980,TGM2,Protein-glutamine gamma-glutamyltransferase 2,TGM2_HUMAN,Literature review,,2,Cytoplasm,enzyme,1,0,0,0,0,1,1,1, 
+P24844,MYL9,Myosin regulatory light polypeptide 9,MYL9_HUMAN,Literature review,,2,Cytoplasm,other,0,0,0,0,0,1,1,1, 
+P27338,MAOB,Amine oxidase [flavin-containing] B,AOFB_HUMAN,Literature review,,2,Cytoplasm,enzyme,1,0,0,0,0,1,1,1, 
+P51911,CNN1,Calponin-1,CNN1_HUMAN,Literature review,,2,Cytoplasm,other,0,0,0,0,0,0,0,1, 
+P62736,ACTA2,"Actin, aortic smooth muscle (alpha actin)",ACTA_HUMAN,Literature review,,2,Cytoplasm,other,1,0,0,0,0,1,1,1, 
+P63261,ACTG1,"Actin, cytoplasmic 2 (Gamma-actin)",ACTG_HUMAN,Literature review,,2,Cytoplasm,other,1,0,0,0,1,1,1,1,unspecified application
+Q15124,PGM5,Phosphoglucomutase-like protein 5,PGM5_HUMAN,Literature review,,2,Cytoplasm,enzyme,1,0,1,0,0,1,0,1, 
+Q5TCI8,LMNA,"Lamin A/C, prelaminin A/C",Q5TCI8_HUMAN,Literature review,,2,Nucleus,other,1,0,1,0,1,1,1,1, 
+Q93052,LPP,Lipoma-preferred partner,LPP_HUMAN,Literature review,,2,Nucleus,other,0,0,0,0,0,1,1,1, 
+P50225,SULT1A1,"sulfotransferase family, cytosolic, 1A, phenol-preferring, member 1",ST1A1_HUMAN,IPA,5,2,Cytoplasm,enzyme,0,0,0,0,0,0,0,0,diagnosis
+Q92731,ESR2,estrogen receptor 2 (ER beta),ESR2_HUMAN,IPA,,2,Nucleus,ligand-dependent nuclear receptor,1,0,0,0,0,1,0,1,"diagnosis,efficacy,prognosis,response to therapy"
+O43683,BUB1,BUB1 mitotic checkpoint serine/threonine kinase,BUB1_HUMAN,IPA,,2,Nucleus,kinase,1,0,1,0,0,1,0,1,diagnosis
+Q16851,UGP2,UTP--glucose-1-phosphate uridylyltransferase,UGPA_HUMAN,Literature review,2,2,Cytoplasm,enzyme,1,0,1,0,0,1,1,1, 
+P41161,ETV5,ETS translocation variant 5,ETV5_HUMAN,Literature review,,1,Nucleus,transcription regulator,1,0,0,0,0,1,0,0, 
+Q04609,PSMA,"Glutamate carboxypeptidase 2",FOLH1_HUMAN,Literature review,,2,Plasma Membrane,peptidase,1,0,1,0,1,0,0,0,"diagnosis,prognosis"
+Q16512,PKN1,Serine/threonine-protein kinase N1,PKN1_HUMAN,Literature review,,2,Cytoplasm,kinase,1,0,1,0,0,1,1,0, 
+Q13043,MST1,Serine/threonine-protein kinase 4,STK4_HUMAN,Literature review,1,2,Cytoplasm,kinase,1,0,0,0,0,1,1,1, 
+Q92597,NDRG1,Protein NDRG1,NDRG1_HUMAN,Literature review,1,1,Nucleus,kinase,0,0,0,0,0,1,1,1,prognosis
+O15120,AGPAT2,1-acylglycerol-3-phosphate O-acyltransferase 2,PLCB_HUMAN,IPA,,1,Cytoplasm,enzyme,0,0,0,0,0,1,1,1,prognosis
+O15551,CLDN3,claudin-3,CLD3_HUMAN,Literature review,4,1,Plasma Membrane,transmembrane receptor,0,0,0,0,0,1,1,1,"diagnosis,unspecified application"
+P21810,BGN,biglycan,PGS1_HUMAN,Literature review,1,2,,,0,0,0,0,0,0,0,0,
+P06731,CEACAM5 (CEA),Carcinoembryonic antigen-related cell adhesion molecule 5,CEAM5_HUMAN,Literature review,1,2,Plasma Membrane,other,1,0,1,0,1,0,0,0,"diagnosis,disease progression"
+P26447,S100A4,S100 calcium binding protein A4,S10A4_HUMAN,IPA,1,1,Cytoplasm,other,1,0,1,0,1,1,0,1,disease progression
+Q13309,SKP2,S-phase kinase-associated protein 2,SKP2_HUMAN,Literature review,1,1,Nucleus,other,1,0,0,0,0,1,0,0,"diagnosis,prognosis"
+P05412,JUN (proto oncogen: c-Jun),Transcription factor AP-1,JUN_HUMAN,Literature review,2,2,Nucleus,transcription regulator,1,0,0,0,0,1,0,1,"diagnosis,prognosis"
+P52799,EFNB2,Ephrin-B2,EFNB2_HUMAN,Literature review,2,1,Plasma Membrane,other,1,0,0,0,0,1,1,1,diagnosis
+P09529,INHBB,Inhibin beta B chain,INHBB_HUMAN,Literature review,1,-1,Extracellular Space,growth factor,1,0,1,0,1,1,1,1, 
+P09758,TACSTD2,Tumor-associated calcium signal transducer 2 (Trop2),TACD2_HUMAN,Literature review,1,1,Plasma Membrane,other,0,0,0,0,1,1,0,1, 
+P11511,CYP19A1,Cytochrome P450 19A1 / aromatase,CP19A_HUMAN,Literature review,1,2,Cytoplasm,enzyme,1,0,0,0,0,1,1,1,"diagnosis,efficacy,unspecified application"
+P19971,TYMP,Thymidine phosphorylase,TYPH_HUMAN,Literature review,,2,Extracellular Space,growth factor,1,0,0,0,1,1,1,1,"diagnosis,efficacy,prognosis,response to therapy"
+P31947,SFN,14-3-3 protein sigma,1433S_HUMAN,Literature review,1,-1,Cytoplasm,other,1,0,1,0,1,0,0,0,prognosis
+P48509,CD 151,CD151 antigen,CD151_HUMAN,Literature review,1,2,Plasma Membrane,other,1,0,0,0,0,1,1,1, 
+Q14457,BECN1,beclin 1,BECN1_HUMAN,Literature review,1,1,Cytoplasm,other,1,0,1,0,0,0,0,0,efficacy
+O95994,AGR2,anterior gradient 2 homolog (Xenopus laevis),AGR2_HUMAN,Literature review,2,1,Extracellular Space,other,0,0,0,0,0,1,0,1,diagnosis
+P00338,LDHA,lactate dehydrogenase A,LDHA_HUMAN,Literature review,3,1,Cytoplasm,enzyme,1,0,1,0,1,1,1,1,"diagnosis,disease progression,efficacy,prognosis,unspecified application"
+P01023,A2M,alpha-2-macroglobulin/ LRP mRNA,A2MG_HUMAN,Literature review,2,-1,Extracellular Space,transporter,1,0,1,0,1,1,1,1, 
+P01375,TNF,Tumor necrosis factor,TNFA_HUMAN,Literature review,2,2,Extracellular Space,cytokine,1,0,1,1,0,1,1,1,"diagnosis,disease progression,efficacy,prognosis,safety,unspecified application"
+P02768,ALB,human serum albumin precursor,ALBU_HUMAN,Literature review,2,1,Extracellular Space,transporter,1,0,1,1,1,0,1,0,"diagnosis,efficacy,prognosis,safety,unspecified application"
+P04179,SOD2,"superoxide dismutase 2, mitochondrial",SODM_HUMAN,Literature review,2,1,Cytoplasm,enzyme,1,0,1,0,1,1,1,1,"diagnosis,disease progression,prognosis,unspecified application"
+P04217,A1BG,alpha-1-beta glycoprotein,A1BG_HUMAN,Literature review,2,2,Extracellular Space,other,1,0,1,0,1,0,0,0, 
+P09382,LGALS1,"lectin, galactoside-binding, soluble, 1",LEG1_HUMAN,Literature review,2,1,Extracellular Space,other,1,0,0,0,1,1,1,1,"diagnosis,prognosis"
+P10909,CLU,clusterin,CLUS_HUMAN,Literature review,2,1,Cytoplasm,other,1,0,1,0,1,0,0,0,"diagnosis,efficacy,unspecified application"
+P12004,PCNA,Proliferating cell nuclear antigen,PCNA_HUMAN,Literature review,2,1,Nucleus,enzyme,1,0,0,0,0,1,1,1,"diagnosis,disease progression,efficacy,prognosis,response to therapy"
+P12277,CKB,"creatine kinase, brain",KCRB_HUMAN,Literature review,3,-1,Cytoplasm,kinase,1,0,1,0,1,1,1,1,safety
+P25445,Fas,Tumor necrosis factor receptor superfamily member 6,TNR6_HUMAN,Literature review,2,1,Plasma Membrane,transmembrane receptor,1,0,1,0,0,1,0,1,"diagnosis,disease progression,efficacy,safety"
+P32004,L1-CAM / CD171,Neural cell adhesion molecule L1,L1CAM_HUMAN,Literature review,3,1,Plasma Membrane,other,1,0,1,0,1,0,0,0, 
+P40121,CAPG,"capping protein (actin filament), gelsolin-like",CAPG_HUMAN,Literature review,,2,Nucleus,other,1,0,0,0,1,1,1,1, 
+P50454,SERPINH1,"serpin peptidase inhibitor, clade H (heat shock protein 47), member 1, (collagen binding protein 1)",,Literature review,,-1,Extracellular Space,other,0,0,0,0,0,1,1,1, 
+P08758,PP4,placental protein 4,,Literature review,3,1,,,0,0,0,0,0,0,0,0,
+P16234,PDGFRA,Platelet-derived growth factor receptor alpha,PGFRA_HUMAN,Literature review,,-1,Plasma Membrane,kinase,1,0,1,0,0,1,1,1,"efficacy,prognosis,safety,unspecified application"
+P35900,KRT20,"Keratin, type I cytoskeletal 20",K1C20_HUMAN,Literature review,,1,Cytoplasm,other,0,0,0,0,0,0,0,0,"diagnosis,disease progression,prognosis"
+Q03405,PLAUR,Urokinase plasminogen activator surface receptor,UPAR_HUMAN,Literature review,3,1,Plasma Membrane,transmembrane receptor,1,0,1,0,1,0,1,0,"diagnosis,disease progression,response to therapy"
+P01111,NRAS,neuroblastoma RAS viral (v-ras) oncogene homolog,RASN_HUMAN,IPA,2,2,Plasma Membrane,enzyme,0,0,0,0,1,1,1,1,"efficacy,prognosis,response to therapy"
+O00299,CLIC1,chloride intracellular channel 1,CLIC1_HUMAN,Literature review,1,1,Nucleus,ion channel,1,0,0,0,1,1,1,1,diagnosis
+O14746,TERT,Telomerase reverse transcriptase,TERT_HUMAN,Literature review,1,1,Nucleus,enzyme,1,0,0,0,0,0,0,0,"diagnosis,disease progression,prognosis"
+O14965,AURKA,Aurora kinase A,AURKA_HUMAN,Literature review,1,1,Nucleus,kinase,0,0,0,0,0,1,1,1,"diagnosis,efficacy,prognosis"
+O15123,ANGPT2,Angiopoietin-2,ANGP2_HUMAN,Literature review,1,-1,Extracellular Space,growth factor,0,0,0,0,0,1,1,1,"diagnosis,efficacy,prognosis,unspecified application"
+O60271,SPAG9,C-Jun-amino-terminal kinase-interacting protein 4 / Sperm-associated antigen 9,JIP4_HUMAN,Literature review,1,1,Cytoplasm,other,1,0,1,0,0,1,1,1, 
+O75556,SCGB2A1 /MGB2,Mammaglobin-B,SG2A1_HUMAN,Literature review,1,1,Extracellular Space,other,1,0,1,0,0,0,0,0,diagnosis
+P00352,ALDH1A1,Aldehyde dehydrogenase 1,,Literature review,1,1,Cytoplasm,enzyme,1,0,1,0,1,1,1,1,"diagnosis,disease progression"
+P01024,C3,complement C3,CO3_HUMAN,Literature review,1,1,Extracellular Space,peptidase,1,0,1,0,1,1,1,1,efficacy
+P01344,IGF2,Insulin-like growth factor II,IGF2_HUMAN,Literature review,1,1,Extracellular Space,growth factor,1,0,1,0,1,0,1,0,"diagnosis,efficacy,prognosis"
+P02654,APOC1,apolipoprotein C1,APOC1_HUMAN,Literature review,1,2,Extracellular Space,transporter,1,0,1,0,1,0,1,0,"prognosis,unspecified application"
+P05090,APOD,Apolipoprotein D,APOD_HUMAN,Literature review,1,1,Extracellular Space,transporter,1,0,1,0,1,1,1,1,safety
+P06400,pRb,Retinoblastoma-associated protein,RB_HUMAN,Literature review,1,-1,Nucleus,transcription regulator,1,0,1,0,0,1,1,1,"diagnosis,efficacy,prognosis,unspecified application"
+P06727,APOA4,apolipoprotein A-IV precursor,APOA4_HUMAN,Literature review,1,-1,Extracellular Space,transporter,1,0,1,0,1,1,1,0,unspecified application
+P30044,PRDX5,"Peroxiredoxin-5, mitochondrial",PRDX5_HUMAN,Literature review,1,1,,,0,0,0,0,0,0,0,0,
+P30041,PRDX6,Peroxiredoxin-6,PRDX6_HUMAN,Literature review,1,1,,,0,0,0,0,0,0,0,0,
+Q99623,PHB2,Prohibitin-2,PHB2_HUMAN,Literature review,1,1,,,0,0,0,0,0,0,0,0,
+P08069,IGF1R,Insulin-like growth factor 1 receptor,IGF1R_HUMAN,Literature review,1,1,Plasma Membrane,transmembrane receptor,1,0,0,0,0,1,1,1,"diagnosis,efficacy,prognosis,response to therapy"
+P08151,GLI1,Zinc finger protein GLI1,GLI1_HUMAN,Literature review,1,2,,,0,0,0,0,0,0,0,0,
+P10070,GLI2,Zinc finger protein GLI2,GLI2_HUMAN,Literature review,1,1,Nucleus,transcription regulator,1,0,0,0,0,0,0,0,efficacy
+P10071,Gli-3,Transcriptional activator GLI3,GLI3_HUMAN,Literature review,1,1,Nucleus,transcription regulator,1,0,0,0,0,1,1,1,efficacy
+P17936,IGFBP3,Insulin-like growth factor-binding protein 3,IBP3_HUMAN,Literature review,1,-1,Extracellular Space,other,1,0,1,0,1,1,1,1,"diagnosis,disease progression,efficacy,prognosis,response to therapy,safety"
+P25063,CD24,Signal transducer CD24,CD24_HUMAN,Literature review,1,1,Plasma Membrane,other,1,0,0,0,0,0,0,0,"diagnosis,disease progression,efficacy,prognosis,unspecified application"
+P26006,CD49 /ITGA3,Integrin alpha-3,ITA3_HUMAN,Literature review,1,-1,Plasma Membrane,other,1,0,1,0,0,1,1,1,prognosis
+P33527,ABCC1 /MRP,Multidrug resistance-associated protein 1,MRP1_HUMAN,Literature review,1,1,Plasma Membrane,transporter,1,0,1,0,0,0,1,1,"diagnosis,efficacy,prognosis"
+P35916,FLT4,Vascular endothelial growth factor receptor 3,VGFR3_HUMAN,Literature review,1,1,Plasma Membrane,transmembrane receptor,1,0,1,0,0,0,1,1,"diagnosis,disease progression,efficacy,prognosis"
+P41159,LEP,Leptin,LEP_HUMAN,Literature review,1,2,Extracellular Space,growth factor,1,0,1,0,0,1,1,1,"diagnosis,disease progression,efficacy,prognosis,safety,unspecified application"
+P49767,VEGF-C,Vascular endothelial growth factor C,VEGFC_HUMAN,Literature review,1,1,Extracellular Space,growth factor,1,0,0,0,0,1,1,1,"diagnosis,disease progression,efficacy,prognosis"
+P55060,CSE1L,"Exportin-2",XPO2_HUMAN,Literature review,1,1,Nucleus,transporter,1,0,1,0,0,1,1,1, 
+P67870,CSNK2B,Casein kinase II subunit beta / CK2beta,CSK2B_HUMAN,Literature review,1,1,Cytoplasm,kinase,0,0,0,0,0,1,1,1, 
+P78396,CCNA1,Cyclin-A1,CCNA1_HUMAN,Literature review,1,1,Nucleus,other,1,0,0,0,0,1,1,0,diagnosis
+P78504,JAG-1,Protein jagged-1,JAG1_HUMAN,Literature review,1,1,Extracellular Space,growth factor,1,0,0,0,0,1,1,1,efficacy
+Q02763,TEK,Angiopoietin-1 receptor / Tie2,TIE2_HUMAN,Literature review,1,1,Plasma Membrane,kinase,1,0,0,0,0,1,1,1,efficacy
+Q07654,TFF3,Trefoil factor 3,TFF3_HUMAN,Literature review,1,1,Extracellular Space,other,0,0,0,0,1,0,0,1,"diagnosis,unspecified application"
+Q12983,BNIP3,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,BNIP3_HUMAN,Literature review,1,1,Cytoplasm,other,0,0,0,0,0,1,1,1,prognosis
+Q15506,SP17_HUMAN,Sperm surface protein Sp17,SP17_HUMAN,Literature review,1,1,Plasma Membrane,other,0,0,0,0,0,0,0,0, 
+Q8N307,MUC20,Mucin-20,MUC20_HUMAN,Literature review,1,1,Plasma Membrane,other,0,0,0,0,1,1,1,1, 
+Q96I34,PPP1R16A ,"protein phosphatase 1, regulatory (inhibitor) subunit 16A ",PP16A_HUMAN,Literature review,1,1,Plasma Membrane,other,0,0,0,0,0,0,0,0, 
+Q9H013,ADAM19,Disintegrin and metalloproteinase domain-containing protein 19,ADA19_HUMAN,Literature review,1,1,Plasma Membrane,peptidase,0,0,0,0,0,1,1,1, 
+Q9H6S3,EPS8L2 ,Epidermal growth factor receptor kinase substrate 8-like protein 2,ES8L2_HUMAN,Literature review,1,1,unknown,other,1,1,1,0,1,1,1,0, 
+Q9NR61,DLL4,Delta-like protein 4,DLL4_HUMAN,Literature review,1,1,Extracellular Space,other,1,0,0,0,0,1,1,1, 
+Q9NY33,DPP3,Dipeptidyl peptidase 3,DPP3_HUMAN,Literature review,1,1,Cytoplasm,peptidase,0,0,0,0,0,0,0,0, 
+Q9UM47,Notch 3,Neurogenic locus notch homolog protein 3,NOTC3_HUMAN,Literature review,1,1,Plasma Membrane,transcription regulator,1,0,1,0,1,1,1,1,unspecified application
+Q9UMX1,SUFU,Suppressor of fused homolog,SUFU_HUMAN,Literature review,1,1,Nucleus,transcription regulator,0,0,0,0,0,1,1,0, 
+Q9Y6Q9,AIB1,Nuclear receptor coactivator 3,NCOA3_HUMAN,Literature review,1,2,Nucleus,transcription regulator,1,0,0,0,0,1,1,1,"efficacy,prognosis"
+O60216,RAD21,Double-strand-break repair protein rad21 homolog,RAD21_HUMAN,Literature review,1,1,Nucleus,other,1,0,1,0,0,1,1,1, 
+Q01196,RUNX1,Runt-related transcription factor 1,RUNX1_HUMAN,Literature review,1,1,Nucleus,transcription regulator,1,0,0,0,0,0,0,1, 
+Q9Y6Q5,AP1M2 ,"adaptor-related protein complex 1, mu 2 subunit ",AP1M2_HUMAN,Literature review,1,1,Cytoplasm,transporter,0,1,0,0,0,0,0,0, 
+P01116,KRAS,GTPase KRas,RASK_HUMAN,Literature review,3,1,Cytoplasm,enzyme,1,0,0,0,0,1,1,1,"diagnosis,efficacy,prognosis,response to therapy,unspecified application"
+P22309,UGT1A1,"UDP glucuronosyltransferase 1 family, polypeptide A1",UD11_HUMAN,IPA,3,-1,Cytoplasm,enzyme,0,0,0,0,0,0,1,1,"diagnosis,efficacy,response to therapy,safety"
+P48061,CXCL12,Stromal cell-derived factor 1,SDF1_HUMAN,Literature review,,-1,Extracellular Space,cytokine,1,0,1,0,1,1,0,0,"diagnosis,disease progression,efficacy,prognosis,unspecified application"
+P23219,COX1,"Prostaglandin G",PGH1_HUMAN,Literature review,1,2,Cytoplasm,enzyme,1,0,0,0,0,1,1,0,"disease progression,efficacy,prognosis"
+Q15910,EZH2,Histone-lysine N-methyltransferase EZH2,EZH2_HUMAN,Literature review,1,1,Nucleus,transcription regulator,1,0,1,0,0,1,1,1,"diagnosis,disease progression,efficacy,prognosis"
+P09466,PAEP,progestagen-associated endometrial protein /glycodelin/ Placental protein 14,PAEP_HUMAN,Literature review,3,2,Cytoplasm,other,1,0,1,0,0,0,0,1,diagnosis
+Q14103,HNRNPD,"heterogeneous nuclear ribonucleoprotein D (AU-rich element RNA binding protein 1, 37kDa)",ROD_HUMAN,Literature review,2,1,Nucleus,transcription regulator,0,0,0,0,0,0,0,0, 
+P00750,PLAT,Tissue-type plasminogen activator / tissue polypeptide antigen ,TPA_HUMAN,Literature review,3,1,Extracellular Space,peptidase,1,0,1,0,1,1,1,1,"diagnosis,efficacy,prognosis,safety,unspecified application"
+P14174,MIF,macrophage migration inhibitory factor (glycosylation-inhibiting factor),MIF_HUMAN,Literature review,2,1,Extracellular Space,cytokine,1,0,0,0,1,1,1,1,"diagnosis,prognosis,response to therapy"
+Q15389,ANGPT1,Angiopoietin-1,ANGP1_HUMAN,Literature review,,-1,Extracellular Space,growth factor,1,0,0,0,0,1,0,0,"disease progression,efficacy,prognosis"
+P21926,CD9,"CD9 antigen",CD9_HUMAN,Literature review,,-1,Plasma Membrane,other,1,0,0,0,1,1,1,1,efficacy
+P39060,COL18A1,Collagen alpha-1(XVIII) chain (cleaved into endostatin),COIA1_HUMAN,Literature review,,1,Extracellular Space,other,1,0,1,0,1,1,0,1,"diagnosis,efficacy,prognosis"
+P35625,TIMP3,TIMP metallopeptidase inhibitor 3,TIMP3_HUMAN,IPA,,-1,Extracellular Space,other,1,0,0,0,0,1,1,1,"diagnosis,prognosis,unspecified application"
+P21964,COMT,Catechol O-methyltransferase,COMT_HUMAN,Literature review,,2,,,0,0,0,0,0,0,0,0,
+Q99814,EPAS1 (HIF-2A),Endothelial PAS domain-containing protein 1,EPAS1_HUMAN,Literature review,1,1,Nucleus,transcription regulator,1,0,1,0,0,1,1,1,"disease progression,prognosis"
+O43278,HAI-1 / SPINT1,Kunitz-type protease inhibitor 1,SPIT1_HUMAN,Literature review,1,-1,,,0,0,0,0,0,0,0,0,
+O43291,SPINT2,"serine peptidase inhibitor, Kunitz type, 2 /HAI-2",SPIT2_HUMAN,IPA,1,-1,Extracellular Space,other,0,0,0,0,1,0,0,0,diagnosis
+P17936,IGFBP-3,Insulin-like growth factor-binding protein 3,IBP3_HUMAN,,,-1,,,0,0,0,0,0,0,0,0,
+P10914,IRF-1,Interferon regulatory factor 1,IRF1_HUMAN,Literature review,1,-1,,,0,0,0,0,0,0,0,0,
+Q6XLA1,CASC2,"Protein CASC2, isoform 3",CSC2A_HUMAN,Literature review,,-1,unknown,other,0,0,0,0,0,0,0,0, 
+O94788,ALDH1A2,"aldehyde dehydrogenase 1 family, member A2",AL1A2_HUMAN,Literature review,,2,Cytoplasm,enzyme,1,0,1,0,0,1,0,1, 
+Q8NBS9,TXNDC5,thioredoxin domain containing 5 (endoplasmic reticulum),,Literature review,,-1,Cytoplasm,enzyme,0,0,0,0,1,1,1,1, 
+Q86YT6,MIB1,E3 ubiquitin-protein ligase MIB1,MIB1_HUMAN,Literature review,,1,Cytoplasm,other,1,0,1,0,0,1,1,1,"diagnosis,efficacy,prognosis"
+O43490,PROM1/ CD133,Prominin-1,PROM1_HUMAN,Literature review,,1,Plasma Membrane,other,1,0,0,0,1,1,1,1,"diagnosis,disease progression,efficacy,prognosis,response to therapy"
+P09455,CRBP-1,Retinol-binding protein 1,RET1_HUMAN,Literature review,,-1,Extracellular Space,transporter,1,0,1,0,0,1,1,1,diagnosis
+P14902,IDO1,"Indoleamine 2,3-dioxygenase 1",I23O1_HUMAN,Literature review,,1,Cytoplasm,enzyme,1,0,0,0,0,0,1,0,"diagnosis,disease progression,efficacy,prognosis,response to therapy"
+P25116,PAR1,Proteinase-activated receptor 1,PAR1_HUMAN,Literature review,,1,Plasma Membrane,G-protein coupled receptor,1,0,0,0,0,1,1,1,"disease progression,prognosis"
+P27658,COL8A1,collagen 8,CO8A1_HUMAN,Literature review,1,1,Extracellular Space,other,1,0,1,0,0,0,0,0, 
+P35670,ATP7B,Copper-transporting ATPase 2,ATP7B_HUMAN,Literature review,,1,Cytoplasm,transporter,0,0,0,0,0,1,1,0, 
+P49327,FASN,Fatty acid synthase,FAS_HUMAN,Literature review,,1,Cytoplasm,enzyme,1,0,1,0,1,1,1,1,"diagnosis,efficacy,prognosis"
+P52701,MSH6,DNA mismatch repair protein Msh6 /P160,MSH6_HUMAN,Literature review,1,2,Nucleus,enzyme,1,0,1,0,0,1,1,1,diagnosis
+Q96GD4,AURKB,Aurora kinase B,AURKB_HUMAN,Literature review,1,1,Nucleus,kinase,0,0,0,0,0,1,0,1,diagnosis
+Q9BY76,ANGPTL4,Angiopoietin-related protein 4,ANGL4_HUMAN,Literature review,1,2,Extracellular Space,other,1,0,1,0,0,0,1,0, 
+Q9UIQ6,LNPEP,Leucyl-cystinyl aminopeptidase,LCAP_HUMAN,Literature review,,2,Cytoplasm,peptidase,0,0,0,0,0,1,1,1, 
+Q9HC84,MUC5AC/MUC5B,"mucin 5AC, oligomeric mucus/gel-forming",MUC5B_HUMAN,Literature review,,1,unknown,peptidase,0,0,0,1,1,0,0,0, 
+P21860,ERBB3,v-erb-b2 erythroblastic leukemia viral oncogene homolog 3 (avian),ERBB3_HUMAN,IPA,3,1,Plasma Membrane,kinase,1,0,0,0,0,1,1,1,"diagnosis,efficacy,prognosis,safety"
+O00762,UbcH10,Ubiquitin-conjugating enzyme E2 C,UBE2C_HUMAN,Literature review,1,1,Cytoplasm,enzyme,0,0,0,0,0,1,0,1, 
+O60259,KLK8,Kallikrein-8/ hK8/ Tumor-associated differentially expressed gene 14 protein / TADG-14/ KLK8,KLK8_HUMAN,Literature review,1,1,Extracellular Space,peptidase,1,0,1,0,0,0,1,0,"diagnosis,prognosis"
+O95832,CLDN1,claudin-1,CLD1_HUMAN,Literature review,1,2,Plasma Membrane,other,0,0,0,0,0,1,1,0,prognosis
+P00450,CP,ceruloplasmin (ferroxidase),CERU_HUMAN,Literature review,1,-1,Extracellular Space,enzyme,1,0,1,0,1,0,0,1,"disease progression,efficacy"
+P00738,HP,haptoglobin,,Literature review,1,-1,Extracellular Space,peptidase,1,0,1,0,1,1,0,1,"diagnosis,disease progression,efficacy,unspecified application"
+P01008,SERPINC 1,antithrombin III,ANT3_HUMAN,Literature review,1,1,Extracellular Space,enzyme,1,0,1,0,1,0,0,0,"diagnosis,unspecified application"
+P02452,COL1A1 (includes EG:1277),"collagen, type I, alpha 1",CO1A1_HUMAN,Literature review,1,-1,Extracellular Space,other,1,0,1,0,1,0,0,0,diagnosis
+P02652,APOA2,apolipoprotein A-II,APOA2_HUMAN,Literature review,1,-1,Extracellular Space,transporter,1,0,1,0,1,0,1,0,prognosis
+P02671,FGA,fibrinogen alpha chain,,Literature review,1,-1,Extracellular Space,other,1,0,1,0,1,0,0,0,diagnosis
+P02675,FGG,fibrinogen gamma chain,,Literature review,1,-1,Extracellular Space,other,1,0,1,0,1,0,1,0,unspecified application
+P02749,APOH,apolipoprotein H (beta-2-glycoprotein I),APOH_HUMAN,Literature review,1,-1,Extracellular Space,transporter,1,0,1,0,1,0,0,0,unspecified application
+P02765,AHSG,alpha-2-HS-glycoprotein,FETUA_HUMAN,Literature review,1,2,Extracellular Space,other,1,0,1,0,1,0,0,0,unspecified application
+P02774,GC,group-specific component (vitamin D binding protein),,Literature review,1,-1,Extracellular Space,transporter,1,0,1,0,1,0,0,0, 
+P02775,PPBP,Platelet basic protein,CXCL7_HUMAN,Literature review,1,1,Extracellular Space,cytokine,1,0,1,0,0,0,1,0,diagnosis
+P02776,PF4,Platelet Factor 4,,Literature review,1,1,Extracellular Space,cytokine,1,0,1,0,0,1,1,1,diagnosis
+P02790,HPX,hemopexin,,Literature review,1,2,Extracellular Space,transporter,1,0,1,0,1,0,0,0, 
+P05198,EIF2S1,"eukaryotic translation initiation factor 2, subunit 1 alpha, 35kDa",IF2A_HUMAN,Literature review,1,2,Cytoplasm,translation regulator,1,0,0,0,0,0,0,0,efficacy
+P05783,KRT18,keratin 18,,Literature review,1,1,Cytoplasm,other,1,0,1,0,0,1,1,1,efficacy
+P06703,S100A6,S100 calcium binding protein A6,,Literature review,1,1,Cytoplasm,transporter,0,0,0,0,1,1,1,1,"diagnosis,unspecified application"
+P07108,DBI,"diazepam binding inhibitor (GABA receptor modulator, acyl-CoA binding protein)",ACBP_HUMAN,Literature review,1,2,Cytoplasm,other,1,0,0,0,1,1,1,1, 
+P08107,HSPA1A,human heat shock 70 kDa protein 1 ,HSP71_HUMAN,Literature review,1,1,Cytoplasm,other,1,0,1,0,1,1,0,0,unspecified application
+P08123,COL1A2,"collagen, type I, alpha 2",CO1A2_HUMAN,Literature review,1,2,Extracellular Space,other,1,0,1,0,1,1,1,1, 
+P11678,EPX/EPO,Eosinophil peroxidase,PERE_HUMAN,Literature review,1,1,Cytoplasm,enzyme,1,0,0,0,0,0,0,0, 
+P15531,NME1,Nucleoside diphosphate kinase A / nm23-H1,NDKA_HUMAN,Literature review,1,1,Cytoplasm,kinase,1,0,1,0,0,0,0,0,unspecified application
+P18827,SDC1,Syndecan-1,SDC1_HUMAN,Literature review,1,1,Plasma Membrane,enzyme,1,0,1,0,1,1,1,1,efficacy
+P18850,ATF6,Cyclic AMP-dependent transcription factor ATF-6 alpha,ATF6A_HUMAN,Literature review,1,1,Cytoplasm,transcription regulator,1,0,0,0,0,0,0,0, 
+P19338,NCL,nucleolin,,Literature review,1,2,Nucleus,other,1,0,1,0,0,1,1,1,diagnosis
+P19404,NDUFV2,"NADH dehydrogenase (ubiquinone) flavoprotein 2, 24kDa",NDUV2_HUMAN,Literature review,1,-1,Cytoplasm,enzyme,0,0,0,0,0,1,1,1, 
+P19823,ITIH2,inter-alpha-trypsin inhibitor heavy chain 2,,Literature review,1,2,Extracellular Space,other,1,0,1,0,1,0,0,0, 
+P20809,IL11,Interleukin-11,IL11_HUMAN,Literature review,1,1,Extracellular Space,cytokine,1,1,1,0,0,0,0,1,unspecified application
+P21333,FLNA,"filamin A, alpha",,Literature review,1,-1,Cytoplasm,other,1,0,1,0,1,1,1,1,unspecified application
+P22392,NME2,Nucleoside diphosphate kinase B,NDKB_HUMAN,Literature review,1,1,Nucleus,kinase,0,0,0,0,0,0,0,0,diagnosis
+P23142,FBLN1,fibulin 1,,Literature review,1,-1,Extracellular Space,other,1,0,1,0,1,1,1,1,unspecified application
+P23526,AHCY,adenosylhomocysteinase,SAHH_HUMAN,Literature review,1,1,Cytoplasm,enzyme,1,0,1,0,1,1,0,1,unspecified application
+P24821,TNC,tenascin /TN,TENA_HUMAN,Literature review,1,2,Extracellular Space,other,1,0,1,0,1,1,1,1,"diagnosis,efficacy,response to therapy"
+P29966,MARCKS,myristoylated alanine-rich protein kinase C substrate,,Literature review,1,-1,Plasma Membrane,other,1,0,1,0,1,1,1,1, 
+P31321,PRKAR1B,cAMP-dependent protein kinase type I-beta regulatory subunit,KAP1_HUMAN,Literature review,1,1,Cytoplasm,kinase,1,0,0,0,0,1,0,1, 
+P31943,HNRNPH1,heterogeneous nuclear ribonucleoprotein H1 (H),HNRH1_HUMAN,Literature review,1,-1,Nucleus,other,1,0,0,0,0,1,1,1,diagnosis
+P35232,PHB,human prohibitin,PHB_HUMAN,Literature review,1,1,Nucleus,transcription regulator,1,0,0,0,0,1,0,1,diagnosis
+P36222,CHI3L1,Chitinase-3-like protein 1 / YKL40,CH3L1_HUMAN,Literature review,1,1,Extracellular Space,enzyme,1,0,1,0,1,0,0,0,"diagnosis,efficacy,prognosis"
+P41134,ID1,DNA-binding protein inhibitor ID-1,ID1_HUMAN,Literature review,1,1,Nucleus,transcription regulator,1,0,0,0,0,1,1,1,"disease progression,efficacy,prognosis"
+P42330,AKR1C3,Aldo-keto reductase family 1 member C3 / 17beta-hydroxysteroid dehydrogenase Type 5 ,AK1C3_HUMAN,Literature review,1,-1,Cytoplasm,enzyme,0,0,0,0,1,1,1,1, 
+P47756,CAPZB,"capping protein (actin filament) muscle Z-line, beta",CAPZB_HUMAN,Literature review,1,1,Cytoplasm,other,1,0,0,0,1,1,1,1, 
+P55072,VCP,valosin containing protein,TERA_HUMAN,Literature review,1,1,Cytoplasm,enzyme,1,0,1,0,1,1,1,1, 
+P62851,RPS25,ribosomal protein S25,,Literature review,1,1,Cytoplasm,other,0,0,0,0,0,0,0,0, 
+Q01518,CAP1,"CAP, adenylate cyclase-associated protein 1 (yeast)",CAP1_HUMAN,Literature review,1,1,Plasma Membrane,other,1,0,1,0,1,1,1,1, 
+Q12809,KCNH2,Potassium voltage-gated channel subfamily H member 2,KCNH2_HUMAN,Literature review,1,1,Plasma Membrane,ion channel,0,0,0,0,0,1,1,0, 
+Q12906,ILF3,"interleukin enhancer binding factor 3, 90kDa",,Literature review,1,1,Nucleus,transcription regulator,1,0,0,0,0,1,1,0, 
+Q13162,PRDX4,peroxiredoxin 4,PRDX4_HUMAN,Literature review,1,1,Cytoplasm,enzyme,0,0,0,0,0,1,1,1, 
+Q13761,RUNX3,Runt-related transcription factor 3,RUNX3_HUMAN,Literature review,1,-1,Nucleus,transcription regulator,1,0,0,0,0,0,0,0,"diagnosis,disease progression,prognosis"
+Q14315,FLNC,"filamin C, gamma",,Literature review,1,-1,Cytoplasm,other,1,0,1,0,1,1,0,1,diagnosis
+Q14626,IL11 R,Interleukin-11 receptor subunit alpha,I11RA_HUMAN,Literature review,1,1,Plasma Membrane,transmembrane receptor,0,1,0,0,0,0,0,0, 
+Q15121,PEA15,phosphoprotein enriched in astrocytes 15,,Literature review,1,1,Cytoplasm,transporter,0,0,0,0,0,1,1,1,prognosis
+Q16555,DPYSL2,dihydropyrimidinase-like 2,Q16555,Literature review,1,-1,Cytoplasm,enzyme,1,0,0,0,0,0,0,0, 
+Q32Q65,FGB,fibrinogen beta chain,Q32Q65_HUMAN,Literature review,1,-1,Extracellular Space,other,1,0,1,0,1,0,1,0,unspecified application
+Q6FHJ7,SFRP4,secreted frizzled-related protein 4,,Literature review,1,-1,Plasma Membrane,transmembrane receptor,0,0,0,0,1,1,1,1,diagnosis
+Q6NUR7,EZR,ezrin /villin2,Q6NUR7_HUMAN,Literature review,1,1,Plasma Membrane,other,1,0,1,0,1,1,1,1,prognosis
+Q99832,CCT7,"chaperonin containing TCP1, subunit 7 (eta)",TCPH_HUMAN,Literature review,1,2,Cytoplasm,other,1,0,1,0,0,1,1,1, 
+Q9NSC7,ST6GALNAC1,"Alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase 1 / sialyl-Tn antigen",SIA7A_HUMAN,Literature review,1,1,Cytoplasm,enzyme,0,0,0,0,0,0,0,0, 
+Q9NY64,GLUT8,"Solute carrier family 2, facilitated glucose transporter member 8",GTR8_HUMAN,Literature review,1,1,Plasma Membrane,transporter,0,0,0,0,0,1,1,1, 
+Q9UBU3,GHRL,"ghrelin, Appetite-regulating hormone",GHRL_HUMAN,Literature review,1,-1,Extracellular Space,growth factor,1,0,1,0,0,1,1,0, 
+Q9Y263,PLAA,Phospholipase A-2-activating protein,PLAP_HUMAN,Literature review,1,1,Cytoplasm,other,0,0,0,0,0,1,1,1, 
+O14508,SOCS2 ,suppressor of cytokine signaling 2 ,SOCS2_HUMAN,Literature review,1,-1,Cytoplasm,other,1,1,0,0,0,1,1,1, 
+O95049,TJP3 ,tight junction protein 3 (zona occludens 3) ,ZO3_HUMAN,Literature review,1,1,Cytoplasm,other,0,0,0,0,0,0,0,0, 
+O95967,EFEMP2 ,EGF-containing fibulin-like extracellular matrix protein 2 ,FBLN4_HUMAN,Literature review,1,-1,Extracellular Space,other,1,1,1,0,1,1,0,1, 
+P02751,FN1,Fibronectin,FINC_HUMAN,Literature review,1,-1,Extracellular Space,enzyme,1,0,1,0,1,1,1,1,"diagnosis,disease progression,efficacy,prognosis,unspecified application"
+P07585,DCN ,decorin ,PGS2_HUMAN,Literature review,1,-1,Extracellular Space,other,0,1,0,0,0,1,1,1,diagnosis
+P09110,ACAA1 ,acetyl-Coenzyme A acyltransferase 1 ,THIK_HUMAN,Literature review,1,1,Cytoplasm,enzyme,1,0,0,0,0,1,1,1,unspecified application
+P0DJI9,SAA2,Serum amyloid A-2 protein,SAA2_HUMAN,Literature review,1,1,Extracellular Space,other,1,0,1,0,0,0,0,0, 
+P10696,ALPP2,"Alkaline phosphatase, placental-like",PPBN_HUMAN,Literature review,1,1,Plasma Membrane,phosphatase,0,0,0,0,0,0,0,0, 
+P15735,PHKG2 ,"phosphorylase kinase, gamma 2 (testis) ",PHKG2_HUMAN,Literature review,1,1,Cytoplasm,kinase,0,1,0,0,0,0,0,0, 
+P42830,CXCL5,C-X-C motif chemokine 5,CXCL5_HUMAN,Literature review,1,1,Extracellular Space,cytokine,1,0,1,0,0,0,0,0, 
+P78556,CCL20,C-C motif chemokine 20,CCL20_HUMAN,Literature review,1,1,Extracellular Space,cytokine,1,0,1,0,0,1,1,1, 
+Q02833,RASSF7,Ras association domain-containing protein 7,RASF7_HUMAN,Literature review,1,1,unknown,other,0,0,0,0,0,0,0,0, 
+Q08345,DDR1 ,discoidin domain receptor tyrosine kinase 1 ,DDR1_HUMAN,Literature review,1,1,Plasma Membrane,kinase,1,1,0,0,1,0,0,0,diagnosis
+Q10589,BST2,Bone marrow stromal antigen 2,BST2_HUMAN,Literature review,1,1,Plasma Membrane,other,1,0,0,0,0,1,1,1, 
+Q12756,KIF1A,Kinesin-like protein KIF1A,KIF1A_HUMAN,Literature review,1,1,Cytoplasm,other,1,0,1,0,0,0,0,0,"diagnosis,prognosis"
+Q14164,IKBKE ,"inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase epsilon ",IKKE_HUMAN,Literature review,1,1,Cytoplasm,kinase,1,0,1,0,0,0,0,0, 
+Q15915,ZIC1,Zinc finger protein ZIC 1,ZIC1_HUMAN,Literature review,1,1,Nucleus,transcription regulator,0,0,0,0,0,0,0,0, 
+Q53R41,FASTKD1 ,FAST kinase domains 1 ,FAKD1_HUMAN,Literature review,1,1,Cytoplasm,other,0,1,0,0,0,1,0,0, 
+Q5TEJ8,icb-1 (C1orf38) gen,Protein THEMIS2,THMS2_HUMAN,Literature review,1,1,unknown,other,0,0,0,0,0,0,0,0, 
+Q8N6T7,SIRT6 ,sirtuin (silent mating type information regulation 2 homolog) 6 (S. cerevisiae) ,SIR6_HUMAN,Literature review,1,1,Nucleus,enzyme,0,0,0,0,0,1,0,1, 
+Q8ND30,PPFIBP2 ,"PTPRF interacting protein, binding protein 2 (liprin beta 2) ",LIPB2_HUMAN,Literature review,1,1,Nucleus,phosphatase,0,0,0,0,0,1,1,1, 
+Q96D59,RNF183 ,ring finger protein 183 ,RN183_HUMAN,Literature review,1,1,unknown,other,0,0,0,0,0,0,0,0, 
+Q99571,P2RX4 ,"purinergic receptor P2X, ligand-gated ion channel, 4 ",P2RX4_HUMAN,Literature review,1,1,Plasma Membrane,ion channel,1,1,0,0,0,1,1,1, 
+Q99784,OLFM1,Noelin,NOE1_HUMAN,Literature review,1,-1,Cytoplasm,other,1,0,1,0,0,1,1,1, 
+Q9P107,GMIP ,GEM interacting protein ,GMIP_HUMAN,Literature review,1,1,Cytoplasm,enzyme,1,0,1,0,0,0,0,0, 
+Q9P2M7,CGN ,cingulin ,CING_HUMAN,Literature review,1,1,Plasma Membrane,other,1,1,1,0,0,0,0,0, 
+Q9UBT3,DKK4,Dickkopf-related protein 4,DKK4_HUMAN,Literature review,1,1,Extracellular Space,other,0,0,0,0,0,0,0,0,diagnosis
+P08581,MET,Hepatocyte growth factor receptor,MET_HUMAN,Literature review,1,1,,,0,0,0,0,0,0,0,0,
+P01112,HRAS,GTPase HRas,RASH_HUMAN,Literature review,1,2,,,0,0,0,0,0,0,0,0,
+P23443,RPS6KB1,Ribosomal protein S6 kinase beta-1,KS6B1_HUMAN,Literature review,1,2,,,0,0,0,0,0,0,0,0,
+P09769,FGR,Tyrosine-protein kinase Fgr,FGR_HUMAN,Literature review,1,2,,,0,0,0,0,0,0,0,0,
+P24864,CCNE1,G1/S-specific cyclin-E1,CCNE1_HUMAN,Literature review,1,1,,,0,0,0,0,0,0,0,0,
+P10145,IL8,Interleukin-8,IL8_HUMAN,Literature review,1,2,Extracellular Space,cytokine,1,0,1,0,0,1,0,1,"diagnosis,disease progression,efficacy,prognosis,response to therapy,safety,unspecified application"
+Q13111,CHAF1A,Chromatin assembly factor 1 subunit A,CAF1A_HUMAN,Literature review,1,1,Nucleus,other,0,0,0,0,1,1,1,1, 
+Q13541,EIF4EBP1,Eukaryotic translation initiation factor 4E-binding protein 1 / p-4EBP1,4EBP1_HUMAN,Literature review,1,1,Cytoplasm,translation regulator,1,0,0,0,0,0,0,0,"efficacy,prognosis"
+P01042,KNG1,cleaved high molecular weight kininogen,KNG1_HUMAN,Literature review,1,-1,Extracellular Space,other,1,0,1,0,1,0,0,0,efficacy
+P28838,LAP3,leucine aminopeptidase 3,AMPL_HUMAN,Literature review,1,1,Cytoplasm,peptidase,1,0,1,0,1,1,1,1,safety
+P17301,ITGA2,"integrin, alpha 2 (CD49B, alpha 2 subunit of VLA-2 receptor)",ITA2_HUMAN,IPA,1,2,Plasma Membrane,transmembrane receptor,1,0,0,0,0,0,1,0,"disease progression,efficacy,prognosis"
+O43852,CALU,calumenin,CALU_HUMAN,Literature review,1,-1,Cytoplasm,other,0,0,0,0,1,1,1,1, 
+P02788,LTF,Lactotransferrin / lactoferrin,TRFL_HUMAN,Literature review,1,1,Extracellular Space,peptidase,1,0,1,1,1,1,1,1,"efficacy,unspecified application"
+P19838,NFKB1,Nuclear factor NF-kappa-B p105 subunit,NFKB1_HUMAN,Literature review,1,-1,Nucleus,transcription regulator,1,0,0,0,0,1,1,1,prognosis
+P00918,CA2,carbonic anhydrase II,CAH2_HUMAN,IPA,1,1,Cytoplasm,enzyme,1,0,1,0,1,1,1,1,"diagnosis,unspecified application"
+Q16790,CA9,Carbonic anhydrase 9,CAH9_HUMAN,Literature review,1,1,,,0,0,0,0,0,0,0,0,
+O43570,CA12,Carbonic anhydrase 12,CAH12_HUMAN,Literature review,1,-1,,,0,0,0,0,0,0,0,0,
+P53350,PLK,Serine/threonine-protein kinase PLK1/ Polo-like kinase,PLK1_HUMAN,Literature review,1,1,Nucleus,kinase,0,0,0,0,0,1,1,1,unspecified application
+Q86XX4,FRAS1,Extracellular matrix protein FRAS1,FRAS1_HUMAN,Literature review,1,1,Extracellular Space,other,1,0,1,0,0,1,1,1, 
+P09874,PARP1,Poly [ADP-ribose] polymerase 1,PARP1_HUMAN,Literature review,1,2,Nucleus,enzyme,1,0,1,0,0,1,0,1,"diagnosis,efficacy,prognosis"
+P31949,S100A11,S100 calcium binding protein A11. calgizzarin,S111_HUMAN,Literature review,1,1,Cytoplasm,other,1,0,0,0,1,0,0,1, 
+Q99102,MUC4,"mucin 4, cell surface associated",MUC4_HUMAN,IPA,,1,Extracellular Space,growth factor,0,0,0,0,0,0,0,1,"diagnosis,disease progression"
+P05093,CYP17,"Steroid 17-alpha-hydroxylase",CP17A_HUMAN,Literature review,1,1,,,0,0,0,0,0,0,0,0,
+P02679,FGG,Fibrinogen gamma chain,FIBG_HUMAN,,,-1,,,0,0,0,0,0,0,0,0,
+P09651,HNRNPA1,heterogeneous nuclear ribonucleoprotein A1,ROA1_HUMAN,,,1,,,0,0,0,0,0,0,0,0,
+Q13485,SMAD4 /DPC4,Mothers against decapentaplegic homolog 4,SMAD4_HUMAN,Literature review,1,-1,Nucleus,transcription regulator,0,0,0,0,0,1,1,1,prognosis
+O60911,CTSL2,Cathepsin L2,CATL2_HUMAN,IPA,,1,Nucleus,transcription regulator,1,0,0,0,0,0,0,0,diagnosis
+P11362,FGFR1,fibroblast growth factor receptor 1,FGFR1_HUMAN,IPA,,2,Plasma Membrane,kinase,1,0,0,0,1,1,1,1,"diagnosis,prognosis,unspecified application"
+P11717,IGF2R,insulin-like growth factor 2 receptor,MPRI_HUMAN,IPA,,1,Plasma Membrane,transmembrane receptor,1,0,1,0,1,1,1,1,diagnosis
+Q16678,CYP1B1,Cytochrome P450 1B1,CP1B1_HUMAN,Literature review,,-1,Cytoplasm,enzyme,1,0,0,0,0,1,0,1,"diagnosis,efficacy,prognosis,unspecified application"
+Q9UM07,PADI4,Peptidylarginine deiminase type 4,PADI4_HUMAN,Literature review,,1,Cytoplasm,enzyme,1,0,0,0,0,0,0,1, 
+P25054,APC,,,,1,2,,,0,0,0,0,0,0,0,0,
+P16422,EPCAM,Epithelial cell adhesion molecule,EPCAM_HUMAN,Literature review,,1,Plasma Membrane,other,0,0,0,0,1,1,1,1,unspecified application
+Q16625,OCLN,Occludin,OCLN_HUMAN,Literature review,1,-1,Plasma Membrane,enzyme,0,0,0,0,0,1,1,1, 
+P15924,DSP,Desmoplakin,DESP_HUMAN,Literature review,1,-1,Plasma Membrane,other,1,0,1,0,1,1,1,1, 
+P21912,SDHB,Succinate dehydrogenase (ubiquinone),DHSB_HUMAN,Literature review,1,2,Cytoplasm,enzyme,1,0,1,0,0,1,1,1, 
+P26038,MSN,Moesin,MOES_HUMAN,Literature review,,2,Plasma Membrane,other,1,0,0,0,1,1,1,1, 
+P27701,CD82,CD82 antigen / Kangai-1,CD82_HUMAN,Literature review,1,-1,Plasma Membrane,other,1,0,1,0,1,1,1,1, 
+P30043,BLVRB,Biliverdin reductase B,BLVRB_HUMAN,Literature review,1,2,Cytoplasm,enzyme,0,0,0,0,1,0,0,0, 
+P40261,NNMT,Nicotinamide N-methyltransferaseb,NNMT_HUMAN,Literature review,,2,Cytoplasm,enzyme,0,0,0,0,0,1,0,0,unspecified application
+P67936,TPM4,Tropomyosin alpha-4 chain),TPM4_HUMAN,Literature review,1,2,Cytoplasm,other,1,0,1,0,0,0,0,0, 
+Q02413,DSG1,Desmoglein-1,DSG1_HUMAN,Literature review,1,-1,Plasma Membrane,other,1,0,1,0,1,1,1,0, 
+Q15436,SEC23A,Transport protein Sec23 isoform A,SC23A_HUMAN,Literature review,1,2,Cytoplasm,transporter,1,0,1,0,0,1,1,1, 
+Q99527,GPER,G-protein coupled estrogen receptor 1/ GPR30,GPER_HUMAN,Literature review,1,1,Plasma Membrane,G-protein coupled receptor,0,0,0,0,0,1,0,1, 
+P26715,KLRC1,NKG2-A/NKG2-B type II integral membrane protein,NKG2A_HUMAN,Literature review,1,-1,Plasma Membrane,transmembrane receptor,1,0,0,0,0,0,0,0, 
+O75795,UGT2B17 gene,UDP-glucuronosyltransferase 2B17,UDB17_HUMAN,Literature review,1,1,Cytoplasm,enzyme,0,0,0,0,0,0,0,1,diagnosis
+P05120,SERPINB2,Plasminogen activator inhibitor 2,PAI2_HUMAN,Literature review,1,2,Extracellular Space,other,1,0,1,0,0,1,1,0,response to therapy
+P09486,SPARC,SPARC / osteonectin,SPRC_HUMAN,Literature review,1,-1,Extracellular Space,other,1,0,1,0,0,1,1,1,"disease progression,efficacy,prognosis"
+P09544,WNT2 / IRP,Protein Wnt-2,WNT2_HUMAN,Literature review,1,1,Extracellular Space,cytokine,0,0,0,0,0,0,1,0, 
+P16112,ACAN,Aggrecan core protein,PGCA_HUMAN,Literature review,1,1,Extracellular Space,other,0,0,0,0,0,0,0,0,unspecified application
+P35613,BSG,CD 147 / Basigin,BASI_HUMAN,Literature review,1,1,Plasma Membrane,transporter,1,0,0,0,1,1,1,1,"disease progression,prognosis,response to therapy"
+P41221,WNT5A,Protein Wnt-5a,WNT5A_HUMAN,Literature review,1,1,Extracellular Space,cytokine,1,0,0,0,0,1,1,1, 
+Q07820,Mcl-1 gene,Induced myeloid leukemia cell differentiation protein Mcl-1,MCL1_HUMAN,Literature review,1,1,Cytoplasm,transporter,1,0,0,0,0,1,1,1,"efficacy,prognosis"
+Q12964,MUC8,Mucin,Q12964_HUMAN,Literature review,1,1,Extracellular Space,other,0,0,0,0,0,0,0,0, 
+Q13641,TPBG,Trophoblast glycoprotein,TPBG_HUMAN,Literature review,1,1,Plasma Membrane,other,0,0,0,0,0,1,0,0, 
+Q01650,SLC7A5,"solute carrier family 7 (amino acid transporter light chain, L system), member 5",LAT1_HUMAN,IPA,1,2,Plasma Membrane,transporter,1,0,0,0,0,1,1,1,diagnosis
+Q03135,CAV1,"caveolin 1, caveolae protein, 22kDa",CAV1_HUMAN,IPA,1,-1,Plasma Membrane,transmembrane receptor,1,0,0,0,1,1,1,1,diagnosis
+Q03167,TGFBR3,"transforming growth factor, beta receptor III",TGBR3_HUMAN,IPA,1,-1,Plasma Membrane,kinase,0,0,0,0,1,1,1,1,diagnosis
+O95863,SNAI1,Zinc finger protein SNAI1,SNAI1_HUMAN,,1,1,,,0,0,0,0,0,0,0,0,
+O43623,SNAI2,Zinc finger protein SNAI2,SNAI2_HUMAN,,1,1,,,0,0,0,0,0,0,0,0,
+Q01826,SATB1,DNA-binding protein SATB1,SATB1_HUMAN,,1,2,,,0,0,0,0,0,0,0,0,
+Q9NYL2,MLTK /ZAK,Mitogen-activated protein kinase kinase kinase MLT,MLTK_HUMAN,,1,2,,,0,0,0,0,0,0,0,0,
+Q15303,ERBB4,Receptor tyrosine-protein kinase erbB-4,ERBB4_HUMAN,,1,1,,,0,0,0,0,0,0,0,0,
+P78545,ELF3,ETS-related transcription factor Elf-3,ELF3_HUMAN,,1,1,,,0,0,0,0,0,0,0,0,
+Q6UXB2,CXCL17,VEGF co-regulated chemokine 1,VCC1_HUMAN,,1,1,,,0,0,0,0,0,0,0,0,
+P51692,STAT5B,Signal transducer and activator of transcription 5B,STA5B_HUMAN,,1,-1,,,0,0,0,0,0,0,0,0,
+P17252,PKCA,Protein kinase C alpha type,KPCA_HUMAN,,1,-1,,,0,0,0,0,0,0,0,0,
+P07288,KLK3,Prostate-specific antigen,KLK3_HUMAN,Literature review,1,2,Extracellular Space,peptidase,1,0,1,0,1,1,1,1,"diagnosis,disease progression,efficacy,safety,unspecified application"
+P22352,GPX3,glutathione peroxidase 3 (plasma),GPX3_HUMAN,IPA,1,-1,Extracellular Space,enzyme,1,0,1,0,1,1,1,1,"diagnosis,unspecified application"
+P24462,CYP3A7,Cytochrome P450 3A7,CP3A7_HUMAN,Literature review,1,-1,,,0,0,0,0,0,0,0,0,
+O00204,SULT2B1,Sulfotransferase family cytosolic 2B member 1,ST2B1_HUMAN,Literature review,1,1,,,0,0,0,0,0,0,0,0,
+P16662,UGT2B7,UDP-glucuronosyltransferase 2B7,UD2B7_HUMAN,Literature review,1,1,,,0,0,0,0,0,0,0,0,
+P09211,GSTP1,Glutathione S-transferase P,GSTP1_HUMAN,Literature review,1,1,,,0,0,0,0,0,0,0,0,
+Q9UHF7,TRPS1,trichorhinophalangeal syndrome I,TRPS1_HUMAN,IPA,1,2,Nucleus,transcription regulator,1,0,1,0,0,1,1,1,"diagnosis,prognosis"
+P49765,VEGF-B,Vascular endothelial growth factor B,VEGFB_HUMAN,,1,-1,,,0,0,0,0,0,0,0,0,
+Q96D21,RASD2 / TEM-2,Tumour endothelial marker 2 / GTP-binding protein Rhes,RHES_HUMAN,Literature review,1,1,,,0,0,0,0,0,0,0,0,
+Q8IUK5,PLXDC1 / TEM-7,Plexin domain-containing protein 1/ Tumor endothelial marker 7,PLDX1_HUMAN,Literature review,1,1,,,0,0,0,0,0,0,0,0,
+Q02224,CENPE,Centromere-associated protein E,CENPE_HUMAN,Literature review,1,2,,,0,0,0,0,0,0,0,0,
+P10275,AR,androgen receptor,ANDR_HUMAN,IPA,1,-1,Nucleus,ligand-dependent nuclear receptor,1,0,1,0,0,1,1,1,"diagnosis,disease progression,efficacy,prognosis"
+O00744,Wnt10b,Protein Wnt-10b,WN10B_HUMAN,Literature review,1,1,Extracellular Space,other,0,0,0,0,0,0,0,0,diagnosis
+Q9UMD9,COL17A1,Collagen alpha-1(XVII) chain,COHA1_HUMAN,,,1,,,0,0,0,0,0,0,0,0,
+Q02447,SP3,Transcription factor Sp3,SP3_HUMAN,Literature review,1,1,Nucleus,transcription regulator,0,0,0,0,0,1,1,1, 
+P24592,IGFBP6,insulin-like growth factor binding protein 6,IBP6_HUMAN,IPA,1,1,Extracellular Space,other,1,0,1,0,1,1,1,1,diagnosis
+P54852,EMP3,epithelial membrane protein 3,EMP3_HUMAN,IPA,1,1,Plasma Membrane,other,0,0,0,0,0,1,0,1,diagnosis
+P58335,ANTXR2,anthrax toxin receptor 2,ANTR2_HUMAN,IPA,1,2,Plasma Membrane,transmembrane receptor,1,0,0,0,0,1,1,1,diagnosis
+Q9GZU2,PEG3,paternally expressed 3,PEG3_HUMAN,IPA,1,1,Nucleus,kinase,0,0,0,0,0,1,1,1,diagnosis
+Q9UNQ0,ABCG2,"ATP-binding cassette, sub-family G (WHITE), member 2",ABCG2_HUMAN,IPA,1,1,Plasma Membrane,transporter,1,0,0,0,0,1,1,1,"diagnosis,efficacy,prognosis"
+Q9Y243,AKT3,"v-akt murine thymoma viral oncogene homolog 3 (protein kinase B, gamma)",AKT3_HUMAN,IPA,1,1,Cytoplasm,kinase,1,0,1,0,0,1,1,1,"disease progression,efficacy"
+Q96AM1,MRGPRF,Mas-related G-protein coupled receptor member F,MRGRF_HUMAN,Literature review,1,1,,,0,0,0,0,0,0,0,0,
+P35749,MYH11,Myosin-11,MYH11_HUMAN,Literature review,1,1,,,0,0,0,0,0,0,0,0,
+Q9UMS6,SYNPO2,Synaptopodin-2,SYNP2_HUMAN,Literature review,1,1,,,0,0,0,0,0,0,0,0,
+Q8N2R0,OSR2,Protein odd-skipped-related 2,OSR2_HUMAN,Literature review,,1,,,0,0,0,0,0,0,0,0,
+P29536,LMOD1,Leiomodin-1,LMOD1_HUMAN,Literature review,,1,,,0,0,0,0,0,0,0,0,
+O60894,RAMP1,Receptor activity-modifying protein 1,RAMP1_HUMAN,Literature review,,1,,,0,0,0,0,0,0,0,0,
+O43294,TGFB1I1,Transforming growth factor beta-1-induced transcript 1 protein,TGFI1_HUMAN,Literature review,,1,,,0,0,0,0,0,0,0,0,
+Q13642,FHL1,Four and a half LIM domains protein 1,FHL1_HUMAN,Literature review,,2,,,0,0,0,0,0,0,0,0,
