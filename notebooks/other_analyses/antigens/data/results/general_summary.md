@@ -12,6 +12,10 @@ when computing the pipeline and they will be manually reviewed, but is a very sm
 This document aims to provide a quick and comprehensive summary of the key metrics and findings for each protein, serving as an entry point
 to more in-depth analyses.
 
+
+The calculations were performed using this [pipeline](<../../pipeline_run.ipynb>), using functions available in this [library](<../../pipeline_functions.py>) and others from a structural repository not available here. The results were parsed to compose this table and all the detailed tables for proteins in this [notebook](<../../pipeline_parse.ipynb>).
+
+
 ### Tools Utilized
 - **UniProt XML file**: Used to gather protein-specific information, including isoforms, biological attributes and identifiers in other databases.
 - **Discotope 3.0**: Utilized for predicting potential epitope regions based on structural data.
