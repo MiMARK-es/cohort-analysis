@@ -21,13 +21,17 @@
 - **Biomarker Application**: diagnosis,efficacy,unspecified application
 - **Number of Isoforms**: 2
 - **Regulation**: 2
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 0.68
+- **(transcriptomics) Fold Change**: 1.50
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 93
 - **Max n_uniprots (Homo)**: 1
 - **Max n_uniprots (Hetero)**: N/A
 
+
+## Expression Comparison
+
+![Expression Comparison](./P11511_expression_comparison.png)
 
 ## Isoform Alignment
 
@@ -104,17 +108,17 @@ P11511-2 <span>M</span><span>V</span><span>L</span><span>E</span><span>M</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            1 | Homo          | 4gl5         |
-|            0 |          1 |            1 | Homo          | 3s7s         |
-|            0 |          1 |            1 | Homo          | 5jkw         |
-|            0 |          1 |            1 | Homo          | 3eqm         |
-|            0 |          1 |            1 | Homo          | 4kq8         |
-|            0 |          1 |            1 | Homo          | 5jl9         |
-|            0 |          1 |            1 | Homo          | 5jl6         |
-|            0 |          1 |            1 | Homo          | 5jkv         |
-|            0 |          1 |            1 | Homo          | 4gl7         |
 |            0 |          1 |            1 | Homo          | 3s79         |
+|            0 |          1 |            1 | Homo          | 4gl5         |
 |            0 |          1 |            1 | Homo          | 5jl7         |
+|            0 |          1 |            1 | Homo          | 5jkw         |
+|            0 |          1 |            1 | Homo          | 5jl9         |
+|            0 |          1 |            1 | Homo          | 5jkv         |
+|            0 |          1 |            1 | Homo          | 5jl6         |
+|            0 |          1 |            1 | Homo          | 4kq8         |
+|            0 |          1 |            1 | Homo          | 4gl7         |
+|            0 |          1 |            1 | Homo          | 3s7s         |
+|            0 |          1 |            1 | Homo          | 3eqm         |
 
 ## Combined Per-Residue Information
 

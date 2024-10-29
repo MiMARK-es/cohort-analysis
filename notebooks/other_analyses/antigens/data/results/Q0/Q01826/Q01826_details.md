@@ -57,15 +57,15 @@ Q01826-2 <span>M</span><span>D</span><span>H</span><span>L</span><span>N</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            1 | Homo          | 1yse         |
-|            0 |          1 |            3 | Homo          | 2o4a         |
-|            0 |          1 |            1 | Homo          | 2l1p         |
-|            0 |          1 |            1 | Homo          | 2mw8         |
-|            0 |          1 |            3 | Homo          | 6lff         |
-|            1 |          2 |            1 | Homo          | 6lff         |
-|            0 |          1 |            3 | Homo          | 2o49         |
-|            0 |          1 |            1 | Homo          | 3nzl         |
 |            0 |          1 |            4 | Homo          | 3tuo         |
+|            0 |          1 |            1 | Homo          | 2o4a         |
+|            0 |          1 |            1 | Homo          | 1yse         |
+|            0 |          1 |            1 | Homo          | 2mw8         |
+|            0 |          1 |            1 | Homo          | 2l1p         |
+|            0 |          1 |            1 | Homo          | 3nzl         |
+|            0 |          1 |            1 | Homo          | 2o49         |
+|            0 |          1 |            1 | Homo          | 6lff         |
+|            1 |          2 |            1 | Homo          | 6lff         |
 
 ## Combined Per-Residue Information
 

@@ -25,8 +25,8 @@
 - **(transcriptomics) Fold Change**: 1.39
 - **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 121
-- **Max n_uniprots (Homo)**: 8
-- **Max n_uniprots (Hetero)**: 6
+- **Max n_uniprots (Homo)**: 4
+- **Max n_uniprots (Hetero)**: 4
 
 
 ## Expression Comparison
@@ -53,39 +53,39 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            6 | Homo          | 3us0         |
-|            0 |          1 |            3 | Homo          | 3us1         |
-|            0 |          1 |            4 | Homo          | 3zy0         |
-|            0 |          1 |            4 | Hetero        | 2nb1         |
-|            0 |          1 |            6 | Homo          | 3qyn         |
-|            0 |          1 |            2 | Hetero        | 6ru7         |
-|            1 |          2 |            2 | Hetero        | 6ru7         |
-|            0 |          1 |            1 | Homo          | 2rmn         |
-|            0 |          1 |            8 | Homo          | 3qym         |
-|            1 |          2 |            8 | Homo          | 3qym         |
-|            2 |          3 |            8 | Homo          | 3qym         |
-|            0 |          1 |            1 | Homo          | 6fgn         |
-|            0 |          1 |            2 | Homo          | 7z71         |
-|            1 |          2 |            2 | Homo          | 7z71         |
 |            0 |          1 |            2 | Hetero        | 6ru8         |
 |            1 |          2 |            2 | Hetero        | 6ru8         |
 |            2 |          3 |            2 | Hetero        | 6ru8         |
 |            3 |          4 |            2 | Hetero        | 6ru8         |
-|            0 |          1 |            3 | Hetero        | 8p9e         |
-|            0 |          1 |            6 | Homo          | 3us2         |
-|            1 |          2 |            6 | Homo          | 3us2         |
-|            0 |          1 |            6 | Homo          | 7z73         |
-|            0 |          1 |            6 | Hetero        | 8p9d         |
-|            0 |          1 |            4 | Homo          | 4a9z         |
-|            0 |          1 |            1 | Homo          | 3zy1         |
-|            0 |          1 |            1 | Homo          | 1rg6         |
-|            0 |          1 |            3 | Hetero        | 8p9c         |
-|            0 |          1 |            1 | Homo          | 2y9t         |
-|            0 |          1 |            2 | Homo          | 7z72         |
+|            0 |          1 |            2 | Hetero        | 8p9c         |
+|            0 |          1 |            4 | Homo          | 3zy0         |
+|            0 |          1 |            2 | Hetero        | 8p9e         |
+|            0 |          1 |            1 | Homo          | 7z7e         |
+|            0 |          1 |            4 | Hetero        | 8p9d         |
+|            0 |          1 |            1 | Homo          | 2rmn         |
+|            0 |          1 |            1 | Homo          | 7z71         |
+|            1 |          2 |            1 | Homo          | 7z71         |
 |            0 |          1 |            1 | Homo          | 2y9u         |
+|            0 |          1 |            4 | Homo          | 3qym         |
+|            1 |          2 |            4 | Homo          | 3qym         |
+|            2 |          3 |            4 | Homo          | 3qym         |
+|            0 |          1 |            1 | Homo          | 7z72         |
+|            0 |          1 |            4 | Homo          | 7z73         |
+|            0 |          1 |            1 | Homo          | 3zy1         |
 |            0 |          1 |            2 | Hetero        | 6ru6         |
 |            1 |          2 |            1 | Homo          | 6ru6         |
-|            0 |          1 |            2 | Homo          | 7z7e         |
+|            0 |          1 |            4 | Homo          | 3qyn         |
+|            0 |          1 |            4 | Homo          | 3us2         |
+|            1 |          2 |            4 | Homo          | 3us2         |
+|            0 |          1 |            1 | Homo          | 1rg6         |
+|            0 |          1 |            1 | Homo          | 6fgn         |
+|            0 |          1 |            2 | Homo          | 3us1         |
+|            0 |          1 |            4 | Hetero        | 2nb1         |
+|            0 |          1 |            1 | Homo          | 2y9t         |
+|            0 |          1 |            4 | Homo          | 3us0         |
+|            0 |          1 |            4 | Homo          | 4a9z         |
+|            0 |          1 |            2 | Hetero        | 6ru7         |
+|            1 |          2 |            2 | Hetero        | 6ru7         |
 
 ## Combined Per-Residue Information
 

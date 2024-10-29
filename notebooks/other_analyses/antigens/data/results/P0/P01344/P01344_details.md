@@ -25,7 +25,7 @@
 - **(transcriptomics) Fold Change**: 1.32
 - **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 37
-- **Max n_uniprots (Homo)**: 3
+- **Max n_uniprots (Homo)**: 1
 - **Max n_uniprots (Hetero)**: 6
 
 
@@ -83,23 +83,23 @@ P01344-3 <span style='background-color: yellow;'>M</span><span style='background
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            2 | Hetero        | 2l29         |
-|            0 |          1 |            3 | Hetero        | 2v5p         |
-|            1 |          2 |            2 | Hetero        | 2v5p         |
-|            0 |          1 |            5 | Hetero        | 8vjc         |
-|            0 |          1 |            6 | Hetero        | 8vjb         |
-|            0 |          1 |            1 | Homo          | 5l3m         |
 |            0 |          1 |            3 | Hetero        | 6vwg         |
+|            0 |          1 |            6 | Hetero        | 8vjb         |
+|            0 |          1 |            1 | Homo          | 5l3n         |
+|            0 |          1 |            2 | Hetero        | 6um2         |
+|            0 |          1 |            1 | Homo          | 5l3m         |
+|            0 |          1 |            5 | Hetero        | 8u4e         |
 |            0 |          1 |            2 | Hetero        | 3e4z         |
 |            1 |          2 |            2 | Hetero        | 3e4z         |
-|            0 |          1 |            1 | Homo          | 1igl         |
-|            0 |          1 |            3 | Homo          | 3kr3         |
-|            0 |          1 |            2 | Hetero        | 6um2         |
-|            0 |          1 |            5 | Hetero        | 8u4e         |
-|            0 |          1 |            1 | Homo          | 5l3n         |
-|            0 |          1 |            3 | Hetero        | 6vwi         |
 |            0 |          1 |            6 | Hetero        | 8u4c         |
 |            0 |          1 |            1 | Homo          | 5l3l         |
+|            0 |          1 |            2 | Hetero        | 2v5p         |
+|            1 |          2 |            2 | Hetero        | 2v5p         |
+|            0 |          1 |            1 | Homo          | 1igl         |
+|            0 |          1 |            2 | Hetero        | 2l29         |
+|            0 |          1 |            3 | Hetero        | 6vwi         |
+|            0 |          1 |            1 | Homo          | 3kr3         |
+|            0 |          1 |            5 | Hetero        | 8vjc         |
 
 ## Combined Per-Residue Information
 

@@ -104,28 +104,28 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            1 | Homo          | 5bzx         |
-|            1 |          2 |            1 | Homo          | 5bzx         |
-|            2 |          3 |            1 | Homo          | 5bzx         |
-|            3 |          4 |            1 | Homo          | 5bzx         |
-|            0 |          1 |            2 | Hetero        | 2kyl         |
-|            0 |          1 |            2 | Hetero        | 7pc7         |
-|            1 |          2 |            2 | Hetero        | 7pc7         |
-|            0 |          1 |            1 | Homo          | 7jul         |
-|            0 |          1 |            1 | Homo          | 7juk         |
-|            0 |          1 |            1 | Homo          | 5bug         |
-|            1 |          2 |            1 | Homo          | 5bug         |
-|            2 |          3 |            1 | Homo          | 5bug         |
-|            3 |          4 |            1 | Homo          | 5bug         |
-|            0 |          1 |            2 | Hetero        | 8x3s         |
-|            0 |          1 |            2 | Hetero        | 4o1v         |
-|            0 |          1 |            1 | Homo          | 1d5r         |
-|            0 |          1 |            1 | Hetero        | 7jtx         |
 |            0 |          1 |            1 | Homo          | 5bzz         |
 |            1 |          2 |            1 | Homo          | 5bzz         |
 |            2 |          3 |            1 | Homo          | 5bzz         |
 |            3 |          4 |            1 | Homo          | 5bzz         |
+|            0 |          1 |            1 | Homo          | 1d5r         |
 |            0 |          1 |            1 | Homo          | 7jvx         |
+|            0 |          1 |            1 | Homo          | 7juk         |
+|            0 |          1 |            2 | Hetero        | 7pc7         |
+|            1 |          2 |            2 | Hetero        | 7pc7         |
+|            0 |          1 |            1 | Homo          | 5bug         |
+|            1 |          2 |            1 | Homo          | 5bug         |
+|            2 |          3 |            1 | Homo          | 5bug         |
+|            3 |          4 |            1 | Homo          | 5bug         |
+|            0 |          1 |            2 | Hetero        | 2kyl         |
+|            0 |          1 |            2 | Hetero        | 8x3s         |
+|            0 |          1 |            0 | Hetero        | 7jtx         |
+|            0 |          1 |            1 | Homo          | 5bzx         |
+|            1 |          2 |            1 | Homo          | 5bzx         |
+|            2 |          3 |            1 | Homo          | 5bzx         |
+|            3 |          4 |            1 | Homo          | 5bzx         |
+|            0 |          1 |            2 | Hetero        | 4o1v         |
+|            0 |          1 |            1 | Homo          | 7jul         |
 
 ## Combined Per-Residue Information
 

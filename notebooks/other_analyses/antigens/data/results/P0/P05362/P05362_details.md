@@ -25,7 +25,7 @@
 - **(transcriptomics) Fold Change**: 1.04
 - **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 130
-- **Max n_uniprots (Homo)**: 6
+- **Max n_uniprots (Homo)**: 4
 - **Max n_uniprots (Hetero)**: 5
 
 
@@ -95,18 +95,11 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            4 | Hetero        | 2oz4         |
-|            0 |          1 |            3 | Hetero        | 5mza         |
-|            0 |          1 |            1 | Homo          | 1iam         |
-|            0 |          1 |            4 | Hetero        | 1mq8         |
-|            1 |          2 |            4 | Hetero        | 1mq8         |
-|            0 |          1 |            1 | Homo          | 1d3l         |
-|            0 |          1 |            5 | Hetero        | 7bg7         |
-|            0 |          1 |            5 | Homo          | 1d3e         |
-|            0 |          1 |            1 | Homo          | 1p53         |
-|            1 |          2 |            1 | Homo          | 1p53         |
-|            0 |          1 |            5 | Hetero        | 1d3i         |
-|            0 |          1 |            6 | Homo          | 1z7z         |
+|            0 |          1 |            4 | Homo          | 1d3e         |
+|            0 |          1 |            3 | Hetero        | 2oz4         |
+|            0 |          1 |            1 | Homo          | 1z7z         |
+|            0 |          1 |            2 | Hetero        | 1mq8         |
+|            1 |          2 |            2 | Hetero        | 1mq8         |
 |            0 |          1 |            2 | Hetero        | 3tcx         |
 |            1 |          2 |            2 | Hetero        | 3tcx         |
 |            2 |          3 |            2 | Hetero        | 3tcx         |
@@ -122,9 +115,16 @@
 |           12 |         13 |            2 | Hetero        | 3tcx         |
 |           13 |         14 |            2 | Hetero        | 3tcx         |
 |            0 |          1 |            4 | Hetero        | 6eit         |
-|            0 |          1 |            3 | Hetero        | 6s8u         |
-|            0 |          1 |            2 | Homo          | 1ic1         |
-|            1 |          2 |            3 | Homo          | 1ic1         |
+|            0 |          1 |            2 | Hetero        | 6s8u         |
+|            0 |          1 |            5 | Hetero        | 1d3i         |
+|            0 |          1 |            1 | Homo          | 1d3l         |
+|            0 |          1 |            1 | Homo          | 1ic1         |
+|            1 |          2 |            1 | Homo          | 1ic1         |
+|            0 |          1 |            5 | Hetero        | 7bg7         |
+|            0 |          1 |            2 | Hetero        | 5mza         |
+|            0 |          1 |            1 | Homo          | 1p53         |
+|            1 |          2 |            1 | Homo          | 1p53         |
+|            0 |          1 |            1 | Homo          | 1iam         |
 
 ## Combined Per-Residue Information
 

@@ -21,13 +21,17 @@
 - **Biomarker Application**: diagnosis
 - **Number of Isoforms**: 3
 - **Regulation**: -1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 0.76
+- **(transcriptomics) Fold Change**: 1.09
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 34
 - **Max n_uniprots (Homo)**: 1
 - **Max n_uniprots (Hetero)**: N/A
 
+
+## Expression Comparison
+
+![Expression Comparison](./P09455_expression_comparison.png)
 
 ## Isoform Alignment
 
@@ -74,28 +78,28 @@ P09455-3 <span style='background-color: yellow;'>M</span><span style='background
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            1 | Homo          | 6e5t         |
-|            0 |          1 |            1 | Homo          | 5ljk         |
-|            0 |          1 |            1 | Homo          | 5ha1         |
-|            0 |          1 |            1 | Homo          | 5h9a         |
+|            0 |          1 |            1 | Homo          | 5lje         |
+|            0 |          1 |            1 | Homo          | 5ljd         |
+|            0 |          1 |            1 | Homo          | 5hbs         |
+|            0 |          1 |            1 | Homo          | 5ljc         |
 |            0 |          1 |            1 | Homo          | 5ljg         |
+|            0 |          1 |            1 | Homo          | 5h9a         |
+|            0 |          1 |            1 | Homo          | 8gdm         |
 |            0 |          1 |            1 | Homo          | 6e6m         |
 |            1 |          2 |            1 | Homo          | 6e6m         |
 |            2 |          3 |            1 | Homo          | 6e6m         |
-|            0 |          1 |            1 | Homo          | 5h8t         |
-|            0 |          1 |            1 | Homo          | 5ljc         |
-|            0 |          1 |            1 | Homo          | 6e5l         |
-|            0 |          1 |            1 | Homo          | 8gem         |
-|            0 |          1 |            1 | Homo          | 5ljb         |
-|            0 |          1 |            1 | Homo          | 5lje         |
-|            0 |          1 |            1 | Homo          | 5ljd         |
-|            0 |          1 |            1 | Homo          | 5ljh         |
-|            0 |          1 |            1 | Homo          | 8gd2         |
 |            0 |          1 |            1 | Homo          | 8gev         |
+|            0 |          1 |            1 | Homo          | 6e5t         |
+|            0 |          1 |            1 | Homo          | 5ljk         |
+|            0 |          1 |            1 | Homo          | 6e5l         |
+|            0 |          1 |            1 | Homo          | 5ha1         |
+|            0 |          1 |            1 | Homo          | 8gd2         |
+|            0 |          1 |            1 | Homo          | 5h8t         |
+|            0 |          1 |            1 | Homo          | 8gem         |
 |            0 |          1 |            1 | Homo          | 8gey         |
-|            0 |          1 |            1 | Homo          | 8gdm         |
+|            0 |          1 |            1 | Homo          | 5ljb         |
 |            0 |          1 |            1 | Homo          | 8geu         |
-|            0 |          1 |            1 | Homo          | 5hbs         |
+|            0 |          1 |            1 | Homo          | 5ljh         |
 
 ## Combined Per-Residue Information
 

@@ -21,13 +21,17 @@
 - **Biomarker Application**:  
 - **Number of Isoforms**: 2
 - **Regulation**: 1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 0.7
+- **(transcriptomics) Fold Change**: 1.04
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 99
 - **Max n_uniprots (Homo)**: 6
-- **Max n_uniprots (Hetero)**: 11
+- **Max n_uniprots (Hetero)**: 9
 
+
+## Expression Comparison
+
+![Expression Comparison](./Q8N6T7_expression_comparison.png)
 
 ## Isoform Alignment
 
@@ -72,67 +76,18 @@ Q8N6T7-2 <span>M</span><span>S</span><span>V</span><span>N</span><span>Y</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            1 | Homo          | 8ak7         |
-|            1 |          2 |            1 | Homo          | 8ak7         |
-|            0 |          1 |            2 | Homo          | 8cnm         |
-|            0 |          1 |            1 | Homo          | 5mfp         |
-|            1 |          2 |            1 | Homo          | 5mfp         |
-|            0 |          1 |            2 | Homo          | 7cl1         |
-|            0 |          1 |            1 | Homo          | 8akc         |
-|            1 |          2 |            1 | Homo          | 8akc         |
-|            0 |          1 |            1 | Homo          | 8akd         |
-|            1 |          2 |            1 | Homo          | 8akd         |
-|            0 |          1 |            2 | Homo          | 8i2b         |
-|            0 |          1 |            1 | Homo          | 8ak9         |
-|            1 |          2 |            1 | Homo          | 8ak9         |
-|            0 |          1 |            1 | Homo          | 5mf6         |
-|            1 |          2 |            1 | Homo          | 5mf6         |
-|            0 |          1 |            1 | Homo          | 6xvg         |
-|            1 |          2 |            1 | Homo          | 6xvg         |
-|            2 |          3 |            1 | Homo          | 6xvg         |
-|            3 |          4 |            1 | Homo          | 6xvg         |
-|            4 |          5 |            1 | Homo          | 6xvg         |
-|            5 |          6 |            1 | Homo          | 6xvg         |
-|            0 |          1 |            1 | Homo          | 6xuy         |
-|            1 |          2 |            1 | Homo          | 6xuy         |
-|            0 |          1 |            1 | Homo          | 6qcd         |
-|            1 |          2 |            1 | Homo          | 6qcd         |
-|            0 |          1 |            1 | Homo          | 6qce         |
-|            1 |          2 |            1 | Homo          | 6qce         |
-|            0 |          1 |           11 | Hetero        | 8g57         |
-|            0 |          1 |            1 | Homo          | 3pkj         |
-|            1 |          2 |            1 | Homo          | 3pkj         |
-|            2 |          3 |            1 | Homo          | 3pkj         |
-|            3 |          4 |            1 | Homo          | 3pkj         |
-|            4 |          5 |            1 | Homo          | 3pkj         |
-|            5 |          6 |            1 | Homo          | 3pkj         |
-|            6 |          7 |            6 | Homo          | 3pkj         |
-|            0 |          1 |            1 | Homo          | 8ak8         |
-|            1 |          2 |            1 | Homo          | 8ak8         |
-|            0 |          1 |            2 | Homo          | 6zu4         |
-|            0 |          1 |            1 | Homo          | 8akf         |
-|            1 |          2 |            1 | Homo          | 8akf         |
-|            0 |          1 |           11 | Hetero        | 8of4         |
-|            0 |          1 |            2 | Homo          | 8cno         |
 |            0 |          1 |            1 | Homo          | 8ak5         |
 |            1 |          2 |            1 | Homo          | 8ak5         |
-|            0 |          1 |            1 | Homo          | 6hoy         |
-|            1 |          2 |            1 | Homo          | 6hoy         |
-|            0 |          1 |            2 | Homo          | 5y2f         |
-|            0 |          1 |            1 | Homo          | 6qch         |
-|            1 |          2 |            1 | Homo          | 6qch         |
+|            0 |          1 |            1 | Homo          | 3zg6         |
+|            0 |          1 |            1 | Homo          | 8bl1         |
+|            1 |          2 |            1 | Homo          | 8bl1         |
+|            0 |          1 |            1 | Homo          | 6xv1         |
+|            1 |          2 |            1 | Homo          | 6xv1         |
+|            0 |          1 |            1 | Homo          | 5mfp         |
+|            1 |          2 |            1 | Homo          | 5mfp         |
+|            0 |          1 |            2 | Homo          | 6qcj         |
 |            0 |          1 |            1 | Homo          | 5mgn         |
 |            1 |          2 |            1 | Homo          | 5mgn         |
-|            0 |          1 |            2 | Homo          | 3zg6         |
-|            0 |          1 |            2 | Homo          | 7cl0         |
-|            0 |          1 |            1 | Homo          | 5x16         |
-|            0 |          1 |            1 | Homo          | 5mfz         |
-|            1 |          2 |            1 | Homo          | 5mfz         |
-|            0 |          1 |            1 | Homo          | 8ak6         |
-|            1 |          2 |            1 | Homo          | 8ak6         |
-|            0 |          1 |            1 | Homo          | 8akg         |
-|            1 |          2 |            1 | Homo          | 8akg         |
-|            0 |          1 |            2 | Homo          | 6qcj         |
 |            0 |          1 |            1 | Homo          | 3pki         |
 |            1 |          2 |            1 | Homo          | 3pki         |
 |            2 |          3 |            1 | Homo          | 3pki         |
@@ -141,20 +96,71 @@ Q8N6T7-2 <span>M</span><span>S</span><span>V</span><span>N</span><span>Y</span><
 |            5 |          6 |            1 | Homo          | 3pki         |
 |            6 |          7 |            3 | Homo          | 3pki         |
 |            7 |          8 |            3 | Homo          | 3pki         |
+|            0 |          1 |            1 | Homo          | 6qce         |
+|            1 |          2 |            1 | Homo          | 6qce         |
+|            0 |          1 |            1 | Homo          | 8ak7         |
+|            1 |          2 |            1 | Homo          | 8ak7         |
+|            0 |          1 |            1 | Homo          | 8bl0         |
+|            1 |          2 |            1 | Homo          | 8bl0         |
+|            0 |          1 |            1 | Homo          | 8ak6         |
+|            1 |          2 |            1 | Homo          | 8ak6         |
+|            0 |          1 |            1 | Homo          | 3pkj         |
+|            1 |          2 |            1 | Homo          | 3pkj         |
+|            2 |          3 |            1 | Homo          | 3pkj         |
+|            3 |          4 |            1 | Homo          | 3pkj         |
+|            4 |          5 |            1 | Homo          | 3pkj         |
+|            5 |          6 |            1 | Homo          | 3pkj         |
+|            6 |          7 |            6 | Homo          | 3pkj         |
+|            0 |          1 |            9 | Hetero        | 8g57         |
+|            0 |          1 |            1 | Homo          | 7cl1         |
+|            0 |          1 |            1 | Homo          | 8akg         |
+|            1 |          2 |            1 | Homo          | 8akg         |
+|            0 |          1 |            2 | Homo          | 8cno         |
+|            0 |          1 |            1 | Homo          | 6qch         |
+|            1 |          2 |            1 | Homo          | 6qch         |
+|            0 |          1 |            2 | Homo          | 8i2b         |
+|            0 |          1 |            8 | Hetero        | 8of4         |
+|            0 |          1 |            1 | Homo          | 8akc         |
+|            1 |          2 |            1 | Homo          | 8akc         |
+|            0 |          1 |            2 | Homo          | 8cnm         |
+|            0 |          1 |            1 | Homo          | 6qcd         |
+|            1 |          2 |            1 | Homo          | 6qcd         |
+|            0 |          1 |            1 | Homo          | 8akb         |
+|            1 |          2 |            1 | Homo          | 8akb         |
 |            0 |          1 |            1 | Homo          | 6xv6         |
 |            1 |          2 |            1 | Homo          | 6xv6         |
 |            2 |          3 |            1 | Homo          | 6xv6         |
 |            3 |          4 |            1 | Homo          | 6xv6         |
 |            4 |          5 |            1 | Homo          | 6xv6         |
 |            5 |          6 |            1 | Homo          | 6xv6         |
+|            0 |          1 |            1 | Homo          | 6xuy         |
+|            1 |          2 |            1 | Homo          | 6xuy         |
+|            0 |          1 |            1 | Homo          | 5mf6         |
+|            1 |          2 |            1 | Homo          | 5mf6         |
+|            0 |          1 |            1 | Homo          | 5mfz         |
+|            1 |          2 |            1 | Homo          | 5mfz         |
+|            0 |          1 |            1 | Homo          | 5y2f         |
+|            0 |          1 |            1 | Homo          | 6xvg         |
+|            1 |          2 |            1 | Homo          | 6xvg         |
+|            2 |          3 |            1 | Homo          | 6xvg         |
+|            3 |          4 |            1 | Homo          | 6xvg         |
+|            4 |          5 |            1 | Homo          | 6xvg         |
+|            5 |          6 |            1 | Homo          | 6xvg         |
+|            0 |          1 |            1 | Homo          | 8aka         |
+|            1 |          2 |            1 | Homo          | 8aka         |
 |            0 |          1 |            1 | Homo          | 8ake         |
 |            1 |          2 |            1 | Homo          | 8ake         |
-|            0 |          1 |            1 | Homo          | 6xv1         |
-|            1 |          2 |            1 | Homo          | 6xv1         |
-|            0 |          1 |            1 | Homo          | 8akb         |
-|            1 |          2 |            1 | Homo          | 8akb         |
-|            0 |          1 |            1 | Homo          | 8bl0         |
-|            1 |          2 |            1 | Homo          | 8bl0         |
+|            0 |          1 |            1 | Homo          | 7cl0         |
+|            0 |          1 |            1 | Homo          | 6hoy         |
+|            1 |          2 |            1 | Homo          | 6hoy         |
+|            0 |          1 |            1 | Homo          | 8akd         |
+|            1 |          2 |            1 | Homo          | 8akd         |
+|            0 |          1 |            1 | Homo          | 8ak8         |
+|            1 |          2 |            1 | Homo          | 8ak8         |
+|            0 |          1 |            1 | Homo          | 8ak9         |
+|            1 |          2 |            1 | Homo          | 8ak9         |
+|            0 |          1 |            8 | Hetero        | 8f86         |
+|            0 |          1 |            2 | Homo          | 6zu4         |
 |            0 |          1 |            1 | Homo          | 3k35         |
 |            1 |          2 |            1 | Homo          | 3k35         |
 |            2 |          3 |            1 | Homo          | 3k35         |
@@ -162,11 +168,9 @@ Q8N6T7-2 <span>M</span><span>S</span><span>V</span><span>N</span><span>Y</span><
 |            4 |          5 |            1 | Homo          | 3k35         |
 |            5 |          6 |            1 | Homo          | 3k35         |
 |            6 |          7 |            6 | Homo          | 3k35         |
-|            0 |          1 |           11 | Hetero        | 8f86         |
-|            0 |          1 |            1 | Homo          | 8bl1         |
-|            1 |          2 |            1 | Homo          | 8bl1         |
-|            0 |          1 |            1 | Homo          | 8aka         |
-|            1 |          2 |            1 | Homo          | 8aka         |
+|            0 |          1 |            1 | Homo          | 5x16         |
+|            0 |          1 |            1 | Homo          | 8akf         |
+|            1 |          2 |            1 | Homo          | 8akf         |
 
 ## Combined Per-Residue Information
 

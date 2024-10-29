@@ -26,7 +26,7 @@
 - **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 46
 - **Max n_uniprots (Homo)**: 2
-- **Max n_uniprots (Hetero)**: 4
+- **Max n_uniprots (Hetero)**: 2
 
 
 ## Expression Comparison
@@ -114,20 +114,20 @@ Q01196-11 <span style='background-color: yellow;'>-</span><span style='backgroun
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            4 | Hetero        | 1h9d         |
-|            1 |          2 |            4 | Hetero        | 1h9d         |
+|            0 |          1 |            1 | Homo          | 1co1         |
+|            0 |          1 |            1 | Homo          | 1ljm         |
+|            1 |          2 |            1 | Homo          | 1ljm         |
+|            2 |          3 |            2 | Homo          | 1ljm         |
+|            3 |          4 |            1 | Homo          | 1ljm         |
 |            0 |          1 |            2 | Hetero        | 1e50         |
 |            1 |          2 |            2 | Hetero        | 1e50         |
 |            2 |          3 |            2 | Hetero        | 1e50         |
 |            3 |          4 |            2 | Hetero        | 1e50         |
 |            4 |          5 |            1 | Homo          | 1e50         |
 |            5 |          6 |            1 | Homo          | 1e50         |
+|            0 |          1 |            2 | Hetero        | 1h9d         |
+|            1 |          2 |            2 | Hetero        | 1h9d         |
 |            0 |          1 |            1 | Homo          | 1cmo         |
-|            0 |          1 |            1 | Homo          | 1ljm         |
-|            1 |          2 |            1 | Homo          | 1ljm         |
-|            2 |          3 |            2 | Homo          | 1ljm         |
-|            3 |          4 |            1 | Homo          | 1ljm         |
-|            0 |          1 |            1 | Homo          | 1co1         |
 
 ## Combined Per-Residue Information
 

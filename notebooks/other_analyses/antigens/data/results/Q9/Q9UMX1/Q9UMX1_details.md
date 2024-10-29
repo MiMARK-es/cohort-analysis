@@ -26,7 +26,7 @@
 - **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 129
 - **Max n_uniprots (Homo)**: 4
-- **Max n_uniprots (Hetero)**: 3
+- **Max n_uniprots (Hetero)**: 2
 
 
 ## Expression Comparison
@@ -74,29 +74,29 @@ Q9UMX1-3 <span>M</span><span>A</span><span>E</span><span>L</span><span>R</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            3 | Hetero        | 4blb         |
-|            1 |          2 |            3 | Hetero        | 4blb         |
-|            2 |          3 |            3 | Hetero        | 4blb         |
-|            3 |          4 |            3 | Hetero        | 4blb         |
-|            0 |          1 |            1 | Homo          | 4km9         |
-|            0 |          1 |            2 | Hetero        | 4kmd         |
-|            1 |          2 |            2 | Hetero        | 4kmd         |
-|            0 |          1 |            2 | Homo          | 4bl8         |
-|            1 |          2 |            2 | Homo          | 4bl8         |
+|            0 |          1 |            1 | Homo          | 4bl8         |
+|            1 |          2 |            1 | Homo          | 4bl8         |
 |            0 |          1 |            1 | Homo          | 4bla         |
 |            1 |          2 |            1 | Homo          | 4bla         |
 |            2 |          3 |            1 | Homo          | 4bla         |
 |            3 |          4 |            1 | Homo          | 4bla         |
-|            0 |          1 |            3 | Hetero        | 4bld         |
-|            1 |          2 |            3 | Hetero        | 4bld         |
-|            2 |          3 |            3 | Hetero        | 4bld         |
-|            3 |          4 |            3 | Hetero        | 4bld         |
+|            0 |          1 |            2 | Hetero        | 4bld         |
+|            1 |          2 |            2 | Hetero        | 4bld         |
+|            2 |          3 |            2 | Hetero        | 4bld         |
+|            3 |          4 |            2 | Hetero        | 4bld         |
 |            0 |          1 |            2 | Homo          | 4kmh         |
 |            0 |          1 |            4 | Homo          | 1m1l         |
-|            0 |          1 |            2 | Homo          | 4bl9         |
-|            1 |          2 |            2 | Homo          | 4bl9         |
-|            2 |          3 |            2 | Homo          | 4bl9         |
-|            3 |          4 |            2 | Homo          | 4bl9         |
+|            0 |          1 |            1 | Homo          | 4km9         |
+|            0 |          1 |            1 | Homo          | 4bl9         |
+|            1 |          2 |            1 | Homo          | 4bl9         |
+|            2 |          3 |            1 | Homo          | 4bl9         |
+|            3 |          4 |            1 | Homo          | 4bl9         |
+|            0 |          1 |            2 | Hetero        | 4kmd         |
+|            1 |          2 |            2 | Hetero        | 4kmd         |
+|            0 |          1 |            2 | Hetero        | 4blb         |
+|            1 |          2 |            2 | Hetero        | 4blb         |
+|            2 |          3 |            2 | Hetero        | 4blb         |
+|            3 |          4 |            2 | Hetero        | 4blb         |
 |            0 |          1 |            1 | Homo          | 4km8         |
 
 ## Combined Per-Residue Information

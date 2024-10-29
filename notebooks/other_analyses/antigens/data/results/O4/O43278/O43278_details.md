@@ -21,13 +21,17 @@
 - **Biomarker Application**: nan
 - **Number of Isoforms**: 2
 - **Regulation**: -1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 0.98
+- **(transcriptomics) Fold Change**: 1.85
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 148
 - **Max n_uniprots (Homo)**: 1
 - **Max n_uniprots (Hetero)**: 2
 
+
+## Expression Comparison
+
+![Expression Comparison](./O43278_expression_comparison.png)
 
 ## Isoform Alignment
 
@@ -67,14 +71,14 @@ O43278-2 <span>M</span><span>A</span><span>P</span><span>A</span><span>R</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            1 | Homo          | 5h7v         |
-|            0 |          1 |            2 | Hetero        | 1yc0         |
 |            0 |          1 |            2 | Hetero        | 4isn         |
 |            0 |          1 |            2 | Hetero        | 4isl         |
+|            0 |          1 |            1 | Homo          | 5h7v         |
+|            0 |          1 |            1 | Homo          | 2msx         |
+|            0 |          1 |            2 | Hetero        | 1yc0         |
+|            0 |          1 |            2 | Hetero        | 4iso         |
 |            0 |          1 |            1 | Homo          | 5ezd         |
 |            1 |          2 |            1 | Homo          | 5ezd         |
-|            0 |          1 |            1 | Homo          | 2msx         |
-|            0 |          1 |            2 | Hetero        | 4iso         |
 
 ## Combined Per-Residue Information
 

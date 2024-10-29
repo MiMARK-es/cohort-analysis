@@ -25,7 +25,7 @@
 - **(transcriptomics) Fold Change**: 7.94
 - **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 157
-- **Max n_uniprots (Homo)**: 3
+- **Max n_uniprots (Homo)**: 2
 - **Max n_uniprots (Hetero)**: N/A
 
 
@@ -73,11 +73,11 @@ O00425-2 <span style='background-color: yellow;'>-</span><span style='background
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            2 | Homo          | 6gx6         |
+|            0 |          1 |            1 | Homo          | 6gx6         |
 |            0 |          1 |            1 | Homo          | 6fq1         |
 |            1 |          2 |            1 | Homo          | 6fq1         |
+|            0 |          1 |            2 | Homo          | 6fqr         |
 |            0 |          1 |            1 | Homo          | 6gqe         |
-|            0 |          1 |            3 | Homo          | 6fqr         |
 |            0 |          1 |            1 | Homo          | 2e44         |
 
 ## Combined Per-Residue Information

@@ -26,7 +26,7 @@
 - **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 29
 - **Max n_uniprots (Homo)**: N/A
-- **Max n_uniprots (Hetero)**: 3
+- **Max n_uniprots (Hetero)**: 2
 
 
 ## Expression Comparison
@@ -68,10 +68,10 @@ Q13761-2 <span style='background-color: yellow;'>M</span><span style='background
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            3 | Hetero        | 5w69         |
-|            1 |          2 |            3 | Hetero        | 5w69         |
-|            2 |          3 |            3 | Hetero        | 5w69         |
-|            3 |          4 |            3 | Hetero        | 5w69         |
+|            0 |          1 |            2 | Hetero        | 5w69         |
+|            1 |          2 |            2 | Hetero        | 5w69         |
+|            2 |          3 |            2 | Hetero        | 5w69         |
+|            3 |          4 |            2 | Hetero        | 5w69         |
 
 ## Combined Per-Residue Information
 

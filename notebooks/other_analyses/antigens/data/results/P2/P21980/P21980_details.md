@@ -66,25 +66,25 @@ P21980-3 <span>M</span><span>A</span><span>E</span><span>E</span><span>L</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            1 | Homo          | 3ly6         |
-|            1 |          2 |            1 | Homo          | 3ly6         |
-|            2 |          3 |            1 | Homo          | 3ly6         |
-|            0 |          1 |            2 | Homo          | 2q3z         |
-|            1 |          2 |            2 | Homo          | 2q3z         |
 |            0 |          1 |            2 | Homo          | 1kv3         |
 |            1 |          2 |            2 | Homo          | 1kv3         |
 |            2 |          3 |            2 | Homo          | 1kv3         |
+|            0 |          1 |            1 | Homo          | 3s3s         |
+|            0 |          1 |            1 | Homo          | 3ly6         |
+|            1 |          2 |            1 | Homo          | 3ly6         |
+|            2 |          3 |            1 | Homo          | 3ly6         |
+|            0 |          1 |            1 | Homo          | 2q3z         |
+|            1 |          2 |            1 | Homo          | 2q3z         |
 |            0 |          1 |            1 | Homo          | 4pyg         |
 |            1 |          2 |            1 | Homo          | 4pyg         |
 |            2 |          3 |            1 | Homo          | 4pyg         |
 |            0 |          1 |            1 | Homo          | 6a8p         |
 |            1 |          2 |            1 | Homo          | 6a8p         |
 |            2 |          3 |            1 | Homo          | 6a8p         |
-|            0 |          1 |            2 | Homo          | 3s3p         |
-|            0 |          1 |            2 | Homo          | 3s3s         |
-|            0 |          1 |            2 | Homo          | 3s3j         |
 |            0 |          1 |            1 | Homo          | 6kzb         |
 |            1 |          2 |            2 | Homo          | 6kzb         |
+|            0 |          1 |            1 | Homo          | 3s3j         |
+|            0 |          1 |            1 | Homo          | 3s3p         |
 
 ## Combined Per-Residue Information
 

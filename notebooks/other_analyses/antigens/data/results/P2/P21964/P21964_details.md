@@ -74,22 +74,22 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
+|            0 |          1 |            1 | Homo          | 4xud         |
+|            0 |          1 |            1 | Homo          | 3bwm         |
+|            0 |          1 |            1 | Homo          | 3bwy         |
 |            0 |          1 |            1 | Homo          | 4pyj         |
 |            1 |          2 |            1 | Homo          | 4pyj         |
 |            0 |          1 |            1 | Homo          | 5lsa         |
-|            0 |          1 |            1 | Homo          | 4xuc         |
-|            0 |          1 |            1 | Homo          | 4xue         |
-|            1 |          2 |            1 | Homo          | 4xue         |
-|            0 |          1 |            1 | Homo          | 3bwm         |
-|            0 |          1 |            1 | Homo          | 6i3c         |
 |            0 |          1 |            1 | Homo          | 6i3d         |
 |            1 |          2 |            1 | Homo          | 6i3d         |
+|            0 |          1 |            1 | Homo          | 4xue         |
+|            1 |          2 |            1 | Homo          | 4xue         |
+|            0 |          1 |            1 | Homo          | 6i3c         |
+|            0 |          1 |            1 | Homo          | 4pyi         |
 |            0 |          1 |            1 | Homo          | 3a7e         |
-|            0 |          1 |            1 | Homo          | 4xud         |
 |            0 |          1 |            1 | Homo          | 4pyk         |
 |            1 |          2 |            1 | Homo          | 4pyk         |
-|            0 |          1 |            1 | Homo          | 4pyi         |
-|            0 |          1 |            1 | Homo          | 3bwy         |
+|            0 |          1 |            1 | Homo          | 4xuc         |
 
 ## Combined Per-Residue Information
 

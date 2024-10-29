@@ -21,13 +21,17 @@
 - **Biomarker Application**: diagnosis,efficacy,prognosis,response to therapy
 - **Number of Isoforms**: 2
 - **Regulation**: 2
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 0.71
+- **(transcriptomics) Fold Change**: 1.10
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 83
 - **Max n_uniprots (Homo)**: 2
 - **Max n_uniprots (Hetero)**: N/A
 
+
+## Expression Comparison
+
+![Expression Comparison](./P19971_expression_comparison.png)
 
 ## Isoform Alignment
 
@@ -72,14 +76,14 @@ P19971-2 <span>M</span><span>A</span><span>A</span><span>L</span><span>M</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
+|            0 |          1 |            2 | Homo          | 2j0f         |
+|            1 |          2 |            2 | Homo          | 2j0f         |
 |            0 |          1 |            2 | Homo          | 2wk6         |
+|            0 |          1 |            1 | Homo          | 1uou         |
 |            0 |          1 |            1 | Homo          | 2wk5         |
 |            1 |          2 |            1 | Homo          | 2wk5         |
 |            2 |          3 |            1 | Homo          | 2wk5         |
 |            3 |          4 |            1 | Homo          | 2wk5         |
-|            0 |          1 |            1 | Homo          | 1uou         |
-|            0 |          1 |            2 | Homo          | 2j0f         |
-|            1 |          2 |            2 | Homo          | 2j0f         |
 
 ## Combined Per-Residue Information
 

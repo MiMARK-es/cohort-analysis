@@ -21,13 +21,17 @@
 - **Biomarker Application**: efficacy,prognosis,safety,unspecified application
 - **Number of Isoforms**: 3
 - **Regulation**: -1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
+- **(transcriptomics) AUC**: 0.1
+- **(transcriptomics) Fold Change**: 1.21
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 248
 - **Max n_uniprots (Homo)**: 1
-- **Max n_uniprots (Hetero)**: 11
+- **Max n_uniprots (Hetero)**: 4
 
+
+## Expression Comparison
+
+![Expression Comparison](./P16234_expression_comparison.png)
 
 ## Isoform Alignment
 
@@ -146,20 +150,20 @@ P16234-3 <span>M</span><span>G</span><span>T</span><span>S</span><span>H</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            1 | Homo          | 8pqj         |
+|            0 |          1 |            1 | Homo          | 6a32         |
 |            0 |          1 |            1 | Homo          | 8pqh         |
+|            0 |          1 |            1 | Homo          | 8pqk         |
+|            0 |          1 |            1 | Homo          | 6jol         |
+|            0 |          1 |            4 | Hetero        | 7lbf         |
 |            0 |          1 |            1 | Homo          | 8pqi         |
 |            0 |          1 |            4 | Hetero        | 7ram         |
 |            0 |          1 |            1 | Homo          | 1gq5         |
-|            0 |          1 |            1 | Homo          | 8pqk         |
-|            0 |          1 |            1 | Homo          | 5k5x         |
 |            0 |          1 |            1 | Homo          | 6joi         |
-|            0 |          1 |            1 | Homo          | 6jol         |
-|            0 |          1 |           11 | Hetero        | 7lbf         |
-|            0 |          1 |            1 | Homo          | 5grn         |
+|            0 |          1 |            1 | Homo          | 5k5x         |
 |            0 |          1 |            1 | Homo          | 6joj         |
-|            0 |          1 |            1 | Homo          | 6a32         |
 |            0 |          1 |            1 | Homo          | 6jok         |
+|            0 |          1 |            1 | Homo          | 5grn         |
+|            0 |          1 |            1 | Homo          | 8pqj         |
 
 ## Combined Per-Residue Information
 

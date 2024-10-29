@@ -21,13 +21,17 @@
 - **Biomarker Application**: diagnosis,efficacy,prognosis
 - **Number of Isoforms**: 3
 - **Regulation**: 1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
+- **(transcriptomics) AUC**: 0.22
+- **(transcriptomics) Fold Change**: 1.05
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 195
-- **Max n_uniprots (Homo)**: 4
+- **Max n_uniprots (Homo)**: 2
 - **Max n_uniprots (Hetero)**: N/A
 
+
+## Expression Comparison
+
+![Expression Comparison](./P40763_expression_comparison.png)
 
 ## Isoform Alignment
 
@@ -108,12 +112,12 @@ P40763-3 <span>M</span><span>A</span><span>Q</span><span>W</span><span>N</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            1 | Homo          | 6njs         |
-|            0 |          1 |            4 | Homo          | 6tlc         |
-|            0 |          1 |            2 | Homo          | 5ax3         |
 |            0 |          1 |            1 | Homo          | 6nuq         |
-|            0 |          1 |            4 | Homo          | 6qhd         |
-|            0 |          1 |            2 | Homo          | 5u5s         |
+|            0 |          1 |            1 | Homo          | 6njs         |
+|            0 |          1 |            1 | Homo          | 5u5s         |
+|            0 |          1 |            2 | Homo          | 6qhd         |
+|            0 |          1 |            1 | Homo          | 5ax3         |
+|            0 |          1 |            2 | Homo          | 6tlc         |
 
 ## Combined Per-Residue Information
 

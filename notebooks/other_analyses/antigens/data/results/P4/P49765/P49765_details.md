@@ -25,7 +25,7 @@
 - **(transcriptomics) Fold Change**: 1.02
 - **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 39
-- **Max n_uniprots (Homo)**: 6
+- **Max n_uniprots (Homo)**: 2
 - **Max n_uniprots (Hetero)**: 4
 
 
@@ -69,10 +69,10 @@ P49765-2 <span>M</span><span>S</span><span>P</span><span>L</span><span>L</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            6 | Homo          | 2vwe         |
-|            0 |          1 |            2 | Homo          | 6tkk         |
-|            0 |          1 |            2 | Homo          | 2c7w         |
 |            0 |          1 |            4 | Hetero        | 2xac         |
+|            0 |          1 |            2 | Homo          | 2c7w         |
+|            0 |          1 |            1 | Homo          | 6tkk         |
+|            0 |          1 |            2 | Homo          | 2vwe         |
 
 ## Combined Per-Residue Information
 

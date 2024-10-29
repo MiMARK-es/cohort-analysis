@@ -26,7 +26,7 @@
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 93
 - **Max n_uniprots (Homo)**: 2
-- **Max n_uniprots (Hetero)**: 6
+- **Max n_uniprots (Hetero)**: 3
 
 
 ## Expression Comparison
@@ -97,26 +97,26 @@ P01042-3 <span>M</span><span>K</span><span>L</span><span>I</span><span>T</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            5 | Hetero        | 7eib         |
-|            0 |          1 |            2 | Hetero        | 2wok         |
+|            0 |          1 |            3 | Hetero        | 7eib         |
+|            0 |          1 |            3 | Hetero        | 7f2o         |
+|            0 |          1 |            2 | Hetero        | 7qox         |
+|            1 |          2 |            2 | Hetero        | 7qox         |
 |            0 |          1 |            1 | Homo          | 6f3y         |
-|            0 |          1 |            3 | Hetero        | 4asr         |
-|            0 |          1 |            6 | Hetero        | 7f2o         |
-|            0 |          1 |            5 | Hetero        | 7f6h         |
+|            0 |          1 |            2 | Hetero        | 4asq         |
+|            0 |          1 |            3 | Hetero        | 7f6h         |
+|            0 |          1 |            2 | Homo          | 4ecb         |
+|            0 |          1 |            2 | Hetero        | 2wok         |
+|            0 |          1 |            2 | Hetero        | 4asr         |
 |            0 |          1 |            1 | Homo          | 6f3x         |
+|            0 |          1 |            3 | Hetero        | 7f6i         |
+|            0 |          1 |            0 | Hetero        | 6f3v         |
 |            0 |          1 |            2 | Hetero        | 7qot         |
 |            1 |          2 |            2 | Hetero        | 7qot         |
 |            0 |          1 |            1 | Homo          | 4ecc         |
-|            0 |          1 |            1 | Hetero        | 6f3v         |
-|            0 |          1 |            1 | Homo          | 6f3w         |
-|            0 |          1 |            3 | Hetero        | 4asq         |
-|            0 |          1 |            5 | Hetero        | 7f6i         |
+|            0 |          1 |            3 | Hetero        | 1ny2         |
 |            0 |          1 |            1 | Homo          | 6f27         |
-|            0 |          1 |            2 | Homo          | 4ecb         |
-|            0 |          1 |            2 | Hetero        | 7qox         |
-|            1 |          2 |            2 | Hetero        | 7qox         |
-|            0 |          1 |            4 | Hetero        | 1ny2         |
-|            0 |          1 |            2 | Homo          | 5i25         |
+|            0 |          1 |            1 | Homo          | 6f3w         |
+|            0 |          1 |            1 | Homo          | 5i25         |
 
 ## Combined Per-Residue Information
 

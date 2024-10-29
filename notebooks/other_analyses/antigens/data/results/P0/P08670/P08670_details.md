@@ -26,7 +26,7 @@
 - **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 80
 - **Max n_uniprots (Homo)**: 8.0
-- **Max n_uniprots (Hetero)**: 4.0
+- **Max n_uniprots (Hetero)**: 3.0
 
 
 ## Expression Comparison
@@ -123,36 +123,36 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            2 | Homo          | 3uf1         |
-|            1 |          2 |            2 | Homo          | 3uf1         |
-|            0 |          1 |            4 | Hetero        | 4mdi         |
-|            0 |          1 |            1 | Homo          | 1gk7         |
-|            0 |          1 |            8 | Homo          | 5whf         |
-|            0 |          1 |            3 | Homo          | 4yv3         |
-|            0 |          1 |            2 | Homo          | 3trt         |
-|            0 |          1 |            2 | Homo          | 1gk6         |
-|            0 |          1 |            3 | Hetero        | 6bir         |
-|            0 |          1 |            2 | Homo          | 3ssu         |
-|            0 |          1 |            4 | Hetero        | 4md0         |
-|            0 |          1 |            2 | Homo          | 3s4r         |
-|            0 |          1 |            2 | Homo          | 1gk4         |
-|            1 |          2 |            2 | Homo          | 1gk4         |
-|            2 |          3 |            2 | Homo          | 1gk4         |
+|            0 |          1 |            3 | Hetero        | 4mcz         |
+|            0 |          1 |            3 | Hetero        | 4md5         |
 |            0 |          1 |            4 | Homo          | 3klt         |
 |            1 |          2 |            2 | Homo          | 3klt         |
 |            2 |          3 |            2 | Homo          | 3klt         |
-|            0 |          1 |            3 | Hetero        | 4mcz         |
-|            0 |          1 |            4 | Hetero        | 4mdj         |
-|            0 |          1 |            4 | Hetero        | 6atf         |
-|            1 |          2 |            4 | Hetero        | 6atf         |
-|            0 |          1 |            2 | Homo          | 3swk         |
-|            0 |          1 |            3 | Homo          | 6yxk         |
 |            0 |          1 |            3 | Hetero        | 4mcy         |
-|            0 |          1 |            3 | Hetero        | 6ati         |
-|            1 |          2 |            3 | Hetero        | 6ati         |
+|            0 |          1 |            2 | Homo          | 1gk4         |
+|            1 |          2 |            2 | Homo          | 1gk4         |
+|            2 |          3 |            2 | Homo          | 1gk4         |
 |            0 |          1 |            1 | Homo          | 4ypc         |
+|            0 |          1 |            3 | Homo          | 4yv3         |
+|            0 |          1 |            3 | Hetero        | 4mdi         |
+|            0 |          1 |            1 | Homo          | 1gk7         |
+|            0 |          1 |            2 | Homo          | 3ssu         |
+|            0 |          1 |            8 | Homo          | 5whf         |
+|            0 |          1 |            2 | Hetero        | 6ati         |
+|            1 |          2 |            2 | Hetero        | 6ati         |
+|            0 |          1 |            2 | Homo          | 3s4r         |
 |            0 |          1 |            2 | Homo          | 3g1e         |
-|            0 |          1 |            4 | Hetero        | 4md5         |
+|            0 |          1 |            2 | Homo          | 3swk         |
+|            0 |          1 |            2 | Homo          | 3uf1         |
+|            1 |          2 |            2 | Homo          | 3uf1         |
+|            0 |          1 |            2 | Homo          | 1gk6         |
+|            0 |          1 |            1 | Homo          | 6yxk         |
+|            0 |          1 |            2 | Homo          | 3trt         |
+|            0 |          1 |            2 | Hetero        | 6bir         |
+|            0 |          1 |            3 | Hetero        | 4mdj         |
+|            0 |          1 |            3 | Hetero        | 4md0         |
+|            0 |          1 |            2 | Hetero        | 6atf         |
+|            1 |          2 |            2 | Hetero        | 6atf         |
 
 ## Combined Per-Residue Information
 

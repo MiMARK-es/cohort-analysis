@@ -21,13 +21,17 @@
 - **Biomarker Application**:  
 - **Number of Isoforms**: 2
 - **Regulation**: -1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
+- **(transcriptomics) AUC**: 0.45
+- **(transcriptomics) Fold Change**: 1.02
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 54
 - **Max n_uniprots (Homo)**: 2.0
 - **Max n_uniprots (Hetero)**: N/A
 
+
+## Expression Comparison
+
+![Expression Comparison](./P42330_expression_comparison.png)
 
 ## Isoform Alignment
 
@@ -117,91 +121,91 @@ P42330-2 <span style='background-color: yellow;'>-</span><span style='background
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
+|            0 |          1 |            1 | Homo          | 4dz5         |
+|            0 |          1 |            1 | Homo          | 7x3o         |
+|            1 |          2 |            1 | Homo          | 7x3o         |
+|            0 |          1 |            1 | Homo          | 1zq5         |
 |            0 |          1 |            1 | Homo          | 1ry8         |
 |            1 |          2 |            1 | Homo          | 1ry8         |
-|            0 |          1 |            1 | Homo          | 3uwe         |
-|            0 |          1 |            2 | Homo          | 6f2u         |
-|            0 |          1 |            1 | Homo          | 2f38         |
-|            0 |          1 |            1 | Homo          | 6a7b         |
-|            1 |          2 |            1 | Homo          | 6a7b         |
-|            0 |          1 |            1 | Homo          | 8jp1         |
-|            1 |          2 |            1 | Homo          | 8jp1         |
-|            0 |          1 |            1 | Homo          | 8rb6         |
-|            1 |          2 |            1 | Homo          | 8rb6         |
-|            0 |          1 |            1 | Homo          | 7x3m         |
-|            1 |          2 |            1 | Homo          | 7x3m         |
-|            0 |          1 |            1 | Homo          | 4fam         |
-|            1 |          2 |            1 | Homo          | 4fam         |
-|            0 |          1 |            1 | Homo          | 1s2a         |
-|            0 |          1 |            1 | Homo          | 4dz5         |
-|            0 |          1 |            1 | Homo          | 7c7h         |
-|            1 |          2 |            1 | Homo          | 7c7h         |
-|            0 |          1 |            2 | Homo          | 5hnt         |
-|            0 |          1 |            1 | Homo          | 4wdt         |
+|            0 |          1 |            1 | Homo          | 3r8h         |
 |            0 |          1 |            1 | Homo          | 7wqm         |
 |            1 |          2 |            1 | Homo          | 7wqm         |
-|            0 |          1 |            1 | Homo          | 1s1r         |
-|            0 |          1 |            1 | Homo          | 1s2c         |
-|            0 |          1 |            1 | Homo          | 4wdw         |
-|            1 |          2 |            1 | Homo          | 4wdw         |
-|            0 |          1 |            1 | Homo          | 3ufy         |
 |            0 |          1 |            1 | Homo          | 4fa3         |
-|            0 |          1 |            1 | Homo          | 4dbs         |
-|            1 |          2 |            1 | Homo          | 4dbs         |
-|            0 |          1 |            1 | Homo          | 4xvd         |
-|            1 |          2 |            1 | Homo          | 4xvd         |
-|            0 |          1 |            1 | Homo          | 1s1p         |
-|            0 |          1 |            1 | Homo          | 3ug8         |
-|            0 |          1 |            2 | Homo          | 5hnu         |
-|            0 |          1 |            1 | Homo          | 4yvx         |
-|            1 |          2 |            1 | Homo          | 4yvx         |
 |            0 |          1 |            1 | Homo          | 7wqr         |
 |            1 |          2 |            1 | Homo          | 7wqr         |
-|            0 |          1 |            1 | Homo          | 3r58         |
+|            0 |          1 |            1 | Homo          | 4hmn         |
+|            0 |          1 |            1 | Homo          | 7x3m         |
+|            1 |          2 |            1 | Homo          | 7x3m         |
+|            0 |          1 |            1 | Homo          | 8bbs         |
+|            1 |          2 |            1 | Homo          | 8bbs         |
+|            0 |          1 |            1 | Homo          | 6f78         |
+|            1 |          2 |            1 | Homo          | 6f78         |
+|            0 |          1 |            1 | Homo          | 3ug8         |
+|            0 |          1 |            1 | Homo          | 8rb6         |
+|            1 |          2 |            1 | Homo          | 8rb6         |
+|            0 |          1 |            1 | Homo          | 1s1r         |
+|            0 |          1 |            1 | Homo          | 4wdw         |
+|            1 |          2 |            1 | Homo          | 4wdw         |
 |            0 |          1 |            1 | Homo          | 3r94         |
-|            0 |          1 |            1 | Homo          | 6gxk         |
-|            1 |          2 |            1 | Homo          | 6gxk         |
-|            0 |          1 |            1 | Homo          | 3ugr         |
-|            0 |          1 |            1 | Homo          | 4h7c         |
-|            0 |          1 |            1 | Homo          | 4dbu         |
-|            1 |          2 |            1 | Homo          | 4dbu         |
-|            0 |          1 |            1 | Homo          | 4fal         |
-|            0 |          1 |            1 | Homo          | 7c7g         |
-|            1 |          2 |            1 | Homo          | 7c7g         |
-|            0 |          1 |            1 | Homo          | 2fgb         |
+|            0 |          1 |            1 | Homo          | 1ry0         |
+|            1 |          2 |            1 | Homo          | 1ry0         |
+|            0 |          1 |            1 | Homo          | 1s1p         |
 |            0 |          1 |            1 | Homo          | 7wqs         |
 |            1 |          2 |            1 | Homo          | 7wqs         |
-|            0 |          1 |            1 | Homo          | 4hmn         |
-|            0 |          1 |            1 | Homo          | 7x3l         |
-|            1 |          2 |            1 | Homo          | 7x3l         |
-|            0 |          1 |            1 | Homo          | 4wdx         |
-|            1 |          2 |            1 | Homo          | 4wdx         |
+|            0 |          1 |            1 | Homo          | 7c7h         |
+|            1 |          2 |            1 | Homo          | 7c7h         |
+|            0 |          1 |            1 | Homo          | 2f38         |
+|            0 |          1 |            1 | Homo          | 4wdt         |
+|            0 |          1 |            1 | Homo          | 4wrh         |
+|            0 |          1 |            1 | Homo          | 6gxk         |
+|            1 |          2 |            1 | Homo          | 6gxk         |
+|            0 |          1 |            1 | Homo          | 1s2a         |
+|            0 |          1 |            1 | Homo          | 4h7c         |
+|            0 |          1 |            1 | Homo          | 4dbs         |
+|            1 |          2 |            1 | Homo          | 4dbs         |
+|            0 |          1 |            2 | Homo          | 5hnu         |
+|            0 |          1 |            1 | Homo          | 3r43         |
+|            0 |          1 |            1 | Homo          | 6a7b         |
+|            1 |          2 |            1 | Homo          | 6a7b         |
 |            0 |          1 |            1 | Homo          | 4yvv         |
 |            1 |          2 |            1 | Homo          | 4yvv         |
-|            0 |          1 |            1 | Homo          | 3r8g         |
-|            0 |          1 |            1 | Homo          | 3r6i         |
 |            0 |          1 |            1 | Homo          | 4wdu         |
+|            0 |          1 |            1 | Homo          | 4dbu         |
+|            1 |          2 |            1 | Homo          | 4dbu         |
+|            0 |          1 |            1 | Homo          | 7x3l         |
+|            1 |          2 |            1 | Homo          | 7x3l         |
+|            0 |          1 |            1 | Homo          | 1xf0         |
 |            0 |          1 |            1 | Homo          | 3r7m         |
 |            0 |          1 |            1 | Homo          | 7c7f         |
 |            1 |          2 |            1 | Homo          | 7c7f         |
-|            0 |          1 |            1 | Homo          | 7x3o         |
-|            1 |          2 |            1 | Homo          | 7x3o         |
-|            0 |          1 |            1 | Homo          | 4zfc         |
-|            1 |          2 |            1 | Homo          | 4zfc         |
-|            0 |          1 |            1 | Homo          | 1xf0         |
-|            0 |          1 |            1 | Homo          | 1ry0         |
-|            1 |          2 |            1 | Homo          | 1ry0         |
-|            0 |          1 |            1 | Homo          | 4xve         |
-|            0 |          1 |            1 | Homo          | 3r43         |
-|            0 |          1 |            1 | Homo          | 6f78         |
-|            1 |          2 |            1 | Homo          | 6f78         |
-|            0 |          1 |            1 | Homo          | 8bbs         |
-|            1 |          2 |            1 | Homo          | 8bbs         |
+|            0 |          1 |            2 | Homo          | 5hnt         |
+|            0 |          1 |            1 | Homo          | 3uwe         |
+|            0 |          1 |            1 | Homo          | 4fam         |
+|            1 |          2 |            1 | Homo          | 4fam         |
+|            0 |          1 |            1 | Homo          | 4xvd         |
+|            1 |          2 |            1 | Homo          | 4xvd         |
+|            0 |          1 |            1 | Homo          | 4fal         |
+|            0 |          1 |            1 | Homo          | 4wdx         |
+|            1 |          2 |            1 | Homo          | 4wdx         |
+|            0 |          1 |            1 | Homo          | 3r58         |
+|            0 |          1 |            1 | Homo          | 4yvx         |
+|            1 |          2 |            1 | Homo          | 4yvx         |
 |            0 |          1 |            1 | Homo          | 8i0c         |
 |            1 |          2 |            1 | Homo          | 8i0c         |
-|            0 |          1 |            1 | Homo          | 1zq5         |
-|            0 |          1 |            1 | Homo          | 4wrh         |
-|            0 |          1 |            1 | Homo          | 3r8h         |
+|            0 |          1 |            1 | Homo          | 3r6i         |
+|            0 |          1 |            1 | Homo          | 4zfc         |
+|            1 |          2 |            1 | Homo          | 4zfc         |
+|            0 |          1 |            1 | Homo          | 4xve         |
+|            0 |          1 |            1 | Homo          | 2fgb         |
+|            0 |          1 |            2 | Homo          | 6f2u         |
+|            0 |          1 |            1 | Homo          | 3ufy         |
+|            0 |          1 |            1 | Homo          | 7c7g         |
+|            1 |          2 |            1 | Homo          | 7c7g         |
+|            0 |          1 |            1 | Homo          | 3r8g         |
+|            0 |          1 |            1 | Homo          | 3ugr         |
+|            0 |          1 |            1 | Homo          | 8jp1         |
+|            1 |          2 |            1 | Homo          | 8jp1         |
+|            0 |          1 |            1 | Homo          | 1s2c         |
 
 ## Combined Per-Residue Information
 

@@ -21,13 +21,17 @@
 - **Biomarker Application**: diagnosis
 - **Number of Isoforms**: 0
 - **Regulation**: 1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 0.64
+- **(transcriptomics) Fold Change**: 1.63
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 11
 - **Max n_uniprots (Homo)**: 4.0
 - **Max n_uniprots (Hetero)**: N/A
 
+
+## Expression Comparison
+
+![Expression Comparison](./P02776_expression_comparison.png)
 
 ## Interactors
 
@@ -82,25 +86,25 @@
 
 ## Biological Assemblies
 
-|   Unnamed: 0 | crystal_id   |   assembly |   n_uniprots | composition   |
-|-------------:|:-------------|-----------:|-------------:|:--------------|
-|            0 | 4rau         |          1 |            3 | Homo          |
-|            1 | 4rau         |          2 |            3 | Homo          |
-|            2 | 4rau         |          3 |            3 | Homo          |
-|            3 | 4rau         |          4 |            3 | Homo          |
-|            4 | 4rau         |          5 |            3 | Homo          |
-|            5 | 4rau         |          6 |            3 | Homo          |
-|            6 | 4rau         |          7 |            3 | Homo          |
-|            7 | 4rau         |          8 |            3 | Homo          |
-|            0 | 1pfn         |          1 |            4 | Homo          |
-|            0 | 4r9w         |          1 |            3 | Homo          |
-|            0 | 1dn3         |          1 |            1 | Homo          |
-|            0 | 1f9q         |          1 |            4 | Homo          |
-|            0 | 1pfm         |          1 |            4 | Homo          |
-|            0 | 4r9y         |          1 |            4 | Homo          |
-|            1 | 4r9y         |          2 |            4 | Homo          |
-|            0 | 1rhp         |          1 |            4 | Homo          |
-|            0 | 1f9s         |          1 |            4 | Homo          |
+|   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
+|-------------:|-----------:|-------------:|:--------------|:-------------|
+|            0 |          1 |            4 | Homo          | 1pfm         |
+|            0 |          1 |            4 | Homo          | 1f9s         |
+|            0 |          1 |            2 | Homo          | 4r9y         |
+|            1 |          2 |            2 | Homo          | 4r9y         |
+|            0 |          1 |            1 | Homo          | 4rau         |
+|            1 |          2 |            1 | Homo          | 4rau         |
+|            2 |          3 |            1 | Homo          | 4rau         |
+|            3 |          4 |            1 | Homo          | 4rau         |
+|            4 |          5 |            1 | Homo          | 4rau         |
+|            5 |          6 |            1 | Homo          | 4rau         |
+|            6 |          7 |            1 | Homo          | 4rau         |
+|            7 |          8 |            1 | Homo          | 4rau         |
+|            0 |          1 |            4 | Homo          | 1f9q         |
+|            0 |          1 |            1 | Homo          | 1dn3         |
+|            0 |          1 |            4 | Homo          | 1pfn         |
+|            0 |          1 |            2 | Homo          | 4r9w         |
+|            0 |          1 |            4 | Homo          | 1rhp         |
 
 ## Combined Per-Residue Information
 

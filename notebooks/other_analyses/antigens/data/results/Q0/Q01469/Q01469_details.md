@@ -63,9 +63,16 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            1 | Homo          | 1jjj         |
-|            0 |          1 |            1 | Homo          | 7fyd         |
+|            0 |          1 |            1 | Homo          | 7fy0         |
+|            0 |          1 |            1 | Homo          | 7fwi         |
+|            1 |          2 |            1 | Homo          | 7fwi         |
+|            2 |          3 |            1 | Homo          | 7fwi         |
+|            0 |          1 |            2 | Homo          | 4azm         |
+|            0 |          1 |            1 | Homo          | 7g04         |
+|            1 |          2 |            1 | Homo          | 7g04         |
+|            0 |          1 |            1 | Homo          | 7fxd         |
 |            0 |          1 |            1 | Homo          | 7g0e         |
+|            0 |          1 |            1 | Homo          | 1jjj         |
 |            0 |          1 |            1 | Homo          | 5ur9         |
 |            1 |          2 |            1 | Homo          | 5ur9         |
 |            2 |          3 |            1 | Homo          | 5ur9         |
@@ -74,25 +81,18 @@
 |            5 |          6 |            1 | Homo          | 5ur9         |
 |            6 |          7 |            1 | Homo          | 5ur9         |
 |            7 |          8 |            1 | Homo          | 5ur9         |
+|            0 |          1 |            1 | Homo          | 7fyd         |
+|            0 |          1 |            1 | Homo          | 1b56         |
+|            0 |          1 |            1 | Homo          | 5hz5         |
+|            0 |          1 |            1 | Homo          | 7g01         |
+|            0 |          1 |            1 | Homo          | 7g0b         |
 |            0 |          1 |            1 | Homo          | 4lkt         |
 |            1 |          2 |            1 | Homo          | 4lkt         |
 |            2 |          3 |            1 | Homo          | 4lkt         |
 |            3 |          4 |            1 | Homo          | 4lkt         |
-|            0 |          1 |            1 | Homo          | 1b56         |
-|            0 |          1 |            1 | Homo          | 7g01         |
-|            0 |          1 |            2 | Homo          | 4azm         |
-|            0 |          1 |            1 | Homo          | 5hz5         |
-|            0 |          1 |            1 | Homo          | 7fxd         |
-|            0 |          1 |            1 | Homo          | 7g1q         |
-|            0 |          1 |            1 | Homo          | 7g04         |
-|            1 |          2 |            1 | Homo          | 7g04         |
 |            0 |          1 |            1 | Homo          | 4lkp         |
-|            0 |          1 |            1 | Homo          | 7g0b         |
 |            0 |          1 |            2 | Homo          | 4azr         |
-|            0 |          1 |            1 | Homo          | 7fwi         |
-|            1 |          2 |            1 | Homo          | 7fwi         |
-|            2 |          3 |            1 | Homo          | 7fwi         |
-|            0 |          1 |            1 | Homo          | 7fy0         |
+|            0 |          1 |            1 | Homo          | 7g1q         |
 
 ## Combined Per-Residue Information
 

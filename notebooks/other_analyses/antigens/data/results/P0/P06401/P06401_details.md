@@ -21,13 +21,17 @@
 - **Biomarker Application**: diagnosis,efficacy,response to therapy
 - **Number of Isoforms**: 0
 - **Regulation**: 1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
+- **(transcriptomics) AUC**: 0.0
+- **(transcriptomics) Fold Change**: 2.49
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 277
-- **Max n_uniprots (Homo)**: 4
-- **Max n_uniprots (Hetero)**: 4
+- **Max n_uniprots (Homo)**: 2
+- **Max n_uniprots (Hetero)**: 2
 
+
+## Expression Comparison
+
+![Expression Comparison](./P06401_expression_comparison.png)
 
 ## Interactors
 
@@ -81,39 +85,39 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            2 | Homo          | 3g8o         |
-|            0 |          1 |            1 | Homo          | 4apu         |
-|            1 |          2 |            1 | Homo          | 4apu         |
-|            0 |          1 |            2 | Homo          | 2ovh         |
-|            1 |          2 |            2 | Homo          | 2ovh         |
-|            0 |          1 |            1 | Homo          | 1a28         |
-|            1 |          2 |            1 | Homo          | 1a28         |
-|            0 |          1 |            1 | Homo          | 3zrb         |
-|            1 |          2 |            1 | Homo          | 3zrb         |
-|            0 |          1 |            1 | Homo          | 3zra         |
-|            1 |          2 |            1 | Homo          | 3zra         |
-|            0 |          1 |            2 | Homo          | 1zuc         |
-|            0 |          1 |            2 | Hetero        | 4oar         |
-|            0 |          1 |            1 | Homo          | 3kba         |
-|            1 |          2 |            1 | Homo          | 3kba         |
-|            0 |          1 |            1 | Homo          | 1sqn         |
-|            1 |          2 |            1 | Homo          | 1sqn         |
+|            0 |          1 |            2 | Homo          | 3hq5         |
 |            0 |          1 |            1 | Homo          | 4a2j         |
 |            1 |          2 |            1 | Homo          | 4a2j         |
-|            0 |          1 |            2 | Homo          | 1sr7         |
-|            0 |          1 |            2 | Homo          | 3hq5         |
-|            0 |          1 |            1 | Homo          | 1e3k         |
-|            1 |          2 |            1 | Homo          | 1e3k         |
-|            0 |          1 |            1 | Homo          | 3zr7         |
-|            1 |          2 |            1 | Homo          | 3zr7         |
-|            0 |          1 |            4 | Hetero        | 5cc0         |
-|            0 |          1 |            2 | Homo          | 2ovm         |
-|            1 |          2 |            2 | Homo          | 2ovm         |
+|            0 |          1 |            2 | Homo          | 2c7a         |
 |            0 |          1 |            1 | Homo          | 2w8y         |
 |            1 |          2 |            1 | Homo          | 2w8y         |
-|            0 |          1 |            4 | Homo          | 2c7a         |
+|            0 |          1 |            1 | Homo          | 2ovm         |
+|            1 |          2 |            1 | Homo          | 2ovm         |
+|            0 |          1 |            1 | Homo          | 3zrb         |
+|            1 |          2 |            1 | Homo          | 3zrb         |
+|            0 |          1 |            1 | Homo          | 2ovh         |
+|            1 |          2 |            1 | Homo          | 2ovh         |
+|            0 |          1 |            1 | Homo          | 3kba         |
+|            1 |          2 |            1 | Homo          | 3kba         |
+|            0 |          1 |            2 | Homo          | 3g8o         |
+|            0 |          1 |            1 | Homo          | 1a28         |
+|            1 |          2 |            1 | Homo          | 1a28         |
+|            0 |          1 |            2 | Hetero        | 4oar         |
+|            0 |          1 |            1 | Homo          | 1sqn         |
+|            1 |          2 |            1 | Homo          | 1sqn         |
+|            0 |          1 |            1 | Homo          | 3zr7         |
+|            1 |          2 |            1 | Homo          | 3zr7         |
+|            0 |          1 |            1 | Homo          | 3zra         |
+|            1 |          2 |            1 | Homo          | 3zra         |
+|            0 |          1 |            2 | Homo          | 1sr7         |
+|            0 |          1 |            2 | Homo          | 1zuc         |
+|            0 |          1 |            1 | Homo          | 1e3k         |
+|            1 |          2 |            1 | Homo          | 1e3k         |
+|            0 |          1 |            0 | Hetero        | 5cc0         |
 |            0 |          1 |            1 | Homo          | 3d90         |
 |            1 |          2 |            1 | Homo          | 3d90         |
+|            0 |          1 |            1 | Homo          | 4apu         |
+|            1 |          2 |            1 | Homo          | 4apu         |
 
 ## Combined Per-Residue Information
 

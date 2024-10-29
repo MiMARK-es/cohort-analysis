@@ -25,8 +25,8 @@
 - **(transcriptomics) Fold Change**: 1.12
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 254
-- **Max n_uniprots (Homo)**: 2
-- **Max n_uniprots (Hetero)**: 6
+- **Max n_uniprots (Homo)**: 1
+- **Max n_uniprots (Hetero)**: 4
 
 
 ## Expression Comparison
@@ -110,24 +110,24 @@ P19838-3 <span style='background-color: yellow;'>-</span><span style='background
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            4 | Hetero        | 2o61         |
-|            0 |          1 |            2 | Hetero        | 1mdk         |
-|            0 |          1 |            1 | Homo          | 2dbf         |
-|            0 |          1 |            2 | Hetero        | 7lfc         |
-|            0 |          1 |            2 | Hetero        | 7rg5         |
-|            0 |          1 |            2 | Hetero        | 1mdj         |
-|            0 |          1 |            3 | Hetero        | 1nfi         |
-|            1 |          2 |            3 | Hetero        | 1nfi         |
-|            0 |          1 |            1 | Homo          | 8tqd         |
-|            0 |          1 |            6 | Hetero        | 3gut         |
-|            1 |          2 |            6 | Hetero        | 3gut         |
 |            0 |          1 |            2 | Hetero        | 1mdi         |
-|            0 |          1 |            3 | Hetero        | 7let         |
+|            0 |          1 |            2 | Hetero        | 7lfc         |
+|            0 |          1 |            2 | Hetero        | 2o61         |
+|            0 |          1 |            1 | Homo          | 8tqd         |
+|            0 |          1 |            2 | Hetero        | 7rg4         |
 |            0 |          1 |            3 | Hetero        | 7lf4         |
 |            1 |          2 |            3 | Hetero        | 7lf4         |
 |            0 |          1 |            2 | Hetero        | 7leq         |
-|            0 |          1 |            2 | Hetero        | 7rg4         |
-|            0 |          1 |            2 | Homo          | 1svc         |
+|            0 |          1 |            3 | Hetero        | 7let         |
+|            0 |          1 |            2 | Hetero        | 1mdk         |
+|            0 |          1 |            2 | Hetero        | 7rg5         |
+|            0 |          1 |            1 | Homo          | 2dbf         |
+|            0 |          1 |            2 | Hetero        | 1mdj         |
+|            0 |          1 |            1 | Homo          | 1svc         |
+|            0 |          1 |            4 | Hetero        | 3gut         |
+|            1 |          2 |            4 | Hetero        | 3gut         |
+|            0 |          1 |            3 | Hetero        | 1nfi         |
+|            1 |          2 |            3 | Hetero        | 1nfi         |
 
 ## Combined Per-Residue Information
 

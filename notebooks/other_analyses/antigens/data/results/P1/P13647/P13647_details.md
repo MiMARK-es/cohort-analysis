@@ -118,10 +118,10 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            2 | Hetero        | 6jfv         |
-|            1 |          2 |            2 | Hetero        | 6jfv         |
 |            0 |          1 |            2 | Hetero        | 3tnu         |
 |            1 |          2 |            2 | Hetero        | 3tnu         |
+|            0 |          1 |            2 | Hetero        | 6jfv         |
+|            1 |          2 |            2 | Hetero        | 6jfv         |
 
 ## Combined Per-Residue Information
 

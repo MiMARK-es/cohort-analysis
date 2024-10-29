@@ -21,13 +21,17 @@
 - **Biomarker Application**:  
 - **Number of Isoforms**: 2
 - **Regulation**: -1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
+- **(transcriptomics) AUC**: 0.28
+- **(transcriptomics) Fold Change**: 1.61
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 48
 - **Max n_uniprots (Homo)**: N/A
 - **Max n_uniprots (Hetero)**: 5
 
+
+## Expression Comparison
+
+![Expression Comparison](./P26715_expression_comparison.png)
 
 ## Isoform Alignment
 
@@ -95,13 +99,13 @@ P26715-2 <span>M</span><span>D</span><span>N</span><span>Q</span><span>G</span><
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
 |            0 |          1 |            2 | Hetero        | 2rmx         |
-|            0 |          1 |            2 | Hetero        | 2yu7         |
 |            0 |          1 |            5 | Hetero        | 3cii         |
 |            1 |          2 |            5 | Hetero        | 3cii         |
-|            0 |          1 |            2 | Hetero        | 3bdw         |
-|            1 |          2 |            2 | Hetero        | 3bdw         |
 |            0 |          1 |            5 | Hetero        | 3cdg         |
 |            1 |          2 |            5 | Hetero        | 3cdg         |
+|            0 |          1 |            2 | Hetero        | 3bdw         |
+|            1 |          2 |            2 | Hetero        | 3bdw         |
+|            0 |          1 |            2 | Hetero        | 2yu7         |
 
 ## Combined Per-Residue Information
 

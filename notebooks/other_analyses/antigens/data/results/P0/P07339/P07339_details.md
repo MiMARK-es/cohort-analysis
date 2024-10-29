@@ -25,7 +25,7 @@
 - **(transcriptomics) Fold Change**: 1.08
 - **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 77
-- **Max n_uniprots (Homo)**: 8
+- **Max n_uniprots (Homo)**: 4
 - **Max n_uniprots (Hetero)**: N/A
 
 
@@ -74,14 +74,14 @@
 |            9 |         10 |            2 | Homo          | 1lyw         |
 |           10 |         11 |            4 | Homo          | 1lyw         |
 |           11 |         12 |            2 | Homo          | 1lyw         |
-|            0 |          1 |            8 | Homo          | 1lyb         |
-|            1 |          2 |            4 | Homo          | 1lyb         |
-|            2 |          3 |            4 | Homo          | 1lyb         |
-|            0 |          1 |            6 | Homo          | 1lya         |
-|            1 |          2 |            6 | Homo          | 1lya         |
-|            0 |          1 |            6 | Homo          | 4od9         |
-|            0 |          1 |            5 | Homo          | 4obz         |
-|            0 |          1 |            3 | Homo          | 4oc6         |
+|            0 |          1 |            4 | Homo          | 1lya         |
+|            1 |          2 |            4 | Homo          | 1lya         |
+|            0 |          1 |            4 | Homo          | 4obz         |
+|            0 |          1 |            4 | Homo          | 1lyb         |
+|            1 |          2 |            2 | Homo          | 1lyb         |
+|            2 |          3 |            2 | Homo          | 1lyb         |
+|            0 |          1 |            2 | Homo          | 4oc6         |
+|            0 |          1 |            4 | Homo          | 4od9         |
 
 ## Combined Per-Residue Information
 

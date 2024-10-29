@@ -21,13 +21,17 @@
 - **Biomarker Application**: diagnosis,efficacy,prognosis
 - **Number of Isoforms**: 0
 - **Regulation**: 1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 0.61
+- **(transcriptomics) Fold Change**: 1.01
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 403
 - **Max n_uniprots (Homo)**: 6
 - **Max n_uniprots (Hetero)**: N/A
 
+
+## Expression Comparison
+
+![Expression Comparison](./P39060_expression_comparison.png)
 
 ## Interactors
 
@@ -87,14 +91,14 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            1 | Homo          | 1bnl         |
-|            1 |          2 |            1 | Homo          | 1bnl         |
-|            2 |          3 |            1 | Homo          | 1bnl         |
-|            3 |          4 |            1 | Homo          | 1bnl         |
 |            0 |          1 |            3 | Homo          | 3hsh         |
 |            1 |          2 |            3 | Homo          | 3hsh         |
 |            2 |          3 |            6 | Homo          | 3hsh         |
 |            0 |          1 |            1 | Homo          | 3hon         |
+|            0 |          1 |            1 | Homo          | 1bnl         |
+|            1 |          2 |            1 | Homo          | 1bnl         |
+|            2 |          3 |            1 | Homo          | 1bnl         |
+|            3 |          4 |            1 | Homo          | 1bnl         |
 
 ## Combined Per-Residue Information
 

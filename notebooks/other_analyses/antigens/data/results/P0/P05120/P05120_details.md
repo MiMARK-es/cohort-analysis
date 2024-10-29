@@ -21,13 +21,17 @@
 - **Biomarker Application**: response to therapy
 - **Number of Isoforms**: 0
 - **Regulation**: 2
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 0.69
+- **(transcriptomics) Fold Change**: 2.15
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 86
 - **Max n_uniprots (Homo)**: 2
 - **Max n_uniprots (Hetero)**: N/A
 
+
+## Expression Comparison
+
+![Expression Comparison](./P05120_expression_comparison.png)
 
 ## Interactors
 
@@ -86,9 +90,9 @@
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
 |            0 |          1 |            2 | Homo          | 2arr         |
-|            0 |          1 |            2 | Homo          | 2arq         |
-|            0 |          1 |            2 | Homo          | 1jrr         |
 |            0 |          1 |            1 | Homo          | 1by7         |
+|            0 |          1 |            2 | Homo          | 1jrr         |
+|            0 |          1 |            2 | Homo          | 2arq         |
 
 ## Combined Per-Residue Information
 

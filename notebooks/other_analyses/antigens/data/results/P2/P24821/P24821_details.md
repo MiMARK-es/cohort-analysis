@@ -21,13 +21,17 @@
 - **Biomarker Application**: diagnosis,efficacy,response to therapy
 - **Number of Isoforms**: 6
 - **Regulation**: 2
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
+- **(transcriptomics) AUC**: 0.49
+- **(transcriptomics) Fold Change**: 1.01
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: N/A
-- **Max n_uniprots (Homo)**: 3.0
+- **Max n_uniprots (Homo)**: 2.0
 - **Max n_uniprots (Hetero)**: 2.0
 
+
+## Expression Comparison
+
+![Expression Comparison](./P24821_expression_comparison.png)
 
 ## Isoform Alignment
 
@@ -88,25 +92,25 @@ P24821-6 <span>M</span><span>G</span><span>A</span><span>M</span><span>T</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            1 | Homo          | 5r63         |
-|            0 |          1 |            1 | Homo          | 6qnv         |
-|            0 |          1 |            2 | Hetero        | 8fn8         |
-|            0 |          1 |            3 | Homo          | 6brb         |
-|            0 |          1 |            1 | Homo          | 1ten         |
 |            0 |          1 |            1 | Homo          | 5r5t         |
-|            0 |          1 |            1 | Homo          | 5r5v         |
-|            0 |          1 |            1 | Homo          | 5r5u         |
-|            0 |          1 |            1 | Homo          | 5r5y         |
+|            0 |          1 |            1 | Homo          | 5r60         |
+|            0 |          1 |            1 | Homo          | 2rb8         |
+|            0 |          1 |            1 | Homo          | 5r63         |
+|            0 |          1 |            1 | Homo          | 5r61         |
+|            0 |          1 |            1 | Homo          | 6brb         |
+|            0 |          1 |            1 | Homo          | 6qnv         |
 |            0 |          1 |            1 | Homo          | 8fnb         |
 |            1 |          2 |            1 | Homo          | 8fnb         |
+|            0 |          1 |            1 | Homo          | 1ten         |
 |            0 |          1 |            2 | Homo          | 2rbl         |
 |            1 |          2 |            1 | Homo          | 2rbl         |
-|            0 |          1 |            1 | Homo          | 2rb8         |
-|            0 |          1 |            1 | Homo          | 5r5z         |
+|            0 |          1 |            1 | Homo          | 5r5y         |
 |            0 |          1 |            1 | Homo          | 5r62         |
+|            0 |          1 |            1 | Homo          | 5r5z         |
+|            0 |          1 |            2 | Hetero        | 8fn8         |
+|            0 |          1 |            1 | Homo          | 5r5v         |
 |            0 |          1 |            1 | Homo          | 5r5x         |
-|            0 |          1 |            1 | Homo          | 5r61         |
-|            0 |          1 |            1 | Homo          | 5r60         |
+|            0 |          1 |            1 | Homo          | 5r5u         |
 
 ## Combined Per-Residue Information
 

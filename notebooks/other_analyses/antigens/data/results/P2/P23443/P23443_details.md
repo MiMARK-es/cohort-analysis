@@ -21,13 +21,17 @@
 - **Biomarker Application**: nan
 - **Number of Isoforms**: 0
 - **Regulation**: 2
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
+- **(transcriptomics) AUC**: 0.37
+- **(transcriptomics) Fold Change**: 1.02
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 112
 - **Max n_uniprots (Homo)**: 2
 - **Max n_uniprots (Hetero)**: 2
 
+
+## Expression Comparison
+
+![Expression Comparison](./P23443_expression_comparison.png)
 
 ## Interactors
 
@@ -94,39 +98,39 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            1 | Homo          | 3wf6         |
-|            0 |          1 |            1 | Homo          | 4l3j         |
 |            0 |          1 |            1 | Homo          | 4l44         |
-|            0 |          1 |            1 | Homo          | 4l46         |
-|            0 |          1 |            1 | Homo          | 4rlp         |
-|            1 |          2 |            1 | Homo          | 4rlp         |
-|            0 |          1 |            1 | Homo          | 3wf7         |
-|            0 |          1 |            1 | Homo          | 3wf5         |
-|            0 |          1 |            1 | Homo          | 7n93         |
-|            1 |          2 |            1 | Homo          | 7n93         |
+|            0 |          1 |            2 | Homo          | 3a60         |
+|            0 |          1 |            1 | Homo          | 3wf6         |
+|            0 |          1 |            2 | Hetero        | 5wbk         |
 |            0 |          1 |            1 | Homo          | 3a61         |
+|            0 |          1 |            1 | Homo          | 4l3l         |
+|            0 |          1 |            1 | Homo          | 4l42         |
 |            0 |          1 |            1 | Homo          | 4rlo         |
 |            1 |          2 |            1 | Homo          | 4rlo         |
 |            2 |          3 |            2 | Homo          | 4rlo         |
+|            0 |          1 |            1 | Homo          | 4l45         |
+|            0 |          1 |            1 | Homo          | 7n91         |
+|            1 |          2 |            1 | Homo          | 7n91         |
+|            0 |          1 |            1 | Homo          | 7n93         |
+|            1 |          2 |            1 | Homo          | 7n93         |
+|            0 |          1 |            1 | Homo          | 3wf8         |
+|            1 |          2 |            1 | Homo          | 3wf8         |
+|            0 |          1 |            1 | Homo          | 4l46         |
+|            0 |          1 |            1 | Homo          | 3wf5         |
+|            0 |          1 |            1 | Homo          | 4rlp         |
+|            1 |          2 |            1 | Homo          | 4rlp         |
+|            0 |          1 |            1 | Homo          | 3a62         |
+|            0 |          1 |            1 | Homo          | 3we4         |
+|            0 |          1 |            1 | Homo          | 4l3j         |
+|            0 |          1 |            1 | Homo          | 3wf7         |
+|            0 |          1 |            1 | Homo          | 3wf9         |
+|            1 |          2 |            1 | Homo          | 3wf9         |
+|            0 |          1 |            1 | Homo          | 4l43         |
 |            0 |          1 |            1 | Homo          | 5wbh         |
 |            1 |          2 |            1 | Homo          | 5wbh         |
 |            2 |          3 |            1 | Homo          | 5wbh         |
 |            3 |          4 |            2 | Hetero        | 5wbh         |
 |            4 |          5 |            1 | Homo          | 5wbh         |
-|            0 |          1 |            1 | Homo          | 3we4         |
-|            0 |          1 |            1 | Homo          | 7n91         |
-|            1 |          2 |            1 | Homo          | 7n91         |
-|            0 |          1 |            1 | Homo          | 4l3l         |
-|            0 |          1 |            1 | Homo          | 4l43         |
-|            0 |          1 |            1 | Homo          | 4l42         |
-|            0 |          1 |            2 | Hetero        | 5wbk         |
-|            0 |          1 |            2 | Homo          | 3a60         |
-|            0 |          1 |            1 | Homo          | 3a62         |
-|            0 |          1 |            1 | Homo          | 3wf9         |
-|            1 |          2 |            1 | Homo          | 3wf9         |
-|            0 |          1 |            1 | Homo          | 4l45         |
-|            0 |          1 |            1 | Homo          | 3wf8         |
-|            1 |          2 |            1 | Homo          | 3wf8         |
 
 ## Combined Per-Residue Information
 

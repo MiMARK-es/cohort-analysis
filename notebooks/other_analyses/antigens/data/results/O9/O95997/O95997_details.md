@@ -26,7 +26,7 @@
 - **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 18
 - **Max n_uniprots (Homo)**: N/A
-- **Max n_uniprots (Hetero)**: N/A
+- **Max n_uniprots (Hetero)**: 4
 
 
 ## Expression Comparison
@@ -59,6 +59,13 @@
 | PTTG1             | ANAPC10           |   0.911 |
 | PTTG1             | NUSAP1            |   0.906 |
 | PTTG1             | PTTG2             |   0.903 |
+
+## Biological Assemblies
+
+|   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
+|-------------:|-----------:|-------------:|:--------------|:-------------|
+|            0 |          1 |            2 | Hetero        | 7nj1         |
+|            0 |          1 |            4 | Hetero        | 7nj0         |
 
 ## Combined Per-Residue Information
 

@@ -25,7 +25,7 @@
 - **(transcriptomics) Fold Change**: 1.20
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 76
-- **Max n_uniprots (Homo)**: 3.0
+- **Max n_uniprots (Homo)**: 2.0
 - **Max n_uniprots (Hetero)**: N/A
 
 
@@ -121,15 +121,15 @@ P16070-19 <span>M</span><span>D</span><span>K</span><span>F</span><span>W</span>
 
 ## Biological Assemblies
 
-|   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
-|-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            1 | Homo          | 4pz4         |
-|            1 |          2 |            1 | Homo          | 4pz4         |
-|            0 |          1 |            1 | Homo          | 1poz         |
-|            0 |          1 |            1 | Homo          | 2i83         |
-|            0 |          1 |            1 | Homo          | 1uuh         |
-|            1 |          2 |            1 | Homo          | 1uuh         |
-|            0 |          1 |            3 | Homo          | 4pz3         |
+|   Unnamed: 0 | crystal_id   |   assembly |   n_uniprots | composition   |
+|-------------:|:-------------|-----------:|-------------:|:--------------|
+|            0 | 1uuh         |          1 |            1 | Homo          |
+|            1 | 1uuh         |          2 |            1 | Homo          |
+|            0 | 4pz3         |          1 |            2 | Homo          |
+|            0 | 2i83         |          1 |            1 | Homo          |
+|            0 | 1poz         |          1 |            1 | Homo          |
+|            0 | 4pz4         |          1 |            1 | Homo          |
+|            1 | 4pz4         |          2 |            1 | Homo          |
 
 ## Combined Per-Residue Information
 

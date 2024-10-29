@@ -25,8 +25,8 @@
 - **(transcriptomics) Fold Change**: 1.61
 - **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 25
-- **Max n_uniprots (Homo)**: 3
-- **Max n_uniprots (Hetero)**: 8
+- **Max n_uniprots (Homo)**: 1
+- **Max n_uniprots (Hetero)**: 4
 
 
 ## Expression Comparison
@@ -79,19 +79,19 @@ P01135-5 <span>M</span><span>V</span><span>P</span><span>S</span><span>A</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            1 | Homo          | 3tgf         |
-|            0 |          1 |            1 | Homo          | 4tgf         |
-|            0 |          1 |            8 | Hetero        | 1mox         |
-|            0 |          1 |            3 | Homo          | 5kn5         |
-|            1 |          2 |            3 | Homo          | 5kn5         |
 |            0 |          1 |            1 | Homo          | 1yug         |
-|            0 |          1 |            4 | Hetero        | 7sz5         |
-|            0 |          1 |            1 | Homo          | 1yuf         |
-|            0 |          1 |            1 | Homo          | 2tgf         |
 |            0 |          1 |            2 | Hetero        | 3e50         |
 |            1 |          2 |            2 | Hetero        | 3e50         |
-|            0 |          1 |            4 | Hetero        | 7sz7         |
+|            0 |          1 |            1 | Homo          | 4tgf         |
+|            0 |          1 |            1 | Homo          | 1yuf         |
 |            0 |          1 |            1 | Homo          | 1gk5         |
+|            0 |          1 |            4 | Hetero        | 7sz7         |
+|            0 |          1 |            1 | Homo          | 3tgf         |
+|            0 |          1 |            4 | Hetero        | 1mox         |
+|            0 |          1 |            4 | Hetero        | 7sz5         |
+|            0 |          1 |            1 | Homo          | 5kn5         |
+|            1 |          2 |            1 | Homo          | 5kn5         |
+|            0 |          1 |            1 | Homo          | 2tgf         |
 
 ## Combined Per-Residue Information
 

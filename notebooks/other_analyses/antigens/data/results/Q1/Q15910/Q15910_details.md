@@ -25,8 +25,8 @@
 - **(transcriptomics) Fold Change**: 1.38
 - **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 177
-- **Max n_uniprots (Homo)**: 2
-- **Max n_uniprots (Hetero)**: 11
+- **Max n_uniprots (Homo)**: 1
+- **Max n_uniprots (Hetero)**: 10
 
 
 ## Expression Comparison
@@ -127,58 +127,58 @@ Q15910-5 <span>M</span><span>G</span><span>Q</span><span>T</span><span>G</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            1 | Homo          | 4mi5         |
-|            0 |          1 |            2 | Hetero        | 5h15         |
-|            1 |          2 |            2 | Hetero        | 5h15         |
-|            0 |          1 |            2 | Hetero        | 7qjg         |
-|            1 |          2 |            2 | Hetero        | 7qjg         |
-|            0 |          1 |            2 | Hetero        | 5wg6         |
-|            1 |          2 |            2 | Hetero        | 5wg6         |
-|            0 |          1 |            1 | Homo          | 4mi0         |
-|            0 |          1 |            2 | Hetero        | 5h17         |
-|            0 |          1 |           11 | Hetero        | 6c23         |
-|            0 |          1 |            6 | Hetero        | 6u4y         |
-|            0 |          1 |            2 | Hetero        | 5h25         |
-|            1 |          2 |            2 | Hetero        | 5h25         |
-|            0 |          1 |            2 | Hetero        | 7qju         |
-|            1 |          2 |            2 | Hetero        | 7qju         |
-|            0 |          1 |            4 | Hetero        | 5ls6         |
-|            1 |          2 |            4 | Hetero        | 5ls6         |
-|            2 |          3 |            4 | Hetero        | 5ls6         |
-|            3 |          4 |            4 | Hetero        | 5ls6         |
-|            0 |          1 |            2 | Hetero        | 5h19         |
-|            0 |          1 |           11 | Hetero        | 6c24         |
-|            0 |          1 |            2 | Hetero        | 5u62         |
-|            1 |          2 |            2 | Hetero        | 5u62         |
-|            0 |          1 |            3 | Hetero        | 5ij7         |
-|            1 |          2 |            3 | Hetero        | 5ij7         |
-|            0 |          1 |            2 | Homo          | 6p5l         |
-|            1 |          2 |            1 | Homo          | 6p5l         |
-|            0 |          1 |            3 | Hetero        | 5ij8         |
-|            1 |          2 |            3 | Hetero        | 5ij8         |
-|            0 |          1 |            2 | Hetero        | 5wuk         |
-|            0 |          1 |           11 | Hetero        | 6wkr         |
-|            0 |          1 |            2 | Hetero        | 5gsa         |
-|            1 |          2 |            2 | Hetero        | 5gsa         |
-|            0 |          1 |            2 | Hetero        | 7qk4         |
 |            0 |          1 |            2 | Hetero        | 5h14         |
 |            1 |          2 |            2 | Hetero        | 5h14         |
-|            0 |          1 |            2 | Hetero        | 5u5t         |
-|            1 |          2 |            2 | Hetero        | 5u5t         |
-|            0 |          1 |            5 | Hetero        | 5hyn         |
-|            1 |          2 |            5 | Hetero        | 5hyn         |
-|            2 |          3 |            5 | Hetero        | 5hyn         |
-|            3 |          4 |            5 | Hetero        | 5hyn         |
-|            4 |          5 |            4 | Hetero        | 5hyn         |
-|            5 |          6 |            4 | Hetero        | 5hyn         |
-|            6 |          7 |            4 | Hetero        | 5hyn         |
-|            7 |          8 |            4 | Hetero        | 5hyn         |
-|            0 |          1 |            2 | Hetero        | 6lo2         |
-|            1 |          2 |            2 | Hetero        | 6lo2         |
-|            0 |          1 |           11 | Hetero        | 7at8         |
-|            0 |          1 |           11 | Hetero        | 8fyh         |
+|            0 |          1 |            1 | Homo          | 6p5l         |
+|            1 |          2 |            1 | Homo          | 6p5l         |
+|            0 |          1 |            2 | Hetero        | 5h25         |
+|            1 |          2 |            2 | Hetero        | 5h25         |
+|            0 |          1 |            2 | Hetero        | 5h17         |
+|            0 |          1 |           10 | Hetero        | 7at8         |
+|            0 |          1 |            3 | Hetero        | 5hyn         |
+|            1 |          2 |            3 | Hetero        | 5hyn         |
+|            2 |          3 |            3 | Hetero        | 5hyn         |
+|            3 |          4 |            3 | Hetero        | 5hyn         |
+|            4 |          5 |            3 | Hetero        | 5hyn         |
+|            5 |          6 |            3 | Hetero        | 5hyn         |
+|            6 |          7 |            3 | Hetero        | 5hyn         |
+|            7 |          8 |            3 | Hetero        | 5hyn         |
 |            0 |          1 |            2 | Hetero        | 5h24         |
 |            1 |          2 |            2 | Hetero        | 5h24         |
+|            0 |          1 |            2 | Hetero        | 5h19         |
+|            0 |          1 |            3 | Hetero        | 5ls6         |
+|            1 |          2 |            3 | Hetero        | 5ls6         |
+|            2 |          3 |            3 | Hetero        | 5ls6         |
+|            3 |          4 |            3 | Hetero        | 5ls6         |
+|            0 |          1 |            1 | Homo          | 4mi0         |
+|            0 |          1 |            2 | Hetero        | 5u5t         |
+|            1 |          2 |            2 | Hetero        | 5u5t         |
+|            0 |          1 |            2 | Hetero        | 5h15         |
+|            1 |          2 |            2 | Hetero        | 5h15         |
+|            0 |          1 |            2 | Hetero        | 5wg6         |
+|            1 |          2 |            2 | Hetero        | 5wg6         |
+|            0 |          1 |            3 | Hetero        | 5ij8         |
+|            1 |          2 |            3 | Hetero        | 5ij8         |
+|            0 |          1 |            2 | Hetero        | 5gsa         |
+|            1 |          2 |            2 | Hetero        | 5gsa         |
+|            0 |          1 |            2 | Hetero        | 6lo2         |
+|            1 |          2 |            2 | Hetero        | 6lo2         |
+|            0 |          1 |            9 | Hetero        | 6c24         |
+|            0 |          1 |            2 | Hetero        | 7qju         |
+|            1 |          2 |            2 | Hetero        | 7qju         |
+|            0 |          1 |            9 | Hetero        | 6wkr         |
+|            0 |          1 |            2 | Hetero        | 7qk4         |
+|            0 |          1 |            3 | Hetero        | 5ij7         |
+|            1 |          2 |            3 | Hetero        | 5ij7         |
+|            0 |          1 |            2 | Hetero        | 5u62         |
+|            1 |          2 |            2 | Hetero        | 5u62         |
+|            0 |          1 |            1 | Homo          | 4mi5         |
+|            0 |          1 |            8 | Hetero        | 6c23         |
+|            0 |          1 |            2 | Hetero        | 5wuk         |
+|            0 |          1 |            6 | Hetero        | 6u4y         |
+|            0 |          1 |            2 | Hetero        | 7qjg         |
+|            1 |          2 |            2 | Hetero        | 7qjg         |
+|            0 |          1 |           10 | Hetero        | 8fyh         |
 
 ## Combined Per-Residue Information
 

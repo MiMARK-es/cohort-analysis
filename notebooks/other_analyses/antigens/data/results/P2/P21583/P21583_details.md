@@ -21,13 +21,17 @@
 - **Biomarker Application**: diagnosis,efficacy,unspecified application
 - **Number of Isoforms**: 3
 - **Regulation**: 1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
+- **(transcriptomics) AUC**: 0.11
+- **(transcriptomics) Fold Change**: 1.23
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 33
 - **Max n_uniprots (Homo)**: 4
-- **Max n_uniprots (Hetero)**: 8
+- **Max n_uniprots (Hetero)**: 4
 
+
+## Expression Comparison
+
+![Expression Comparison](./P21583_expression_comparison.png)
 
 ## Isoform Alignment
 
@@ -70,16 +74,16 @@ P21583-3 <span style='background-color: yellow;'>-</span><span style='background
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
+|            0 |          1 |            4 | Hetero        | 8dfq         |
 |            0 |          1 |            4 | Hetero        | 2e9w         |
+|            0 |          1 |            4 | Hetero        | 8dfm         |
 |            0 |          1 |            2 | Homo          | 1exz         |
 |            1 |          2 |            2 | Homo          | 1exz         |
 |            2 |          3 |            4 | Homo          | 1exz         |
-|            0 |          1 |            8 | Hetero        | 8dfm         |
 |            0 |          1 |            2 | Homo          | 1scf         |
 |            1 |          2 |            2 | Homo          | 1scf         |
 |            2 |          3 |            4 | Homo          | 1scf         |
-|            0 |          1 |            7 | Hetero        | 8dfq         |
-|            0 |          1 |            8 | Hetero        | 8dfp         |
+|            0 |          1 |            4 | Hetero        | 8dfp         |
 
 ## Combined Per-Residue Information
 

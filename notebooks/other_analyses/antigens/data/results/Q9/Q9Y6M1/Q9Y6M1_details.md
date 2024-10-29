@@ -21,13 +21,17 @@
 - **Biomarker Application**:  
 - **Number of Isoforms**: 0
 - **Regulation**: 2
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 0.85
+- **(transcriptomics) Fold Change**: 1.26
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 130
 - **Max n_uniprots (Homo)**: 1
-- **Max n_uniprots (Hetero)**: 5
+- **Max n_uniprots (Hetero)**: 2
 
+
+## Expression Comparison
+
+![Expression Comparison](./Q9Y6M1_expression_comparison.png)
 
 ## Interactors
 
@@ -63,13 +67,13 @@
 |            1 |          2 |            1 | Homo          | 6rol         |
 |            2 |          3 |            1 | Homo          | 6rol         |
 |            3 |          4 |            1 | Homo          | 6rol         |
-|            0 |          1 |            5 | Hetero        | 7q99         |
-|            0 |          1 |            3 | Hetero        | 7q98         |
-|            1 |          2 |            3 | Hetero        | 7q98         |
-|            2 |          3 |            3 | Hetero        | 7q98         |
-|            3 |          4 |            3 | Hetero        | 7q98         |
-|            4 |          5 |            3 | Hetero        | 7q98         |
+|            0 |          1 |            2 | Hetero        | 7q99         |
 |            0 |          1 |            1 | Homo          | 2cqh         |
+|            0 |          1 |            2 | Hetero        | 7q98         |
+|            1 |          2 |            2 | Hetero        | 7q98         |
+|            2 |          3 |            2 | Hetero        | 7q98         |
+|            3 |          4 |            2 | Hetero        | 7q98         |
+|            4 |          5 |            2 | Hetero        | 7q98         |
 
 ## Combined Per-Residue Information
 

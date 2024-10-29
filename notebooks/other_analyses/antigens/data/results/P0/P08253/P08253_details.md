@@ -25,7 +25,7 @@
 - **(transcriptomics) Fold Change**: 1.06
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 150
-- **Max n_uniprots (Homo)**: 3
+- **Max n_uniprots (Homo)**: 2
 - **Max n_uniprots (Hetero)**: 2
 
 
@@ -103,26 +103,26 @@ P08253-3 <span style='background-color: yellow;'>-</span><span style='background
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
+|            0 |          1 |            2 | Homo          | 1eak         |
+|            1 |          2 |            2 | Homo          | 1eak         |
+|            0 |          1 |            1 | Homo          | 1hov         |
+|            0 |          1 |            1 | Homo          | 1ck7         |
+|            0 |          1 |            2 | Hetero        | 3ayu         |
 |            0 |          1 |            2 | Hetero        | 1gxd         |
 |            1 |          2 |            2 | Hetero        | 1gxd         |
-|            0 |          1 |            1 | Homo          | 1gen         |
-|            0 |          1 |            1 | Homo          | 1ck7         |
+|            0 |          1 |            0 | Hetero        | 7xgj         |
+|            1 |          2 |            0 | Hetero        | 7xgj         |
+|            2 |          3 |            0 | Hetero        | 7xgj         |
 |            0 |          1 |            1 | Homo          | 1j7m         |
-|            0 |          1 |            3 | Homo          | 1eak         |
-|            1 |          2 |            3 | Homo          | 1eak         |
-|            0 |          1 |            1 | Homo          | 1cxw         |
 |            0 |          1 |            1 | Homo          | 1ks0         |
-|            0 |          1 |            2 | Hetero        | 3ayu         |
-|            0 |          1 |            1 | Hetero        | 8h78         |
-|            1 |          2 |            1 | Hetero        | 8h78         |
-|            0 |          1 |            1 | Homo          | 1hov         |
-|            0 |          1 |            2 | Hetero        | 7xjo         |
-|            1 |          2 |            2 | Hetero        | 7xjo         |
 |            0 |          1 |            1 | Homo          | 1rtg         |
-|            0 |          1 |            2 | Hetero        | 7xgj         |
-|            1 |          2 |            2 | Hetero        | 7xgj         |
-|            2 |          3 |            2 | Hetero        | 7xgj         |
 |            0 |          1 |            1 | Homo          | 1qib         |
+|            0 |          1 |            1 | Homo          | 1cxw         |
+|            0 |          1 |            1 | Homo          | 1gen         |
+|            0 |          1 |            0 | Hetero        | 7xjo         |
+|            1 |          2 |            0 | Hetero        | 7xjo         |
+|            0 |          1 |            0 | Hetero        | 8h78         |
+|            1 |          2 |            0 | Hetero        | 8h78         |
 
 ## Combined Per-Residue Information
 

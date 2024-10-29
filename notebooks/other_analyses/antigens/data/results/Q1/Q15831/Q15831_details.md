@@ -102,10 +102,10 @@ Q15831-2 <span>M</span><span>E</span><span>V</span><span>V</span><span>D</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            2 | Homo          | 4zdr         |
-|            0 |          1 |            4 | Hetero        | 5wxn         |
 |            0 |          1 |            3 | Hetero        | 2wtk         |
 |            1 |          2 |            3 | Hetero        | 2wtk         |
+|            0 |          1 |            2 | Homo          | 4zdr         |
+|            0 |          1 |            4 | Hetero        | 5wxn         |
 
 ## Combined Per-Residue Information
 

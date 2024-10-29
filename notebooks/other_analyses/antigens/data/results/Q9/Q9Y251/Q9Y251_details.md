@@ -25,7 +25,7 @@
 - **(transcriptomics) Fold Change**: 1.05
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 122
-- **Max n_uniprots (Homo)**: 5.0
+- **Max n_uniprots (Homo)**: 2.0
 - **Max n_uniprots (Hetero)**: N/A
 
 
@@ -62,25 +62,25 @@ Q9Y251-4 <span>M</span><span>L</span><span>L</span><span>R</span><span>S</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            3 | Homo          | 5e97         |
+|            0 |          1 |            2 | Homo          | 5e97         |
+|            0 |          1 |            2 | Homo          | 5e9c         |
 |            0 |          1 |            2 | Homo          | 7rg8         |
-|            0 |          1 |            4 | Homo          | 7prt         |
-|            0 |          1 |            2 | Homo          | 8jyg         |
-|            0 |          1 |            3 | Homo          | 5e9c         |
-|            0 |          1 |            3 | Homo          | 5e9b         |
-|            0 |          1 |            3 | Homo          | 5e98         |
-|            0 |          1 |            2 | Homo          | 5l9z         |
-|            0 |          1 |            3 | Homo          | 5l9y         |
-|            0 |          1 |            4 | Homo          | 7pr8         |
-|            0 |          1 |            4 | Homo          | 8e07         |
-|            0 |          1 |            2 | Homo          | 5la7         |
-|            0 |          1 |            2 | Homo          | 7yi7         |
-|            0 |          1 |            3 | Homo          | 5e8m         |
-|            0 |          1 |            2 | Homo          | 7yjc         |
-|            0 |          1 |            5 | Homo          | 8e08         |
-|            0 |          1 |            3 | Homo          | 5la4         |
-|            0 |          1 |            4 | Homo          | 7pr7         |
+|            0 |          1 |            2 | Homo          | 8e07         |
+|            0 |          1 |            2 | Homo          | 5e9b         |
 |            0 |          1 |            2 | Homo          | 8cqi         |
+|            0 |          1 |            2 | Homo          | 7yi7         |
+|            0 |          1 |            2 | Homo          | 7pr8         |
+|            0 |          1 |            2 | Homo          | 8e08         |
+|            0 |          1 |            1 | Homo          | 5la4         |
+|            0 |          1 |            2 | Homo          | 7pr7         |
+|            0 |          1 |            2 | Homo          | 5e98         |
+|            0 |          1 |            2 | Homo          | 7yjc         |
+|            0 |          1 |            2 | Homo          | 5l9y         |
+|            0 |          1 |            2 | Homo          | 8jyg         |
+|            0 |          1 |            1 | Homo          | 5la7         |
+|            0 |          1 |            2 | Homo          | 7prt         |
+|            0 |          1 |            2 | Homo          | 5l9z         |
+|            0 |          1 |            2 | Homo          | 5e8m         |
 
 ## Combined Per-Residue Information
 

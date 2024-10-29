@@ -25,7 +25,7 @@
 - **(transcriptomics) Fold Change**: 1.95
 - **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 257
-- **Max n_uniprots (Homo)**: 6.0
+- **Max n_uniprots (Homo)**: 2.0
 - **Max n_uniprots (Hetero)**: 4.0
 
 
@@ -140,26 +140,26 @@ P12830-2 <span>M</span><span>G</span><span>P</span><span>W</span><span>S</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            2 | Hetero        | 2omu         |
-|            0 |          1 |            3 | Homo          | 6vel         |
-|            0 |          1 |            2 | Hetero        | 2omv         |
-|            0 |          1 |            3 | Homo          | 6cxy         |
-|            0 |          1 |            1 | Homo          | 2o72         |
-|            0 |          1 |            2 | Homo          | 3l6y         |
-|            1 |          2 |            2 | Homo          | 3l6y         |
-|            2 |          3 |            2 | Homo          | 3l6y         |
-|            0 |          1 |            2 | Hetero        | 1o6s         |
-|            0 |          1 |            2 | Hetero        | 2omz         |
-|            0 |          1 |            2 | Hetero        | 2omx         |
-|            0 |          1 |            2 | Homo          | 4zt1         |
-|            0 |          1 |            2 | Homo          | 3l6x         |
-|            0 |          1 |            2 | Hetero        | 2omy         |
-|            0 |          1 |            2 | Homo          | 4zte         |
-|            0 |          1 |            4 | Hetero        | 3ff7         |
-|            0 |          1 |            2 | Hetero        | 2omt         |
+|            0 |          1 |            1 | Homo          | 6cxy         |
 |            0 |          1 |            4 | Hetero        | 3ff8         |
+|            0 |          1 |            2 | Homo          | 4zt1         |
+|            0 |          1 |            1 | Homo          | 2o72         |
+|            0 |          1 |            2 | Hetero        | 2omu         |
+|            0 |          1 |            1 | Homo          | 6vel         |
+|            0 |          1 |            2 | Homo          | 4zte         |
+|            0 |          1 |            2 | Hetero        | 2omv         |
+|            0 |          1 |            2 | Hetero        | 1o6s         |
+|            0 |          1 |            4 | Hetero        | 3ff7         |
+|            0 |          1 |            1 | Homo          | 3l6y         |
+|            1 |          2 |            1 | Homo          | 3l6y         |
+|            2 |          3 |            1 | Homo          | 3l6y         |
 |            0 |          1 |            2 | Hetero        | 8h62         |
-|            0 |          1 |            6 | Homo          | 7stz         |
+|            0 |          1 |            2 | Hetero        | 2omx         |
+|            0 |          1 |            2 | Hetero        | 2omz         |
+|            0 |          1 |            2 | Hetero        | 2omt         |
+|            0 |          1 |            2 | Hetero        | 2omy         |
+|            0 |          1 |            1 | Homo          | 3l6x         |
+|            0 |          1 |            2 | Homo          | 7stz         |
 
 ## Combined Per-Residue Information
 

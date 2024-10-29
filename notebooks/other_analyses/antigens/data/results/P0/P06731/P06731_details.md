@@ -21,13 +21,17 @@
 - **Biomarker Application**: diagnosis,disease progression
 - **Number of Isoforms**: 2
 - **Regulation**: 2
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 0.53
+- **(transcriptomics) Fold Change**: 1.32
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 157
-- **Max n_uniprots (Homo)**: 6
+- **Max n_uniprots (Homo)**: 2
 - **Max n_uniprots (Hetero)**: 2
 
+
+## Expression Comparison
+
+![Expression Comparison](./P06731_expression_comparison.png)
 
 ## Isoform Alignment
 
@@ -80,12 +84,12 @@ P06731-2 <span>M</span><span>E</span><span>S</span><span>P</span><span>S</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            2 | Hetero        | 2ver         |
-|            0 |          1 |            2 | Homo          | 2qsq         |
 |            0 |          1 |            1 | Homo          | 1e07         |
-|            0 |          1 |            6 | Homo          | 8bw0         |
 |            0 |          1 |            1 | Homo          | 2qst         |
 |            1 |          2 |            1 | Homo          | 2qst         |
+|            0 |          1 |            1 | Homo          | 8bw0         |
+|            0 |          1 |            2 | Homo          | 2qsq         |
+|            0 |          1 |            2 | Hetero        | 2ver         |
 
 ## Combined Per-Residue Information
 

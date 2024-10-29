@@ -21,13 +21,17 @@
 - **Biomarker Application**: disease progression
 - **Number of Isoforms**: 0
 - **Regulation**: 1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 0.52
+- **(transcriptomics) Fold Change**: 1.02
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 17
 - **Max n_uniprots (Homo)**: 10
 - **Max n_uniprots (Hetero)**: 4
 
+
+## Expression Comparison
+
+![Expression Comparison](./P26447_expression_comparison.png)
 
 ## Interactors
 
@@ -68,13 +72,6 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            2 | Homo          | 1m31         |
-|            0 |          1 |            4 | Hetero        | 5lpu         |
-|            0 |          1 |            2 | Homo          | 7psq         |
-|            1 |          2 |            2 | Homo          | 7psq         |
-|            0 |          1 |            1 | Homo          | 6t58         |
-|            1 |          2 |            1 | Homo          | 6t58         |
-|            0 |          1 |            2 | Homo          | 2q91         |
 |            0 |          1 |            2 | Homo          | 3ko0         |
 |            1 |          2 |            2 | Homo          | 3ko0         |
 |            2 |          3 |            2 | Homo          | 3ko0         |
@@ -85,25 +82,32 @@
 |            7 |          8 |            2 | Homo          | 3ko0         |
 |            8 |          9 |            2 | Homo          | 3ko0         |
 |            9 |         10 |            2 | Homo          | 3ko0         |
-|            0 |          1 |            3 | Hetero        | 4cfq         |
-|            1 |          2 |            3 | Hetero        | 4cfq         |
-|            0 |          1 |            2 | Homo          | 4hsz         |
-|            1 |          2 |            2 | Homo          | 4hsz         |
-|            0 |          1 |            3 | Hetero        | 2lnk         |
-|            0 |          1 |            2 | Homo          | 2mrd         |
-|            0 |          1 |            3 | Hetero        | 4eto         |
+|            0 |          1 |            2 | Homo          | 1m31         |
+|            0 |          1 |            2 | Homo          | 7psp         |
 |            0 |          1 |            2 | Homo          | 3c1v         |
 |            1 |          2 |            2 | Homo          | 3c1v         |
-|            0 |          1 |            3 | Hetero        | 3zwh         |
-|            0 |          1 |            3 | Hetero        | 4cfr         |
-|            0 |          1 |            2 | Homo          | 7psp         |
+|            0 |          1 |            2 | Homo          | 3cga         |
 |            0 |          1 |           10 | Homo          | 3m0w         |
 |            1 |          2 |            2 | Homo          | 3m0w         |
 |            2 |          3 |            2 | Homo          | 3m0w         |
 |            3 |          4 |            2 | Homo          | 3m0w         |
 |            4 |          5 |            2 | Homo          | 3m0w         |
 |            5 |          6 |            2 | Homo          | 3m0w         |
-|            0 |          1 |            2 | Homo          | 3cga         |
+|            0 |          1 |            2 | Homo          | 2q91         |
+|            0 |          1 |            3 | Hetero        | 4cfq         |
+|            1 |          2 |            3 | Hetero        | 4cfq         |
+|            0 |          1 |            3 | Hetero        | 4cfr         |
+|            0 |          1 |            4 | Hetero        | 5lpu         |
+|            0 |          1 |            3 | Hetero        | 4eto         |
+|            0 |          1 |            2 | Homo          | 2mrd         |
+|            0 |          1 |            2 | Homo          | 4hsz         |
+|            1 |          2 |            2 | Homo          | 4hsz         |
+|            0 |          1 |            2 | Homo          | 7psq         |
+|            1 |          2 |            2 | Homo          | 7psq         |
+|            0 |          1 |            3 | Hetero        | 2lnk         |
+|            0 |          1 |            3 | Hetero        | 3zwh         |
+|            0 |          1 |            1 | Homo          | 6t58         |
+|            1 |          2 |            1 | Homo          | 6t58         |
 
 ## Combined Per-Residue Information
 

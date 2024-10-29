@@ -21,13 +21,17 @@
 - **Biomarker Application**: prognosis
 - **Number of Isoforms**: 2
 - **Regulation**: 1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 0.66
+- **(transcriptomics) Fold Change**: 1.08
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 215
-- **Max n_uniprots (Homo)**: 5.0
-- **Max n_uniprots (Hetero)**: 9.0
+- **Max n_uniprots (Homo)**: 1.0
+- **Max n_uniprots (Hetero)**: 4.0
 
+
+## Expression Comparison
+
+![Expression Comparison](./P07333_expression_comparison.png)
 
 ## Isoform Alignment
 
@@ -118,33 +122,33 @@ P07333-2 <span>M</span><span>G</span><span>P</span><span>G</span><span>V</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            1 | Homo          | 2ogv         |
-|            0 |          1 |            1 | Homo          | 4hw7         |
-|            1 |          2 |            1 | Homo          | 4hw7         |
-|            0 |          1 |            1 | Homo          | 3bea         |
-|            0 |          1 |            1 | Homo          | 2i0v         |
-|            0 |          1 |            1 | Homo          | 2i0y         |
-|            0 |          1 |            1 | Homo          | 3dpk         |
-|            0 |          1 |            1 | Homo          | 7mfc         |
-|            0 |          1 |            5 | Homo          | 4liq         |
-|            0 |          1 |            1 | Homo          | 4r7i         |
-|            1 |          2 |            1 | Homo          | 4r7i         |
-|            0 |          1 |            1 | Homo          | 8cgc         |
-|            0 |          1 |            1 | Homo          | 3krj         |
-|            0 |          1 |            1 | Homo          | 3lco         |
-|            0 |          1 |            5 | Hetero        | 4dkd         |
-|            0 |          1 |            1 | Homo          | 6n33         |
-|            0 |          1 |            1 | Homo          | 3lcd         |
 |            0 |          1 |            1 | Homo          | 6ig8         |
+|            0 |          1 |            1 | Homo          | 2ogv         |
 |            0 |          1 |            1 | Homo          | 2i1m         |
+|            0 |          1 |            1 | Homo          | 3dpk         |
+|            0 |          1 |            4 | Hetero        | 4wrl         |
+|            0 |          1 |            1 | Homo          | 3lcd         |
+|            0 |          1 |            2 | Hetero        | 4wrm         |
 |            0 |          1 |            1 | Homo          | 4r7h         |
 |            1 |          2 |            1 | Homo          | 4r7h         |
-|            0 |          1 |            1 | Homo          | 6wxj         |
-|            0 |          1 |            1 | Homo          | 8jot         |
+|            0 |          1 |            1 | Homo          | 3bea         |
 |            0 |          1 |            1 | Homo          | 3krl         |
+|            0 |          1 |            3 | Hetero        | 4dkd         |
+|            0 |          1 |            1 | Homo          | 7mfc         |
+|            0 |          1 |            1 | Homo          | 4liq         |
+|            0 |          1 |            1 | Homo          | 6n33         |
 |            0 |          1 |            1 | Homo          | 6t2w         |
-|            0 |          1 |            9 | Hetero        | 4wrl         |
-|            0 |          1 |            2 | Hetero        | 4wrm         |
+|            0 |          1 |            1 | Homo          | 6wxj         |
+|            0 |          1 |            1 | Homo          | 2i0v         |
+|            0 |          1 |            1 | Homo          | 8jot         |
+|            0 |          1 |            1 | Homo          | 4hw7         |
+|            1 |          2 |            1 | Homo          | 4hw7         |
+|            0 |          1 |            1 | Homo          | 3lco         |
+|            0 |          1 |            1 | Homo          | 2i0y         |
+|            0 |          1 |            1 | Homo          | 3krj         |
+|            0 |          1 |            1 | Homo          | 8cgc         |
+|            0 |          1 |            1 | Homo          | 4r7i         |
+|            1 |          2 |            1 | Homo          | 4r7i         |
 
 ## Combined Per-Residue Information
 

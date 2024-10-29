@@ -53,35 +53,17 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            1 | Homo          | 1oc3         |
-|            1 |          2 |            1 | Homo          | 1oc3         |
-|            2 |          3 |            1 | Homo          | 1oc3         |
+|            0 |          1 |            1 | Homo          | 1urm         |
 |            0 |          1 |            1 | Homo          | 4k7n         |
 |            1 |          2 |            2 | Homo          | 4k7n         |
-|            0 |          1 |            1 | Homo          | 1urm         |
-|            0 |          1 |            1 | Homo          | 3mng         |
-|            0 |          1 |            1 | Homo          | 2vl2         |
-|            1 |          2 |            2 | Homo          | 2vl2         |
 |            0 |          1 |            1 | Homo          | 4k7o         |
 |            1 |          2 |            1 | Homo          | 4k7o         |
 |            2 |          3 |            1 | Homo          | 4k7o         |
 |            3 |          4 |            1 | Homo          | 4k7o         |
 |            4 |          5 |            2 | Homo          | 4k7o         |
-|            0 |          1 |            1 | Homo          | 4mmm         |
-|            1 |          2 |            1 | Homo          | 4mmm         |
-|            2 |          3 |            1 | Homo          | 4mmm         |
-|            3 |          4 |            1 | Homo          | 4mmm         |
-|            4 |          5 |            2 | Homo          | 4mmm         |
-|            5 |          6 |            2 | Homo          | 4mmm         |
-|            0 |          1 |            1 | Homo          | 2vl3         |
-|            1 |          2 |            2 | Homo          | 2vl3         |
-|            0 |          1 |            4 | Homo          | 2vl9         |
+|            0 |          1 |            1 | Homo          | 2vl2         |
+|            1 |          2 |            2 | Homo          | 2vl2         |
 |            0 |          1 |            1 | Homo          | 1hd2         |
-|            0 |          1 |            1 | Homo          | 4k7i         |
-|            1 |          2 |            1 | Homo          | 4k7i         |
-|            2 |          3 |            1 | Homo          | 4k7i         |
-|            3 |          4 |            1 | Homo          | 4k7i         |
-|            4 |          5 |            2 | Homo          | 4k7i         |
 |            0 |          1 |            1 | Homo          | 1h4o         |
 |            1 |          2 |            1 | Homo          | 1h4o         |
 |            2 |          3 |            1 | Homo          | 1h4o         |
@@ -90,6 +72,24 @@
 |            5 |          6 |            1 | Homo          | 1h4o         |
 |            6 |          7 |            1 | Homo          | 1h4o         |
 |            7 |          8 |            1 | Homo          | 1h4o         |
+|            0 |          1 |            4 | Homo          | 2vl9         |
+|            0 |          1 |            1 | Homo          | 3mng         |
+|            0 |          1 |            1 | Homo          | 1oc3         |
+|            1 |          2 |            1 | Homo          | 1oc3         |
+|            2 |          3 |            1 | Homo          | 1oc3         |
+|            0 |          1 |            1 | Homo          | 4mmm         |
+|            1 |          2 |            1 | Homo          | 4mmm         |
+|            2 |          3 |            1 | Homo          | 4mmm         |
+|            3 |          4 |            1 | Homo          | 4mmm         |
+|            4 |          5 |            2 | Homo          | 4mmm         |
+|            5 |          6 |            2 | Homo          | 4mmm         |
+|            0 |          1 |            1 | Homo          | 2vl3         |
+|            1 |          2 |            2 | Homo          | 2vl3         |
+|            0 |          1 |            1 | Homo          | 4k7i         |
+|            1 |          2 |            1 | Homo          | 4k7i         |
+|            2 |          3 |            1 | Homo          | 4k7i         |
+|            3 |          4 |            1 | Homo          | 4k7i         |
+|            4 |          5 |            2 | Homo          | 4k7i         |
 
 ## Combined Per-Residue Information
 

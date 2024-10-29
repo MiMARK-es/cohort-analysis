@@ -68,9 +68,9 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
+|            0 |          1 |            1 | Homo          | 1bo9         |
 |            0 |          1 |            1 | Homo          | 5vfw         |
 |            0 |          1 |            1 | Homo          | 1ain         |
-|            0 |          1 |            1 | Homo          | 1bo9         |
 |            0 |          1 |            2 | Hetero        | 1qls         |
 
 ## Combined Per-Residue Information

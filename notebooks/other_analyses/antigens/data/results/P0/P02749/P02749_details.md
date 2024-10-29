@@ -25,8 +25,8 @@
 - **(transcriptomics) Fold Change**: 1.07
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 70
-- **Max n_uniprots (Homo)**: 5.0
-- **Max n_uniprots (Hetero)**: 4.0
+- **Max n_uniprots (Homo)**: 1.0
+- **Max n_uniprots (Hetero)**: 2.0
 
 
 ## Expression Comparison
@@ -110,20 +110,20 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            3 | Homo          | 6v09         |
+|            0 |          1 |            1 | Homo          | 7jik         |
+|            0 |          1 |            1 | Homo          | 1qub         |
+|            0 |          1 |            1 | Homo          | 6v09         |
+|            0 |          1 |            1 | Homo          | 6v08         |
+|            0 |          1 |            1 | Homo          | 6v06         |
 |            0 |          1 |            1 | Homo          | 1g4f         |
-|            0 |          1 |            4 | Hetero        | 1c1z         |
-|            0 |          1 |            3 | Homo          | 6xst         |
-|            0 |          1 |            3 | Homo          | 7kg4         |
-|            1 |          2 |            3 | Homo          | 7kg4         |
-|            0 |          1 |            5 | Homo          | 6v08         |
+|            0 |          1 |            1 | Homo          | 6xst         |
 |            0 |          1 |            2 | Hetero        | 2kri         |
-|            0 |          1 |            5 | Homo          | 6v06         |
-|            0 |          1 |            3 | Homo          | 1qub         |
+|            0 |          1 |            0 | Hetero        | 1c1z         |
+|            0 |          1 |            1 | Homo          | 6xsd         |
 |            0 |          1 |            1 | Homo          | 1g4g         |
-|            0 |          1 |            3 | Homo          | 7jik         |
 |            0 |          1 |            1 | Homo          | 4jhs         |
-|            0 |          1 |            3 | Homo          | 6xsd         |
+|            0 |          1 |            1 | Homo          | 7kg4         |
+|            1 |          2 |            1 | Homo          | 7kg4         |
 
 ## Combined Per-Residue Information
 

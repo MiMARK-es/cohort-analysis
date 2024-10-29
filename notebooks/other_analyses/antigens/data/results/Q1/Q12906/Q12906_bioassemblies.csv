@@ -1,8 +1,8 @@
 ,assembly,n_uniprots,composition,crystal_id
+0,1,2,Hetero,7rjq
 0,1,1,Homo,3p1x
 1,2,1,Homo,3p1x
 2,3,2,Homo,3p1x
-0,1,1,Homo,2l33
 0,1,2,Hetero,7rjm
 1,2,1,Homo,7rjm
-0,1,2,Hetero,7rjq
+0,1,1,Homo,2l33

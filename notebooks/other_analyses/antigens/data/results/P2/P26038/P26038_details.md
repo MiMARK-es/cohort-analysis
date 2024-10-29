@@ -21,13 +21,17 @@
 - **Biomarker Application**:  
 - **Number of Isoforms**: 0
 - **Regulation**: 2
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
+- **(transcriptomics) AUC**: 0.23
+- **(transcriptomics) Fold Change**: 1.05
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 124
 - **Max n_uniprots (Homo)**: 4.0
 - **Max n_uniprots (Hetero)**: 2.0
 
+
+## Expression Comparison
+
+![Expression Comparison](./P26038_expression_comparison.png)
 
 ## Interactors
 
@@ -65,20 +69,20 @@
 
 ## Biological Assemblies
 
-|   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
-|-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            1 | Homo          | 8ciu         |
-|            0 |          1 |            2 | Hetero        | 1sgh         |
-|            0 |          1 |            4 | Homo          | 1ef1         |
-|            1 |          2 |            2 | Homo          | 1ef1         |
-|            2 |          3 |            2 | Homo          | 1ef1         |
-|            0 |          1 |            4 | Homo          | 8cis         |
-|            0 |          1 |            1 | Homo          | 1e5w         |
-|            0 |          1 |            1 | Homo          | 8cit         |
-|            1 |          2 |            1 | Homo          | 8cit         |
-|            2 |          3 |            1 | Homo          | 8cit         |
-|            0 |          1 |            2 | Homo          | 8cir         |
-|            1 |          2 |            2 | Homo          | 8cir         |
+|   Unnamed: 0 | crystal_id   |   assembly |   n_uniprots | composition   |
+|-------------:|:-------------|-----------:|-------------:|:--------------|
+|            0 | 1ef1         |          1 |            4 | Homo          |
+|            1 | 1ef1         |          2 |            2 | Homo          |
+|            2 | 1ef1         |          3 |            2 | Homo          |
+|            0 | 1sgh         |          1 |            2 | Hetero        |
+|            0 | 8cit         |          1 |            1 | Homo          |
+|            1 | 8cit         |          2 |            1 | Homo          |
+|            2 | 8cit         |          3 |            1 | Homo          |
+|            0 | 8ciu         |          1 |            1 | Homo          |
+|            0 | 8cis         |          1 |            1 | Homo          |
+|            0 | 1e5w         |          1 |            1 | Homo          |
+|            0 | 8cir         |          1 |            1 | Homo          |
+|            1 | 8cir         |          2 |            1 | Homo          |
 
 ## Combined Per-Residue Information
 

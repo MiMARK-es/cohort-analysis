@@ -63,9 +63,9 @@ P29536-2 <span style='background-color: yellow;'>-</span><span style='background
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
+|            0 |          1 |            1 | Homo          | 4z79         |
 |            0 |          1 |            1 | Homo          | 4z8g         |
 |            0 |          1 |            2 | Hetero        | 4z94         |
-|            0 |          1 |            1 | Homo          | 4z79         |
 
 ## Combined Per-Residue Information
 

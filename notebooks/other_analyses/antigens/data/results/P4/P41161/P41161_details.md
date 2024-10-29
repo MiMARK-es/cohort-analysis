@@ -25,7 +25,7 @@
 - **(transcriptomics) Fold Change**: 1.22
 - **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 56
-- **Max n_uniprots (Homo)**: 3
+- **Max n_uniprots (Homo)**: 1
 - **Max n_uniprots (Hetero)**: N/A
 
 
@@ -85,7 +85,7 @@ P41161-2 <span style='background-color: yellow;'>M</span><span style='background
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            3 | Homo          | 4uno         |
+|            0 |          1 |            1 | Homo          | 4uno         |
 |            0 |          1 |            1 | Homo          | 5ilv         |
 |            1 |          2 |            1 | Homo          | 5ilv         |
 

@@ -25,8 +25,8 @@
 - **(transcriptomics) Fold Change**: 16.70
 - **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 274
-- **Max n_uniprots (Homo)**: 3
-- **Max n_uniprots (Hetero)**: 7
+- **Max n_uniprots (Homo)**: 1
+- **Max n_uniprots (Hetero)**: 6
 
 
 ## Expression Comparison
@@ -92,27 +92,27 @@ O14746-4 <span>M</span><span>P</span><span>R</span><span>A</span><span>P</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            7 | Hetero        | 7qxs         |
-|            0 |          1 |            4 | Hetero        | 7tre         |
-|            0 |          1 |            5 | Hetero        | 7bg9         |
-|            0 |          1 |            3 | Homo          | 7trd         |
-|            0 |          1 |            6 | Hetero        | 7qxa         |
-|            0 |          1 |            5 | Hetero        | 4mnq         |
-|            0 |          1 |            3 | Hetero        | 5mep         |
-|            1 |          2 |            3 | Hetero        | 5mep         |
+|            0 |          1 |            2 | Hetero        | 5meq         |
+|            0 |          1 |            2 | Hetero        | 7tre         |
+|            0 |          1 |            3 | Hetero        | 7v99         |
+|            0 |          1 |            3 | Hetero        | 7bg9         |
+|            0 |          1 |            2 | Hetero        | 5mer         |
+|            1 |          2 |            2 | Hetero        | 5mer         |
+|            0 |          1 |            4 | Hetero        | 7qxa         |
+|            0 |          1 |            5 | Hetero        | 7qxs         |
+|            0 |          1 |            4 | Hetero        | 5men         |
 |            0 |          1 |            2 | Hetero        | 4b18         |
-|            0 |          1 |            3 | Hetero        | 5meq         |
-|            0 |          1 |            3 | Hetero        | 5mer         |
-|            1 |          2 |            3 | Hetero        | 5mer         |
-|            0 |          1 |            5 | Hetero        | 7trf         |
-|            0 |          1 |            5 | Hetero        | 5men         |
-|            0 |          1 |            5 | Hetero        | 7v99         |
+|            0 |          1 |            2 | Hetero        | 5mep         |
+|            1 |          2 |            2 | Hetero        | 5mep         |
+|            0 |          1 |            5 | Hetero        | 7qxb         |
+|            0 |          1 |            3 | Hetero        | 7trf         |
 |            0 |          1 |            1 | Homo          | 5ugw         |
-|            0 |          1 |            3 | Hetero        | 5meo         |
+|            0 |          1 |            5 | Hetero        | 4mnq         |
 |            0 |          1 |            3 | Hetero        | 2bck         |
 |            1 |          2 |            3 | Hetero        | 2bck         |
 |            2 |          3 |            6 | Hetero        | 2bck         |
-|            0 |          1 |            7 | Hetero        | 7qxb         |
+|            0 |          1 |            2 | Hetero        | 5meo         |
+|            0 |          1 |            1 | Homo          | 7trd         |
 
 ## Combined Per-Residue Information
 

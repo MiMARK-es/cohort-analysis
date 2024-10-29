@@ -21,13 +21,17 @@
 - **Biomarker Application**: diagnosis
 - **Number of Isoforms**: 2
 - **Regulation**: 1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 0.92
+- **(transcriptomics) Fold Change**: 1.29
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 50
-- **Max n_uniprots (Homo)**: 10.0
+- **Max n_uniprots (Homo)**: 6.0
 - **Max n_uniprots (Hetero)**: N/A
 
+
+## Expression Comparison
+
+![Expression Comparison](./P22392_expression_comparison.png)
 
 ## Isoform Alignment
 
@@ -85,12 +89,12 @@ P22392-2 <span style='background-color: yellow;'>M</span><span style='background
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            6 | Homo          | 7kpf         |
-|            0 |          1 |           10 | Homo          | 3bbb         |
-|            0 |          1 |            6 | Homo          | 3bbf         |
-|            0 |          1 |            6 | Homo          | 3bbc         |
+|            0 |          1 |            6 | Homo          | 3bbb         |
 |            0 |          1 |            6 | Homo          | 8pyw         |
+|            0 |          1 |            6 | Homo          | 3bbf         |
+|            0 |          1 |            6 | Homo          | 7kpf         |
 |            0 |          1 |            6 | Homo          | 1nue         |
+|            0 |          1 |            6 | Homo          | 3bbc         |
 
 ## Combined Per-Residue Information
 

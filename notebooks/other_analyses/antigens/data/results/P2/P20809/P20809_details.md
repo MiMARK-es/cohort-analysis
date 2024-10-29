@@ -26,7 +26,7 @@
 - **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 50
 - **Max n_uniprots (Homo)**: 1.0
-- **Max n_uniprots (Hetero)**: 11.0
+- **Max n_uniprots (Hetero)**: 6.0
 
 
 ## Expression Comparison
@@ -65,15 +65,15 @@ P20809-2 <span style='background-color: yellow;'>-</span><span style='background
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |           10 | Hetero        | 8dpt         |
-|            0 |          1 |            1 | Homo          | 6o4o         |
-|            0 |          1 |           10 | Hetero        | 8dps         |
-|            0 |          1 |           10 | Hetero        | 8dpu         |
-|            1 |          2 |           10 | Hetero        | 8dpu         |
-|            2 |          3 |           10 | Hetero        | 8dpu         |
-|            0 |          1 |            1 | Homo          | 8dpw         |
+|            0 |          1 |            6 | Hetero        | 8dps         |
 |            0 |          1 |            1 | Homo          | 8dpv         |
-|            0 |          1 |           11 | Hetero        | 8qy4         |
+|            0 |          1 |            6 | Hetero        | 8qy4         |
+|            0 |          1 |            1 | Homo          | 8dpw         |
+|            0 |          1 |            6 | Hetero        | 8dpt         |
+|            0 |          1 |            6 | Hetero        | 8dpu         |
+|            1 |          2 |            6 | Hetero        | 8dpu         |
+|            2 |          3 |            6 | Hetero        | 8dpu         |
+|            0 |          1 |            1 | Homo          | 6o4o         |
 
 ## Combined Per-Residue Information
 

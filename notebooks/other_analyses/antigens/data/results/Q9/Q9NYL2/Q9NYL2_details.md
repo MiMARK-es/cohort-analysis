@@ -78,13 +78,13 @@ Q9NYL2-3 <span>M</span><span>S</span><span>S</span><span>L</span><span>G</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            1 | Homo          | 7yaz         |
 |            0 |          1 |            1 | Homo          | 5x5o         |
-|            0 |          1 |            1 | Homo          | 6juu         |
 |            0 |          1 |            1 | Homo          | 7yaw         |
 |            1 |          2 |            1 | Homo          | 7yaw         |
 |            2 |          3 |            1 | Homo          | 7yaw         |
 |            3 |          4 |            1 | Homo          | 7yaw         |
+|            0 |          1 |            1 | Homo          | 7yaz         |
+|            0 |          1 |            1 | Homo          | 6juu         |
 |            0 |          1 |            1 | Homo          | 6jut         |
 |            0 |          1 |            1 | Homo          | 5hes         |
 |            1 |          2 |            1 | Homo          | 5hes         |

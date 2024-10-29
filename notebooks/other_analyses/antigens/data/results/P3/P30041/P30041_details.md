@@ -86,12 +86,12 @@
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
 |            0 |          1 |            2 | Homo          | 1prx         |
-|            0 |          1 |            2 | Homo          | 5b6m         |
-|            1 |          2 |            2 | Homo          | 5b6m         |
-|            2 |          3 |            2 | Homo          | 5b6m         |
 |            0 |          1 |            2 | Homo          | 5b6n         |
 |            1 |          2 |            2 | Homo          | 5b6n         |
 |            2 |          3 |            2 | Homo          | 5b6n         |
+|            0 |          1 |            2 | Homo          | 5b6m         |
+|            1 |          2 |            2 | Homo          | 5b6m         |
+|            2 |          3 |            2 | Homo          | 5b6m         |
 
 ## Combined Per-Residue Information
 

@@ -21,13 +21,17 @@
 - **Biomarker Application**: prognosis
 - **Number of Isoforms**: 2
 - **Regulation**: 1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
+- **(transcriptomics) AUC**: 0.42
+- **(transcriptomics) Fold Change**: 1.01
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 26
 - **Max n_uniprots (Homo)**: 1
 - **Max n_uniprots (Hetero)**: 2
 
+
+## Expression Comparison
+
+![Expression Comparison](./Q15121_expression_comparison.png)
 
 ## Isoform Alignment
 
@@ -54,6 +58,7 @@ Q15121-2 <span style='background-color: yellow;'>M</span><span style='background
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
+|            0 |          1 |            1 | Homo          | 6p6b         |
 |            0 |          1 |            2 | Hetero        | 4iz5         |
 |            1 |          2 |            2 | Hetero        | 4iz5         |
 |            2 |          3 |            2 | Hetero        | 4iz5         |
@@ -61,7 +66,6 @@ Q15121-2 <span style='background-color: yellow;'>M</span><span style='background
 |            0 |          1 |            1 | Homo          | 6p6c         |
 |            0 |          1 |            2 | Hetero        | 4iza         |
 |            1 |          2 |            1 | Homo          | 4iza         |
-|            0 |          1 |            1 | Homo          | 6p6b         |
 
 ## Combined Per-Residue Information
 

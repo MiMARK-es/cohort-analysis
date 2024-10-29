@@ -25,7 +25,7 @@
 - **(transcriptomics) Fold Change**: 1.12
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 320
-- **Max n_uniprots (Homo)**: 3
+- **Max n_uniprots (Homo)**: 1
 - **Max n_uniprots (Hetero)**: N/A
 
 
@@ -69,18 +69,18 @@ P78504-2 <span style='background-color: yellow;'>-</span><span style='background
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            1 | Homo          | 2vj2         |
-|            1 |          2 |            1 | Homo          | 2vj2         |
 |            0 |          1 |            1 | Homo          | 4cc1         |
 |            1 |          2 |            1 | Homo          | 4cc1         |
-|            0 |          1 |            2 | Homo          | 4xi7         |
-|            0 |          1 |            1 | Homo          | 2kb9         |
-|            0 |          1 |            3 | Homo          | 5bo1         |
-|            1 |          2 |            3 | Homo          | 5bo1         |
 |            0 |          1 |            1 | Homo          | 4cc0         |
 |            1 |          2 |            1 | Homo          | 4cc0         |
+|            0 |          1 |            1 | Homo          | 2vj2         |
+|            1 |          2 |            1 | Homo          | 2vj2         |
 |            0 |          1 |            1 | Homo          | 4cbz         |
 |            1 |          2 |            1 | Homo          | 4cbz         |
+|            0 |          1 |            1 | Homo          | 4xi7         |
+|            0 |          1 |            1 | Homo          | 2kb9         |
+|            0 |          1 |            1 | Homo          | 5bo1         |
+|            1 |          2 |            1 | Homo          | 5bo1         |
 
 ## Combined Per-Residue Information
 

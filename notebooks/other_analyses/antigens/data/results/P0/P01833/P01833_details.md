@@ -25,8 +25,8 @@
 - **(transcriptomics) Fold Change**: 1.14
 - **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 147
-- **Max n_uniprots (Homo)**: 11.0
-- **Max n_uniprots (Hetero)**: 11.0
+- **Max n_uniprots (Homo)**: 10.0
+- **Max n_uniprots (Hetero)**: 10.0
 
 
 ## Expression Comparison
@@ -67,19 +67,19 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |           11 | Hetero        | 7k0c         |
-|            0 |          1 |           11 | Hetero        | 6ue9         |
-|            0 |          1 |            2 | Homo          | 5d4k         |
-|            1 |          2 |            2 | Homo          | 5d4k         |
+|            0 |          1 |            7 | Hetero        | 6lxw         |
+|            0 |          1 |           10 | Hetero        | 6uea         |
+|            0 |          1 |            8 | Hetero        | 8skv         |
+|            0 |          1 |           10 | Hetero        | 7ysg         |
+|            0 |          1 |            6 | Hetero        | 6ue7         |
+|            0 |          1 |           10 | Hetero        | 6ue9         |
+|            0 |          1 |            6 | Hetero        | 3chn         |
 |            0 |          1 |            1 | Homo          | 2ocw         |
-|            0 |          1 |           11 | Hetero        | 6uea         |
-|            0 |          1 |           10 | Homo          | 3cm9         |
-|            0 |          1 |           11 | Hetero        | 8skv         |
-|            0 |          1 |           10 | Hetero        | 3chn         |
-|            0 |          1 |           11 | Hetero        | 6ue8         |
-|            0 |          1 |           11 | Hetero        | 7ysg         |
+|            0 |          1 |           10 | Hetero        | 6ue8         |
+|            0 |          1 |            2 | Homo          | 3cm9         |
+|            0 |          1 |           10 | Hetero        | 7k0c         |
+|            0 |          1 |           10 | Homo          | 6kxs         |
 |            0 |          1 |            6 | Hetero        | 6lx3         |
-|            0 |          1 |           10 | Hetero        | 6ue7         |
 |            0 |          1 |            1 | Homo          | 1xed         |
 |            1 |          2 |            1 | Homo          | 1xed         |
 |            2 |          3 |            1 | Homo          | 1xed         |
@@ -89,8 +89,8 @@
 |            6 |          7 |            4 | Homo          | 1xed         |
 |            7 |          8 |            2 | Homo          | 1xed         |
 |            8 |          9 |            2 | Homo          | 1xed         |
-|            0 |          1 |            7 | Hetero        | 6lxw         |
-|            0 |          1 |           11 | Homo          | 6kxs         |
+|            0 |          1 |            1 | Homo          | 5d4k         |
+|            1 |          2 |            1 | Homo          | 5d4k         |
 
 ## Combined Per-Residue Information
 

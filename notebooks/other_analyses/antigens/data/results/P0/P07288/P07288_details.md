@@ -25,7 +25,7 @@
 - **(transcriptomics) Fold Change**: 3.44
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 46
-- **Max n_uniprots (Homo)**: 7
+- **Max n_uniprots (Homo)**: 1
 - **Max n_uniprots (Hetero)**: N/A
 
 
@@ -95,11 +95,11 @@ P07288-5 <span>M</span><span>W</span><span>V</span><span>P</span><span>V</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            3 | Homo          | 2zcl         |
-|            0 |          1 |            3 | Homo          | 2zch         |
-|            0 |          1 |            7 | Homo          | 3qum         |
-|            1 |          2 |            6 | Homo          | 3qum         |
-|            0 |          1 |            5 | Homo          | 2zck         |
+|            0 |          1 |            1 | Homo          | 2zch         |
+|            0 |          1 |            1 | Homo          | 2zck         |
+|            0 |          1 |            1 | Homo          | 3qum         |
+|            1 |          2 |            1 | Homo          | 3qum         |
+|            0 |          1 |            1 | Homo          | 2zcl         |
 
 ## Combined Per-Residue Information
 

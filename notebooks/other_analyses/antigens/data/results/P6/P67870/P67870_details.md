@@ -21,13 +21,17 @@
 - **Biomarker Application**:  
 - **Number of Isoforms**: 0
 - **Regulation**: 1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 0.97
+- **(transcriptomics) Fold Change**: 1.09
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 54
 - **Max n_uniprots (Homo)**: 2
 - **Max n_uniprots (Hetero)**: 4
 
+
+## Expression Comparison
+
+![Expression Comparison](./P67870_expression_comparison.png)
 
 ## Interactors
 
@@ -67,23 +71,23 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            2 | Homo          | 6q38         |
-|            0 |          1 |            4 | Hetero        | 4dgl         |
+|            0 |          1 |            1 | Homo          | 6q38         |
 |            0 |          1 |            4 | Hetero        | 4md9         |
 |            1 |          2 |            4 | Hetero        | 4md9         |
 |            2 |          3 |            4 | Hetero        | 4md9         |
 |            3 |          4 |            4 | Hetero        | 4md9         |
-|            0 |          1 |            4 | Hetero        | 4nh1         |
+|            0 |          1 |            2 | Homo          | 1qf8         |
+|            0 |          1 |            4 | Hetero        | 1jwh         |
 |            0 |          1 |            2 | Homo          | 3eed         |
 |            1 |          2 |            2 | Homo          | 3eed         |
-|            0 |          1 |            4 | Hetero        | 1jwh         |
-|            0 |          1 |            2 | Homo          | 1qf8         |
 |            0 |          1 |            4 | Hetero        | 4md7         |
 |            1 |          2 |            4 | Hetero        | 4md7         |
-|            0 |          1 |            4 | Hetero        | 4md8         |
-|            1 |          2 |            4 | Hetero        | 4md8         |
 |            0 |          1 |            4 | Hetero        | 1ds5         |
 |            1 |          2 |            4 | Hetero        | 1ds5         |
+|            0 |          1 |            4 | Hetero        | 4nh1         |
+|            0 |          1 |            4 | Hetero        | 4md8         |
+|            1 |          2 |            4 | Hetero        | 4md8         |
+|            0 |          1 |            4 | Hetero        | 4dgl         |
 
 ## Combined Per-Residue Information
 

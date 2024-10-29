@@ -98,19 +98,15 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            2 | Hetero        | 5vau         |
-|            1 |          2 |            2 | Hetero        | 5vau         |
-|            2 |          3 |            2 | Hetero        | 5vau         |
-|            3 |          4 |            2 | Hetero        | 5vau         |
+|            0 |          1 |            1 | Homo          | 4ddp         |
+|            0 |          1 |            1 | Homo          | 5hhe         |
+|            1 |          2 |            1 | Homo          | 5hhe         |
 |            0 |          1 |            2 | Hetero        | 6hoi         |
 |            1 |          2 |            2 | Hetero        | 6hoi         |
-|            0 |          1 |            1 | Homo          | 5efm         |
-|            0 |          1 |            4 | Hetero        | 6dco         |
+|            0 |          1 |            4 | Hetero        | 8sor         |
 |            0 |          1 |            2 | Hetero        | 4mi8         |
 |            1 |          2 |            2 | Hetero        | 4mi8         |
 |            2 |          3 |            4 | Hetero        | 4mi8         |
-|            0 |          1 |            2 | Hetero        | 3dvu         |
-|            1 |          2 |            2 | Hetero        | 3dvu         |
 |            0 |          1 |            2 | Hetero        | 2p1l         |
 |            1 |          2 |            2 | Hetero        | 2p1l         |
 |            2 |          3 |            2 | Hetero        | 2p1l         |
@@ -118,24 +114,28 @@
 |            4 |          5 |            8 | Hetero        | 2p1l         |
 |            5 |          6 |            4 | Hetero        | 2p1l         |
 |            6 |          7 |            4 | Hetero        | 2p1l         |
-|            0 |          1 |            2 | Hetero        | 5vay         |
-|            1 |          2 |            2 | Hetero        | 5vay         |
-|            2 |          3 |            2 | Hetero        | 5vay         |
-|            3 |          4 |            2 | Hetero        | 5vay         |
-|            0 |          1 |            1 | Homo          | 5hhe         |
-|            1 |          2 |            1 | Homo          | 5hhe         |
+|            0 |          1 |            4 | Hetero        | 6dcn         |
+|            1 |          2 |            4 | Hetero        | 6dcn         |
+|            0 |          1 |            8 | Hetero        | 8srq         |
+|            0 |          1 |            2 | Hetero        | 3dvu         |
+|            1 |          2 |            2 | Hetero        | 3dvu         |
+|            0 |          1 |            2 | Hetero        | 5vau         |
+|            1 |          2 |            2 | Hetero        | 5vau         |
+|            2 |          3 |            2 | Hetero        | 5vau         |
+|            3 |          4 |            2 | Hetero        | 5vau         |
+|            0 |          1 |            2 | Hetero        | 2pon         |
+|            0 |          1 |            1 | Homo          | 5efm         |
+|            0 |          1 |            3 | Homo          | 6hoj         |
+|            0 |          1 |            1 | Homo          | 6hok         |
 |            0 |          1 |            2 | Hetero        | 5vax         |
 |            1 |          2 |            2 | Hetero        | 5vax         |
 |            2 |          3 |            2 | Hetero        | 5vax         |
 |            3 |          4 |            2 | Hetero        | 5vax         |
-|            0 |          1 |            1 | Homo          | 6hok         |
-|            0 |          1 |            4 | Hetero        | 8sor         |
-|            0 |          1 |            8 | Hetero        | 8srq         |
-|            0 |          1 |            1 | Homo          | 4ddp         |
-|            0 |          1 |            4 | Hetero        | 6dcn         |
-|            1 |          2 |            4 | Hetero        | 6dcn         |
-|            0 |          1 |            2 | Hetero        | 2pon         |
-|            0 |          1 |            3 | Homo          | 6hoj         |
+|            0 |          1 |            2 | Hetero        | 5vay         |
+|            1 |          2 |            2 | Hetero        | 5vay         |
+|            2 |          3 |            2 | Hetero        | 5vay         |
+|            3 |          4 |            2 | Hetero        | 5vay         |
+|            0 |          1 |            4 | Hetero        | 6dco         |
 
 ## Combined Per-Residue Information
 

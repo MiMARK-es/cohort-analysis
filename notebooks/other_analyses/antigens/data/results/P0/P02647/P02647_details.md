@@ -98,31 +98,31 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            3 | Hetero        | 6cm1         |
-|            0 |          1 |            1 | Homo          | 1odr         |
 |            0 |          1 |            4 | Hetero        | 6pts         |
-|            0 |          1 |            2 | Homo          | 3k2s         |
-|            0 |          1 |            4 | Hetero        | 7rse         |
-|            0 |          1 |            1 | Homo          | 1odq         |
-|            0 |          1 |            4 | Homo          | 1av1         |
-|            0 |          1 |            4 | Hetero        | 6w4f         |
-|            0 |          1 |            3 | Hetero        | 6cch         |
-|            0 |          1 |            4 | Hetero        | 6ptw         |
-|            0 |          1 |            4 | Hetero        | 2mse         |
-|            0 |          1 |            1 | Homo          | 1gw4         |
-|            0 |          1 |            1 | Homo          | 1gw3         |
-|            0 |          1 |            3 | Hetero        | 6cc9         |
-|            0 |          1 |            3 | Hetero        | 2msc         |
-|            0 |          1 |            1 | Homo          | 3r2p         |
-|            0 |          1 |            3 | Hetero        | 6ccx         |
 |            0 |          1 |            2 | Homo          | 2n5e         |
-|            0 |          1 |            4 | Hetero        | 6w4e         |
 |            0 |          1 |            3 | Hetero        | 2msd         |
+|            0 |          1 |            1 | Homo          | 1odq         |
+|            0 |          1 |            1 | Homo          | 1gw3         |
+|            0 |          1 |            3 | Hetero        | 6cm1         |
+|            0 |          1 |            3 | Hetero        | 2msc         |
 |            0 |          1 |            4 | Hetero        | 8eqs         |
 |            0 |          1 |            4 | Hetero        | 7kjr         |
+|            0 |          1 |            3 | Hetero        | 6cch         |
+|            0 |          1 |            1 | Homo          | 1gw4         |
+|            0 |          1 |            4 | Hetero        | 7rsc         |
+|            0 |          1 |            4 | Hetero        | 7rse         |
+|            0 |          1 |            2 | Homo          | 3k2s         |
+|            0 |          1 |            3 | Hetero        | 6cc9         |
 |            0 |          1 |            1 | Homo          | 1odp         |
 |            0 |          1 |            3 | Hetero        | 6clz         |
-|            0 |          1 |            4 | Hetero        | 7rsc         |
+|            0 |          1 |            4 | Hetero        | 2mse         |
+|            0 |          1 |            4 | Hetero        | 6ptw         |
+|            0 |          1 |            4 | Hetero        | 6w4f         |
+|            0 |          1 |            1 | Homo          | 1odr         |
+|            0 |          1 |            4 | Homo          | 1av1         |
+|            0 |          1 |            3 | Hetero        | 6ccx         |
+|            0 |          1 |            1 | Homo          | 3r2p         |
+|            0 |          1 |            4 | Hetero        | 6w4e         |
 
 ## Combined Per-Residue Information
 

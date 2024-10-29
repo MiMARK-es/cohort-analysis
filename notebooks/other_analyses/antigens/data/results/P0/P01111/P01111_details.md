@@ -21,13 +21,17 @@
 - **Biomarker Application**: efficacy,prognosis,response to therapy
 - **Number of Isoforms**: 0
 - **Regulation**: 2
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 1.0
+- **(transcriptomics) Fold Change**: 1.23
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 42
 - **Max n_uniprots (Homo)**: 2
-- **Max n_uniprots (Hetero)**: 5
+- **Max n_uniprots (Hetero)**: 3
 
+
+## Expression Comparison
+
+![Expression Comparison](./P01111_expression_comparison.png)
 
 ## Interactors
 
@@ -128,42 +132,42 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            1 | Homo          | 2n9c         |
-|            0 |          1 |            1 | Homo          | 6ziz         |
-|            1 |          2 |            1 | Homo          | 6ziz         |
-|            0 |          1 |            5 | Hetero        | 7ow6         |
 |            0 |          1 |            1 | Homo          | 6wgh         |
 |            1 |          2 |            1 | Homo          | 6wgh         |
-|            0 |          1 |            1 | Homo          | 3con         |
-|            0 |          1 |            5 | Hetero        | 6uln         |
-|            0 |          1 |            5 | Hetero        | 6ulr         |
-|            0 |          1 |            3 | Hetero        | 7ow4         |
-|            1 |          2 |            3 | Hetero        | 7ow4         |
-|            2 |          3 |            3 | Hetero        | 7ow4         |
-|            3 |          4 |            3 | Hetero        | 7ow4         |
+|            0 |          1 |            1 | Homo          | 2n9c         |
+|            0 |          1 |            3 | Hetero        | 6uon         |
+|            1 |          2 |            3 | Hetero        | 6uon         |
+|            0 |          1 |            1 | Homo          | 6ziz         |
+|            1 |          2 |            1 | Homo          | 6ziz         |
+|            0 |          1 |            1 | Homo          | 6e6h         |
 |            0 |          1 |            3 | Hetero        | 6ulk         |
+|            0 |          1 |            1 | Homo          | 6zir         |
+|            0 |          1 |            1 | Homo          | 7f68         |
+|            0 |          1 |            3 | Hetero        | 7pb2         |
+|            1 |          2 |            3 | Hetero        | 7pb2         |
 |            0 |          1 |            2 | Hetero        | 8tbi         |
 |            1 |          2 |            2 | Hetero        | 8tbi         |
-|            0 |          1 |            1 | Homo          | 8vm2         |
-|            1 |          2 |            1 | Homo          | 8vm2         |
-|            2 |          3 |            1 | Homo          | 8vm2         |
-|            0 |          1 |            3 | Hetero        | 6mpp         |
 |            0 |          1 |            3 | Hetero        | 6uli         |
-|            0 |          1 |            5 | Hetero        | 7ow5         |
-|            0 |          1 |            5 | Hetero        | 7pb2         |
-|            1 |          2 |            5 | Hetero        | 7pb2         |
-|            0 |          1 |            1 | Homo          | 7f68         |
-|            0 |          1 |            2 | Homo          | 6zio         |
-|            0 |          1 |            1 | Homo          | 6e6h         |
-|            0 |          1 |            1 | Homo          | 6zir         |
-|            0 |          1 |            5 | Hetero        | 6uon         |
-|            1 |          2 |            5 | Hetero        | 6uon         |
+|            0 |          1 |            3 | Hetero        | 6uln         |
+|            0 |          1 |            3 | Hetero        | 7ow5         |
 |            0 |          1 |            1 | Homo          | 5uhv         |
 |            1 |          2 |            1 | Homo          | 5uhv         |
 |            0 |          1 |            3 | Hetero        | 7ow3         |
 |            1 |          2 |            3 | Hetero        | 7ow3         |
 |            2 |          3 |            3 | Hetero        | 7ow3         |
 |            3 |          4 |            3 | Hetero        | 7ow3         |
+|            0 |          1 |            1 | Homo          | 8vm2         |
+|            1 |          2 |            1 | Homo          | 8vm2         |
+|            2 |          3 |            1 | Homo          | 8vm2         |
+|            0 |          1 |            1 | Homo          | 3con         |
+|            0 |          1 |            3 | Hetero        | 7ow6         |
+|            0 |          1 |            2 | Homo          | 6zio         |
+|            0 |          1 |            2 | Hetero        | 6mpp         |
+|            0 |          1 |            3 | Hetero        | 6ulr         |
+|            0 |          1 |            3 | Hetero        | 7ow4         |
+|            1 |          2 |            3 | Hetero        | 7ow4         |
+|            2 |          3 |            3 | Hetero        | 7ow4         |
+|            3 |          4 |            3 | Hetero        | 7ow4         |
 
 ## Combined Per-Residue Information
 

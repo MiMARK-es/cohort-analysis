@@ -21,13 +21,17 @@
 - **Biomarker Application**: diagnosis
 - **Number of Isoforms**: 0
 - **Regulation**: 1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 1.0
+- **(transcriptomics) Fold Change**: 2.75
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 66
 - **Max n_uniprots (Homo)**: 2.0
 - **Max n_uniprots (Hetero)**: 2.0
 
+
+## Expression Comparison
+
+![Expression Comparison](./O60911_expression_comparison.png)
 
 ## Interactors
 
@@ -59,16 +63,16 @@
 
 |   Unnamed: 0 | crystal_id   |   assembly |   n_uniprots | composition   |
 |-------------:|:-------------|-----------:|-------------:|:--------------|
-|            0 | 3kfq         |          1 |            2 | Hetero        |
-|            1 | 3kfq         |          2 |            2 | Hetero        |
-|            0 | 1fh0         |          1 |            1 | Homo          |
-|            1 | 1fh0         |          2 |            1 | Homo          |
 |            0 | 7qgw         |          1 |            2 | Homo          |
 |            0 | 3h6s         |          1 |            2 | Hetero        |
 |            1 | 3h6s         |          2 |            2 | Hetero        |
 |            2 | 3h6s         |          3 |            2 | Hetero        |
 |            3 | 3h6s         |          4 |            2 | Hetero        |
 |            0 | 7pk4         |          1 |            2 | Hetero        |
+|            0 | 3kfq         |          1 |            2 | Hetero        |
+|            1 | 3kfq         |          2 |            2 | Hetero        |
+|            0 | 1fh0         |          1 |            1 | Homo          |
+|            1 | 1fh0         |          2 |            1 | Homo          |
 
 ## Combined Per-Residue Information
 

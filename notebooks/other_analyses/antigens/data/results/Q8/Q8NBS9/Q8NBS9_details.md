@@ -21,13 +21,17 @@
 - **Biomarker Application**:  
 - **Number of Isoforms**: 2
 - **Regulation**: -1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 0.88
+- **(transcriptomics) Fold Change**: 1.08
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 100
-- **Max n_uniprots (Homo)**: 11
+- **Max n_uniprots (Homo)**: 10
 - **Max n_uniprots (Hetero)**: 2
 
+
+## Expression Comparison
+
+![Expression Comparison](./Q8NBS9_expression_comparison.png)
 
 ## Isoform Alignment
 
@@ -67,6 +71,7 @@ Q8NBS9-2 <span style='background-color: yellow;'>-</span><span style='background
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
+|            0 |          1 |            1 | Homo          | 3wge         |
 |            0 |          1 |            1 | Homo          | 3wgd         |
 |            1 |          2 |            1 | Homo          | 3wgd         |
 |            2 |          3 |            1 | Homo          | 3wgd         |
@@ -76,17 +81,16 @@ Q8NBS9-2 <span style='background-color: yellow;'>-</span><span style='background
 |            6 |          7 |            1 | Homo          | 3wgd         |
 |            7 |          8 |            1 | Homo          | 3wgd         |
 |            8 |          9 |            1 | Homo          | 3wgd         |
-|            0 |          1 |            2 | Hetero        | 3wgx         |
-|            1 |          2 |            2 | Hetero        | 3wgx         |
-|            0 |          1 |            1 | Homo          | 2diz         |
-|            0 |          1 |            1 | Homo          | 3wge         |
+|            0 |          1 |           10 | Homo          | 8eky         |
 |            0 |          1 |            1 | Homo          | 3uvt         |
 |            1 |          2 |            1 | Homo          | 3uvt         |
 |            2 |          3 |            1 | Homo          | 3uvt         |
 |            3 |          4 |            1 | Homo          | 3uvt         |
 |            4 |          5 |            1 | Homo          | 3uvt         |
-|            0 |          1 |           11 | Homo          | 8eky         |
 |            0 |          1 |            1 | Homo          | 3uj1         |
+|            0 |          1 |            2 | Hetero        | 3wgx         |
+|            1 |          2 |            2 | Hetero        | 3wgx         |
+|            0 |          1 |            1 | Homo          | 2diz         |
 
 ## Combined Per-Residue Information
 

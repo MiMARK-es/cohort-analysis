@@ -25,7 +25,7 @@
 - **(transcriptomics) Fold Change**: 2.44
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 139
-- **Max n_uniprots (Homo)**: 6
+- **Max n_uniprots (Homo)**: 2
 - **Max n_uniprots (Hetero)**: N/A
 
 
@@ -58,27 +58,27 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            1 | Homo          | 5n0z         |
-|            0 |          1 |            1 | Homo          | 1wd8         |
+|            0 |          1 |            1 | Homo          | 4x8g         |
+|            0 |          1 |            1 | Homo          | 4x8c         |
+|            0 |          1 |            1 | Homo          | 5n1b         |
+|            0 |          1 |            1 | Homo          | 5n0m         |
+|            0 |          1 |            1 | Homo          | 4dkt         |
+|            0 |          1 |            1 | Homo          | 2dex         |
 |            0 |          1 |            1 | Homo          | 3b1t         |
+|            0 |          1 |            1 | Homo          | 2dey         |
+|            0 |          1 |            2 | Homo          | 8sml         |
+|            0 |          1 |            1 | Homo          | 1wda         |
+|            0 |          1 |            1 | Homo          | 1wd9         |
 |            0 |          1 |            1 | Homo          | 3b1u         |
 |            0 |          1 |            1 | Homo          | 2dw5         |
-|            0 |          1 |            1 | Homo          | 4x8c         |
-|            0 |          1 |            6 | Homo          | 8sml         |
-|            0 |          1 |            1 | Homo          | 5n0y         |
-|            0 |          1 |            1 | Homo          | 1wda         |
-|            0 |          1 |            1 | Homo          | 4x8g         |
-|            0 |          1 |            1 | Homo          | 5n0m         |
+|            0 |          1 |            1 | Homo          | 5n0z         |
 |            0 |          1 |            1 | Homo          | 3apm         |
-|            0 |          1 |            1 | Homo          | 5n1b         |
-|            0 |          1 |            1 | Homo          | 1wd9         |
-|            0 |          1 |            2 | Homo          | 2dey         |
-|            0 |          1 |            1 | Homo          | 8god         |
-|            0 |          1 |            6 | Homo          | 8smk         |
-|            0 |          1 |            2 | Homo          | 2dew         |
-|            0 |          1 |            2 | Homo          | 2dex         |
-|            0 |          1 |            2 | Homo          | 4dkt         |
+|            0 |          1 |            2 | Homo          | 8smk         |
 |            0 |          1 |            1 | Homo          | 3apn         |
+|            0 |          1 |            1 | Homo          | 8god         |
+|            0 |          1 |            1 | Homo          | 2dew         |
+|            0 |          1 |            1 | Homo          | 5n0y         |
+|            0 |          1 |            1 | Homo          | 1wd8         |
 
 ## Combined Per-Residue Information
 

@@ -21,13 +21,17 @@
 - **Biomarker Application**: unspecified application
 - **Number of Isoforms**: 2
 - **Regulation**: -1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
+- **(transcriptomics) AUC**: 0.0
+- **(transcriptomics) Fold Change**: 1.22
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: N/A
 - **Max n_uniprots (Homo)**: 2.0
-- **Max n_uniprots (Hetero)**: 11.0
+- **Max n_uniprots (Hetero)**: 10.0
 
+
+## Expression Comparison
+
+![Expression Comparison](./P21333_expression_comparison.png)
 
 ## Isoform Alignment
 
@@ -121,15 +125,12 @@ P21333-2 <span>M</span><span>S</span><span>S</span><span>S</span><span>H</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            2 | Hetero        | 2bp3         |
-|            1 |          2 |            2 | Hetero        | 2bp3         |
+|            0 |          1 |            1 | Homo          | 2aav         |
+|            0 |          1 |            1 | Homo          | 3hor         |
+|            1 |          2 |            1 | Homo          | 3hor         |
 |            0 |          1 |            1 | Homo          | 3hoc         |
 |            1 |          2 |            1 | Homo          | 3hoc         |
 |            2 |          3 |            2 | Homo          | 3hoc         |
-|            0 |          1 |            1 | Homo          | 3hor         |
-|            1 |          2 |            1 | Homo          | 3hor         |
-|            0 |          1 |            1 | Homo          | 3hop         |
-|            1 |          2 |            1 | Homo          | 3hop         |
 |            0 |          1 |            1 | Homo          | 7sc4         |
 |            1 |          2 |            1 | Homo          | 7sc4         |
 |            0 |          1 |            1 | Homo          | 3rgh         |
@@ -140,23 +141,26 @@ P21333-2 <span>M</span><span>S</span><span>S</span><span>S</span><span>H</span><
 |            3 |          4 |            2 | Hetero        | 4p3w         |
 |            4 |          5 |            2 | Hetero        | 4p3w         |
 |            5 |          6 |            2 | Hetero        | 4p3w         |
+|            0 |          1 |            4 | Hetero        | 2brq         |
+|            0 |          1 |           10 | Hetero        | 6d8c         |
+|            0 |          1 |            2 | Hetero        | 2bp3         |
+|            1 |          2 |            2 | Hetero        | 2bp3         |
+|            0 |          1 |            1 | Homo          | 4m9p         |
+|            0 |          1 |            1 | Homo          | 3hop         |
+|            1 |          2 |            1 | Homo          | 3hop         |
 |            0 |          1 |            1 | Homo          | 2j3s         |
 |            1 |          2 |            1 | Homo          | 2j3s         |
+|            0 |          1 |            3 | Hetero        | 3isw         |
+|            0 |          1 |            3 | Hetero        | 2w0p         |
+|            0 |          1 |            1 | Homo          | 5xr1         |
+|            0 |          1 |            1 | Homo          | 2k7q         |
+|            0 |          1 |            1 | Homo          | 6ew1         |
 |            0 |          1 |            3 | Hetero        | 2mtp         |
 |            0 |          1 |            2 | Homo          | 2wfn         |
-|            0 |          1 |            3 | Hetero        | 2w0p         |
-|            0 |          1 |            1 | Homo          | 6ew1         |
-|            0 |          1 |            1 | Homo          | 2aav         |
-|            0 |          1 |            3 | Hetero        | 3isw         |
-|            0 |          1 |            4 | Hetero        | 2brq         |
-|            0 |          1 |           11 | Hetero        | 6d8c         |
-|            0 |          1 |            1 | Homo          | 2k7p         |
-|            0 |          1 |            2 | Homo          | 3cnk         |
 |            0 |          1 |            1 | Homo          | 2k3t         |
-|            0 |          1 |            1 | Homo          | 2k7q         |
-|            0 |          1 |            1 | Homo          | 4m9p         |
+|            0 |          1 |            2 | Homo          | 3cnk         |
+|            0 |          1 |            1 | Homo          | 2k7p         |
 |            0 |          1 |            2 | Hetero        | 7sft         |
-|            0 |          1 |            1 | Homo          | 5xr1         |
 
 ## Combined Per-Residue Information
 

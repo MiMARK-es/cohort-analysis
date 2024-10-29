@@ -25,7 +25,7 @@
 - **(transcriptomics) Fold Change**: 1.62
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 153
-- **Max n_uniprots (Homo)**: 10
+- **Max n_uniprots (Homo)**: 2
 - **Max n_uniprots (Hetero)**: N/A
 
 
@@ -61,31 +61,31 @@ Q9UNQ0-2 <span>M</span><span>S</span><span>S</span><span>S</span><span>N</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            8 | Homo          | 5nj3         |
-|            0 |          1 |            8 | Homo          | 6hco         |
-|            0 |          1 |            8 | Homo          | 7nfd         |
-|            0 |          1 |            2 | Homo          | 6vxh         |
-|            0 |          1 |            2 | Homo          | 6vxj         |
-|            0 |          1 |            2 | Homo          | 6vxf         |
-|            0 |          1 |            6 | Homo          | 7nez         |
-|            0 |          1 |            2 | Homo          | 6hbu         |
-|            0 |          1 |            2 | Homo          | 7oji         |
-|            0 |          1 |            2 | Homo          | 6vxi         |
-|            0 |          1 |            2 | Homo          | 8bi0         |
-|            0 |          1 |            2 | Homo          | 6ffc         |
-|            0 |          1 |            8 | Homo          | 6eti         |
-|            0 |          1 |            2 | Homo          | 7oj8         |
 |            0 |          1 |            2 | Homo          | 7ojh         |
 |            0 |          1 |            2 | Homo          | 6hzm         |
-|            0 |          1 |            6 | Homo          | 7neq         |
-|            0 |          1 |            2 | Homo          | 6hij         |
-|            0 |          1 |            6 | Homo          | 6feq         |
-|            0 |          1 |            8 | Homo          | 8p7w         |
-|            0 |          1 |            9 | Homo          | 8p8a         |
-|            0 |          1 |            7 | Homo          | 8p8j         |
-|            0 |          1 |            8 | Homo          | 5njg         |
-|            0 |          1 |           10 | Homo          | 8u2c         |
+|            0 |          1 |            2 | Homo          | 6feq         |
+|            0 |          1 |            2 | Homo          | 8p7w         |
+|            0 |          1 |            2 | Homo          | 7neq         |
+|            0 |          1 |            2 | Homo          | 7nez         |
+|            0 |          1 |            2 | Homo          | 5njg         |
+|            0 |          1 |            2 | Homo          | 7oj8         |
+|            0 |          1 |            2 | Homo          | 7oji         |
+|            0 |          1 |            2 | Homo          | 6hbu         |
+|            0 |          1 |            2 | Homo          | 6vxj         |
+|            0 |          1 |            2 | Homo          | 6ffc         |
+|            0 |          1 |            2 | Homo          | 8p8j         |
+|            0 |          1 |            2 | Homo          | 6hco         |
+|            0 |          1 |            2 | Homo          | 8p8a         |
 |            0 |          1 |            2 | Homo          | 8bht         |
+|            0 |          1 |            2 | Homo          | 6vxh         |
+|            0 |          1 |            2 | Homo          | 8u2c         |
+|            0 |          1 |            2 | Homo          | 7nfd         |
+|            0 |          1 |            2 | Homo          | 6vxi         |
+|            0 |          1 |            2 | Homo          | 6eti         |
+|            0 |          1 |            2 | Homo          | 8bi0         |
+|            0 |          1 |            2 | Homo          | 5nj3         |
+|            0 |          1 |            2 | Homo          | 6vxf         |
+|            0 |          1 |            2 | Homo          | 6hij         |
 
 ## Combined Per-Residue Information
 

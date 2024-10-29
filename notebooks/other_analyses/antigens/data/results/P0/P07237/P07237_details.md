@@ -74,24 +74,24 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
+|            0 |          1 |            2 | Hetero        | 8eoj         |
 |            0 |          1 |            1 | Homo          | 3uem         |
+|            0 |          1 |            1 | Homo          | 4el1         |
+|            1 |          2 |            1 | Homo          | 4el1         |
+|            0 |          1 |            2 | Hetero        | 7zsc         |
+|            1 |          2 |            2 | Hetero        | 7zsc         |
+|            0 |          1 |            1 | Homo          | 8gdy         |
+|            1 |          2 |            1 | Homo          | 8gdy         |
+|            0 |          1 |            1 | Homo          | 1x5c         |
+|            0 |          1 |            1 | Homo          | 3bj5         |
+|            0 |          1 |            1 | Homo          | 4ekz         |
 |            0 |          1 |            1 | Homo          | 1mek         |
 |            0 |          1 |            2 | Hetero        | 6i7s         |
 |            1 |          2 |            2 | Hetero        | 6i7s         |
-|            0 |          1 |            1 | Homo          | 8gdy         |
-|            1 |          2 |            1 | Homo          | 8gdy         |
-|            0 |          1 |            1 | Homo          | 4ekz         |
 |            0 |          1 |            2 | Homo          | 4ju5         |
-|            0 |          1 |            2 | Hetero        | 8eoj         |
-|            0 |          1 |            1 | Homo          | 2bjx         |
 |            0 |          1 |            1 | Homo          | 1bjx         |
-|            0 |          1 |            1 | Homo          | 4el1         |
-|            1 |          2 |            1 | Homo          | 4el1         |
-|            0 |          1 |            1 | Homo          | 1x5c         |
+|            0 |          1 |            1 | Homo          | 2bjx         |
 |            0 |          1 |            1 | Homo          | 2k18         |
-|            0 |          1 |            2 | Hetero        | 7zsc         |
-|            1 |          2 |            2 | Hetero        | 7zsc         |
-|            0 |          1 |            1 | Homo          | 3bj5         |
 
 ## Combined Per-Residue Information
 

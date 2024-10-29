@@ -95,15 +95,15 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            2 | Homo          | 6z1v         |
-|            0 |          1 |            3 | Homo          | 6rlo         |
-|            1 |          2 |            3 | Homo          | 6rlo         |
-|            2 |          3 |            3 | Homo          | 6rlo         |
-|            3 |          4 |            3 | Homo          | 6rlo         |
-|            0 |          1 |            1 | Homo          | 6k4j         |
 |            0 |          1 |            4 | Homo          | 6rlr         |
-|            0 |          1 |            2 | Homo          | 6z20         |
-|            1 |          2 |            2 | Homo          | 6z20         |
+|            0 |          1 |            1 | Homo          | 6z1v         |
+|            0 |          1 |            1 | Homo          | 6z20         |
+|            1 |          2 |            1 | Homo          | 6z20         |
+|            0 |          1 |            1 | Homo          | 6k4j         |
+|            0 |          1 |            1 | Homo          | 6rlo         |
+|            1 |          2 |            1 | Homo          | 6rlo         |
+|            2 |          3 |            1 | Homo          | 6rlo         |
+|            3 |          4 |            1 | Homo          | 6rlo         |
 
 ## Combined Per-Residue Information
 

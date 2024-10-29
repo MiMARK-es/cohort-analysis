@@ -63,8 +63,8 @@
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
 |            0 |          1 |            2 | Homo          | 2ka1         |
-|            0 |          1 |            2 | Homo          | 2ka2         |
 |            0 |          1 |            2 | Homo          | 2j5d         |
+|            0 |          1 |            2 | Homo          | 2ka2         |
 
 ## Combined Per-Residue Information
 

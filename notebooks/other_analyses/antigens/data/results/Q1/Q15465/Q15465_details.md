@@ -25,8 +25,8 @@
 - **(transcriptomics) Fold Change**: 4.01
 - **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 97
-- **Max n_uniprots (Homo)**: 4
-- **Max n_uniprots (Hetero)**: 10
+- **Max n_uniprots (Homo)**: 1
+- **Max n_uniprots (Hetero)**: 6
 
 
 ## Expression Comparison
@@ -75,23 +75,23 @@
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
 |            0 |          1 |            1 | Homo          | 6pjv         |
-|            0 |          1 |           10 | Hetero        | 6n7k         |
-|            0 |          1 |            3 | Hetero        | 6rmg         |
-|            0 |          1 |            4 | Hetero        | 7mhz         |
-|            0 |          1 |           10 | Hetero        | 6n7g         |
-|            0 |          1 |            4 | Hetero        | 6oev         |
-|            0 |          1 |            6 | Hetero        | 7rhq         |
-|            0 |          1 |            4 | Homo          | 7urf         |
-|            0 |          1 |            3 | Hetero        | 6e1h         |
-|            0 |          1 |            3 | Hetero        | 6dmy         |
-|            0 |          1 |            2 | Hetero        | 7e2i         |
-|            0 |          1 |            3 | Homo          | 3mxw         |
-|            0 |          1 |            5 | Hetero        | 6n7h         |
-|            0 |          1 |            1 | Homo          | 3ho5         |
-|            1 |          2 |            2 | Hetero        | 3ho5         |
-|            0 |          1 |            4 | Hetero        | 6rvd         |
+|            0 |          1 |            3 | Hetero        | 6rvd         |
+|            0 |          1 |            3 | Hetero        | 6n7h         |
+|            0 |          1 |            1 | Homo          | 3mxw         |
 |            0 |          1 |            1 | Homo          | 3m1n         |
 |            1 |          2 |            1 | Homo          | 3m1n         |
+|            0 |          1 |            2 | Hetero        | 7mhz         |
+|            0 |          1 |            2 | Hetero        | 6rmg         |
+|            0 |          1 |            2 | Hetero        | 6oev         |
+|            0 |          1 |            3 | Hetero        | 7rhq         |
+|            0 |          1 |            1 | Homo          | 7urf         |
+|            0 |          1 |            6 | Hetero        | 6n7g         |
+|            0 |          1 |            2 | Hetero        | 6dmy         |
+|            0 |          1 |            1 | Homo          | 3ho5         |
+|            1 |          2 |            2 | Hetero        | 3ho5         |
+|            0 |          1 |            2 | Hetero        | 7e2i         |
+|            0 |          1 |            3 | Hetero        | 6e1h         |
+|            0 |          1 |            6 | Hetero        | 6n7k         |
 
 ## Combined Per-Residue Information
 

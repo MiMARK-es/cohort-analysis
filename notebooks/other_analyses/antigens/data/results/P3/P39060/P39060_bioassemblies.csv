@@ -1,9 +1,9 @@
 ,assembly,n_uniprots,composition,crystal_id
-0,1,1,Homo,1bnl
-1,2,1,Homo,1bnl
-2,3,1,Homo,1bnl
-3,4,1,Homo,1bnl
 0,1,3,Homo,3hsh
 1,2,3,Homo,3hsh
 2,3,6,Homo,3hsh
 0,1,1,Homo,3hon
+0,1,1,Homo,1bnl
+1,2,1,Homo,1bnl
+2,3,1,Homo,1bnl
+3,4,1,Homo,1bnl

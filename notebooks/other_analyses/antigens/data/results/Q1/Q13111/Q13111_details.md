@@ -21,13 +21,17 @@
 - **Biomarker Application**:  
 - **Number of Isoforms**: 3
 - **Regulation**: 1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 1.0
+- **(transcriptomics) Fold Change**: 1.25
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 228
 - **Max n_uniprots (Homo)**: N/A
-- **Max n_uniprots (Hetero)**: 11
+- **Max n_uniprots (Hetero)**: 10
 
+
+## Expression Comparison
+
+![Expression Comparison](./Q13111_expression_comparison.png)
 
 ## Isoform Alignment
 
@@ -57,18 +61,18 @@ Q13111-3 <span>M</span><span>L</span><span>E</span><span>E</span><span>L</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |           11 | Hetero        | 7y61         |
-|            0 |          1 |            5 | Hetero        | 7y5u         |
-|            0 |          1 |            5 | Hetero        | 8iqg         |
 |            0 |          1 |           10 | Hetero        | 7y5v         |
-|            0 |          1 |            3 | Hetero        | 7y5k         |
 |            0 |          1 |            3 | Hetero        | 7y5l         |
 |            1 |          2 |            3 | Hetero        | 7y5l         |
-|            0 |          1 |           11 | Hetero        | 8j6t         |
-|            0 |          1 |           11 | Hetero        | 7y60         |
+|            0 |          1 |            8 | Hetero        | 8j6t         |
+|            0 |          1 |            5 | Hetero        | 7y5u         |
 |            0 |          1 |           10 | Hetero        | 8iqf         |
-|            0 |          1 |           11 | Hetero        | 8j6s         |
 |            0 |          1 |            6 | Hetero        | 7y5o         |
+|            0 |          1 |            8 | Hetero        | 8j6s         |
+|            0 |          1 |            8 | Hetero        | 7y61         |
+|            0 |          1 |            3 | Hetero        | 7y5k         |
+|            0 |          1 |            5 | Hetero        | 8iqg         |
+|            0 |          1 |            8 | Hetero        | 7y60         |
 
 ## Combined Per-Residue Information
 

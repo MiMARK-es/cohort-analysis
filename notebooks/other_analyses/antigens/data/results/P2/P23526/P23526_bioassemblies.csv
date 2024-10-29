@@ -1,9 +1,9 @@
 ,assembly,n_uniprots,composition,crystal_id
-0,1,4.0,Homo,5w4b
-1,2,2.0,Homo,5w4b
-0,1,2.0,Homo,4pfj
-0,1,2.0,Homo,4pgf
-0,1,2.0,Homo,5w49
 0,1,2.0,Homo,4yvf
 0,1,2.0,Homo,1a7a
 0,1,1.0,Homo,1li4
+0,1,4.0,Homo,5w4b
+1,2,2.0,Homo,5w4b
+0,1,2.0,Homo,4pfj
+0,1,2.0,Homo,5w49
+0,1,2.0,Homo,4pgf

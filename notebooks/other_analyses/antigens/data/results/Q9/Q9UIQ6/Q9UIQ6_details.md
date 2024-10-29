@@ -21,13 +21,17 @@
 - **Biomarker Application**:  
 - **Number of Isoforms**: 3
 - **Regulation**: 2
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
+- **(transcriptomics) AUC**: 0.13
+- **(transcriptomics) Fold Change**: 1.08
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 231
-- **Max n_uniprots (Homo)**: 11.0
+- **Max n_uniprots (Homo)**: 2.0
 - **Max n_uniprots (Hetero)**: N/A
 
+
+## Expression Comparison
+
+![Expression Comparison](./Q9UIQ6_expression_comparison.png)
 
 ## Isoform Alignment
 
@@ -65,22 +69,22 @@ Q9UIQ6-3 <span style='background-color: yellow;'>-</span><span style='background
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            6 | Homo          | 4z7i         |
-|            1 |          2 |            4 | Homo          | 4z7i         |
-|            0 |          1 |            3 | Homo          | 4pj6         |
-|            0 |          1 |            7 | Homo          | 4p8q         |
-|            0 |          1 |            6 | Homo          | 7zyf         |
-|            1 |          2 |            5 | Homo          | 7zyf         |
-|            0 |          1 |           11 | Homo          | 8cgp         |
-|            1 |          2 |           10 | Homo          | 8cgp         |
-|            0 |          1 |           11 | Homo          | 5mj6         |
-|            1 |          2 |            7 | Homo          | 5mj6         |
-|            0 |          1 |            3 | Homo          | 5jhq         |
-|            1 |          2 |            3 | Homo          | 5jhq         |
-|            2 |          3 |            3 | Homo          | 5jhq         |
-|            3 |          4 |            3 | Homo          | 5jhq         |
-|            0 |          1 |            8 | Homo          | 8cgw         |
-|            1 |          2 |            6 | Homo          | 8cgw         |
+|            0 |          1 |            1 | Homo          | 8cgw         |
+|            1 |          2 |            1 | Homo          | 8cgw         |
+|            0 |          1 |            1 | Homo          | 5jhq         |
+|            1 |          2 |            1 | Homo          | 5jhq         |
+|            2 |          3 |            1 | Homo          | 5jhq         |
+|            3 |          4 |            1 | Homo          | 5jhq         |
+|            0 |          1 |            1 | Homo          | 8cgp         |
+|            1 |          2 |            1 | Homo          | 8cgp         |
+|            0 |          1 |            2 | Homo          | 4pj6         |
+|            0 |          1 |            2 | Homo          | 4p8q         |
+|            0 |          1 |            1 | Homo          | 7zyf         |
+|            1 |          2 |            1 | Homo          | 7zyf         |
+|            0 |          1 |            1 | Homo          | 4z7i         |
+|            1 |          2 |            1 | Homo          | 4z7i         |
+|            0 |          1 |            1 | Homo          | 5mj6         |
+|            1 |          2 |            1 | Homo          | 5mj6         |
 
 ## Combined Per-Residue Information
 

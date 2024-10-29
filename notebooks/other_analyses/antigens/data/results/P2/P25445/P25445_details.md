@@ -21,13 +21,17 @@
 - **Biomarker Application**: diagnosis,disease progression,efficacy,safety
 - **Number of Isoforms**: 7
 - **Regulation**: 1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
+- **(transcriptomics) AUC**: 0.04
+- **(transcriptomics) Fold Change**: 1.27
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 52
-- **Max n_uniprots (Homo)**: 4
+- **Max n_uniprots (Homo)**: 3
 - **Max n_uniprots (Hetero)**: 4
 
+
+## Expression Comparison
+
+![Expression Comparison](./P25445_expression_comparison.png)
 
 ## Isoform Alignment
 
@@ -96,13 +100,13 @@ P25445-7 <span>M</span><span>L</span><span>G</span><span>I</span><span>W</span><
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
 |            0 |          1 |            2 | Hetero        | 3ewt         |
-|            0 |          1 |            3 | Homo          | 2na7         |
-|            0 |          1 |            3 | Homo          | 3tje         |
+|            0 |          1 |            1 | Homo          | 3tje         |
+|            0 |          1 |            1 | Homo          | 3thm         |
 |            0 |          1 |            4 | Hetero        | 3ezq         |
 |            1 |          2 |            4 | Hetero        | 3ezq         |
 |            2 |          3 |            4 | Hetero        | 3ezq         |
 |            3 |          4 |            4 | Hetero        | 3ezq         |
-|            0 |          1 |            4 | Homo          | 3thm         |
+|            0 |          1 |            3 | Homo          | 2na7         |
 |            0 |          1 |            1 | Homo          | 1ddf         |
 
 ## Combined Per-Residue Information

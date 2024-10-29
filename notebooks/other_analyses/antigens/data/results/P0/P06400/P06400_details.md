@@ -21,13 +21,17 @@
 - **Biomarker Application**: diagnosis,efficacy,prognosis,unspecified application
 - **Number of Isoforms**: 0
 - **Regulation**: -1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 0.59
+- **(transcriptomics) Fold Change**: 1.01
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 244
-- **Max n_uniprots (Homo)**: 3
+- **Max n_uniprots (Homo)**: 2
 - **Max n_uniprots (Hetero)**: 5
 
+
+## Expression Comparison
+
+![Expression Comparison](./P06400_expression_comparison.png)
 
 ## Interactors
 
@@ -82,32 +86,32 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            3 | Hetero        | 3n5u         |
-|            1 |          2 |            2 | Hetero        | 3n5u         |
-|            0 |          1 |            3 | Homo          | 1gux         |
-|            0 |          1 |            2 | Homo          | 1n4m         |
-|            1 |          2 |            3 | Homo          | 1n4m         |
-|            2 |          3 |            3 | Homo          | 1n4m         |
-|            3 |          4 |            2 | Homo          | 1n4m         |
-|            0 |          1 |            5 | Hetero        | 2r7g         |
-|            0 |          1 |            1 | Homo          | 4elj         |
-|            0 |          1 |            1 | Homo          | 3pom         |
-|            1 |          2 |            1 | Homo          | 3pom         |
-|            0 |          1 |            3 | Hetero        | 1h25         |
-|            1 |          2 |            2 | Hetero        | 1h25         |
-|            0 |          1 |            2 | Hetero        | 1gh6         |
-|            0 |          1 |            3 | Hetero        | 2aze         |
-|            1 |          2 |            3 | Hetero        | 2aze         |
-|            0 |          1 |            1 | Homo          | 2qdj         |
-|            0 |          1 |            4 | Hetero        | 4cri         |
-|            0 |          1 |            1 | Homo          | 4ell         |
-|            1 |          2 |            1 | Homo          | 4ell         |
 |            0 |          1 |            3 | Hetero        | 1o9k         |
 |            1 |          2 |            3 | Hetero        | 1o9k         |
 |            2 |          3 |            3 | Hetero        | 1o9k         |
 |            3 |          4 |            3 | Hetero        | 1o9k         |
-|            0 |          1 |            1 | Homo          | 1ad6         |
+|            0 |          1 |            1 | Homo          | 4elj         |
+|            0 |          1 |            1 | Homo          | 1n4m         |
+|            1 |          2 |            2 | Homo          | 1n4m         |
+|            2 |          3 |            2 | Homo          | 1n4m         |
+|            3 |          4 |            1 | Homo          | 1n4m         |
+|            0 |          1 |            1 | Homo          | 4ell         |
+|            1 |          2 |            1 | Homo          | 4ell         |
+|            0 |          1 |            4 | Hetero        | 4cri         |
+|            0 |          1 |            3 | Hetero        | 3n5u         |
+|            1 |          2 |            2 | Hetero        | 3n5u         |
+|            0 |          1 |            2 | Homo          | 1gux         |
+|            0 |          1 |            3 | Hetero        | 2aze         |
+|            1 |          2 |            3 | Hetero        | 2aze         |
+|            0 |          1 |            1 | Homo          | 3pom         |
+|            1 |          2 |            1 | Homo          | 3pom         |
+|            0 |          1 |            5 | Hetero        | 2r7g         |
+|            0 |          1 |            3 | Hetero        | 1h25         |
+|            1 |          2 |            2 | Hetero        | 1h25         |
 |            0 |          1 |            2 | Hetero        | 1pjm         |
+|            0 |          1 |            1 | Homo          | 2qdj         |
+|            0 |          1 |            1 | Homo          | 1ad6         |
+|            0 |          1 |            2 | Hetero        | 1gh6         |
 
 ## Combined Per-Residue Information
 

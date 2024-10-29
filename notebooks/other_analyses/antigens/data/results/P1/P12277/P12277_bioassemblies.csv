@@ -1,7 +1,7 @@
-,assembly,n_uniprots,composition,crystal_id
-0,1,2.0,Homo,3b6r
-0,1,2.0,Homo,3dre
-0,1,5.0,Hetero,6v9h
-0,1,1.0,Homo,7tun
-1,2,1.0,Homo,7tun
-0,1,2.0,Homo,3drb
+,crystal_id,assembly,n_uniprots,composition
+0,6v9h,1,5.0,Hetero
+0,7tun,1,1.0,Homo
+1,7tun,2,1.0,Homo
+0,3dre,1,2.0,Homo
+0,3b6r,1,2.0,Homo
+0,3drb,1,2.0,Homo

@@ -83,20 +83,20 @@ Q12809-7 <span style='background-color: yellow;'>-</span><span style='background
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            1 | Homo          | 1ujl         |
-|            0 |          1 |            1 | Homo          | 4hp9         |
-|            0 |          1 |            1 | Homo          | 2l1m         |
-|            0 |          1 |            1 | Homo          | 2l4r         |
-|            0 |          1 |            1 | Homo          | 1byw         |
-|            0 |          1 |            4 | Homo          | 8io4         |
-|            0 |          1 |            1 | Homo          | 2le7         |
-|            0 |          1 |            1 | Homo          | 6syg         |
-|            0 |          1 |            1 | Homo          | 2n7g         |
-|            0 |          1 |            1 | Homo          | 5va3         |
-|            0 |          1 |            1 | Homo          | 2l0w         |
-|            0 |          1 |            1 | Homo          | 5va1         |
-|            0 |          1 |            1 | Homo          | 4hqa         |
 |            0 |          1 |            1 | Homo          | 5va2         |
+|            0 |          1 |            1 | Homo          | 2l1m         |
+|            0 |          1 |            1 | Homo          | 2n7g         |
+|            0 |          1 |            1 | Homo          | 5va1         |
+|            0 |          1 |            1 | Homo          | 2l4r         |
+|            0 |          1 |            1 | Homo          | 6syg         |
+|            0 |          1 |            1 | Homo          | 5va3         |
+|            0 |          1 |            4 | Homo          | 8io4         |
+|            0 |          1 |            1 | Homo          | 4hp9         |
+|            0 |          1 |            1 | Homo          | 2l0w         |
+|            0 |          1 |            1 | Homo          | 1byw         |
+|            0 |          1 |            1 | Homo          | 1ujl         |
+|            0 |          1 |            1 | Homo          | 2le7         |
+|            0 |          1 |            1 | Homo          | 4hqa         |
 
 ## Combined Per-Residue Information
 

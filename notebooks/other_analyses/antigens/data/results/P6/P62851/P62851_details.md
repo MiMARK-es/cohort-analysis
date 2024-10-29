@@ -21,13 +21,17 @@
 - **Biomarker Application**:  
 - **Number of Isoforms**: 0
 - **Regulation**: 1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 0.69
+- **(transcriptomics) Fold Change**: 1.03
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 13
 - **Max n_uniprots (Homo)**: N/A
-- **Max n_uniprots (Hetero)**: 11.0
+- **Max n_uniprots (Hetero)**: 10.0
 
+
+## Expression Comparison
+
+![Expression Comparison](./P62851_expression_comparison.png)
 
 ## Interactors
 
@@ -92,44 +96,44 @@
 
 ## Biological Assemblies
 
-|   Unnamed: 0 | crystal_id   |   assembly |   n_uniprots | composition   |
-|-------------:|:-------------|-----------:|-------------:|:--------------|
-|            0 | 5oa3         |          1 |           11 | Hetero        |
-|            0 | 7wtt         |          1 |           11 | Hetero        |
-|            0 | 6zxf         |          1 |           11 | Hetero        |
-|            0 | 6zmt         |          1 |           11 | Hetero        |
-|            0 | 7wtv         |          1 |           11 | Hetero        |
-|            0 | 7wtw         |          1 |           11 | Hetero        |
-|            0 | 8t4s         |          1 |           11 | Hetero        |
-|            0 | 6g5h         |          1 |           11 | Hetero        |
-|            0 | 6zlw         |          1 |           11 | Hetero        |
-|            0 | 7wtx         |          1 |           11 | Hetero        |
-|            0 | 6zxe         |          1 |           11 | Hetero        |
-|            0 | 6g4w         |          1 |           11 | Hetero        |
-|            0 | 6zv6         |          1 |           11 | Hetero        |
-|            0 | 7wu0         |          1 |           11 | Hetero        |
-|            0 | 6zuo         |          1 |           11 | Hetero        |
-|            0 | 7wtu         |          1 |           11 | Hetero        |
-|            0 | 6g5i         |          1 |           11 | Hetero        |
-|            0 | 6g18         |          1 |           11 | Hetero        |
-|            0 | 6ybs         |          1 |           11 | Hetero        |
-|            0 | 7tql         |          1 |           11 | Hetero        |
-|            0 | 6zxh         |          1 |           11 | Hetero        |
-|            0 | 7r4x         |          1 |           11 | Hetero        |
-|            0 | 5flx         |          1 |           11 | Hetero        |
-|            0 | 8ppk         |          1 |           11 | Hetero        |
-|            0 | 6zvh         |          1 |           11 | Hetero        |
-|            0 | 6g53         |          1 |           11 | Hetero        |
-|            0 | 6g4s         |          1 |           11 | Hetero        |
-|            0 | 6zn5         |          1 |           11 | Hetero        |
-|            0 | 6g51         |          1 |           11 | Hetero        |
-|            0 | 6zoj         |          1 |           11 | Hetero        |
-|            0 | 6zxg         |          1 |           11 | Hetero        |
-|            0 | 7k5i         |          1 |           11 | Hetero        |
-|            0 | 6zol         |          1 |           11 | Hetero        |
-|            0 | 7wtz         |          1 |           11 | Hetero        |
-|            0 | 6zxd         |          1 |           11 | Hetero        |
-|            0 | 5a2q         |          1 |           11 | Hetero        |
+|   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
+|-------------:|-----------:|-------------:|:--------------|:-------------|
+|            0 |          1 |            8 | Hetero        | 5a2q         |
+|            0 |          1 |            9 | Hetero        | 6zvh         |
+|            0 |          1 |            7 | Hetero        | 5oa3         |
+|            0 |          1 |            9 | Hetero        | 8ppk         |
+|            0 |          1 |            9 | Hetero        | 6zoj         |
+|            0 |          1 |           10 | Hetero        | 6zn5         |
+|            0 |          1 |           10 | Hetero        | 6zlw         |
+|            0 |          1 |            9 | Hetero        | 6zuo         |
+|            0 |          1 |            9 | Hetero        | 6zxd         |
+|            0 |          1 |            9 | Hetero        | 6zxh         |
+|            0 |          1 |            9 | Hetero        | 7wu0         |
+|            0 |          1 |            9 | Hetero        | 7k5i         |
+|            0 |          1 |            9 | Hetero        | 7wtx         |
+|            0 |          1 |            9 | Hetero        | 7wtt         |
+|            0 |          1 |            9 | Hetero        | 6g4w         |
+|            0 |          1 |            9 | Hetero        | 5flx         |
+|            0 |          1 |            9 | Hetero        | 7wtw         |
+|            0 |          1 |            5 | Hetero        | 7tql         |
+|            0 |          1 |            9 | Hetero        | 8t4s         |
+|            0 |          1 |            9 | Hetero        | 6g5i         |
+|            0 |          1 |           10 | Hetero        | 6ybs         |
+|            0 |          1 |            9 | Hetero        | 7wtz         |
+|            0 |          1 |            9 | Hetero        | 6zxf         |
+|            0 |          1 |           10 | Hetero        | 6zmt         |
+|            0 |          1 |            9 | Hetero        | 6zol         |
+|            0 |          1 |            9 | Hetero        | 7r4x         |
+|            0 |          1 |            9 | Hetero        | 7wtu         |
+|            0 |          1 |            9 | Hetero        | 6zxe         |
+|            0 |          1 |            9 | Hetero        | 6g5h         |
+|            0 |          1 |            9 | Hetero        | 6g4s         |
+|            0 |          1 |            9 | Hetero        | 6g18         |
+|            0 |          1 |            9 | Hetero        | 6g51         |
+|            0 |          1 |            9 | Hetero        | 6g53         |
+|            0 |          1 |            9 | Hetero        | 7wtv         |
+|            0 |          1 |            9 | Hetero        | 6zv6         |
+|            0 |          1 |            9 | Hetero        | 6zxg         |
 
 ## Combined Per-Residue Information
 

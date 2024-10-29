@@ -26,7 +26,7 @@
 - **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 242
 - **Max n_uniprots (Homo)**: 3
-- **Max n_uniprots (Hetero)**: 5
+- **Max n_uniprots (Hetero)**: 4
 
 
 ## Expression Comparison
@@ -110,17 +110,17 @@ P02461-2 <span>M</span><span>M</span><span>S</span><span>F</span><span>V</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            3 | Homo          | 4aej         |
-|            0 |          1 |            1 | Homo          | 4ak3         |
-|            0 |          1 |            3 | Homo          | 4ae2         |
-|            0 |          1 |            3 | Homo          | 7wwr         |
-|            0 |          1 |            4 | Hetero        | 6fzv         |
+|            0 |          1 |            3 | Homo          | 7wws         |
 |            0 |          1 |            4 | Hetero        | 6fzw         |
 |            0 |          1 |            3 | Homo          | 3dmw         |
-|            0 |          1 |            5 | Hetero        | 2v53         |
-|            0 |          1 |            3 | Homo          | 7wws         |
 |            0 |          1 |            3 | Homo          | 7xan         |
-|            0 |          1 |            3 | Hetero        | 4gyx         |
+|            0 |          1 |            3 | Homo          | 7wwr         |
+|            0 |          1 |            0 | Hetero        | 4gyx         |
+|            0 |          1 |            4 | Hetero        | 2v53         |
+|            0 |          1 |            3 | Homo          | 4ae2         |
+|            0 |          1 |            3 | Homo          | 4aej         |
+|            0 |          1 |            4 | Hetero        | 6fzv         |
+|            0 |          1 |            1 | Homo          | 4ak3         |
 
 ## Combined Per-Residue Information
 

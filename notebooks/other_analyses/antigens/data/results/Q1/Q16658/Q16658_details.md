@@ -50,47 +50,47 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            1 | Homo          | 6i12         |
-|            0 |          1 |            1 | Homo          | 1dfc         |
-|            1 |          2 |            1 | Homo          | 1dfc         |
-|            0 |          1 |            1 | Homo          | 6i14         |
-|            0 |          1 |            1 | Homo          | 6i17         |
-|            0 |          1 |            1 | Homo          | 4gov         |
-|            1 |          2 |            1 | Homo          | 4gov         |
-|            2 |          3 |            2 | Homo          | 4gov         |
-|            0 |          1 |            1 | Homo          | 3p53         |
-|            1 |          2 |            1 | Homo          | 3p53         |
-|            0 |          1 |            1 | Homo          | 4gp3         |
-|            1 |          2 |            1 | Homo          | 4gp3         |
-|            2 |          3 |            2 | Homo          | 4gp3         |
-|            3 |          4 |            1 | Homo          | 4gp3         |
+|            0 |          1 |            1 | Homo          | 6i15         |
 |            0 |          1 |            1 | Homo          | 6i11         |
-|            0 |          1 |            1 | Homo          | 6i0z         |
-|            1 |          2 |            1 | Homo          | 6i0z         |
-|            0 |          1 |            1 | Homo          | 6i18         |
-|            0 |          1 |            1 | Homo          | 6i16         |
-|            0 |          1 |            2 | Homo          | 7zau         |
-|            1 |          2 |            2 | Homo          | 7zau         |
-|            2 |          3 |            2 | Homo          | 7zau         |
-|            3 |          4 |            2 | Homo          | 7zau         |
+|            0 |          1 |            1 | Homo          | 7zau         |
+|            1 |          2 |            1 | Homo          | 7zau         |
+|            2 |          3 |            1 | Homo          | 7zau         |
+|            3 |          4 |            1 | Homo          | 7zau         |
 |            0 |          1 |            1 | Homo          | 3llp         |
 |            1 |          2 |            1 | Homo          | 3llp         |
-|            0 |          1 |            1 | Homo          | 6i15         |
-|            0 |          1 |            1 | Homo          | 6i13         |
+|            0 |          1 |            1 | Homo          | 4gp0         |
+|            1 |          2 |            1 | Homo          | 4gp0         |
+|            2 |          3 |            2 | Homo          | 4gp0         |
 |            0 |          1 |            1 | Homo          | 6b0t         |
 |            1 |          2 |            1 | Homo          | 6b0t         |
 |            2 |          3 |            1 | Homo          | 6b0t         |
 |            3 |          4 |            1 | Homo          | 6b0t         |
 |            4 |          5 |            1 | Homo          | 6b0t         |
 |            5 |          6 |            1 | Homo          | 6b0t         |
-|            0 |          1 |            1 | Homo          | 4gp0         |
-|            1 |          2 |            1 | Homo          | 4gp0         |
-|            2 |          3 |            2 | Homo          | 4gp0         |
-|            0 |          1 |            1 | Homo          | 6i10         |
+|            0 |          1 |            1 | Homo          | 6i16         |
+|            0 |          1 |            1 | Homo          | 6i0z         |
+|            1 |          2 |            1 | Homo          | 6i0z         |
+|            0 |          1 |            1 | Homo          | 6i13         |
 |            0 |          1 |            1 | Homo          | 4goy         |
 |            1 |          2 |            1 | Homo          | 4goy         |
 |            2 |          3 |            2 | Homo          | 4goy         |
 |            3 |          4 |            1 | Homo          | 4goy         |
+|            0 |          1 |            1 | Homo          | 6i14         |
+|            0 |          1 |            1 | Homo          | 1dfc         |
+|            1 |          2 |            1 | Homo          | 1dfc         |
+|            0 |          1 |            1 | Homo          | 6i12         |
+|            0 |          1 |            1 | Homo          | 6i17         |
+|            0 |          1 |            1 | Homo          | 4gov         |
+|            1 |          2 |            1 | Homo          | 4gov         |
+|            2 |          3 |            2 | Homo          | 4gov         |
+|            0 |          1 |            1 | Homo          | 3p53         |
+|            1 |          2 |            1 | Homo          | 3p53         |
+|            0 |          1 |            1 | Homo          | 6i10         |
+|            0 |          1 |            1 | Homo          | 6i18         |
+|            0 |          1 |            1 | Homo          | 4gp3         |
+|            1 |          2 |            1 | Homo          | 4gp3         |
+|            2 |          3 |            2 | Homo          | 4gp3         |
+|            3 |          4 |            1 | Homo          | 4gp3         |
 
 ## Combined Per-Residue Information
 

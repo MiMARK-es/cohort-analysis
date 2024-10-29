@@ -21,13 +21,17 @@
 - **Biomarker Application**: nan
 - **Number of Isoforms**: 13
 - **Regulation**: 2
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 0.97
+- **(transcriptomics) Fold Change**: 1.28
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 114
 - **Max n_uniprots (Homo)**: 2
 - **Max n_uniprots (Hetero)**: 3
 
+
+## Expression Comparison
+
+![Expression Comparison](./O96017_expression_comparison.png)
 
 ## Isoform Alignment
 
@@ -90,50 +94,50 @@ O96017-13 <span style='background-color: yellow;'>-</span><span style='backgroun
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            1 | Homo          | 4bdh         |
-|            0 |          1 |            1 | Homo          | 2wtd         |
-|            0 |          1 |            1 | Homo          | 2ycf         |
-|            0 |          1 |            1 | Homo          | 4a9s         |
+|            0 |          1 |            1 | Homo          | 2yiq         |
+|            0 |          1 |            1 | Homo          | 2w0j         |
+|            0 |          1 |            1 | Homo          | 2cn8         |
+|            0 |          1 |            1 | Homo          | 4bdi         |
+|            0 |          1 |            1 | Homo          | 4bdk         |
+|            0 |          1 |            1 | Homo          | 4bdc         |
 |            0 |          1 |            1 | Homo          | 4bdf         |
+|            0 |          1 |            1 | Homo          | 1gxc         |
+|            1 |          2 |            1 | Homo          | 1gxc         |
+|            2 |          3 |            1 | Homo          | 1gxc         |
+|            3 |          4 |            1 | Homo          | 1gxc         |
+|            0 |          1 |            1 | Homo          | 4bdg         |
+|            0 |          1 |            1 | Homo          | 2ycf         |
+|            0 |          1 |            1 | Homo          | 2wtd         |
+|            0 |          1 |            1 | Homo          | 4bdh         |
+|            0 |          1 |            1 | Homo          | 2yir         |
+|            0 |          1 |            1 | Homo          | 2ycs         |
+|            0 |          1 |            1 | Homo          | 2xm9         |
 |            0 |          1 |            1 | Homo          | 4a9r         |
-|            0 |          1 |            1 | Homo          | 2yit         |
-|            0 |          1 |            1 | Homo          | 4a9t         |
-|            0 |          1 |            3 | Hetero        | 3va4         |
-|            0 |          1 |            1 | Homo          | 2ycr         |
 |            0 |          1 |            1 | Homo          | 4bdd         |
+|            0 |          1 |            1 | Homo          | 2ycr         |
+|            0 |          1 |            1 | Homo          | 4bdb         |
+|            0 |          1 |            1 | Homo          | 2w7x         |
+|            0 |          1 |            1 | Homo          | 4a9s         |
 |            0 |          1 |            1 | Homo          | 2xbj         |
 |            0 |          1 |            2 | Homo          | 3i6u         |
-|            0 |          1 |            1 | Homo          | 4bdg         |
-|            0 |          1 |            1 | Homo          | 2ycs         |
-|            0 |          1 |            1 | Homo          | 4bdb         |
-|            0 |          1 |            1 | Homo          | 2cn8         |
+|            0 |          1 |            1 | Homo          | 2wtj         |
 |            0 |          1 |            2 | Homo          | 3i6w         |
 |            1 |          2 |            2 | Homo          | 3i6w         |
 |            2 |          3 |            2 | Homo          | 3i6w         |
 |            3 |          4 |            2 | Homo          | 3i6w         |
-|            0 |          1 |            1 | Homo          | 2xk9         |
-|            0 |          1 |            1 | Homo          | 2xm9         |
-|            0 |          1 |            1 | Homo          | 4a9u         |
-|            0 |          1 |            1 | Homo          | 4bdk         |
-|            0 |          1 |            2 | Homo          | 1gxc         |
-|            1 |          2 |            2 | Homo          | 1gxc         |
-|            2 |          3 |            2 | Homo          | 1gxc         |
-|            3 |          4 |            2 | Homo          | 1gxc         |
-|            0 |          1 |            1 | Homo          | 2w0j         |
-|            0 |          1 |            1 | Homo          | 2yir         |
-|            0 |          1 |            1 | Homo          | 2ycq         |
-|            0 |          1 |            1 | Homo          | 4bda         |
-|            0 |          1 |            1 | Homo          | 2yiq         |
-|            0 |          1 |            1 | Homo          | 4bde         |
-|            0 |          1 |            1 | Homo          | 2wti         |
-|            0 |          1 |            1 | Homo          | 4bdc         |
-|            0 |          1 |            1 | Homo          | 2cn5         |
-|            0 |          1 |            1 | Homo          | 2w7x         |
 |            0 |          1 |            1 | Homo          | 2xm8         |
-|            0 |          1 |            1 | Homo          | 4bdj         |
+|            0 |          1 |            1 | Homo          | 2wti         |
+|            0 |          1 |            1 | Homo          | 2ycq         |
+|            0 |          1 |            3 | Hetero        | 3va4         |
+|            0 |          1 |            1 | Homo          | 4bde         |
+|            0 |          1 |            1 | Homo          | 4a9t         |
 |            0 |          1 |            1 | Homo          | 2wtc         |
-|            0 |          1 |            1 | Homo          | 2wtj         |
-|            0 |          1 |            1 | Homo          | 4bdi         |
+|            0 |          1 |            1 | Homo          | 4bdj         |
+|            0 |          1 |            1 | Homo          | 2xk9         |
+|            0 |          1 |            1 | Homo          | 2yit         |
+|            0 |          1 |            1 | Homo          | 2cn5         |
+|            0 |          1 |            1 | Homo          | 4bda         |
+|            0 |          1 |            1 | Homo          | 4a9u         |
 
 ## Combined Per-Residue Information
 

@@ -21,13 +21,17 @@
 - **Biomarker Application**: diagnosis,disease progression,efficacy,prognosis,response to therapy,unspecified application
 - **Number of Isoforms**: 2
 - **Regulation**: 1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 1.0
+- **(transcriptomics) Fold Change**: 2.51
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: N/A
 - **Max n_uniprots (Homo)**: 1
 - **Max n_uniprots (Hetero)**: 2
 
+
+## Expression Comparison
+
+![Expression Comparison](./P46013_expression_comparison.png)
 
 ## Isoform Alignment
 
@@ -79,9 +83,9 @@ P46013-2 <span>M</span><span>W</span><span>P</span><span>T</span><span>R</span><
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
 |            0 |          1 |            1 | Homo          | 1r21         |
+|            0 |          1 |            2 | Hetero        | 2aff         |
 |            0 |          1 |            2 | Hetero        | 5j28         |
 |            1 |          2 |            2 | Hetero        | 5j28         |
-|            0 |          1 |            2 | Hetero        | 2aff         |
 
 ## Combined Per-Residue Information
 

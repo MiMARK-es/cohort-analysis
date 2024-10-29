@@ -26,7 +26,7 @@
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 104
 - **Max n_uniprots (Homo)**: 4
-- **Max n_uniprots (Hetero)**: 6
+- **Max n_uniprots (Hetero)**: 4
 
 
 ## Expression Comparison
@@ -89,26 +89,26 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            4 | Homo          | 5hlz         |
-|            1 |          2 |            4 | Homo          | 5hlz         |
-|            0 |          1 |            2 | Homo          | 6y6n         |
-|            0 |          1 |            5 | Hetero        | 2p6a         |
-|            0 |          1 |            6 | Hetero        | 7oly         |
-|            0 |          1 |            2 | Hetero        | 2arp         |
-|            0 |          1 |            4 | Hetero        | 1nys         |
-|            0 |          1 |            2 | Homo          | 6y6o         |
 |            0 |          1 |            4 | Hetero        | 1nyu         |
-|            0 |          1 |            4 | Hetero        | 1s4y         |
-|            0 |          1 |            1 | Homo          | 5hly         |
 |            0 |          1 |            2 | Homo          | 2arv         |
+|            0 |          1 |            2 | Hetero        | 2arp         |
+|            0 |          1 |            1 | Homo          | 5hly         |
+|            0 |          1 |            4 | Hetero        | 1nys         |
 |            0 |          1 |            2 | Hetero        | 7u5p         |
 |            1 |          2 |            2 | Hetero        | 7u5p         |
 |            2 |          3 |            2 | Hetero        | 7u5p         |
 |            3 |          4 |            2 | Hetero        | 7u5p         |
+|            0 |          1 |            0 | Hetero        | 4mid         |
+|            0 |          1 |            4 | Hetero        | 2p6a         |
+|            0 |          1 |            3 | Hetero        | 7oly         |
+|            0 |          1 |            4 | Hetero        | 2b0u         |
+|            0 |          1 |            4 | Homo          | 5hlz         |
+|            1 |          2 |            4 | Homo          | 5hlz         |
+|            0 |          1 |            2 | Homo          | 6y6o         |
+|            0 |          1 |            4 | Hetero        | 1s4y         |
 |            0 |          1 |            4 | Hetero        | 3b4v         |
 |            1 |          2 |            4 | Hetero        | 3b4v         |
-|            0 |          1 |            4 | Hetero        | 2b0u         |
-|            0 |          1 |            1 | Hetero        | 4mid         |
+|            0 |          1 |            2 | Homo          | 6y6n         |
 
 ## Combined Per-Residue Information
 

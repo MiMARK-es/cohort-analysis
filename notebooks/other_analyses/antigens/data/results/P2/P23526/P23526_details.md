@@ -21,13 +21,17 @@
 - **Biomarker Application**: unspecified application
 - **Number of Isoforms**: 2
 - **Regulation**: 1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 1.0
+- **(transcriptomics) Fold Change**: 1.17
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 74
 - **Max n_uniprots (Homo)**: 4.0
 - **Max n_uniprots (Hetero)**: N/A
 
+
+## Expression Comparison
+
+![Expression Comparison](./P23526_expression_comparison.png)
 
 ## Isoform Alignment
 
@@ -65,14 +69,14 @@ P23526-2 <span style='background-color: yellow;'>-</span><span style='background
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            4 | Homo          | 5w4b         |
-|            1 |          2 |            2 | Homo          | 5w4b         |
-|            0 |          1 |            2 | Homo          | 4pfj         |
-|            0 |          1 |            2 | Homo          | 4pgf         |
-|            0 |          1 |            2 | Homo          | 5w49         |
 |            0 |          1 |            2 | Homo          | 4yvf         |
 |            0 |          1 |            2 | Homo          | 1a7a         |
 |            0 |          1 |            1 | Homo          | 1li4         |
+|            0 |          1 |            4 | Homo          | 5w4b         |
+|            1 |          2 |            2 | Homo          | 5w4b         |
+|            0 |          1 |            2 | Homo          | 4pfj         |
+|            0 |          1 |            2 | Homo          | 5w49         |
+|            0 |          1 |            2 | Homo          | 4pgf         |
 
 ## Combined Per-Residue Information
 

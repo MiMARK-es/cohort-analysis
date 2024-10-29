@@ -21,13 +21,17 @@
 - **Biomarker Application**: diagnosis,efficacy,prognosis
 - **Number of Isoforms**: 0
 - **Regulation**: 1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 0.61
+- **(transcriptomics) Fold Change**: 1.15
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 48
-- **Max n_uniprots (Homo)**: 2
+- **Max n_uniprots (Homo)**: 1
 - **Max n_uniprots (Hetero)**: N/A
 
+
+## Expression Comparison
+
+![Expression Comparison](./P09237_expression_comparison.png)
 
 ## Interactors
 
@@ -72,23 +76,23 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            2 | Homo          | 8jug         |
-|            0 |          1 |            1 | Homo          | 1mmq         |
-|            0 |          1 |            2 | Homo          | 5ue2         |
-|            0 |          1 |            1 | Homo          | 2mze         |
-|            0 |          1 |            2 | Homo          | 8juf         |
+|            0 |          1 |            1 | Homo          | 8jud         |
+|            0 |          1 |            1 | Homo          | 8juf         |
+|            0 |          1 |            1 | Homo          | 7wxx         |
 |            0 |          1 |            1 | Homo          | 1mmp         |
 |            1 |          2 |            1 | Homo          | 1mmp         |
-|            0 |          1 |            1 | Homo          | 2ddy         |
-|            0 |          1 |            2 | Homo          | 8k4z         |
+|            0 |          1 |            1 | Homo          | 2mze         |
 |            0 |          1 |            1 | Homo          | 2mzh         |
-|            0 |          1 |            1 | Homo          | 2y6c         |
-|            0 |          1 |            2 | Homo          | 8jud         |
+|            0 |          1 |            1 | Homo          | 5ue2         |
+|            0 |          1 |            1 | Homo          | 1mmq         |
+|            0 |          1 |            1 | Homo          | 5ue5         |
+|            0 |          1 |            1 | Homo          | 2ddy         |
+|            0 |          1 |            1 | Homo          | 8k4z         |
+|            0 |          1 |            1 | Homo          | 8jug         |
+|            0 |          1 |            1 | Homo          | 2mzi         |
 |            0 |          1 |            1 | Homo          | 2y6d         |
 |            0 |          1 |            1 | Homo          | 1mmr         |
-|            0 |          1 |            2 | Homo          | 7wxx         |
-|            0 |          1 |            2 | Homo          | 5ue5         |
-|            0 |          1 |            1 | Homo          | 2mzi         |
+|            0 |          1 |            1 | Homo          | 2y6c         |
 
 ## Combined Per-Residue Information
 

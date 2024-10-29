@@ -25,8 +25,8 @@
 - **(transcriptomics) Fold Change**: 1.05
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 13
-- **Max n_uniprots (Homo)**: 4
-- **Max n_uniprots (Hetero)**: 6
+- **Max n_uniprots (Homo)**: 2
+- **Max n_uniprots (Hetero)**: 4
 
 
 ## Expression Comparison
@@ -99,18 +99,18 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            4 | Homo          | 1jnm         |
+|            0 |          1 |            4 | Hetero        | 8sos         |
+|            0 |          1 |            1 | Homo          | 1fos         |
+|            1 |          2 |            1 | Homo          | 1fos         |
 |            0 |          1 |            2 | Homo          | 1jun         |
-|            0 |          1 |            6 | Hetero        | 1t2k         |
-|            0 |          1 |            2 | Hetero        | 5fv8         |
-|            1 |          2 |            2 | Hetero        | 5fv8         |
-|            0 |          1 |            2 | Homo          | 6y3v         |
-|            0 |          1 |            6 | Hetero        | 8sos         |
-|            0 |          1 |            5 | Hetero        | 1a02         |
-|            0 |          1 |            5 | Hetero        | 1s9k         |
-|            0 |          1 |            4 | Homo          | 1fos         |
-|            1 |          2 |            4 | Homo          | 1fos         |
-|            0 |          1 |            4 | Homo          | 5t01         |
+|            0 |          1 |            4 | Hetero        | 1t2k         |
+|            0 |          1 |            3 | Hetero        | 1s9k         |
+|            0 |          1 |            3 | Hetero        | 1a02         |
+|            0 |          1 |            2 | Homo          | 5t01         |
+|            0 |          1 |            1 | Homo          | 6y3v         |
+|            0 |          1 |            2 | Homo          | 1jnm         |
+|            0 |          1 |            0 | Hetero        | 5fv8         |
+|            1 |          2 |            0 | Hetero        | 5fv8         |
 
 ## Combined Per-Residue Information
 

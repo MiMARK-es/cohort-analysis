@@ -25,7 +25,7 @@
 - **(transcriptomics) Fold Change**: 2.42
 - **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 306
-- **Max n_uniprots (Homo)**: 6
+- **Max n_uniprots (Homo)**: 2
 - **Max n_uniprots (Hetero)**: N/A
 
 
@@ -108,18 +108,18 @@ P11388-4 <span>M</span><span>E</span><span>V</span><span>S</span><span>P</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            6 | Homo          | 6zy6         |
-|            0 |          1 |            2 | Homo          | 1zxn         |
-|            1 |          2 |            2 | Homo          | 1zxn         |
-|            0 |          1 |            6 | Homo          | 6zy8         |
 |            0 |          1 |            2 | Homo          | 4r1f         |
 |            1 |          2 |            2 | Homo          | 4r1f         |
-|            0 |          1 |            3 | Homo          | 4fm9         |
-|            0 |          1 |            6 | Homo          | 6zy5         |
-|            0 |          1 |            6 | Homo          | 6zy7         |
-|            0 |          1 |            6 | Homo          | 5gwk         |
-|            0 |          1 |            2 | Homo          | 5nne         |
 |            0 |          1 |            2 | Homo          | 1zxm         |
+|            0 |          1 |            2 | Homo          | 6zy7         |
+|            0 |          1 |            2 | Homo          | 6zy6         |
+|            0 |          1 |            2 | Homo          | 6zy8         |
+|            0 |          1 |            1 | Homo          | 5nne         |
+|            0 |          1 |            2 | Homo          | 6zy5         |
+|            0 |          1 |            2 | Homo          | 1zxn         |
+|            1 |          2 |            2 | Homo          | 1zxn         |
+|            0 |          1 |            2 | Homo          | 5gwk         |
+|            0 |          1 |            1 | Homo          | 4fm9         |
 
 ## Combined Per-Residue Information
 

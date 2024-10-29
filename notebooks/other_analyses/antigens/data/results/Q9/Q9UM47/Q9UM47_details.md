@@ -21,13 +21,17 @@
 - **Biomarker Application**: unspecified application
 - **Number of Isoforms**: 0
 - **Regulation**: 1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 0.57
+- **(transcriptomics) Fold Change**: 1.01
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 816
-- **Max n_uniprots (Homo)**: 4
-- **Max n_uniprots (Hetero)**: 4
+- **Max n_uniprots (Homo)**: 2
+- **Max n_uniprots (Hetero)**: 2
 
+
+## Expression Comparison
+
+![Expression Comparison](./Q9UM47_expression_comparison.png)
 
 ## Interactors
 
@@ -74,16 +78,16 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
+|            0 |          1 |            1 | Homo          | 6xsw         |
+|            1 |          2 |            1 | Homo          | 6xsw         |
+|            2 |          3 |            1 | Homo          | 6xsw         |
+|            3 |          4 |            1 | Homo          | 6xsw         |
 |            0 |          1 |            1 | Homo          | 8os0         |
-|            0 |          1 |            3 | Homo          | 5czv         |
-|            0 |          1 |            4 | Hetero        | 6wqu         |
-|            0 |          1 |            3 | Homo          | 4zlp         |
-|            0 |          1 |            3 | Homo          | 6xsw         |
-|            1 |          2 |            3 | Homo          | 6xsw         |
-|            2 |          3 |            3 | Homo          | 6xsw         |
-|            3 |          4 |            4 | Homo          | 6xsw         |
-|            0 |          1 |            3 | Homo          | 5czx         |
-|            1 |          2 |            3 | Homo          | 5czx         |
+|            0 |          1 |            2 | Hetero        | 6wqu         |
+|            0 |          1 |            2 | Homo          | 4zlp         |
+|            0 |          1 |            1 | Homo          | 5czx         |
+|            1 |          2 |            1 | Homo          | 5czx         |
+|            0 |          1 |            1 | Homo          | 5czv         |
 
 ## Combined Per-Residue Information
 

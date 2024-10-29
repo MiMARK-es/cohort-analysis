@@ -21,13 +21,17 @@
 - **Biomarker Application**: diagnosis,efficacy,unspecified application
 - **Number of Isoforms**: 6
 - **Regulation**: 1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
+- **(transcriptomics) AUC**: 0.21
+- **(transcriptomics) Fold Change**: 1.09
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 91
-- **Max n_uniprots (Homo)**: 5
+- **Max n_uniprots (Homo)**: 1
 - **Max n_uniprots (Hetero)**: N/A
 
+
+## Expression Comparison
+
+![Expression Comparison](./P10909_expression_comparison.png)
 
 ## Isoform Alignment
 
@@ -77,10 +81,10 @@ P10909-6 <span style='background-color: yellow;'>-</span><span style='background
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            2 | Homo          | 7zeu         |
-|            1 |          2 |            5 | Homo          | 7zeu         |
-|            0 |          1 |            3 | Homo          | 7zet         |
-|            1 |          2 |            3 | Homo          | 7zet         |
+|            0 |          1 |            1 | Homo          | 7zeu         |
+|            1 |          2 |            1 | Homo          | 7zeu         |
+|            0 |          1 |            1 | Homo          | 7zet         |
+|            1 |          2 |            1 | Homo          | 7zet         |
 
 ## Combined Per-Residue Information
 

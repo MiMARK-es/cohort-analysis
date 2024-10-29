@@ -25,7 +25,7 @@
 - **(transcriptomics) Fold Change**: 1.07
 - **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 232
-- **Max n_uniprots (Homo)**: 4
+- **Max n_uniprots (Homo)**: 2
 - **Max n_uniprots (Hetero)**: N/A
 
 
@@ -128,29 +128,29 @@ P22223-2 <span>M</span><span>G</span><span>L</span><span>P</span><span>R</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            2 | Homo          | 5jyl         |
-|            1 |          2 |            2 | Homo          | 5jyl         |
-|            0 |          1 |            2 | Homo          | 4zmw         |
-|            0 |          1 |            2 | Homo          | 7cme         |
-|            0 |          1 |            2 | Homo          | 4zmv         |
-|            0 |          1 |            1 | Homo          | 4zmn         |
-|            0 |          1 |            1 | Homo          | 4zml         |
-|            0 |          1 |            1 | Homo          | 7cmf         |
-|            0 |          1 |            1 | Homo          | 6ztb         |
-|            0 |          1 |            1 | Homo          | 4zmy         |
-|            0 |          1 |            1 | Homo          | 4zmz         |
-|            0 |          1 |            2 | Homo          | 8hyi         |
 |            0 |          1 |            2 | Homo          | 4zmq         |
+|            0 |          1 |            2 | Homo          | 4zmw         |
+|            0 |          1 |            2 | Homo          | 8hyi         |
 |            0 |          1 |            1 | Homo          | 4zmp         |
-|            0 |          1 |            1 | Homo          | 4zmo         |
-|            0 |          1 |            4 | Homo          | 5jym         |
-|            0 |          1 |            2 | Homo          | 4zmx         |
-|            0 |          1 |            1 | Homo          | 4oy9         |
-|            0 |          1 |            3 | Homo          | 6ztr         |
-|            1 |          2 |            3 | Homo          | 6ztr         |
 |            0 |          1 |            2 | Homo          | 4zmt         |
 |            1 |          2 |            2 | Homo          | 4zmt         |
 |            2 |          3 |            2 | Homo          | 4zmt         |
+|            0 |          1 |            1 | Homo          | 7cmf         |
+|            0 |          1 |            2 | Homo          | 4zmv         |
+|            0 |          1 |            1 | Homo          | 4zmo         |
+|            0 |          1 |            1 | Homo          | 4zmn         |
+|            0 |          1 |            1 | Homo          | 4zmy         |
+|            0 |          1 |            1 | Homo          | 4zml         |
+|            0 |          1 |            1 | Homo          | 5jyl         |
+|            1 |          2 |            1 | Homo          | 5jyl         |
+|            0 |          1 |            2 | Homo          | 7cme         |
+|            0 |          1 |            1 | Homo          | 4oy9         |
+|            0 |          1 |            1 | Homo          | 6ztb         |
+|            0 |          1 |            2 | Homo          | 5jym         |
+|            0 |          1 |            1 | Homo          | 6ztr         |
+|            1 |          2 |            1 | Homo          | 6ztr         |
+|            0 |          1 |            2 | Homo          | 4zmx         |
+|            0 |          1 |            1 | Homo          | 4zmz         |
 
 ## Combined Per-Residue Information
 

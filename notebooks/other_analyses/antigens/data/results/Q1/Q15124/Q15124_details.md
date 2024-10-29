@@ -26,7 +26,7 @@
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 114
 - **Max n_uniprots (Homo)**: N/A
-- **Max n_uniprots (Hetero)**: 3
+- **Max n_uniprots (Hetero)**: 2
 
 
 ## Expression Comparison
@@ -65,8 +65,8 @@ Q15124-2 <span>M</span><span>E</span><span>G</span><span>S</span><span>P</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            3 | Hetero        | 7u21         |
-|            1 |          2 |            3 | Hetero        | 7u21         |
+|            0 |          1 |            2 | Hetero        | 7u21         |
+|            1 |          2 |            2 | Hetero        | 7u21         |
 
 ## Combined Per-Residue Information
 

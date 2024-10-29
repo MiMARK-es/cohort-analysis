@@ -74,15 +74,15 @@ Q16512-3 <span style='background-color: yellow;'>-</span><span style='background
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            1 | Homo          | 4oti         |
-|            0 |          1 |            1 | Homo          | 4otd         |
-|            0 |          1 |            1 | Homo          | 4otg         |
 |            0 |          1 |            1 | Homo          | 4oth         |
+|            0 |          1 |            1 | Homo          | 4otg         |
+|            0 |          1 |            1 | Homo          | 4otd         |
+|            0 |          1 |            1 | Homo          | 1urf         |
+|            0 |          1 |            2 | Hetero        | 1cxz         |
+|            0 |          1 |            1 | Homo          | 4oti         |
 |            0 |          1 |            2 | Hetero        | 4nkg         |
 |            1 |          2 |            2 | Hetero        | 4nkg         |
 |            0 |          1 |            2 | Hetero        | 2rmk         |
-|            0 |          1 |            1 | Homo          | 1urf         |
-|            0 |          1 |            2 | Hetero        | 1cxz         |
 
 ## Combined Per-Residue Information
 

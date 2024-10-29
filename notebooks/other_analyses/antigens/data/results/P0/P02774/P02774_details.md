@@ -21,13 +21,17 @@
 - **Biomarker Application**:  
 - **Number of Isoforms**: 3
 - **Regulation**: -1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
+- **(transcriptomics) AUC**: 0.33
+- **(transcriptomics) Fold Change**: 1.36
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 105
 - **Max n_uniprots (Homo)**: 1.0
 - **Max n_uniprots (Hetero)**: 2.0
 
+
+## Expression Comparison
+
+![Expression Comparison](./P02774_expression_comparison.png)
 
 ## Isoform Alignment
 
@@ -65,14 +69,14 @@ P02774-3 <span style='background-color: yellow;'>M</span><span style='background
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            2 | Hetero        | 1kxp         |
-|            0 |          1 |            1 | Homo          | 1j7e         |
-|            1 |          2 |            1 | Homo          | 1j7e         |
-|            0 |          1 |            1 | Homo          | 1j78         |
-|            1 |          2 |            1 | Homo          | 1j78         |
-|            0 |          1 |            2 | Hetero        | 1lot         |
 |            0 |          1 |            1 | Homo          | 1kw2         |
 |            1 |          2 |            1 | Homo          | 1kw2         |
+|            0 |          1 |            2 | Hetero        | 1lot         |
+|            0 |          1 |            2 | Hetero        | 1kxp         |
+|            0 |          1 |            1 | Homo          | 1j78         |
+|            1 |          2 |            1 | Homo          | 1j78         |
+|            0 |          1 |            1 | Homo          | 1j7e         |
+|            1 |          2 |            1 | Homo          | 1j7e         |
 
 ## Combined Per-Residue Information
 

@@ -21,13 +21,17 @@
 - **Biomarker Application**: diagnosis
 - **Number of Isoforms**: 2
 - **Regulation**: 2
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 0.58
+- **(transcriptomics) Fold Change**: 1.05
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 60
 - **Max n_uniprots (Homo)**: 1
 - **Max n_uniprots (Hetero)**: N/A
 
+
+## Expression Comparison
+
+![Expression Comparison](./P50225_expression_comparison.png)
 
 ## Isoform Alignment
 
@@ -67,23 +71,23 @@ P50225-2 <span style='background-color: yellow;'>-</span><span style='background
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
+|            0 |          1 |            1 | Homo          | 1z28         |
 |            0 |          1 |            1 | Homo          | 3u3j         |
 |            1 |          2 |            1 | Homo          | 3u3j         |
-|            0 |          1 |            1 | Homo          | 3u3r         |
-|            0 |          1 |            1 | Homo          | 1z28         |
-|            0 |          1 |            1 | Homo          | 2d06         |
-|            1 |          2 |            1 | Homo          | 2d06         |
-|            0 |          1 |            1 | Homo          | 3qvu         |
-|            1 |          2 |            1 | Homo          | 3qvu         |
-|            0 |          1 |            1 | Homo          | 3qvv         |
-|            1 |          2 |            1 | Homo          | 3qvv         |
 |            0 |          1 |            1 | Homo          | 3u3k         |
 |            1 |          2 |            1 | Homo          | 3u3k         |
-|            0 |          1 |            1 | Homo          | 3u3o         |
 |            0 |          1 |            1 | Homo          | 1ls6         |
 |            0 |          1 |            1 | Homo          | 3u3m         |
+|            0 |          1 |            1 | Homo          | 3u3r         |
 |            0 |          1 |            1 | Homo          | 4gra         |
 |            1 |          2 |            1 | Homo          | 4gra         |
+|            0 |          1 |            1 | Homo          | 3qvu         |
+|            1 |          2 |            1 | Homo          | 3qvu         |
+|            0 |          1 |            1 | Homo          | 3u3o         |
+|            0 |          1 |            1 | Homo          | 2d06         |
+|            1 |          2 |            1 | Homo          | 2d06         |
+|            0 |          1 |            1 | Homo          | 3qvv         |
+|            1 |          2 |            1 | Homo          | 3qvv         |
 
 ## Combined Per-Residue Information
 

@@ -21,13 +21,17 @@
 - **Biomarker Application**: diagnosis,disease progression,efficacy,prognosis,unspecified application
 - **Number of Isoforms**: 0
 - **Regulation**: 2
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 0.73
+- **(transcriptomics) Fold Change**: 1.07
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 54
 - **Max n_uniprots (Homo)**: 1
 - **Max n_uniprots (Hetero)**: 2
 
+
+## Expression Comparison
+
+![Expression Comparison](./P01033_expression_comparison.png)
 
 ## Interactors
 
@@ -59,20 +63,20 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
+|            0 |          1 |            2 | Hetero        | 1oo9         |
 |            0 |          1 |            2 | Hetero        | 7s7l         |
-|            0 |          1 |            2 | Hetero        | 2j0t         |
-|            1 |          2 |            2 | Hetero        | 2j0t         |
-|            2 |          3 |            2 | Hetero        | 2j0t         |
+|            0 |          1 |            2 | Hetero        | 6n9d         |
+|            0 |          1 |            2 | Hetero        | 3ma2         |
+|            1 |          2 |            2 | Hetero        | 3ma2         |
 |            0 |          1 |            2 | Hetero        | 1uea         |
 |            1 |          2 |            2 | Hetero        | 1uea         |
 |            0 |          1 |            2 | Hetero        | 3v96         |
-|            0 |          1 |            2 | Hetero        | 7s7m         |
-|            0 |          1 |            2 | Hetero        | 3ma2         |
-|            1 |          2 |            2 | Hetero        | 3ma2         |
-|            0 |          1 |            2 | Hetero        | 6n9d         |
-|            0 |          1 |            1 | Homo          | 1d2b         |
 |            0 |          1 |            2 | Hetero        | 6mav         |
-|            0 |          1 |            2 | Hetero        | 1oo9         |
+|            0 |          1 |            2 | Hetero        | 2j0t         |
+|            1 |          2 |            2 | Hetero        | 2j0t         |
+|            2 |          3 |            2 | Hetero        | 2j0t         |
+|            0 |          1 |            2 | Hetero        | 7s7m         |
+|            0 |          1 |            1 | Homo          | 1d2b         |
 
 ## Combined Per-Residue Information
 

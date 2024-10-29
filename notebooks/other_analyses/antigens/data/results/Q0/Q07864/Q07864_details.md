@@ -87,10 +87,10 @@
 
 ## Biological Assemblies
 
-|   Unnamed: 0 | crystal_id   |   assembly |   n_uniprots | composition   |
-|-------------:|:-------------|-----------:|-------------:|:--------------|
-|            0 | 5vbn         |          1 |            2 | Hetero        |
-|            1 | 5vbn         |          2 |            2 | Hetero        |
+|   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
+|-------------:|-----------:|-------------:|:--------------|:-------------|
+|            0 |          1 |            2 | Hetero        | 5vbn         |
+|            1 |          2 |            2 | Hetero        | 5vbn         |
 
 ## Combined Per-Residue Information
 

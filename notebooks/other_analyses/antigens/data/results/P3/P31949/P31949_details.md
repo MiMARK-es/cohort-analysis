@@ -21,13 +21,17 @@
 - **Biomarker Application**:  
 - **Number of Isoforms**: 0
 - **Regulation**: 1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 0.97
+- **(transcriptomics) Fold Change**: 1.17
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 24
 - **Max n_uniprots (Homo)**: 2
 - **Max n_uniprots (Hetero)**: N/A
 
+
+## Expression Comparison
+
+![Expression Comparison](./P31949_expression_comparison.png)
 
 ## Interactors
 
@@ -67,8 +71,8 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            2 | Homo          | 2luc         |
 |            0 |          1 |            1 | Homo          | 1v4z         |
+|            0 |          1 |            2 | Homo          | 2luc         |
 |            0 |          1 |            1 | Homo          | 1v50         |
 
 ## Combined Per-Residue Information

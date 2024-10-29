@@ -131,26 +131,26 @@ P06493-2 <span>M</span><span>E</span><span>D</span><span>Y</span><span>T</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            3 | Hetero        | 6gu4         |
-|            0 |          1 |            4 | Hetero        | 7nj0         |
+|            0 |          1 |            3 | Hetero        | 4y72         |
+|            0 |          1 |            3 | Hetero        | 6gu3         |
 |            0 |          1 |            3 | Hetero        | 5lqf         |
 |            1 |          2 |            3 | Hetero        | 5lqf         |
-|            0 |          1 |            2 | Hetero        | 4yc6         |
-|            1 |          2 |            2 | Hetero        | 4yc6         |
-|            2 |          3 |            2 | Hetero        | 4yc6         |
-|            3 |          4 |            2 | Hetero        | 4yc6         |
-|            0 |          1 |            3 | Hetero        | 4yc3         |
-|            0 |          1 |            3 | Hetero        | 4y72         |
 |            0 |          1 |            3 | Hetero        | 6gu2         |
-|            0 |          1 |            3 | Hetero        | 6gu3         |
+|            0 |          1 |            3 | Hetero        | 5hq0         |
+|            0 |          1 |            2 | Hetero        | 6twn         |
+|            1 |          2 |            2 | Hetero        | 6twn         |
+|            0 |          1 |            3 | Hetero        | 4yc3         |
 |            0 |          1 |            2 | Hetero        | 6gu7         |
 |            1 |          2 |            2 | Hetero        | 6gu7         |
 |            2 |          3 |            2 | Hetero        | 6gu7         |
 |            3 |          4 |            2 | Hetero        | 6gu7         |
+|            0 |          1 |            4 | Hetero        | 7nj0         |
 |            0 |          1 |            2 | Hetero        | 6gu6         |
-|            0 |          1 |            3 | Hetero        | 5hq0         |
-|            0 |          1 |            2 | Hetero        | 6twn         |
-|            1 |          2 |            2 | Hetero        | 6twn         |
+|            0 |          1 |            2 | Hetero        | 4yc6         |
+|            1 |          2 |            2 | Hetero        | 4yc6         |
+|            2 |          3 |            2 | Hetero        | 4yc6         |
+|            3 |          4 |            2 | Hetero        | 4yc6         |
+|            0 |          1 |            3 | Hetero        | 6gu4         |
 
 ## Combined Per-Residue Information
 

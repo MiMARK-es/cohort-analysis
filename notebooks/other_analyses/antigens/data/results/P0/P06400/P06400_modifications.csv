@@ -1,0 +1,25 @@
+,res,modification
+0,2,"N,N-dimethylproline"
+1,37,Phosphoserine
+2,249,Phosphoserine; by CDK1
+3,252,Phosphothreonine; by CDK1
+4,356,Phosphothreonine
+5,373,Phosphothreonine; by CDK1
+6,567,Phosphoserine; by CDK2
+7,608,Phosphoserine
+8,612,Phosphoserine; by CHEK2 and CHEK1
+9,624,Phosphoserine
+10,780,Phosphoserine
+11,788,Phosphoserine
+12,795,Phosphoserine
+13,807,Phosphoserine; by CDK1 and CDK3
+14,810,N6-methyllysine; by SMYD2
+15,811,Phosphoserine; by CDK1 and CDK3
+16,821,Phosphothreonine; by CDK6
+17,823,Phosphothreonine
+18,826,Phosphothreonine; by CDK4
+19,841,Phosphothreonine
+20,855,Phosphoserine
+21,860,N6-methyllysine; by SMYD2
+22,873,N6-acetyllysine; by PCAF
+23,874,N6-acetyllysine; by PCAF

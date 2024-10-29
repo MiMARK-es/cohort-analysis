@@ -21,13 +21,17 @@
 - **Biomarker Application**: nan
 - **Number of Isoforms**: 0
 - **Regulation**: 1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
+- **(transcriptomics) AUC**: 0.23
+- **(transcriptomics) Fold Change**: 1.04
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 47
 - **Max n_uniprots (Homo)**: 2
 - **Max n_uniprots (Hetero)**: N/A
 
+
+## Expression Comparison
+
+![Expression Comparison](./P08758_expression_comparison.png)
 
 ## Interactors
 
@@ -58,29 +62,29 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
+|            0 |          1 |            2 | Homo          | 1hak         |
+|            0 |          1 |            1 | Homo          | 1hvd         |
+|            0 |          1 |            1 | Homo          | 8h9z         |
+|            0 |          1 |            1 | Homo          | 1hvg         |
+|            0 |          1 |            1 | Homo          | 1sav         |
+|            0 |          1 |            1 | Homo          | 1anw         |
+|            1 |          2 |            1 | Homo          | 1anw         |
+|            0 |          1 |            1 | Homo          | 1hvf         |
+|            0 |          1 |            1 | Homo          | 6k22         |
+|            0 |          1 |            1 | Homo          | 2xo2         |
+|            0 |          1 |            1 | Homo          | 1avr         |
 |            0 |          1 |            1 | Homo          | 1anx         |
 |            1 |          2 |            1 | Homo          | 1anx         |
 |            2 |          3 |            1 | Homo          | 1anx         |
-|            0 |          1 |            1 | Homo          | 1sav         |
-|            0 |          1 |            1 | Homo          | 2xo2         |
 |            0 |          1 |            2 | Homo          | 8gyc         |
-|            0 |          1 |            1 | Homo          | 1hvd         |
-|            0 |          1 |            1 | Homo          | 6k22         |
 |            0 |          1 |            1 | Homo          | 8h0j         |
-|            0 |          1 |            1 | Homo          | 1anw         |
-|            1 |          2 |            1 | Homo          | 1anw         |
 |            0 |          1 |            1 | Homo          | 1hve         |
-|            0 |          1 |            1 | Homo          | 1hvf         |
 |            0 |          1 |            1 | Homo          | 6k25         |
-|            0 |          1 |            1 | Homo          | 1hvg         |
-|            0 |          1 |            1 | Homo          | 8h9z         |
-|            0 |          1 |            2 | Homo          | 1hak         |
 |            0 |          1 |            1 | Homo          | 2xo3         |
 |            0 |          1 |            1 | Homo          | 1avh         |
 |            1 |          2 |            1 | Homo          | 1avh         |
 |            2 |          3 |            2 | Homo          | 1avh         |
 |            3 |          4 |            2 | Homo          | 1avh         |
-|            0 |          1 |            1 | Homo          | 1avr         |
 
 ## Combined Per-Residue Information
 

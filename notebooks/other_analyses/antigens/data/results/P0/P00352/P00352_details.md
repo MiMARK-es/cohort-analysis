@@ -21,13 +21,17 @@
 - **Biomarker Application**: diagnosis,disease progression
 - **Number of Isoforms**: 0
 - **Regulation**: 1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
+- **(transcriptomics) AUC**: 0.23
+- **(transcriptomics) Fold Change**: 1.14
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 79
 - **Max n_uniprots (Homo)**: 4
 - **Max n_uniprots (Hetero)**: N/A
 
+
+## Expression Comparison
+
+![Expression Comparison](./P00352_expression_comparison.png)
 
 ## Interactors
 
@@ -99,32 +103,32 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            1 | Homo          | 7um9         |
-|            0 |          1 |            1 | Homo          | 5l2m         |
-|            0 |          1 |            1 | Homo          | 7jwv         |
-|            0 |          1 |            4 | Homo          | 8dno         |
 |            0 |          1 |            1 | Homo          | 5ac2         |
-|            0 |          1 |            1 | Homo          | 6dum         |
-|            0 |          1 |            1 | Homo          | 8t0t         |
-|            0 |          1 |            1 | Homo          | 8t0n         |
+|            0 |          1 |            1 | Homo          | 5l2m         |
+|            0 |          1 |            1 | Homo          | 7jws         |
 |            0 |          1 |            4 | Homo          | 5l2o         |
 |            1 |          2 |            4 | Homo          | 5l2o         |
-|            0 |          1 |            1 | Homo          | 7jwu         |
-|            0 |          1 |            4 | Homo          | 8d46         |
-|            0 |          1 |            1 | Homo          | 4wpn         |
-|            0 |          1 |            1 | Homo          | 4wb9         |
-|            0 |          1 |            1 | Homo          | 5tei         |
-|            0 |          1 |            1 | Homo          | 4wp7         |
-|            0 |          1 |            4 | Homo          | 8ene         |
-|            0 |          1 |            1 | Homo          | 4x4l         |
-|            0 |          1 |            1 | Homo          | 7jww         |
+|            0 |          1 |            1 | Homo          | 5l2n         |
 |            0 |          1 |            4 | Homo          | 8wfq         |
 |            1 |          2 |            4 | Homo          | 8wfq         |
-|            0 |          1 |            1 | Homo          | 7jws         |
-|            0 |          1 |            1 | Homo          | 8pvh         |
-|            0 |          1 |            1 | Homo          | 4wj9         |
-|            0 |          1 |            1 | Homo          | 5l2n         |
+|            0 |          1 |            1 | Homo          | 5tei         |
+|            0 |          1 |            1 | Homo          | 8t0n         |
+|            0 |          1 |            1 | Homo          | 7um9         |
 |            0 |          1 |            1 | Homo          | 7jwt         |
+|            0 |          1 |            1 | Homo          | 4wj9         |
+|            0 |          1 |            1 | Homo          | 7jwu         |
+|            0 |          1 |            1 | Homo          | 4wpn         |
+|            0 |          1 |            1 | Homo          | 6dum         |
+|            0 |          1 |            1 | Homo          | 8pvh         |
+|            0 |          1 |            4 | Homo          | 8ene         |
+|            0 |          1 |            1 | Homo          | 7jwv         |
+|            0 |          1 |            4 | Homo          | 8d46         |
+|            0 |          1 |            4 | Homo          | 8dno         |
+|            0 |          1 |            1 | Homo          | 4x4l         |
+|            0 |          1 |            1 | Homo          | 4wb9         |
+|            0 |          1 |            1 | Homo          | 8t0t         |
+|            0 |          1 |            1 | Homo          | 7jww         |
+|            0 |          1 |            1 | Homo          | 4wp7         |
 
 ## Combined Per-Residue Information
 

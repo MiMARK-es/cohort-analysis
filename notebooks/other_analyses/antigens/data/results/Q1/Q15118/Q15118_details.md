@@ -69,9 +69,9 @@ Q15118-2 <span>M</span><span>R</span><span>L</span><span>A</span><span>R</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            1 | Homo          | 2q8h         |
-|            0 |          1 |            1 | Homo          | 2q8f         |
 |            0 |          1 |            1 | Homo          | 2q8g         |
+|            0 |          1 |            1 | Homo          | 2q8f         |
+|            0 |          1 |            1 | Homo          | 2q8h         |
 
 ## Combined Per-Residue Information
 

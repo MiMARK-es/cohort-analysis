@@ -84,16 +84,16 @@ P09493-10 <span style='background-color: yellow;'>M</span><span style='backgroun
 
 ## Biological Assemblies
 
-|   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
-|-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            8 | Hetero        | 8efh         |
-|            0 |          1 |            8 | Hetero        | 6x5z         |
-|            0 |          1 |            8 | Hetero        | 8efi         |
-|            0 |          1 |            4 | Hetero        | 3mud         |
-|            0 |          1 |            3 | Hetero        | 6ut2         |
-|            0 |          1 |            2 | Homo          | 5kht         |
-|            1 |          2 |            2 | Homo          | 5kht         |
-|            0 |          1 |            8 | Hetero        | 8enc         |
+|   Unnamed: 0 | crystal_id   |   assembly |   n_uniprots | composition   |
+|-------------:|:-------------|-----------:|-------------:|:--------------|
+|            0 | 6x5z         |          1 |            8 | Hetero        |
+|            0 | 8efi         |          1 |            8 | Hetero        |
+|            0 | 8enc         |          1 |            8 | Hetero        |
+|            0 | 3mud         |          1 |            4 | Hetero        |
+|            0 | 5kht         |          1 |            2 | Homo          |
+|            1 | 5kht         |          2 |            2 | Homo          |
+|            0 | 6ut2         |          1 |            3 | Hetero        |
+|            0 | 8efh         |          1 |            8 | Hetero        |
 
 ## Combined Per-Residue Information
 

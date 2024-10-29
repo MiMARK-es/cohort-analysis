@@ -26,7 +26,7 @@
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 97
 - **Max n_uniprots (Homo)**: 3
-- **Max n_uniprots (Hetero)**: 7
+- **Max n_uniprots (Hetero)**: 6
 
 
 ## Expression Comparison
@@ -129,17 +129,17 @@ P19438-5 <span style='background-color: yellow;'>M</span><span style='background
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            2 | Hetero        | 1tnr         |
-|            0 |          1 |            5 | Hetero        | 7kp8         |
-|            0 |          1 |            6 | Hetero        | 7kp7         |
 |            0 |          1 |            2 | Homo          | 1ext         |
-|            0 |          1 |            3 | Homo          | 7k7a         |
-|            0 |          1 |            1 | Homo          | 8p6q         |
-|            1 |          2 |            1 | Hetero        | 8p6q         |
-|            0 |          1 |            2 | Homo          | 1ft4         |
-|            0 |          1 |            7 | Hetero        | 7kpb         |
 |            0 |          1 |            2 | Homo          | 1ncf         |
+|            0 |          1 |            5 | Hetero        | 7kp8         |
 |            0 |          1 |            1 | Homo          | 1ich         |
+|            0 |          1 |            2 | Hetero        | 1tnr         |
+|            0 |          1 |            1 | Homo          | 8p6q         |
+|            1 |          2 |            0 | Hetero        | 8p6q         |
+|            0 |          1 |            6 | Hetero        | 7kp7         |
+|            0 |          1 |            3 | Homo          | 7k7a         |
+|            0 |          1 |            5 | Hetero        | 7kpb         |
+|            0 |          1 |            2 | Homo          | 1ft4         |
 
 ## Combined Per-Residue Information
 

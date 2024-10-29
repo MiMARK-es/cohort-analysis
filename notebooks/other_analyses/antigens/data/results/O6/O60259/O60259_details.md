@@ -69,9 +69,9 @@ O60259-4 <span style='background-color: yellow;'>M</span><span style='background
 
 ## Biological Assemblies
 
-|   Unnamed: 0 | crystal_id   |   assembly |   n_uniprots | composition   |
-|-------------:|:-------------|-----------:|-------------:|:--------------|
-|            0 | 5ms3         |          1 |            1 | Homo          |
+|   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
+|-------------:|-----------:|-------------:|:--------------|:-------------|
+|            0 |          1 |            1 | Homo          | 5ms3         |
 
 ## Combined Per-Residue Information
 

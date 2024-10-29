@@ -100,8 +100,8 @@ Q16625-7 <span style='background-color: yellow;'>M</span><span style='background
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            1 | Homo          | 3g7c         |
 |            0 |          1 |            1 | Homo          | 1xaw         |
+|            0 |          1 |            1 | Homo          | 3g7c         |
 |            0 |          1 |            1 | Homo          | 1wpa         |
 
 ## Combined Per-Residue Information

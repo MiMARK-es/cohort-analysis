@@ -25,7 +25,7 @@
 - **(transcriptomics) Fold Change**: 1.13
 - **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 46
-- **Max n_uniprots (Homo)**: 11
+- **Max n_uniprots (Homo)**: 10
 - **Max n_uniprots (Hetero)**: 4
 
 
@@ -54,20 +54,20 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            5 | Homo          | 3tjk         |
-|            0 |          1 |            5 | Homo          | 3tjb         |
-|            0 |          1 |           10 | Homo          | 2pn8         |
-|            0 |          1 |            5 | Homo          | 3tkp         |
-|            0 |          1 |            5 | Homo          | 3tjj         |
-|            0 |          1 |            5 | Homo          | 3tkq         |
-|            0 |          1 |           10 | Homo          | 3tkr         |
-|            0 |          1 |            5 | Homo          | 3tks         |
-|            0 |          1 |            4 | Hetero        | 5hqp         |
-|            0 |          1 |           10 | Homo          | 8ekw         |
 |            0 |          1 |            5 | Homo          | 3tjg         |
+|            0 |          1 |            5 | Homo          | 3tjb         |
+|            0 |          1 |           10 | Homo          | 8eky         |
+|            0 |          1 |            5 | Homo          | 3tjj         |
+|            0 |          1 |            5 | Homo          | 3tjk         |
 |            0 |          1 |            5 | Homo          | 3tjf         |
-|            0 |          1 |           11 | Homo          | 8eky         |
+|            0 |          1 |            5 | Homo          | 3tks         |
 |            0 |          1 |            5 | Homo          | 4rqx         |
+|            0 |          1 |           10 | Homo          | 2pn8         |
+|            0 |          1 |            5 | Homo          | 3tkq         |
+|            0 |          1 |           10 | Homo          | 8ekw         |
+|            0 |          1 |           10 | Homo          | 3tkr         |
+|            0 |          1 |            5 | Homo          | 3tkp         |
+|            0 |          1 |            4 | Hetero        | 5hqp         |
 
 ## Combined Per-Residue Information
 

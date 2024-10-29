@@ -107,21 +107,21 @@ O43683-3 <span style='background-color: yellow;'>-</span><span style='background
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            1 | Homo          | 4r8q         |
+|            0 |          1 |            4 | Hetero        | 7b1j         |
 |            0 |          1 |            1 | Homo          | 4qpm         |
 |            1 |          2 |            1 | Homo          | 4qpm         |
 |            0 |          1 |            1 | Homo          | 5dmz         |
 |            1 |          2 |            1 | Homo          | 5dmz         |
-|            0 |          1 |            1 | Homo          | 6f7b         |
+|            0 |          1 |            4 | Hetero        | 7b1f         |
 |            0 |          1 |            4 | Hetero        | 7b1h         |
 |            1 |          2 |            4 | Hetero        | 7b1h         |
-|            0 |          1 |            1 | Homo          | 2lah         |
-|            0 |          1 |            4 | Hetero        | 7b1f         |
+|            0 |          1 |            1 | Homo          | 4r8q         |
 |            0 |          1 |            2 | Hetero        | 4a1g         |
 |            1 |          2 |            2 | Hetero        | 4a1g         |
 |            2 |          3 |            2 | Hetero        | 4a1g         |
 |            3 |          4 |            2 | Hetero        | 4a1g         |
-|            0 |          1 |            4 | Hetero        | 7b1j         |
+|            0 |          1 |            1 | Homo          | 6f7b         |
+|            0 |          1 |            1 | Homo          | 2lah         |
 
 ## Combined Per-Residue Information
 

@@ -21,13 +21,17 @@
 - **Biomarker Application**: diagnosis,disease progression,prognosis,unspecified application
 - **Number of Isoforms**: 4
 - **Regulation**: 1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
+- **(transcriptomics) AUC**: 0.27
+- **(transcriptomics) Fold Change**: 1.06
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 55
 - **Max n_uniprots (Homo)**: 4
 - **Max n_uniprots (Hetero)**: N/A
 
+
+## Expression Comparison
+
+![Expression Comparison](./P04179_expression_comparison.png)
 
 ## Isoform Alignment
 
@@ -69,48 +73,48 @@ P04179-4 <span style='background-color: yellow;'>-</span><span style='background
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
+|            0 |          1 |            2 | Homo          | 2qkc         |
 |            0 |          1 |            2 | Homo          | 1pm9         |
-|            0 |          1 |            2 | Homo          | 7kku         |
-|            0 |          1 |            2 | Homo          | 1em1         |
-|            0 |          1 |            2 | Homo          | 1msd         |
-|            0 |          1 |            4 | Homo          | 1pl4         |
-|            0 |          1 |            1 | Homo          | 2adq         |
-|            0 |          1 |            2 | Homo          | 5t30         |
-|            0 |          1 |            1 | Homo          | 2adp         |
-|            0 |          1 |            2 | Homo          | 7kks         |
-|            0 |          1 |            2 | Homo          | 1luw         |
-|            0 |          1 |            2 | Homo          | 1var         |
-|            0 |          1 |            4 | Homo          | 2p4k         |
-|            0 |          1 |            2 | Homo          | 1n0n         |
 |            0 |          1 |            2 | Homo          | 1szx         |
-|            0 |          1 |            4 | Homo          | 8sks         |
-|            0 |          1 |            2 | Homo          | 1n0j         |
+|            0 |          1 |            2 | Homo          | 1em1         |
 |            0 |          1 |            2 | Homo          | 3c3t         |
 |            1 |          2 |            2 | Homo          | 3c3t         |
 |            2 |          3 |            1 | Homo          | 3c3t         |
 |            3 |          4 |            1 | Homo          | 3c3t         |
+|            0 |          1 |            2 | Homo          | 7kku         |
+|            0 |          1 |            2 | Homo          | 7kks         |
+|            0 |          1 |            2 | Homo          | 5gxo         |
+|            1 |          2 |            2 | Homo          | 5gxo         |
+|            0 |          1 |            2 | Homo          | 1xdc         |
+|            0 |          1 |            2 | Homo          | 1xil         |
+|            0 |          1 |            2 | Homo          | 1luw         |
+|            0 |          1 |            4 | Homo          | 2p4k         |
+|            0 |          1 |            1 | Homo          | 2adq         |
+|            0 |          1 |            2 | Homo          | 1luv         |
+|            0 |          1 |            2 | Homo          | 1zsp         |
+|            0 |          1 |            2 | Homo          | 1ap6         |
+|            0 |          1 |            4 | Homo          | 1pl4         |
+|            0 |          1 |            2 | Homo          | 1qnm         |
+|            0 |          1 |            4 | Homo          | 2gds         |
+|            0 |          1 |            2 | Homo          | 1n0j         |
+|            0 |          1 |            2 | Homo          | 1msd         |
+|            0 |          1 |            2 | Homo          | 5t30         |
+|            0 |          1 |            2 | Homo          | 1ja8         |
+|            0 |          1 |            4 | Homo          | 1zte         |
+|            0 |          1 |            4 | Homo          | 8sks         |
+|            0 |          1 |            2 | Homo          | 1ap5         |
+|            0 |          1 |            2 | Homo          | 5vf9         |
+|            0 |          1 |            2 | Homo          | 2qka         |
+|            0 |          1 |            2 | Homo          | 1var         |
+|            0 |          1 |            2 | Homo          | 7klb         |
 |            0 |          1 |            2 | Homo          | 3c3s         |
 |            1 |          2 |            2 | Homo          | 3c3s         |
 |            2 |          3 |            1 | Homo          | 3c3s         |
 |            3 |          4 |            1 | Homo          | 3c3s         |
-|            0 |          1 |            2 | Homo          | 1luv         |
-|            0 |          1 |            2 | Homo          | 2qkc         |
 |            0 |          1 |            2 | Homo          | 7kkw         |
-|            0 |          1 |            2 | Homo          | 1ja8         |
-|            0 |          1 |            2 | Homo          | 5vf9         |
-|            0 |          1 |            2 | Homo          | 1ap6         |
-|            0 |          1 |            2 | Homo          | 2qka         |
-|            0 |          1 |            2 | Homo          | 7klb         |
-|            0 |          1 |            2 | Homo          | 1ap5         |
-|            0 |          1 |            2 | Homo          | 1xil         |
-|            0 |          1 |            4 | Homo          | 1zte         |
-|            0 |          1 |            2 | Homo          | 1xdc         |
-|            0 |          1 |            2 | Homo          | 1qnm         |
+|            0 |          1 |            2 | Homo          | 1n0n         |
 |            0 |          1 |            2 | Homo          | 1zuq         |
-|            0 |          1 |            4 | Homo          | 2gds         |
-|            0 |          1 |            2 | Homo          | 5gxo         |
-|            1 |          2 |            2 | Homo          | 5gxo         |
-|            0 |          1 |            2 | Homo          | 1zsp         |
+|            0 |          1 |            1 | Homo          | 2adp         |
 
 ## Combined Per-Residue Information
 

@@ -21,13 +21,17 @@
 - **Biomarker Application**:  
 - **Number of Isoforms**: 4
 - **Regulation**: 2
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 0.99
+- **(transcriptomics) Fold Change**: 1.11
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 99
 - **Max n_uniprots (Homo)**: N/A
-- **Max n_uniprots (Hetero)**: 11
+- **Max n_uniprots (Hetero)**: 10
 
+
+## Expression Comparison
+
+![Expression Comparison](./Q99832_expression_comparison.png)
 
 ## Isoform Alignment
 
@@ -107,55 +111,55 @@ Q99832-4 <span style='background-color: yellow;'>-</span><span style='background
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            9 | Hetero        | 7ttt         |
-|            0 |          1 |           11 | Hetero        | 8shd         |
-|            0 |          1 |           11 | Hetero        | 8sh9         |
-|            0 |          1 |           11 | Hetero        | 7x0s         |
-|            0 |          1 |           11 | Hetero        | 7x0v         |
-|            0 |          1 |           11 | Hetero        | 6nr8         |
-|            0 |          1 |           11 | Hetero        | 8sht         |
-|            0 |          1 |           11 | Hetero        | 8shq         |
+|            0 |          1 |            9 | Hetero        | 7nvo         |
+|            0 |          1 |           10 | Hetero        | 7wu7         |
+|            0 |          1 |           10 | Hetero        | 6nrc         |
+|            0 |          1 |           10 | Hetero        | 7x3j         |
+|            0 |          1 |           10 | Hetero        | 8shp         |
+|            0 |          1 |           10 | Hetero        | 7wz3         |
+|            0 |          1 |           10 | Hetero        | 6nrd         |
+|            0 |          1 |            9 | Hetero        | 7nvl         |
+|            0 |          1 |           10 | Hetero        | 7lup         |
+|            0 |          1 |           10 | Hetero        | 8she         |
+|            0 |          1 |           10 | Hetero        | 8sff         |
+|            0 |          1 |           10 | Hetero        | 6qb8         |
+|            0 |          1 |           10 | Hetero        | 6nrb         |
 |            0 |          1 |            9 | Hetero        | 7tub         |
-|            0 |          1 |            9 | Hetero        | 7trg         |
-|            0 |          1 |           11 | Hetero        | 7wu7         |
-|            0 |          1 |           11 | Hetero        | 8shp         |
-|            0 |          1 |           11 | Hetero        | 7lup         |
-|            0 |          1 |           11 | Hetero        | 8ib8         |
-|            0 |          1 |           11 | Hetero        | 8sha         |
-|            0 |          1 |           11 | Hetero        | 6nr9         |
-|            0 |          1 |           11 | Hetero        | 6nrc         |
-|            0 |          1 |           11 | Hetero        | 6nrd         |
-|            0 |          1 |           11 | Hetero        | 7nvl         |
 |            0 |          1 |            9 | Hetero        | 7ttn         |
-|            0 |          1 |           11 | Hetero        | 7wz3         |
-|            0 |          1 |           11 | Hetero        | 8shl         |
-|            0 |          1 |           11 | Hetero        | 8sgl         |
-|            0 |          1 |           11 | Hetero        | 8sgq         |
-|            0 |          1 |           11 | Hetero        | 7x0a         |
-|            0 |          1 |           11 | Hetero        | 8shg         |
-|            0 |          1 |           11 | Hetero        | 8hki         |
-|            0 |          1 |           11 | Hetero        | 8she         |
-|            0 |          1 |           11 | Hetero        | 7x3u         |
-|            0 |          1 |           11 | Hetero        | 7lum         |
-|            0 |          1 |           11 | Hetero        | 6nrb         |
-|            0 |          1 |           11 | Hetero        | 6qb8         |
-|            0 |          1 |           11 | Hetero        | 8i1u         |
-|            0 |          1 |           11 | Hetero        | 8sff         |
-|            0 |          1 |           11 | Hetero        | 8sgc         |
-|            0 |          1 |           11 | Hetero        | 7x7y         |
-|            0 |          1 |           11 | Hetero        | 7nvn         |
-|            0 |          1 |           11 | Hetero        | 8sfe         |
-|            0 |          1 |           11 | Hetero        | 8shn         |
-|            0 |          1 |           11 | Hetero        | 7x3j         |
-|            0 |          1 |           11 | Hetero        | 7nvo         |
-|            0 |          1 |           11 | Hetero        | 8sg9         |
-|            0 |          1 |           11 | Hetero        | 6nra         |
-|            0 |          1 |           11 | Hetero        | 8sg8         |
-|            0 |          1 |           11 | Hetero        | 8sho         |
-|            0 |          1 |           11 | Hetero        | 8i9u         |
-|            0 |          1 |           11 | Hetero        | 7x6q         |
-|            0 |          1 |           11 | Hetero        | 8shf         |
-|            0 |          1 |           11 | Hetero        | 7nvm         |
+|            0 |          1 |           10 | Hetero        | 6nra         |
+|            0 |          1 |           10 | Hetero        | 8sgq         |
+|            0 |          1 |           10 | Hetero        | 7x0v         |
+|            0 |          1 |           10 | Hetero        | 8sho         |
+|            0 |          1 |           10 | Hetero        | 8shg         |
+|            0 |          1 |           10 | Hetero        | 7x3u         |
+|            0 |          1 |           10 | Hetero        | 8shl         |
+|            0 |          1 |            9 | Hetero        | 7nvn         |
+|            0 |          1 |            9 | Hetero        | 7trg         |
+|            0 |          1 |           10 | Hetero        | 8sgl         |
+|            0 |          1 |           10 | Hetero        | 7x7y         |
+|            0 |          1 |           10 | Hetero        | 6nr9         |
+|            0 |          1 |           10 | Hetero        | 8sht         |
+|            0 |          1 |           10 | Hetero        | 7lum         |
+|            0 |          1 |           10 | Hetero        | 6nr8         |
+|            0 |          1 |           10 | Hetero        | 8sha         |
+|            0 |          1 |           10 | Hetero        | 8shn         |
+|            0 |          1 |            9 | Hetero        | 7ttt         |
+|            0 |          1 |           10 | Hetero        | 8shd         |
+|            0 |          1 |           10 | Hetero        | 8hki         |
+|            0 |          1 |           10 | Hetero        | 8sfe         |
+|            0 |          1 |           10 | Hetero        | 7x0s         |
+|            0 |          1 |           10 | Hetero        | 7x0a         |
+|            0 |          1 |           10 | Hetero        | 8sg9         |
+|            0 |          1 |            9 | Hetero        | 7nvm         |
+|            0 |          1 |           10 | Hetero        | 8sh9         |
+|            0 |          1 |           10 | Hetero        | 8shf         |
+|            0 |          1 |           10 | Hetero        | 8sgc         |
+|            0 |          1 |           10 | Hetero        | 8i9u         |
+|            0 |          1 |           10 | Hetero        | 8ib8         |
+|            0 |          1 |           10 | Hetero        | 8i1u         |
+|            0 |          1 |           10 | Hetero        | 8shq         |
+|            0 |          1 |           10 | Hetero        | 7x6q         |
+|            0 |          1 |           10 | Hetero        | 8sg8         |
 
 ## Combined Per-Residue Information
 

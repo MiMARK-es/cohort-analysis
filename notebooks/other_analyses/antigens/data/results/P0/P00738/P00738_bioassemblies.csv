@@ -1,6 +1,6 @@
-,assembly,n_uniprots,composition,crystal_id
-0,1,4.0,Hetero,4x0l
-0,1,4.0,Hetero,5hu6
-0,1,11.0,Hetero,4wjg
-1,2,11.0,Hetero,4wjg
-2,3,11.0,Hetero,4wjg
+,crystal_id,assembly,n_uniprots,composition
+0,4x0l,1,3.0,Hetero
+0,4wjg,1,10.0,Hetero
+1,4wjg,2,10.0,Hetero
+2,4wjg,3,10.0,Hetero
+0,5hu6,1,4.0,Hetero

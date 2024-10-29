@@ -25,8 +25,8 @@
 - **(transcriptomics) Fold Change**: 1.15
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 85
-- **Max n_uniprots (Homo)**: 2
-- **Max n_uniprots (Hetero)**: 4
+- **Max n_uniprots (Homo)**: 1
+- **Max n_uniprots (Hetero)**: 3
 
 
 ## Expression Comparison
@@ -84,17 +84,17 @@ Q29983-2 <span>M</span><span>G</span><span>L</span><span>G</span><span>P</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
+|            0 |          1 |            3 | Hetero        | 7fi8         |
+|            0 |          1 |            0 | Hetero        | 1b3j         |
+|            0 |          1 |            3 | Hetero        | 7fi5         |
+|            0 |          1 |            3 | Hetero        | 7fi7         |
+|            0 |          1 |            1 | Homo          | 8tlz         |
+|            1 |          2 |            1 | Homo          | 8tlz         |
+|            0 |          1 |            2 | Hetero        | 8tm0         |
 |            0 |          1 |            3 | Hetero        | 7fi6         |
 |            0 |          1 |            3 | Hetero        | 1hyr         |
-|            0 |          1 |            2 | Hetero        | 1b3j         |
-|            0 |          1 |            3 | Hetero        | 7fi8         |
-|            0 |          1 |            2 | Homo          | 8tlz         |
-|            1 |          2 |            2 | Homo          | 8tlz         |
-|            0 |          1 |            3 | Hetero        | 8tm0         |
-|            0 |          1 |            4 | Hetero        | 8tm2         |
-|            0 |          1 |            3 | Hetero        | 7fi5         |
+|            0 |          1 |            2 | Hetero        | 8tm2         |
 |            0 |          1 |            3 | Hetero        | 7fi9         |
-|            0 |          1 |            3 | Hetero        | 7fi7         |
 
 ## Combined Per-Residue Information
 

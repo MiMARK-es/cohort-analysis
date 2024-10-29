@@ -25,7 +25,7 @@
 - **(transcriptomics) Fold Change**: 1.38
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 18
-- **Max n_uniprots (Homo)**: 2
+- **Max n_uniprots (Homo)**: 1
 - **Max n_uniprots (Hetero)**: 2
 
 
@@ -116,10 +116,10 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            2 | Homo          | 2mpm         |
+|            0 |          1 |            1 | Homo          | 2mpm         |
+|            0 |          1 |            2 | Hetero        | 7scs         |
 |            0 |          1 |            1 | Homo          | 1eot         |
 |            0 |          1 |            1 | Homo          | 2eot         |
-|            0 |          1 |            2 | Hetero        | 7scs         |
 
 ## Combined Per-Residue Information
 

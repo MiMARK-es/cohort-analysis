@@ -21,13 +21,17 @@
 - **Biomarker Application**: diagnosis,efficacy,prognosis,unspecified application
 - **Number of Isoforms**: 3
 - **Regulation**: -1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 0.79
+- **(transcriptomics) Fold Change**: 1.14
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 81
-- **Max n_uniprots (Homo)**: 3
-- **Max n_uniprots (Hetero)**: 5
+- **Max n_uniprots (Homo)**: 1
+- **Max n_uniprots (Hetero)**: 2
 
+
+## Expression Comparison
+
+![Expression Comparison](./O15123_expression_comparison.png)
 
 ## Isoform Alignment
 
@@ -89,14 +93,14 @@ O15123-3 <span>M</span><span>W</span><span>Q</span><span>I</span><span>V</span><
 |-------------:|-----------:|-------------:|:--------------|:-------------|
 |            0 |          1 |            1 | Homo          | 4jzc         |
 |            1 |          2 |            1 | Homo          | 4jzc         |
-|            0 |          1 |            3 | Homo          | 4zfg         |
+|            0 |          1 |            2 | Hetero        | 2gy7         |
+|            0 |          1 |            1 | Homo          | 1z3s         |
+|            1 |          2 |            1 | Homo          | 1z3s         |
 |            0 |          1 |            1 | Homo          | 1z3u         |
 |            1 |          2 |            1 | Homo          | 1z3u         |
 |            2 |          3 |            1 | Homo          | 1z3u         |
 |            3 |          4 |            1 | Homo          | 1z3u         |
-|            0 |          1 |            5 | Hetero        | 2gy7         |
-|            0 |          1 |            1 | Homo          | 1z3s         |
-|            1 |          2 |            1 | Homo          | 1z3s         |
+|            0 |          1 |            1 | Homo          | 4zfg         |
 
 ## Combined Per-Residue Information
 

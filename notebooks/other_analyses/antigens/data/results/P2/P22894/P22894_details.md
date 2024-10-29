@@ -21,13 +21,17 @@
 - **Biomarker Application**: efficacy
 - **Number of Isoforms**: 0
 - **Regulation**: -1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
+- **(transcriptomics) AUC**: 0.47
+- **(transcriptomics) Fold Change**: 1.10
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 99
-- **Max n_uniprots (Homo)**: 2
+- **Max n_uniprots (Homo)**: 1
 - **Max n_uniprots (Hetero)**: N/A
 
+
+## Expression Comparison
+
+![Expression Comparison](./P22894_expression_comparison.png)
 
 ## Interactors
 
@@ -66,36 +70,36 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            1 | Homo          | 1kbc         |
-|            1 |          2 |            1 | Homo          | 1kbc         |
-|            0 |          1 |            1 | Homo          | 1jh1         |
-|            0 |          1 |            2 | Homo          | 1jap         |
+|            0 |          1 |            1 | Homo          | 1i73         |
+|            0 |          1 |            1 | Homo          | 3dpe         |
 |            0 |          1 |            1 | Homo          | 1jaq         |
-|            0 |          1 |            1 | Homo          | 4qkz         |
-|            0 |          1 |            1 | Homo          | 2oy4         |
-|            1 |          2 |            1 | Homo          | 2oy4         |
-|            0 |          1 |            1 | Homo          | 1zs0         |
-|            0 |          1 |            2 | Homo          | 1i73         |
-|            0 |          1 |            1 | Homo          | 3tt4         |
+|            0 |          1 |            1 | Homo          | 1bzs         |
+|            0 |          1 |            1 | Homo          | 1jan         |
 |            0 |          1 |            1 | Homo          | 3dng         |
 |            1 |          2 |            1 | Homo          | 3dng         |
-|            0 |          1 |            1 | Homo          | 5h8x         |
-|            0 |          1 |            1 | Homo          | 1jao         |
-|            0 |          1 |            1 | Homo          | 1jj9         |
-|            0 |          1 |            1 | Homo          | 3dpe         |
-|            0 |          1 |            1 | Homo          | 1mnc         |
-|            0 |          1 |            1 | Homo          | 1mmb         |
 |            0 |          1 |            1 | Homo          | 1i76         |
+|            0 |          1 |            1 | Homo          | 1a85         |
+|            0 |          1 |            1 | Homo          | 1mnc         |
+|            0 |          1 |            1 | Homo          | 1jao         |
+|            0 |          1 |            1 | Homo          | 1jap         |
+|            0 |          1 |            1 | Homo          | 1a86         |
+|            0 |          1 |            1 | Homo          | 1kbc         |
+|            1 |          2 |            1 | Homo          | 1kbc         |
+|            0 |          1 |            1 | Homo          | 5h8x         |
+|            0 |          1 |            1 | Homo          | 1jj9         |
+|            0 |          1 |            1 | Homo          | 4qkz         |
+|            0 |          1 |            1 | Homo          | 3tt4         |
+|            0 |          1 |            1 | Homo          | 1zvx         |
+|            0 |          1 |            1 | Homo          | 1zp5         |
+|            0 |          1 |            1 | Homo          | 2oy4         |
+|            1 |          2 |            1 | Homo          | 2oy4         |
+|            0 |          1 |            1 | Homo          | 2oy2         |
+|            1 |          2 |            1 | Homo          | 2oy2         |
 |            0 |          1 |            1 | Homo          | 3dpf         |
 |            1 |          2 |            1 | Homo          | 3dpf         |
-|            0 |          1 |            2 | Homo          | 2oy2         |
-|            1 |          2 |            2 | Homo          | 2oy2         |
-|            0 |          1 |            1 | Homo          | 1a86         |
-|            0 |          1 |            1 | Homo          | 1bzs         |
-|            0 |          1 |            1 | Homo          | 1zp5         |
-|            0 |          1 |            1 | Homo          | 1zvx         |
-|            0 |          1 |            2 | Homo          | 1jan         |
-|            0 |          1 |            1 | Homo          | 1a85         |
+|            0 |          1 |            1 | Homo          | 1jh1         |
+|            0 |          1 |            1 | Homo          | 1zs0         |
+|            0 |          1 |            1 | Homo          | 1mmb         |
 
 ## Combined Per-Residue Information
 

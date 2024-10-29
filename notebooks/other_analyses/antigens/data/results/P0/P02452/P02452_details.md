@@ -21,13 +21,17 @@
 - **Biomarker Application**: diagnosis
 - **Number of Isoforms**: 0
 - **Regulation**: -1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 0.67
+- **(transcriptomics) Fold Change**: 1.04
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 199
-- **Max n_uniprots (Homo)**: 11.0
+- **Max n_uniprots (Homo)**: 3.0
 - **Max n_uniprots (Hetero)**: 3.0
 
+
+## Expression Comparison
+
+![Expression Comparison](./P02452_expression_comparison.png)
 
 ## Interactors
 
@@ -107,21 +111,21 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            2 | Homo          | 3ejh         |
-|            1 |          2 |            2 | Homo          | 3ejh         |
-|            0 |          1 |           11 | Homo          | 7e7b         |
-|            0 |          1 |            3 | Homo          | 2llp         |
-|            0 |          1 |            5 | Homo          | 5ou9         |
+|            0 |          1 |            2 | Homo          | 5ou8         |
+|            0 |          1 |            3 | Homo          | 1q7d         |
 |            0 |          1 |            3 | Hetero        | 5cvb         |
 |            1 |          2 |            3 | Hetero        | 5cvb         |
-|            0 |          1 |            3 | Hetero        | 5cti         |
-|            0 |          1 |            3 | Hetero        | 5cva         |
-|            1 |          2 |            3 | Hetero        | 5cva         |
-|            0 |          1 |           11 | Homo          | 7e7d         |
-|            0 |          1 |            3 | Homo          | 1q7d         |
-|            0 |          1 |            5 | Homo          | 5ou8         |
+|            0 |          1 |            1 | Homo          | 3ejh         |
+|            1 |          2 |            1 | Homo          | 3ejh         |
 |            0 |          1 |            2 | Hetero        | 3gxe         |
 |            1 |          2 |            2 | Hetero        | 3gxe         |
+|            0 |          1 |            3 | Homo          | 7e7d         |
+|            0 |          1 |            3 | Homo          | 2llp         |
+|            0 |          1 |            2 | Homo          | 5ou9         |
+|            0 |          1 |            3 | Hetero        | 5cva         |
+|            1 |          2 |            3 | Hetero        | 5cva         |
+|            0 |          1 |            3 | Homo          | 7e7b         |
+|            0 |          1 |            3 | Hetero        | 5cti         |
 
 ## Combined Per-Residue Information
 

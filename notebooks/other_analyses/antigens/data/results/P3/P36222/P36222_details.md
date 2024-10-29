@@ -21,13 +21,17 @@
 - **Biomarker Application**: diagnosis,efficacy,prognosis
 - **Number of Isoforms**: 0
 - **Regulation**: 1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 0.7
+- **(transcriptomics) Fold Change**: 1.19
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 79
-- **Max n_uniprots (Homo)**: 11.0
+- **Max n_uniprots (Homo)**: 4.0
 - **Max n_uniprots (Hetero)**: N/A
 
+
+## Expression Comparison
+
+![Expression Comparison](./P36222_expression_comparison.png)
 
 ## Interactors
 
@@ -48,39 +52,39 @@
 
 ## Biological Assemblies
 
-|   Unnamed: 0 | crystal_id   |   assembly |   n_uniprots | composition   |
-|-------------:|:-------------|-----------:|-------------:|:--------------|
-|            0 | 1hjv         |          1 |           11 | Homo          |
-|            0 | 7cj2         |          1 |            4 | Homo          |
-|            1 | 7cj2         |          2 |            4 | Homo          |
-|            0 | 8r42         |          1 |            4 | Homo          |
-|            0 | 1nwt         |          1 |            3 | Homo          |
-|            1 | 1nwt         |          2 |            3 | Homo          |
-|            2 | 1nwt         |          3 |            3 | Homo          |
-|            3 | 1nwt         |          4 |            3 | Homo          |
-|            0 | 8r41         |          1 |            2 | Homo          |
-|            1 | 8r41         |          2 |            2 | Homo          |
-|            0 | 1nws         |          1 |            3 | Homo          |
-|            1 | 1nws         |          2 |            3 | Homo          |
-|            2 | 1nws         |          3 |            3 | Homo          |
-|            3 | 1nws         |          4 |            3 | Homo          |
-|            0 | 1hjx         |          1 |            8 | Homo          |
-|            0 | 1nwu         |          1 |            3 | Homo          |
-|            1 | 1nwu         |          2 |            3 | Homo          |
-|            2 | 1nwu         |          3 |            3 | Homo          |
-|            3 | 1nwu         |          4 |            3 | Homo          |
-|            0 | 1hjw         |          1 |            3 | Homo          |
-|            1 | 1hjw         |          2 |            2 | Homo          |
-|            0 | 8df1         |          1 |            4 | Homo          |
-|            1 | 8df1         |          2 |            4 | Homo          |
-|            2 | 8df1         |          3 |            4 | Homo          |
-|            3 | 8df1         |          4 |            4 | Homo          |
-|            4 | 8df1         |          5 |            4 | Homo          |
-|            5 | 8df1         |          6 |            4 | Homo          |
-|            0 | 8r4x         |          1 |            2 | Homo          |
-|            1 | 8r4x         |          2 |            2 | Homo          |
-|            2 | 8r4x         |          3 |            2 | Homo          |
-|            3 | 8r4x         |          4 |            2 | Homo          |
+|   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
+|-------------:|-----------:|-------------:|:--------------|:-------------|
+|            0 |          1 |            1 | Homo          | 7cj2         |
+|            1 |          2 |            1 | Homo          | 7cj2         |
+|            0 |          1 |            1 | Homo          | 1nwu         |
+|            1 |          2 |            1 | Homo          | 1nwu         |
+|            2 |          3 |            1 | Homo          | 1nwu         |
+|            3 |          4 |            1 | Homo          | 1nwu         |
+|            0 |          1 |            1 | Homo          | 8df1         |
+|            1 |          2 |            1 | Homo          | 8df1         |
+|            2 |          3 |            1 | Homo          | 8df1         |
+|            3 |          4 |            1 | Homo          | 8df1         |
+|            4 |          5 |            1 | Homo          | 8df1         |
+|            5 |          6 |            1 | Homo          | 8df1         |
+|            0 |          1 |            1 | Homo          | 1nws         |
+|            1 |          2 |            1 | Homo          | 1nws         |
+|            2 |          3 |            1 | Homo          | 1nws         |
+|            3 |          4 |            1 | Homo          | 1nws         |
+|            0 |          1 |            1 | Homo          | 8r4x         |
+|            1 |          2 |            1 | Homo          | 8r4x         |
+|            2 |          3 |            1 | Homo          | 8r4x         |
+|            3 |          4 |            1 | Homo          | 8r4x         |
+|            0 |          1 |            4 | Homo          | 1hjv         |
+|            0 |          1 |            1 | Homo          | 1nwt         |
+|            1 |          2 |            1 | Homo          | 1nwt         |
+|            2 |          3 |            1 | Homo          | 1nwt         |
+|            3 |          4 |            1 | Homo          | 1nwt         |
+|            0 |          1 |            4 | Homo          | 1hjx         |
+|            0 |          1 |            1 | Homo          | 8r41         |
+|            1 |          2 |            1 | Homo          | 8r41         |
+|            0 |          1 |            1 | Homo          | 1hjw         |
+|            1 |          2 |            1 | Homo          | 1hjw         |
+|            0 |          1 |            2 | Homo          | 8r42         |
 
 ## Combined Per-Residue Information
 

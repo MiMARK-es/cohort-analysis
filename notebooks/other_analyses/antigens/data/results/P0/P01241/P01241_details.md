@@ -21,13 +21,17 @@
 - **Biomarker Application**: efficacy
 - **Number of Isoforms**: 5
 - **Regulation**: 1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
+- **(transcriptomics) AUC**: 0.1
+- **(transcriptomics) Fold Change**: 3.77
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 48
-- **Max n_uniprots (Homo)**: 3
+- **Max n_uniprots (Homo)**: 2
 - **Max n_uniprots (Hetero)**: 3
 
+
+## Expression Comparison
+
+![Expression Comparison](./P01241_expression_comparison.png)
 
 ## Isoform Alignment
 
@@ -76,17 +80,17 @@ P01241-5 <span>M</span><span>A</span><span>T</span><span>G</span><span>S</span><
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
 |            0 |          1 |            3 | Hetero        | 3hhr         |
-|            0 |          1 |            1 | Homo          | 1hgu         |
-|            0 |          1 |            2 | Hetero        | 1axi         |
-|            0 |          1 |            3 | Hetero        | 6qio         |
 |            0 |          1 |            2 | Hetero        | 1hwh         |
+|            0 |          1 |            2 | Hetero        | 1axi         |
+|            0 |          1 |            2 | Hetero        | 1bp3         |
+|            0 |          1 |            1 | Homo          | 1huw         |
 |            0 |          1 |            3 | Hetero        | 1hwg         |
-|            0 |          1 |            3 | Homo          | 1kf9         |
-|            1 |          2 |            3 | Homo          | 1kf9         |
+|            0 |          1 |            3 | Hetero        | 6qio         |
 |            0 |          1 |            2 | Hetero        | 1a22         |
 |            1 |          2 |            2 | Hetero        | 1a22         |
-|            0 |          1 |            1 | Homo          | 1huw         |
-|            0 |          1 |            2 | Hetero        | 1bp3         |
+|            0 |          1 |            1 | Homo          | 1hgu         |
+|            0 |          1 |            2 | Homo          | 1kf9         |
+|            1 |          2 |            2 | Homo          | 1kf9         |
 
 ## Combined Per-Residue Information
 

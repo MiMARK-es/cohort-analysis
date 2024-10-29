@@ -21,9 +21,9 @@
 - **Biomarker Application**: diagnosis,efficacy,prognosis
 - **Number of Isoforms**: 0
 - **Regulation**: 1
-- **(transcriptomics) AUC**: 0.04
-- **(transcriptomics) Fold Change**: 1.27
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 0.92
+- **(transcriptomics) Fold Change**: 1.12
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: N/A
 - **Max n_uniprots (Homo)**: 4.0
 - **Max n_uniprots (Hetero)**: 2.0
@@ -71,36 +71,36 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            1 | Homo          | 2px6         |
-|            1 |          2 |            1 | Homo          | 2px6         |
 |            0 |          1 |            1 | Homo          | 2jfd         |
 |            1 |          2 |            1 | Homo          | 2jfd         |
 |            2 |          3 |            1 | Homo          | 2jfd         |
 |            3 |          4 |            1 | Homo          | 2jfd         |
-|            0 |          1 |            2 | Hetero        | 2cg5         |
-|            0 |          1 |            1 | Homo          | 8g7x         |
-|            1 |          2 |            1 | Homo          | 8g7x         |
-|            0 |          1 |            1 | Homo          | 1xkt         |
-|            1 |          2 |            1 | Homo          | 1xkt         |
-|            0 |          1 |            1 | Homo          | 4piv         |
-|            1 |          2 |            1 | Homo          | 4piv         |
 |            0 |          1 |            2 | Homo          | 4w82         |
-|            0 |          1 |            1 | Homo          | 5c37         |
-|            1 |          2 |            1 | Homo          | 5c37         |
-|            0 |          1 |            1 | Homo          | 6nna         |
-|            1 |          2 |            1 | Homo          | 6nna         |
-|            0 |          1 |            1 | Homo          | 3tjm         |
-|            0 |          1 |            2 | Homo          | 8eyk         |
-|            0 |          1 |            1 | Homo          | 4z49         |
-|            1 |          2 |            1 | Homo          | 4z49         |
 |            0 |          1 |            2 | Homo          | 3hhd         |
 |            1 |          2 |            2 | Homo          | 3hhd         |
+|            0 |          1 |            1 | Homo          | 4piv         |
+|            1 |          2 |            1 | Homo          | 4piv         |
+|            0 |          1 |            2 | Homo          | 8gkc         |
+|            0 |          1 |            2 | Hetero        | 2cg5         |
+|            0 |          1 |            2 | Homo          | 8eyi         |
+|            0 |          1 |            1 | Homo          | 2px6         |
+|            1 |          2 |            1 | Homo          | 2px6         |
+|            0 |          1 |            1 | Homo          | 6nna         |
+|            1 |          2 |            1 | Homo          | 6nna         |
+|            0 |          1 |            1 | Homo          | 4z49         |
+|            1 |          2 |            1 | Homo          | 4z49         |
+|            0 |          1 |            1 | Homo          | 7mhd         |
+|            0 |          1 |            2 | Homo          | 8eyk         |
+|            0 |          1 |            1 | Homo          | 8g7x         |
+|            1 |          2 |            1 | Homo          | 8g7x         |
 |            0 |          1 |            2 | Homo          | 4w9n         |
 |            1 |          2 |            2 | Homo          | 4w9n         |
 |            2 |          3 |            4 | Homo          | 4w9n         |
-|            0 |          1 |            2 | Homo          | 8gkc         |
-|            0 |          1 |            2 | Homo          | 8eyi         |
-|            0 |          1 |            1 | Homo          | 7mhd         |
+|            0 |          1 |            1 | Homo          | 1xkt         |
+|            1 |          2 |            1 | Homo          | 1xkt         |
+|            0 |          1 |            1 | Homo          | 5c37         |
+|            1 |          2 |            1 | Homo          | 5c37         |
+|            0 |          1 |            1 | Homo          | 3tjm         |
 
 ## Combined Per-Residue Information
 

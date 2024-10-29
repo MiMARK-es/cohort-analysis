@@ -25,7 +25,7 @@
 - **(transcriptomics) Fold Change**: 1.23
 - **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 259
-- **Max n_uniprots (Homo)**: 2
+- **Max n_uniprots (Homo)**: 1
 - **Max n_uniprots (Hetero)**: N/A
 
 
@@ -109,8 +109,8 @@ P32004-3 <span>M</span><span>V</span><span>V</span><span>A</span><span>L</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
+|            0 |          1 |            1 | Homo          | 8afo         |
 |            0 |          1 |            1 | Homo          | 8afp         |
-|            0 |          1 |            2 | Homo          | 8afo         |
 
 ## Combined Per-Residue Information
 

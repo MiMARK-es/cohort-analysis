@@ -21,13 +21,17 @@
 - **Biomarker Application**: diagnosis,disease progression,efficacy,prognosis,response to therapy,safety,unspecified application
 - **Number of Isoforms**: 0
 - **Regulation**: 1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 0.59
+- **(transcriptomics) Fold Change**: 1.13
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 46
-- **Max n_uniprots (Homo)**: 4.0
-- **Max n_uniprots (Hetero)**: 11.0
+- **Max n_uniprots (Homo)**: 2.0
+- **Max n_uniprots (Hetero)**: 6.0
 
+
+## Expression Comparison
+
+![Expression Comparison](./P05231_expression_comparison.png)
 
 ## Interactors
 
@@ -93,24 +97,24 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |           11 | Hetero        | 8d82         |
-|            0 |          1 |           11 | Hetero        | 8qy5         |
-|            0 |          1 |            1 | Homo          | 2il6         |
-|            0 |          1 |            1 | Homo          | 1il6         |
-|            0 |          1 |            2 | Homo          | 4ni7         |
-|            0 |          1 |            3 | Homo          | 4cni         |
-|            1 |          2 |            3 | Homo          | 4cni         |
-|            0 |          1 |            4 | Homo          | 4ni9         |
-|            0 |          1 |            3 | Homo          | 4zs7         |
-|            0 |          1 |            3 | Hetero        | 1p9m         |
-|            0 |          1 |            3 | Hetero        | 5fuc         |
-|            1 |          2 |            3 | Hetero        | 5fuc         |
-|            0 |          1 |           11 | Hetero        | 8qy6         |
+|            0 |          1 |            2 | Hetero        | 5fuc         |
+|            1 |          2 |            2 | Hetero        | 5fuc         |
 |            0 |          1 |            1 | Homo          | 1alu         |
 |            1 |          2 |            1 | Homo          | 1alu         |
-|            0 |          1 |            3 | Homo          | 4o9h         |
+|            0 |          1 |            6 | Hetero        | 8qy6         |
+|            0 |          1 |            1 | Homo          | 4ni7         |
+|            0 |          1 |            1 | Homo          | 2il6         |
+|            0 |          1 |            1 | Homo          | 4o9h         |
+|            0 |          1 |            1 | Homo          | 4zs7         |
+|            0 |          1 |            3 | Hetero        | 1p9m         |
+|            0 |          1 |            6 | Hetero        | 8d82         |
 |            0 |          1 |            2 | Hetero        | 4j4l         |
 |            1 |          2 |            2 | Hetero        | 4j4l         |
+|            0 |          1 |            1 | Homo          | 4cni         |
+|            1 |          2 |            1 | Homo          | 4cni         |
+|            0 |          1 |            2 | Homo          | 4ni9         |
+|            0 |          1 |            6 | Hetero        | 8qy5         |
+|            0 |          1 |            1 | Homo          | 1il6         |
 
 ## Combined Per-Residue Information
 

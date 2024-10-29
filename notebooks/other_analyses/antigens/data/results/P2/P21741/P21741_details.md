@@ -61,8 +61,8 @@ P21741-2 <span>M</span><span>Q</span><span>H</span><span>R</span><span>G</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            1 | Homo          | 1mkn         |
 |            0 |          1 |            1 | Homo          | 1mkc         |
+|            0 |          1 |            1 | Homo          | 1mkn         |
 
 ## Combined Per-Residue Information
 

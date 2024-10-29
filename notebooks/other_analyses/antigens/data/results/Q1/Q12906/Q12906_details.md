@@ -21,13 +21,17 @@
 - **Biomarker Application**:  
 - **Number of Isoforms**: 7
 - **Regulation**: 1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 0.79
+- **(transcriptomics) Fold Change**: 1.04
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 211
 - **Max n_uniprots (Homo)**: 2
 - **Max n_uniprots (Hetero)**: 2
 
+
+## Expression Comparison
+
+![Expression Comparison](./Q12906_expression_comparison.png)
 
 ## Isoform Alignment
 
@@ -90,13 +94,13 @@ Q12906-7 <span>M</span><span>R</span><span>P</span><span>M</span><span>R</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
+|            0 |          1 |            2 | Hetero        | 7rjq         |
 |            0 |          1 |            1 | Homo          | 3p1x         |
 |            1 |          2 |            1 | Homo          | 3p1x         |
 |            2 |          3 |            2 | Homo          | 3p1x         |
-|            0 |          1 |            1 | Homo          | 2l33         |
 |            0 |          1 |            2 | Hetero        | 7rjm         |
 |            1 |          2 |            1 | Homo          | 7rjm         |
-|            0 |          1 |            2 | Hetero        | 7rjq         |
+|            0 |          1 |            1 | Homo          | 2l33         |
 
 ## Combined Per-Residue Information
 

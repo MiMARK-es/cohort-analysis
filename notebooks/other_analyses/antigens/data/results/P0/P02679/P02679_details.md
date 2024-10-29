@@ -21,13 +21,17 @@
 - **Biomarker Application**: nan
 - **Number of Isoforms**: 2
 - **Regulation**: -1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
+- **(transcriptomics) AUC**: 0.3
+- **(transcriptomics) Fold Change**: 1.62
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 92
 - **Max n_uniprots (Homo)**: 2.0
-- **Max n_uniprots (Hetero)**: 11.0
+- **Max n_uniprots (Hetero)**: 10.0
 
+
+## Expression Comparison
+
+![Expression Comparison](./P02679_expression_comparison.png)
 
 ## Isoform Alignment
 
@@ -91,79 +95,79 @@ P02679-2 <span>M</span><span>S</span><span>W</span><span>S</span><span>L</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            7 | Hetero        | 2vdo         |
-|            0 |          1 |            3 | Hetero        | 2xny         |
-|            1 |          2 |            3 | Hetero        | 2xny         |
-|            2 |          3 |            2 | Homo          | 2xny         |
-|            0 |          1 |            2 | Homo          | 1dug         |
-|            0 |          1 |            5 | Hetero        | 1re3         |
-|            1 |          2 |            5 | Hetero        | 1re3         |
-|            0 |          1 |            1 | Homo          | 1fib         |
-|            0 |          1 |           10 | Hetero        | 3h32         |
-|            0 |          1 |            4 | Hetero        | 3e1i         |
-|            1 |          2 |            4 | Hetero        | 3e1i         |
-|            0 |          1 |           10 | Hetero        | 2a45         |
-|            0 |          1 |            8 | Hetero        | 1fzb         |
-|            0 |          1 |           11 | Hetero        | 3ghg         |
-|            1 |          2 |           11 | Hetero        | 3ghg         |
-|            0 |          1 |            6 | Hetero        | 3hus         |
-|            1 |          2 |            6 | Hetero        | 3hus         |
-|            0 |          1 |            2 | Hetero        | 4b60         |
-|            1 |          2 |            2 | Hetero        | 4b60         |
-|            0 |          1 |            3 | Hetero        | 1lt9         |
-|            1 |          2 |            3 | Hetero        | 1lt9         |
-|            0 |          1 |            6 | Hetero        | 1rf1         |
-|            1 |          2 |            6 | Hetero        | 1rf1         |
-|            0 |          1 |            2 | Homo          | 1fic         |
-|            0 |          1 |           10 | Hetero        | 1n86         |
+|            0 |          1 |           10 | Hetero        | 2xnx         |
 |            0 |          1 |            2 | Hetero        | 2vr3         |
 |            1 |          2 |            2 | Hetero        | 2vr3         |
-|            0 |          1 |           11 | Hetero        | 1fzc         |
-|            0 |          1 |            7 | Hetero        | 2vdq         |
-|            0 |          1 |           10 | Hetero        | 1fzf         |
-|            0 |          1 |            6 | Hetero        | 2q9i         |
-|            1 |          2 |            6 | Hetero        | 2q9i         |
-|            0 |          1 |            7 | Hetero        | 2vdr         |
-|            0 |          1 |            2 | Homo          | 2fib         |
-|            0 |          1 |           11 | Hetero        | 2z4e         |
-|            1 |          2 |            6 | Hetero        | 2z4e         |
-|            2 |          3 |            5 | Hetero        | 2z4e         |
+|            0 |          1 |            3 | Hetero        | 2vdo         |
+|            0 |          1 |            3 | Hetero        | 2h43         |
+|            1 |          2 |            3 | Hetero        | 2h43         |
+|            0 |          1 |            3 | Hetero        | 1re3         |
+|            1 |          2 |            3 | Hetero        | 1re3         |
+|            0 |          1 |            1 | Homo          | 1fib         |
+|            0 |          1 |            3 | Hetero        | 2vdr         |
 |            0 |          1 |            6 | Hetero        | 1fze         |
 |            1 |          2 |            3 | Hetero        | 1fze         |
 |            2 |          3 |            3 | Hetero        | 1fze         |
-|            0 |          1 |            6 | Hetero        | 2oyh         |
-|            1 |          2 |            6 | Hetero        | 2oyh         |
-|            0 |          1 |            7 | Hetero        | 2vdp         |
-|            0 |          1 |            5 | Hetero        | 2h43         |
-|            1 |          2 |            5 | Hetero        | 2h43         |
-|            0 |          1 |            6 | Hetero        | 1n8e         |
-|            0 |          1 |            5 | Hetero        | 2hlo         |
-|            1 |          2 |            5 | Hetero        | 2hlo         |
-|            0 |          1 |            5 | Hetero        | 2hod         |
-|            1 |          2 |            5 | Hetero        | 2hod         |
-|            2 |          3 |            5 | Hetero        | 2hod         |
-|            3 |          4 |            5 | Hetero        | 2hod         |
-|            0 |          1 |            6 | Hetero        | 1ltj         |
-|            1 |          2 |            6 | Hetero        | 1ltj         |
+|            0 |          1 |            3 | Hetero        | 2oyi         |
+|            1 |          2 |            3 | Hetero        | 2oyi         |
+|            0 |          1 |            8 | Hetero        | 1n86         |
+|            0 |          1 |            2 | Hetero        | 4b60         |
+|            1 |          2 |            2 | Hetero        | 4b60         |
+|            0 |          1 |            6 | Hetero        | 1fzg         |
+|            0 |          1 |            1 | Homo          | 1fid         |
 |            0 |          1 |            3 | Hetero        | 1re4         |
 |            1 |          2 |            3 | Hetero        | 1re4         |
-|            0 |          1 |            6 | Hetero        | 2ffd         |
-|            1 |          2 |            6 | Hetero        | 2ffd         |
-|            0 |          1 |            6 | Hetero        | 1fza         |
-|            0 |          1 |           11 | Hetero        | 2xnx         |
-|            0 |          1 |           11 | Hetero        | 1fzg         |
-|            0 |          1 |            6 | Hetero        | 2oyi         |
-|            1 |          2 |            6 | Hetero        | 2oyi         |
-|            0 |          1 |            2 | Hetero        | 2y7l         |
+|            0 |          1 |            6 | Hetero        | 1fzc         |
+|            0 |          1 |            1 | Homo          | 2fib         |
+|            0 |          1 |            6 | Hetero        | 2z4e         |
+|            1 |          2 |            3 | Hetero        | 2z4e         |
+|            2 |          3 |            3 | Hetero        | 2z4e         |
+|            0 |          1 |            1 | Homo          | 3fib         |
+|            0 |          1 |            3 | Hetero        | 2ffd         |
+|            1 |          2 |            3 | Hetero        | 2ffd         |
+|            0 |          1 |            3 | Hetero        | 2vdp         |
+|            0 |          1 |            3 | Hetero        | 3e1i         |
+|            1 |          2 |            3 | Hetero        | 3e1i         |
+|            0 |          1 |            5 | Hetero        | 2hwl         |
 |            0 |          1 |            3 | Hetero        | 1rf0         |
 |            1 |          2 |            3 | Hetero        | 1rf0         |
-|            0 |          1 |            1 | Homo          | 3fib         |
-|            0 |          1 |            1 | Homo          | 1fid         |
-|            0 |          1 |            5 | Hetero        | 2hwl         |
-|            0 |          1 |            5 | Hetero        | 2hpc         |
-|            1 |          2 |            5 | Hetero        | 2hpc         |
-|            2 |          3 |            5 | Hetero        | 2hpc         |
-|            3 |          4 |            5 | Hetero        | 2hpc         |
+|            0 |          1 |            2 | Homo          | 1fic         |
+|            0 |          1 |            6 | Hetero        | 1fza         |
+|            0 |          1 |            6 | Hetero        | 1fzb         |
+|            0 |          1 |            3 | Hetero        | 1rf1         |
+|            1 |          2 |            3 | Hetero        | 1rf1         |
+|            0 |          1 |            3 | Hetero        | 2vdq         |
+|            0 |          1 |            2 | Hetero        | 2y7l         |
+|            0 |          1 |            3 | Hetero        | 3hus         |
+|            1 |          2 |            3 | Hetero        | 3hus         |
+|            0 |          1 |            3 | Hetero        | 1lt9         |
+|            1 |          2 |            3 | Hetero        | 1lt9         |
+|            0 |          1 |            3 | Hetero        | 2xny         |
+|            1 |          2 |            3 | Hetero        | 2xny         |
+|            2 |          3 |            2 | Homo          | 2xny         |
+|            0 |          1 |            3 | Hetero        | 2hod         |
+|            1 |          2 |            3 | Hetero        | 2hod         |
+|            2 |          3 |            3 | Hetero        | 2hod         |
+|            3 |          4 |            3 | Hetero        | 2hod         |
+|            0 |          1 |            2 | Homo          | 1dug         |
+|            0 |          1 |           10 | Hetero        | 1fzf         |
+|            0 |          1 |            3 | Hetero        | 2hpc         |
+|            1 |          2 |            3 | Hetero        | 2hpc         |
+|            2 |          3 |            3 | Hetero        | 2hpc         |
+|            3 |          4 |            3 | Hetero        | 2hpc         |
+|            0 |          1 |            3 | Hetero        | 2q9i         |
+|            1 |          2 |            3 | Hetero        | 2q9i         |
+|            0 |          1 |            3 | Hetero        | 2hlo         |
+|            1 |          2 |            3 | Hetero        | 2hlo         |
+|            0 |          1 |            8 | Hetero        | 3h32         |
+|            0 |          1 |            6 | Hetero        | 3ghg         |
+|            1 |          2 |            6 | Hetero        | 3ghg         |
+|            0 |          1 |           10 | Hetero        | 2a45         |
+|            0 |          1 |            3 | Hetero        | 2oyh         |
+|            1 |          2 |            3 | Hetero        | 2oyh         |
+|            0 |          1 |            3 | Hetero        | 1ltj         |
+|            1 |          2 |            3 | Hetero        | 1ltj         |
+|            0 |          1 |            6 | Hetero        | 1n8e         |
 
 ## Combined Per-Residue Information
 

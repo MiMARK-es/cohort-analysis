@@ -1,0 +1,31 @@
+,res,modification
+0,9,Phosphoserine; by HIPK4
+1,15,"Phosphoserine; by CDK5, PRPK, AMPK, NUAK1 and ATM"
+2,18,"Phosphothreonine; by CK1, VRK1 and VRK2"
+3,20,"Phosphoserine; by CHEK2, CK1 and PLK3"
+4,33,Phosphoserine; by CDK5 and CDK7
+5,37,Phosphoserine; by MAPKAPK5
+6,46,"Phosphoserine; by CDK5, DYRK2, HIPK2 and PKC/PRKCG"
+7,55,Phosphothreonine; by TAF1 and GRK5
+8,120,N6-acetyllysine
+9,120,N6-lactoyllysine
+10,139,N6-lactoyllysine
+11,183,Phosphoserine; by AURKB
+12,269,Phosphoserine; by AURKB
+13,284,Phosphothreonine; by AURKB
+14,305,N6-acetyllysine
+15,315,"Phosphoserine; by AURKA, CDK1 and CDK2"
+16,321,N6-acetyllysine
+17,333,Omega-N-methylarginine; by PRMT5
+18,335,Symmetric dimethylarginine; by PRMT5
+19,337,Symmetric dimethylarginine; by PRMT5
+20,370,"N6,N6-dimethyllysine; alternate"
+21,370,N6-methyllysine; by SMYD2; alternate
+22,372,N6-methyllysine; by SETD7
+23,373,"N6,N6-dimethyllysine; by EHMT1 and EHMT2; alternate"
+24,373,N6-acetyllysine; alternate
+25,381,N6-acetyllysine
+26,382,"N6,N6-dimethyllysine; alternate"
+27,382,N6-acetyllysine; alternate
+28,382,N6-methyllysine; by KMT5A; alternate
+29,392,"Phosphoserine; by CK2, CDK2 and NUAK1"

@@ -25,8 +25,8 @@
 - **(transcriptomics) Fold Change**: 1.11
 - **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 46
-- **Max n_uniprots (Homo)**: 11
-- **Max n_uniprots (Hetero)**: 11
+- **Max n_uniprots (Homo)**: 10
+- **Max n_uniprots (Hetero)**: 10
 
 
 ## Expression Comparison
@@ -57,17 +57,17 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            2 | Homo          | 8x73         |
-|            0 |          1 |            2 | Homo          | 7wet         |
-|            0 |          1 |            4 | Hetero        | 3hy2         |
-|            0 |          1 |            2 | Homo          | 8x71         |
-|            0 |          1 |           11 | Hetero        | 7lj1         |
-|            1 |          2 |           11 | Homo          | 7lj1         |
-|            0 |          1 |            4 | Hetero        | 2rii         |
 |            0 |          1 |            2 | Homo          | 7weu         |
+|            0 |          1 |            4 | Hetero        | 2rii         |
+|            0 |          1 |           10 | Hetero        | 7lj1         |
+|            1 |          2 |           10 | Homo          | 7lj1         |
+|            0 |          1 |            2 | Homo          | 8x71         |
+|            0 |          1 |            2 | Homo          | 8x73         |
 |            0 |          1 |            2 | Homo          | 4xcs         |
 |            1 |          2 |            2 | Homo          | 4xcs         |
 |            2 |          3 |            2 | Homo          | 4xcs         |
+|            0 |          1 |            4 | Hetero        | 3hy2         |
+|            0 |          1 |            2 | Homo          | 7wet         |
 
 ## Combined Per-Residue Information
 

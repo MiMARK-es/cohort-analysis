@@ -64,8 +64,8 @@ Q99623-2 <span>M</span><span>A</span><span>Q</span><span>N</span><span>L</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            1 | Homo          | 6iqe         |
 |            0 |          1 |            6 | Homo          | 8j4i         |
+|            0 |          1 |            1 | Homo          | 6iqe         |
 
 ## Combined Per-Residue Information
 

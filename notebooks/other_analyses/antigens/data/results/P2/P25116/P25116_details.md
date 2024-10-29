@@ -21,13 +21,17 @@
 - **Biomarker Application**: disease progression,prognosis
 - **Number of Isoforms**: 0
 - **Regulation**: 1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 0.82
+- **(transcriptomics) Fold Change**: 1.13
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 108
 - **Max n_uniprots (Homo)**: 1
 - **Max n_uniprots (Hetero)**: 3
 
+
+## Expression Comparison
+
+![Expression Comparison](./P25116_expression_comparison.png)
 
 ## Interactors
 
@@ -79,20 +83,20 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            3 | Hetero        | 1nrp         |
 |            0 |          1 |            3 | Hetero        | 3hki         |
 |            1 |          2 |            3 | Hetero        | 3hki         |
-|            0 |          1 |            3 | Hetero        | 1nrq         |
-|            0 |          1 |            3 | Hetero        | 3hkj         |
-|            1 |          2 |            3 | Hetero        | 3hkj         |
-|            0 |          1 |            3 | Hetero        | 1nro         |
 |            0 |          1 |            3 | Hetero        | 3bef         |
 |            1 |          2 |            3 | Hetero        | 3bef         |
+|            0 |          1 |            3 | Hetero        | 3hkj         |
+|            1 |          2 |            3 | Hetero        | 3hkj         |
+|            0 |          1 |            3 | Hetero        | 1nrp         |
+|            0 |          1 |            3 | Hetero        | 1nrq         |
+|            0 |          1 |            3 | Hetero        | 1nrr         |
+|            0 |          1 |            3 | Hetero        | 1nro         |
+|            0 |          1 |            1 | Homo          | 3vw7         |
+|            0 |          1 |            3 | Hetero        | 1nrn         |
 |            0 |          1 |            3 | Hetero        | 3lu9         |
 |            1 |          2 |            3 | Hetero        | 3lu9         |
-|            0 |          1 |            3 | Hetero        | 1nrn         |
-|            0 |          1 |            1 | Homo          | 3vw7         |
-|            0 |          1 |            3 | Hetero        | 1nrr         |
 
 ## Combined Per-Residue Information
 

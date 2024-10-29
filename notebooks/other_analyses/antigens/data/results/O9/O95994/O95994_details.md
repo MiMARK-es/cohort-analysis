@@ -50,8 +50,8 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            2 | Homo          | 2lns         |
 |            0 |          1 |            1 | Homo          | 2lnt         |
+|            0 |          1 |            2 | Homo          | 2lns         |
 
 ## Combined Per-Residue Information
 

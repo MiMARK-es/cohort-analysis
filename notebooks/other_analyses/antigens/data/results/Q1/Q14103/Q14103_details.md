@@ -21,13 +21,17 @@
 - **Biomarker Application**:  
 - **Number of Isoforms**: 4
 - **Regulation**: 1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 0.71
+- **(transcriptomics) Fold Change**: 1.02
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 49
 - **Max n_uniprots (Homo)**: 2
 - **Max n_uniprots (Hetero)**: N/A
 
+
+## Expression Comparison
+
+![Expression Comparison](./Q14103_expression_comparison.png)
 
 ## Isoform Alignment
 
@@ -118,14 +122,14 @@ Q14103-4 <span>M</span><span>S</span><span>E</span><span>E</span><span>Q</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            1 | Homo          | 1iqt         |
-|            0 |          1 |            2 | Homo          | 1wtb         |
-|            0 |          1 |            2 | Homo          | 1x0f         |
 |            0 |          1 |            1 | Homo          | 1hd1         |
+|            0 |          1 |            2 | Homo          | 5im0         |
+|            0 |          1 |            1 | Homo          | 1hd0         |
+|            0 |          1 |            1 | Homo          | 1x0f         |
 |            0 |          1 |            1 | Homo          | 2z5n         |
 |            1 |          2 |            1 | Homo          | 2z5n         |
-|            0 |          1 |            1 | Homo          | 1hd0         |
-|            0 |          1 |            2 | Homo          | 5im0         |
+|            0 |          1 |            1 | Homo          | 1wtb         |
+|            0 |          1 |            1 | Homo          | 1iqt         |
 
 ## Combined Per-Residue Information
 

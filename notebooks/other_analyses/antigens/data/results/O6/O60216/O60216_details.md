@@ -26,7 +26,7 @@
 - **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 98
 - **Max n_uniprots (Homo)**: N/A
-- **Max n_uniprots (Hetero)**: 8
+- **Max n_uniprots (Hetero)**: 6
 
 
 ## Expression Comparison
@@ -74,18 +74,18 @@
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
 |            0 |          1 |            3 | Hetero        | 6qnx         |
-|            0 |          1 |            7 | Hetero        | 6wg3         |
 |            0 |          1 |            2 | Hetero        | 4pk7         |
-|            0 |          1 |            8 | Hetero        | 7w1m         |
-|            0 |          1 |            6 | Hetero        | 6wge         |
-|            0 |          1 |            2 | Hetero        | 6rrc         |
-|            1 |          2 |            2 | Hetero        | 6rrc         |
-|            0 |          1 |            3 | Hetero        | 7zjs         |
-|            1 |          2 |            3 | Hetero        | 7zjs         |
 |            0 |          1 |            2 | Hetero        | 4pjw         |
+|            0 |          1 |            5 | Hetero        | 6wg3         |
+|            0 |          1 |            4 | Hetero        | 6wge         |
 |            0 |          1 |            2 | Hetero        | 6rrk         |
 |            1 |          2 |            2 | Hetero        | 6rrk         |
+|            0 |          1 |            6 | Hetero        | 7w1m         |
+|            0 |          1 |            3 | Hetero        | 7zjs         |
+|            1 |          2 |            3 | Hetero        | 7zjs         |
 |            0 |          1 |            2 | Hetero        | 4pju         |
+|            0 |          1 |            2 | Hetero        | 6rrc         |
+|            1 |          2 |            2 | Hetero        | 6rrc         |
 
 ## Combined Per-Residue Information
 

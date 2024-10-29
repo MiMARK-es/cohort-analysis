@@ -21,13 +21,17 @@
 - **Biomarker Application**: efficacy
 - **Number of Isoforms**: 0
 - **Regulation**: 2
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 0.9
+- **(transcriptomics) Fold Change**: 1.07
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 50
 - **Max n_uniprots (Homo)**: 1.0
-- **Max n_uniprots (Hetero)**: 11.0
+- **Max n_uniprots (Hetero)**: 10.0
 
+
+## Expression Comparison
+
+![Expression Comparison](./P05198_expression_comparison.png)
 
 ## Interactors
 
@@ -93,25 +97,25 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |           11 | Hetero        | 7f67         |
-|            0 |          1 |            1 | Homo          | 1q8k         |
-|            0 |          1 |            3 | Hetero        | 8qzz         |
-|            0 |          1 |           11 | Hetero        | 6o9z         |
-|            0 |          1 |           11 | Hetero        | 7d45         |
-|            0 |          1 |           11 | Hetero        | 7sys         |
-|            0 |          1 |           11 | Hetero        | 6o85         |
-|            0 |          1 |           11 | Hetero        | 6o81         |
-|            0 |          1 |           11 | Hetero        | 6k72         |
+|            0 |          1 |           10 | Hetero        | 6k71         |
+|            0 |          1 |           10 | Hetero        | 7d45         |
+|            0 |          1 |           10 | Hetero        | 7d44         |
+|            0 |          1 |            8 | Hetero        | 7sys         |
+|            0 |          1 |           10 | Hetero        | 7f67         |
+|            0 |          1 |           10 | Hetero        | 6o81         |
+|            0 |          1 |           10 | Hetero        | 6o85         |
+|            0 |          1 |           10 | Hetero        | 6k72         |
+|            0 |          1 |           10 | Hetero        | 7d43         |
 |            0 |          1 |            1 | Homo          | 1kl9         |
 |            1 |          2 |            1 | Homo          | 1kl9         |
 |            2 |          3 |            1 | Homo          | 1kl9         |
-|            0 |          1 |            5 | Hetero        | 6ybv         |
-|            0 |          1 |           11 | Hetero        | 6k71         |
-|            0 |          1 |           11 | Hetero        | 7d44         |
-|            0 |          1 |           11 | Hetero        | 7f66         |
-|            0 |          1 |            6 | Hetero        | 7nzm         |
-|            0 |          1 |           11 | Hetero        | 7d43         |
-|            0 |          1 |           11 | Hetero        | 7syr         |
+|            0 |          1 |            5 | Hetero        | 7nzm         |
+|            0 |          1 |            1 | Homo          | 1q8k         |
+|            0 |          1 |           10 | Hetero        | 6o9z         |
+|            0 |          1 |            3 | Hetero        | 8qzz         |
+|            0 |          1 |            8 | Hetero        | 7syr         |
+|            0 |          1 |            3 | Hetero        | 6ybv         |
+|            0 |          1 |           10 | Hetero        | 7f66         |
 
 ## Combined Per-Residue Information
 

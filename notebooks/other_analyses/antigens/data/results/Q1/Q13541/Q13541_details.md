@@ -21,13 +21,17 @@
 - **Biomarker Application**: efficacy,prognosis
 - **Number of Isoforms**: 0
 - **Regulation**: 1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 0.98
+- **(transcriptomics) Fold Change**: 1.29
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 20
-- **Max n_uniprots (Homo)**: 2.0
+- **Max n_uniprots (Homo)**: 1.0
 - **Max n_uniprots (Hetero)**: 4.0
 
+
+## Expression Comparison
+
+![Expression Comparison](./Q13541_expression_comparison.png)
 
 ## Interactors
 
@@ -62,37 +66,37 @@
 
 ## Biological Assemblies
 
-|   Unnamed: 0 | crystal_id   |   assembly |   n_uniprots | composition   |
-|-------------:|:-------------|-----------:|-------------:|:--------------|
-|            0 | 5wbj         |          1 |            2 | Hetero        |
-|            0 | 5bxv         |          1 |            2 | Hetero        |
-|            1 | 5bxv         |          2 |            2 | Hetero        |
-|            0 | 5ekv         |          1 |            2 | Hetero        |
-|            1 | 5ekv         |          2 |            2 | Hetero        |
-|            0 | 2v8x         |          1 |            2 | Hetero        |
-|            1 | 2v8x         |          2 |            2 | Hetero        |
-|            0 | 5nvn         |          1 |            2 | Hetero        |
-|            1 | 5nvn         |          2 |            2 | Hetero        |
-|            0 | 2v8w         |          1 |            2 | Hetero        |
-|            1 | 2v8w         |          2 |            2 | Hetero        |
-|            0 | 1ejh         |          1 |            2 | Homo          |
-|            1 | 1ejh         |          2 |            2 | Homo          |
-|            2 | 1ejh         |          3 |            2 | Homo          |
-|            3 | 1ejh         |          4 |            2 | Homo          |
-|            0 | 3hxg         |          1 |            2 | Homo          |
-|            0 | 3m94         |          1 |            2 | Hetero        |
-|            0 | 4ued         |          1 |            2 | Hetero        |
-|            0 | 2jgc         |          1 |            2 | Hetero        |
-|            0 | 1ej4         |          1 |            2 | Homo          |
-|            0 | 1wkw         |          1 |            2 | Hetero        |
-|            0 | 3u7x         |          1 |            2 | Hetero        |
-|            1 | 3u7x         |          2 |            2 | Hetero        |
-|            2 | 3u7x         |          3 |            4 | Hetero        |
-|            0 | 2v8y         |          1 |            2 | Hetero        |
-|            1 | 2v8y         |          2 |            2 | Hetero        |
-|            0 | 3hxi         |          1 |            2 | Homo          |
-|            0 | 3m93         |          1 |            2 | Hetero        |
-|            0 | 2jgb         |          1 |            2 | Hetero        |
+|   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
+|-------------:|-----------:|-------------:|:--------------|:-------------|
+|            0 |          1 |            2 | Hetero        | 2jgb         |
+|            0 |          1 |            2 | Hetero        | 4ued         |
+|            0 |          1 |            2 | Hetero        | 2jgc         |
+|            0 |          1 |            2 | Hetero        | 5bxv         |
+|            1 |          2 |            2 | Hetero        | 5bxv         |
+|            0 |          1 |            2 | Hetero        | 1wkw         |
+|            0 |          1 |            2 | Hetero        | 2v8w         |
+|            1 |          2 |            2 | Hetero        | 2v8w         |
+|            0 |          1 |            1 | Homo          | 1ejh         |
+|            1 |          2 |            1 | Homo          | 1ejh         |
+|            2 |          3 |            1 | Homo          | 1ejh         |
+|            3 |          4 |            1 | Homo          | 1ejh         |
+|            0 |          1 |            2 | Hetero        | 3m93         |
+|            0 |          1 |            1 | Homo          | 3hxi         |
+|            0 |          1 |            2 | Hetero        | 3u7x         |
+|            1 |          2 |            2 | Hetero        | 3u7x         |
+|            2 |          3 |            4 | Hetero        | 3u7x         |
+|            0 |          1 |            2 | Hetero        | 2v8y         |
+|            1 |          2 |            2 | Hetero        | 2v8y         |
+|            0 |          1 |            2 | Hetero        | 5wbj         |
+|            0 |          1 |            2 | Hetero        | 3m94         |
+|            0 |          1 |            1 | Homo          | 3hxg         |
+|            0 |          1 |            2 | Hetero        | 5nvn         |
+|            1 |          2 |            2 | Hetero        | 5nvn         |
+|            0 |          1 |            2 | Hetero        | 2v8x         |
+|            1 |          2 |            2 | Hetero        | 2v8x         |
+|            0 |          1 |            1 | Homo          | 1ej4         |
+|            0 |          1 |            2 | Hetero        | 5ekv         |
+|            1 |          2 |            2 | Hetero        | 5ekv         |
 
 ## Combined Per-Residue Information
 

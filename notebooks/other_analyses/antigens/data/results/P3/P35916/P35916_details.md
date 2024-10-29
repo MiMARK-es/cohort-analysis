@@ -21,13 +21,17 @@
 - **Biomarker Application**: diagnosis,disease progression,efficacy,prognosis
 - **Number of Isoforms**: 3
 - **Regulation**: 1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
+- **(transcriptomics) AUC**: 0.04
+- **(transcriptomics) Fold Change**: 1.24
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 340
 - **Max n_uniprots (Homo)**: 1
-- **Max n_uniprots (Hetero)**: 3
+- **Max n_uniprots (Hetero)**: 2
 
+
+## Expression Comparison
+
+![Expression Comparison](./P35916_expression_comparison.png)
 
 ## Isoform Alignment
 
@@ -136,9 +140,9 @@ P35916-3 <span>M</span><span>Q</span><span>R</span><span>G</span><span>A</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
+|            0 |          1 |            2 | Hetero        | 4bsk         |
 |            0 |          1 |            1 | Homo          | 4bsj         |
 |            1 |          2 |            1 | Homo          | 4bsj         |
-|            0 |          1 |            3 | Hetero        | 4bsk         |
 
 ## Combined Per-Residue Information
 

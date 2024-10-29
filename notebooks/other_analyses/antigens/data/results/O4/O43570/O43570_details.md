@@ -21,13 +21,17 @@
 - **Biomarker Application**: nan
 - **Number of Isoforms**: 2
 - **Regulation**: -1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
+- **(transcriptomics) AUC**: 0.33
+- **(transcriptomics) Fold Change**: 1.11
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 76
 - **Max n_uniprots (Homo)**: 4
 - **Max n_uniprots (Hetero)**: N/A
 
+
+## Expression Comparison
+
+![Expression Comparison](./O43570_expression_comparison.png)
 
 ## Isoform Alignment
 
@@ -65,50 +69,60 @@ O43570-2 <span>M</span><span>P</span><span>R</span><span>R</span><span>S</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            2 | Homo          | 6qng         |
-|            1 |          2 |            2 | Homo          | 6qng         |
-|            0 |          1 |            2 | Homo          | 5llp         |
-|            1 |          2 |            2 | Homo          | 5llp         |
-|            0 |          1 |            2 | Homo          | 6t5p         |
-|            1 |          2 |            2 | Homo          | 6t5p         |
-|            0 |          1 |            2 | Homo          | 6r6y         |
-|            1 |          2 |            2 | Homo          | 6r6y         |
-|            0 |          1 |            2 | Homo          | 5ll9         |
-|            1 |          2 |            2 | Homo          | 5ll9         |
-|            0 |          1 |            2 | Homo          | 1jd0         |
+|            0 |          1 |            2 | Homo          | 4kp5         |
+|            1 |          2 |            2 | Homo          | 4kp5         |
+|            0 |          1 |            4 | Homo          | 8co3         |
 |            0 |          1 |            2 | Homo          | 6qn0         |
 |            1 |          2 |            2 | Homo          | 6qn0         |
-|            0 |          1 |            2 | Homo          | 7pp9         |
-|            1 |          2 |            2 | Homo          | 7pp9         |
-|            0 |          1 |            3 | Homo          | 6rps         |
-|            1 |          2 |            3 | Homo          | 6rps         |
-|            0 |          1 |            2 | Homo          | 1jcz         |
-|            0 |          1 |            2 | Homo          | 5msa         |
-|            1 |          2 |            2 | Homo          | 5msa         |
-|            0 |          1 |            2 | Homo          | 4qjo         |
-|            1 |          2 |            2 | Homo          | 4qjo         |
-|            0 |          1 |            2 | Homo          | 7puw         |
-|            1 |          2 |            2 | Homo          | 7puw         |
-|            0 |          1 |            2 | Homo          | 4qjw         |
-|            1 |          2 |            2 | Homo          | 4qjw         |
-|            0 |          1 |            2 | Homo          | 7puu         |
-|            1 |          2 |            2 | Homo          | 7puu         |
-|            0 |          1 |            2 | Homo          | 4ww8         |
-|            1 |          2 |            2 | Homo          | 4ww8         |
-|            0 |          1 |            2 | Homo          | 7puv         |
-|            1 |          2 |            2 | Homo          | 7puv         |
 |            0 |          1 |            2 | Homo          | 6t5q         |
 |            1 |          2 |            2 | Homo          | 6t5q         |
-|            0 |          1 |            4 | Homo          | 8co3         |
-|            0 |          1 |            2 | Homo          | 4qj0         |
-|            1 |          2 |            2 | Homo          | 4qj0         |
+|            0 |          1 |            2 | Homo          | 6r71         |
+|            0 |          1 |            2 | Homo          | 7pp9         |
+|            1 |          2 |            2 | Homo          | 7pp9         |
+|            0 |          1 |            2 | Homo          | 7puw         |
+|            1 |          2 |            2 | Homo          | 7puw         |
+|            0 |          1 |            2 | Homo          | 7puv         |
+|            1 |          2 |            2 | Homo          | 7puv         |
+|            0 |          1 |            1 | Homo          | 4ht2         |
+|            1 |          2 |            1 | Homo          | 4ht2         |
+|            2 |          3 |            1 | Homo          | 4ht2         |
+|            3 |          4 |            1 | Homo          | 4ht2         |
+|            0 |          1 |            2 | Homo          | 6qnl         |
+|            1 |          2 |            2 | Homo          | 6qnl         |
+|            0 |          1 |            2 | Homo          | 6g7a         |
+|            1 |          2 |            2 | Homo          | 6g7a         |
 |            0 |          1 |            2 | Homo          | 5llo         |
 |            1 |          2 |            2 | Homo          | 5llo         |
-|            0 |          1 |            2 | Homo          | 6r71         |
-|            0 |          1 |            2 | Homo          | 5msb         |
-|            1 |          2 |            2 | Homo          | 5msb         |
+|            0 |          1 |            2 | Homo          | 4qjw         |
+|            1 |          2 |            2 | Homo          | 4qjw         |
+|            0 |          1 |            2 | Homo          | 4qjo         |
+|            1 |          2 |            2 | Homo          | 4qjo         |
+|            0 |          1 |            2 | Homo          | 5msa         |
+|            1 |          2 |            2 | Homo          | 5msa         |
+|            0 |          1 |            2 | Homo          | 4ww8         |
+|            1 |          2 |            2 | Homo          | 4ww8         |
+|            0 |          1 |            2 | Homo          | 1jd0         |
+|            0 |          1 |            2 | Homo          | 6qng         |
+|            1 |          2 |            2 | Homo          | 6qng         |
+|            0 |          1 |            2 | Homo          | 4qj0         |
+|            1 |          2 |            2 | Homo          | 4qj0         |
+|            0 |          1 |            2 | Homo          | 1jcz         |
+|            0 |          1 |            2 | Homo          | 5ll5         |
+|            1 |          2 |            2 | Homo          | 5ll5         |
 |            0 |          1 |            2 | Homo          | 6g5l         |
 |            1 |          2 |            2 | Homo          | 6g5l         |
+|            0 |          1 |            2 | Homo          | 6t5p         |
+|            1 |          2 |            2 | Homo          | 6t5p         |
+|            0 |          1 |            2 | Homo          | 5ll9         |
+|            1 |          2 |            2 | Homo          | 5ll9         |
+|            0 |          1 |            2 | Homo          | 6r6y         |
+|            1 |          2 |            2 | Homo          | 6r6y         |
+|            0 |          1 |            2 | Homo          | 7puu         |
+|            1 |          2 |            2 | Homo          | 7puu         |
+|            0 |          1 |            1 | Homo          | 6rps         |
+|            1 |          2 |            1 | Homo          | 6rps         |
+|            0 |          1 |            2 | Homo          | 5msb         |
+|            1 |          2 |            2 | Homo          | 5msb         |
 |            0 |          1 |            2 | Homo          | 4kp8         |
 |            1 |          2 |            2 | Homo          | 4kp8         |
 |            0 |          1 |            2 | Homo          | 4q0l         |
@@ -117,18 +131,8 @@ O43570-2 <span>M</span><span>P</span><span>R</span><span>R</span><span>S</span><
 |            3 |          4 |            1 | Homo          | 4q0l         |
 |            4 |          5 |            1 | Homo          | 4q0l         |
 |            5 |          6 |            1 | Homo          | 4q0l         |
-|            0 |          1 |            2 | Homo          | 6g7a         |
-|            1 |          2 |            2 | Homo          | 6g7a         |
-|            0 |          1 |            2 | Homo          | 5ll5         |
-|            1 |          2 |            2 | Homo          | 5ll5         |
-|            0 |          1 |            2 | Homo          | 6qnl         |
-|            1 |          2 |            2 | Homo          | 6qnl         |
-|            0 |          1 |            2 | Homo          | 4kp5         |
-|            1 |          2 |            2 | Homo          | 4kp5         |
-|            0 |          1 |            1 | Homo          | 4ht2         |
-|            1 |          2 |            1 | Homo          | 4ht2         |
-|            2 |          3 |            1 | Homo          | 4ht2         |
-|            3 |          4 |            1 | Homo          | 4ht2         |
+|            0 |          1 |            2 | Homo          | 5llp         |
+|            1 |          2 |            2 | Homo          | 5llp         |
 
 ## Combined Per-Residue Information
 

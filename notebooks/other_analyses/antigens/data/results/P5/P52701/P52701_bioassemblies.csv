@@ -1,8 +1,8 @@
-,crystal_id,assembly,n_uniprots,composition
-0,8ag6,1,4.0,Hetero
-0,2o8e,1,4.0,Hetero
-0,2o8b,1,4.0,Hetero
-0,2o8c,1,4.0,Hetero
-0,6oqm,1,1.0,Homo
-0,2o8d,1,4.0,Hetero
-0,2o8f,1,4.0,Hetero
+,assembly,n_uniprots,composition,crystal_id
+0,1,1.0,Homo,6oqm
+0,1,2.0,Hetero,2o8c
+0,1,2.0,Hetero,8ag6
+0,1,2.0,Hetero,2o8e
+0,1,2.0,Hetero,2o8f
+0,1,2.0,Hetero,2o8b
+0,1,2.0,Hetero,2o8d

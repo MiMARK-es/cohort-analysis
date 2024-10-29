@@ -92,17 +92,17 @@ Q969H0-4 <span style='background-color: yellow;'>-</span><span style='background
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            3 | Hetero        | 5ibk         |
-|            1 |          2 |            3 | Hetero        | 5ibk         |
-|            0 |          1 |            3 | Hetero        | 7t1z         |
-|            0 |          1 |            3 | Hetero        | 2ovr         |
-|            0 |          1 |            3 | Hetero        | 7t1y         |
-|            0 |          1 |            3 | Hetero        | 2ovq         |
-|            1 |          2 |            3 | Hetero        | 2ovq         |
-|            0 |          1 |            3 | Hetero        | 5v4b         |
-|            1 |          2 |            3 | Hetero        | 5v4b         |
+|            0 |          1 |            2 | Hetero        | 5v4b         |
+|            1 |          2 |            2 | Hetero        | 5v4b         |
 |            0 |          1 |            2 | Hetero        | 2ovp         |
 |            1 |          2 |            2 | Hetero        | 2ovp         |
+|            0 |          1 |            2 | Hetero        | 7t1y         |
+|            0 |          1 |            2 | Hetero        | 2ovr         |
+|            0 |          1 |            2 | Hetero        | 7t1z         |
+|            0 |          1 |            3 | Hetero        | 5ibk         |
+|            1 |          2 |            3 | Hetero        | 5ibk         |
+|            0 |          1 |            2 | Hetero        | 2ovq         |
+|            1 |          2 |            2 | Hetero        | 2ovq         |
 
 ## Combined Per-Residue Information
 

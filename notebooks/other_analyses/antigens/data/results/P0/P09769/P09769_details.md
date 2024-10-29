@@ -94,10 +94,10 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            1 | Homo          | 7uy3         |
 |            0 |          1 |            1 | Homo          | 7uy0         |
 |            1 |          2 |            1 | Homo          | 7uy0         |
 |            0 |          1 |            1 | Homo          | 7jt9         |
+|            0 |          1 |            1 | Homo          | 7uy3         |
 
 ## Combined Per-Residue Information
 

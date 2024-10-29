@@ -80,13 +80,13 @@ P40692-3 <span style='background-color: yellow;'>-</span><span style='background
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            2 | Homo          | 3rbn         |
 |            0 |          1 |            3 | Hetero        | 5u5p         |
-|            0 |          1 |            2 | Hetero        | 6wbc         |
-|            0 |          1 |            3 | Hetero        | 7m60         |
-|            0 |          1 |            1 | Homo          | 4p7a         |
 |            0 |          1 |            3 | Hetero        | 6wbb         |
+|            0 |          1 |            2 | Hetero        | 6wbc         |
 |            0 |          1 |            3 | Hetero        | 6wba         |
+|            0 |          1 |            2 | Homo          | 3rbn         |
+|            0 |          1 |            1 | Homo          | 4p7a         |
+|            0 |          1 |            3 | Hetero        | 7m60         |
 
 ## Combined Per-Residue Information
 

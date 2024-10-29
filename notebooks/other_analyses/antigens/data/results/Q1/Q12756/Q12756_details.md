@@ -99,27 +99,27 @@ Q12756-3 <span>M</span><span>A</span><span>G</span><span>A</span><span>S</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            3 | Hetero        | 4uxp         |
-|            0 |          1 |            4 | Hetero        | 8utv         |
+|            0 |          1 |            4 | Hetero        | 8utu         |
+|            0 |          1 |            3 | Hetero        | 4uxo         |
 |            0 |          1 |            3 | Hetero        | 4uxs         |
+|            0 |          1 |            3 | Hetero        | 8uts         |
+|            0 |          1 |            4 | Hetero        | 8utv         |
 |            0 |          1 |            3 | Hetero        | 8utr         |
+|            0 |          1 |            3 | Hetero        | 4uxp         |
+|            0 |          1 |            7 | Hetero        | 8utp         |
 |            0 |          1 |            7 | Hetero        | 8uto         |
+|            0 |          1 |            3 | Hetero        | 4uxr         |
+|            0 |          1 |            7 | Hetero        | 8utn         |
+|            0 |          1 |            5 | Hetero        | 8utq         |
 |            0 |          1 |            2 | Homo          | 4ejq         |
 |            1 |          2 |            2 | Homo          | 4ejq         |
 |            2 |          3 |            2 | Homo          | 4ejq         |
 |            3 |          4 |            2 | Homo          | 4ejq         |
+|            0 |          1 |            7 | Hetero        | 8uty         |
 |            0 |          1 |            7 | Hetero        | 8utt         |
-|            0 |          1 |            3 | Hetero        | 4uxo         |
-|            0 |          1 |            5 | Hetero        | 8utq         |
-|            0 |          1 |            7 | Hetero        | 8utp         |
-|            0 |          1 |            4 | Hetero        | 8utu         |
 |            0 |          1 |            3 | Hetero        | 8utw         |
 |            0 |          1 |            2 | Homo          | 4egx         |
 |            1 |          2 |            2 | Homo          | 4egx         |
-|            0 |          1 |            3 | Hetero        | 8uts         |
-|            0 |          1 |            7 | Hetero        | 8utn         |
-|            0 |          1 |            3 | Hetero        | 4uxr         |
-|            0 |          1 |            7 | Hetero        | 8uty         |
 
 ## Combined Per-Residue Information
 

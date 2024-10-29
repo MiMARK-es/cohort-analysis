@@ -21,13 +21,17 @@
 - **Biomarker Application**: diagnosis,disease progression,response to therapy
 - **Number of Isoforms**: 3
 - **Regulation**: 1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 0.79
+- **(transcriptomics) Fold Change**: 1.12
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 83
-- **Max n_uniprots (Homo)**: 11
-- **Max n_uniprots (Hetero)**: 7
+- **Max n_uniprots (Homo)**: 5
+- **Max n_uniprots (Hetero)**: 4
 
+
+## Expression Comparison
+
+![Expression Comparison](./Q03405_expression_comparison.png)
 
 ## Isoform Alignment
 
@@ -59,25 +63,25 @@ Q03405-3 <span>M</span><span>G</span><span>H</span><span>P</span><span>P</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            3 | Hetero        | 2i9b         |
-|            1 |          2 |            3 | Hetero        | 2i9b         |
-|            2 |          3 |            3 | Hetero        | 2i9b         |
-|            3 |          4 |            3 | Hetero        | 2i9b         |
-|            0 |          1 |            4 | Hetero        | 3bt1         |
-|            0 |          1 |           11 | Homo          | 1ywh         |
-|            1 |          2 |           11 | Homo          | 1ywh         |
-|            2 |          3 |           11 | Homo          | 1ywh         |
-|            0 |          1 |            7 | Hetero        | 3bt2         |
-|            1 |          2 |            6 | Hetero        | 3bt2         |
-|            2 |          3 |            1 | Homo          | 3bt2         |
-|            0 |          1 |            7 | Hetero        | 4k24         |
+|            0 |          1 |            1 | Homo          | 4qti         |
+|            0 |          1 |            4 | Hetero        | 2fd6         |
+|            1 |          2 |            4 | Hetero        | 2fd6         |
+|            0 |          1 |            2 | Hetero        | 2i9b         |
+|            1 |          2 |            2 | Hetero        | 2i9b         |
+|            2 |          3 |            2 | Hetero        | 2i9b         |
+|            3 |          4 |            2 | Hetero        | 2i9b         |
+|            0 |          1 |            3 | Hetero        | 3bt1         |
+|            0 |          1 |            3 | Hetero        | 4k24         |
+|            0 |          1 |            1 | Homo          | 3u74         |
 |            0 |          1 |            2 | Homo          | 7v63         |
-|            0 |          1 |            6 | Hetero        | 2fd6         |
-|            1 |          2 |            6 | Hetero        | 2fd6         |
-|            0 |          1 |            5 | Hetero        | 3u73         |
-|            0 |          1 |            3 | Homo          | 4qti         |
+|            0 |          1 |            2 | Hetero        | 3u73         |
+|            0 |          1 |            5 | Homo          | 1ywh         |
+|            1 |          2 |            4 | Homo          | 1ywh         |
+|            2 |          3 |            4 | Homo          | 1ywh         |
+|            0 |          1 |            3 | Hetero        | 3bt2         |
+|            1 |          2 |            2 | Hetero        | 3bt2         |
+|            2 |          3 |            1 | Homo          | 3bt2         |
 |            0 |          1 |            2 | Homo          | 7e17         |
-|            0 |          1 |            2 | Homo          | 3u74         |
 
 ## Combined Per-Residue Information
 

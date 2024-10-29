@@ -21,13 +21,17 @@
 - **Biomarker Application**: diagnosis,disease progression,efficacy,unspecified application
 - **Number of Isoforms**: 2
 - **Regulation**: -1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
+- **(transcriptomics) AUC**: 0.4
+- **(transcriptomics) Fold Change**: 1.12
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 85
 - **Max n_uniprots (Homo)**: N/A
-- **Max n_uniprots (Hetero)**: 11.0
+- **Max n_uniprots (Hetero)**: 10.0
 
+
+## Expression Comparison
+
+![Expression Comparison](./P00738_expression_comparison.png)
 
 ## Isoform Alignment
 
@@ -85,13 +89,13 @@ P00738-2 <span>M</span><span>S</span><span>A</span><span>L</span><span>G</span><
 
 ## Biological Assemblies
 
-|   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
-|-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            4 | Hetero        | 4x0l         |
-|            0 |          1 |            4 | Hetero        | 5hu6         |
-|            0 |          1 |           11 | Hetero        | 4wjg         |
-|            1 |          2 |           11 | Hetero        | 4wjg         |
-|            2 |          3 |           11 | Hetero        | 4wjg         |
+|   Unnamed: 0 | crystal_id   |   assembly |   n_uniprots | composition   |
+|-------------:|:-------------|-----------:|-------------:|:--------------|
+|            0 | 4x0l         |          1 |            3 | Hetero        |
+|            0 | 4wjg         |          1 |           10 | Hetero        |
+|            1 | 4wjg         |          2 |           10 | Hetero        |
+|            2 | 4wjg         |          3 |           10 | Hetero        |
+|            0 | 5hu6         |          1 |            4 | Hetero        |
 
 ## Combined Per-Residue Information
 

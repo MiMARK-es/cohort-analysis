@@ -21,13 +21,17 @@
 - **Biomarker Application**:  
 - **Number of Isoforms**: 2
 - **Regulation**: 1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
+- **(transcriptomics) AUC**: 0.43
+- **(transcriptomics) Fold Change**: 1.03
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 80
-- **Max n_uniprots (Homo)**: 2
-- **Max n_uniprots (Hetero)**: 11
+- **Max n_uniprots (Homo)**: 1
+- **Max n_uniprots (Hetero)**: 6
 
+
+## Expression Comparison
+
+![Expression Comparison](./Q14626_expression_comparison.png)
 
 ## Isoform Alignment
 
@@ -80,14 +84,14 @@ Q14626-2 <span>M</span><span>S</span><span>S</span><span>S</span><span>C</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |           10 | Hetero        | 8dpt         |
-|            0 |          1 |           10 | Hetero        | 8dps         |
-|            0 |          1 |           10 | Hetero        | 8dpu         |
-|            1 |          2 |           10 | Hetero        | 8dpu         |
-|            2 |          3 |           10 | Hetero        | 8dpu         |
-|            0 |          1 |            2 | Homo          | 6o4p         |
-|            1 |          2 |            2 | Homo          | 6o4p         |
-|            0 |          1 |           11 | Hetero        | 8qy4         |
+|            0 |          1 |            6 | Hetero        | 8dps         |
+|            0 |          1 |            1 | Homo          | 6o4p         |
+|            1 |          2 |            1 | Homo          | 6o4p         |
+|            0 |          1 |            6 | Hetero        | 8qy4         |
+|            0 |          1 |            6 | Hetero        | 8dpt         |
+|            0 |          1 |            6 | Hetero        | 8dpu         |
+|            1 |          2 |            6 | Hetero        | 8dpu         |
+|            2 |          3 |            6 | Hetero        | 8dpu         |
 
 ## Combined Per-Residue Information
 

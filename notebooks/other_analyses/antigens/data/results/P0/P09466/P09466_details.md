@@ -25,7 +25,7 @@
 - **(transcriptomics) Fold Change**: 2.24
 - **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 39
-- **Max n_uniprots (Homo)**: N/A
+- **Max n_uniprots (Homo)**: 1
 - **Max n_uniprots (Hetero)**: N/A
 
 
@@ -47,6 +47,12 @@ P09466-3 <span>M</span><span>L</span><span>C</span><span>L</span><span>L</span><
 | preferredName_A   | preferredName_B   |   score |
 |:------------------|:------------------|--------:|
 | PAEP              | GDF5              |   0.906 |
+
+## Biological Assemblies
+
+|   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
+|-------------:|-----------:|-------------:|:--------------|:-------------|
+|            0 |          1 |            1 | Homo          | 4r0b         |
 
 ## Combined Per-Residue Information
 

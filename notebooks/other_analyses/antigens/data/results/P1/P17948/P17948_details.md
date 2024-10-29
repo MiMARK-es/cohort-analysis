@@ -135,24 +135,24 @@ P17948-8 <span style='background-color: yellow;'>-</span><span style='background
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            6 | Hetero        | 5t89         |
-|            0 |          1 |            2 | Homo          | 4cl7         |
-|            1 |          2 |            2 | Homo          | 4cl7         |
 |            0 |          1 |            4 | Hetero        | 1qty         |
 |            1 |          2 |            4 | Hetero        | 1qty         |
 |            2 |          3 |            8 | Hetero        | 1qty         |
+|            0 |          1 |            1 | Homo          | 1qsz         |
 |            0 |          1 |            1 | Homo          | 3hng         |
+|            0 |          1 |            1 | Homo          | 4ckv         |
+|            0 |          1 |            4 | Hetero        | 1rv6         |
+|            0 |          1 |            4 | Hetero        | 1flt         |
+|            1 |          2 |            4 | Hetero        | 1flt         |
+|            0 |          1 |            4 | Hetero        | 2xac         |
 |            0 |          1 |            1 | Homo          | 5abd         |
 |            1 |          2 |            1 | Homo          | 5abd         |
 |            2 |          3 |            1 | Homo          | 5abd         |
-|            0 |          1 |            4 | Hetero        | 1flt         |
-|            1 |          2 |            4 | Hetero        | 1flt         |
-|            0 |          1 |            4 | Hetero        | 1rv6         |
-|            0 |          1 |            1 | Homo          | 1qsz         |
-|            0 |          1 |            4 | Hetero        | 2xac         |
-|            0 |          1 |            2 | Homo          | 5ex3         |
+|            0 |          1 |            1 | Homo          | 5ex3         |
+|            0 |          1 |            2 | Homo          | 4cl7         |
+|            1 |          2 |            2 | Homo          | 4cl7         |
+|            0 |          1 |            4 | Hetero        | 5t89         |
 |            0 |          1 |            1 | Homo          | 1qsv         |
-|            0 |          1 |            1 | Homo          | 4ckv         |
 
 ## Combined Per-Residue Information
 

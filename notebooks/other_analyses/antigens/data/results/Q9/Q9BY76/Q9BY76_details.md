@@ -21,13 +21,17 @@
 - **Biomarker Application**:  
 - **Number of Isoforms**: 3
 - **Regulation**: 2
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 0.85
+- **(transcriptomics) Fold Change**: 1.33
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 92
 - **Max n_uniprots (Homo)**: 1.0
 - **Max n_uniprots (Hetero)**: N/A
 
+
+## Expression Comparison
+
+![Expression Comparison](./Q9BY76_expression_comparison.png)
 
 ## Isoform Alignment
 
@@ -82,8 +86,8 @@ Q9BY76-3 <span style='background-color: yellow;'>-</span><span style='background
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            1 | Homo          | 6eub         |
 |            0 |          1 |            1 | Homo          | 6u1u         |
+|            0 |          1 |            1 | Homo          | 6eub         |
 |            0 |          1 |            1 | Homo          | 6u0a         |
 
 ## Combined Per-Residue Information

@@ -83,15 +83,15 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
+|            0 |          1 |            6 | Hetero        | 8avo         |
+|            0 |          1 |            6 | Hetero        | 8avf         |
+|            0 |          1 |            4 | Hetero        | 8ave         |
+|            0 |          1 |            1 | Homo          | 8k6z         |
+|            0 |          1 |            1 | Homo          | 1ax8         |
+|            1 |          2 |            1 | Homo          | 1ax8         |
 |            0 |          1 |            2 | Hetero        | 7z3q         |
 |            1 |          2 |            2 | Hetero        | 7z3q         |
 |            2 |          3 |            2 | Hetero        | 7z3q         |
-|            0 |          1 |            4 | Hetero        | 8ave         |
-|            0 |          1 |            6 | Hetero        | 8avf         |
-|            0 |          1 |            1 | Homo          | 8k6z         |
-|            0 |          1 |            6 | Hetero        | 8avo         |
-|            0 |          1 |            1 | Homo          | 1ax8         |
-|            1 |          2 |            1 | Homo          | 1ax8         |
 
 ## Combined Per-Residue Information
 

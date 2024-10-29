@@ -74,35 +74,35 @@ P02741-2 <span>M</span><span>E</span><span>K</span><span>L</span><span>L</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            5 | Homo          | 1lj7         |
-|            1 |          2 |            5 | Homo          | 1lj7         |
-|            0 |          1 |            5 | Homo          | 3pvo         |
-|            1 |          2 |            5 | Homo          | 3pvo         |
-|            2 |          3 |            5 | Homo          | 3pvo         |
-|            3 |          4 |            5 | Homo          | 3pvo         |
-|            0 |          1 |           10 | Homo          | 7pkf         |
-|            0 |          1 |            5 | Homo          | 3l2y         |
-|            1 |          2 |            5 | Homo          | 3l2y         |
-|            2 |          3 |            5 | Homo          | 3l2y         |
-|            3 |          4 |            5 | Homo          | 3l2y         |
-|            0 |          1 |            5 | Homo          | 1gnh         |
-|            1 |          2 |            5 | Homo          | 1gnh         |
-|            0 |          1 |            5 | Homo          | 1b09         |
-|            0 |          1 |            5 | Homo          | 7pkd         |
-|            1 |          2 |            5 | Homo          | 7pkd         |
-|            0 |          1 |            5 | Homo          | 7pke         |
 |            0 |          1 |            5 | Homo          | 7pkg         |
-|            0 |          1 |            5 | Homo          | 3pvn         |
-|            1 |          2 |            5 | Homo          | 3pvn         |
-|            2 |          3 |            5 | Homo          | 3pvn         |
-|            3 |          4 |            5 | Homo          | 3pvn         |
-|            0 |          1 |           10 | Homo          | 7pkh         |
 |            0 |          1 |            5 | Homo          | 7tba         |
 |            1 |          2 |            5 | Homo          | 7tba         |
 |            2 |          3 |            5 | Homo          | 7tba         |
 |            3 |          4 |            5 | Homo          | 7tba         |
-|            0 |          1 |           10 | Homo          | 7pk9         |
+|            0 |          1 |           10 | Homo          | 7pkh         |
+|            0 |          1 |            5 | Homo          | 1lj7         |
+|            1 |          2 |            5 | Homo          | 1lj7         |
+|            0 |          1 |            5 | Homo          | 1gnh         |
+|            1 |          2 |            5 | Homo          | 1gnh         |
 |            0 |          1 |            5 | Homo          | 7pkb         |
+|            0 |          1 |           10 | Homo          | 7pkf         |
+|            0 |          1 |            5 | Homo          | 7pkd         |
+|            1 |          2 |            5 | Homo          | 7pkd         |
+|            0 |          1 |            5 | Homo          | 1b09         |
+|            0 |          1 |            5 | Homo          | 7pke         |
+|            0 |          1 |            5 | Homo          | 3l2y         |
+|            1 |          2 |            5 | Homo          | 3l2y         |
+|            2 |          3 |            5 | Homo          | 3l2y         |
+|            3 |          4 |            5 | Homo          | 3l2y         |
+|            0 |          1 |            5 | Homo          | 3pvn         |
+|            1 |          2 |            5 | Homo          | 3pvn         |
+|            2 |          3 |            5 | Homo          | 3pvn         |
+|            3 |          4 |            5 | Homo          | 3pvn         |
+|            0 |          1 |            5 | Homo          | 3pvo         |
+|            1 |          2 |            5 | Homo          | 3pvo         |
+|            2 |          3 |            5 | Homo          | 3pvo         |
+|            3 |          4 |            5 | Homo          | 3pvo         |
+|            0 |          1 |           10 | Homo          | 7pk9         |
 
 ## Combined Per-Residue Information
 

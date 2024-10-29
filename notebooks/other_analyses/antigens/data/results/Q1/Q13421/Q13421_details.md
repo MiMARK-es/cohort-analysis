@@ -25,7 +25,7 @@
 - **(transcriptomics) Fold Change**: 1.09
 - **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 144
-- **Max n_uniprots (Homo)**: 4.0
+- **Max n_uniprots (Homo)**: 1.0
 - **Max n_uniprots (Hetero)**: N/A
 
 
@@ -61,22 +61,22 @@ Q13421-4 <span>M</span><span>A</span><span>L</span><span>P</span><span>T</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
+|            0 |          1 |            1 | Homo          | 8cxc         |
 |            0 |          1 |            1 | Homo          | 8cx3         |
 |            1 |          2 |            1 | Homo          | 8cx3         |
 |            2 |          3 |            1 | Homo          | 8cx3         |
-|            3 |          4 |            2 | Homo          | 8cx3         |
+|            3 |          4 |            1 | Homo          | 8cx3         |
 |            4 |          5 |            1 | Homo          | 8cx3         |
-|            5 |          6 |            2 | Homo          | 8cx3         |
+|            5 |          6 |            1 | Homo          | 8cx3         |
+|            0 |          1 |            1 | Homo          | 8cz8         |
+|            1 |          2 |            1 | Homo          | 8cz8         |
+|            0 |          1 |            1 | Homo          | 7ued         |
+|            0 |          1 |            1 | Homo          | 8fsl         |
+|            1 |          2 |            1 | Homo          | 8fsl         |
+|            0 |          1 |            1 | Homo          | 8cyh         |
+|            0 |          1 |            1 | Homo          | 4f3f         |
 |            0 |          1 |            1 | Homo          | 7u9j         |
 |            1 |          2 |            1 | Homo          | 7u9j         |
-|            0 |          1 |            3 | Homo          | 8cyh         |
-|            0 |          1 |            4 | Homo          | 8cxc         |
-|            0 |          1 |            3 | Homo          | 8cz8         |
-|            1 |          2 |            3 | Homo          | 8cz8         |
-|            0 |          1 |            4 | Homo          | 7ued         |
-|            0 |          1 |            3 | Homo          | 8fsl         |
-|            1 |          2 |            3 | Homo          | 8fsl         |
-|            0 |          1 |            3 | Homo          | 4f3f         |
 
 ## Combined Per-Residue Information
 

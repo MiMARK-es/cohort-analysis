@@ -39,13 +39,17 @@ Name: biomarker_application, dtype: object
 P09211    1
 P09211    1
 Name: up_down_regulated, dtype: int64
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 0.94
+- **(transcriptomics) Fold Change**: 1.10
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 30
 - **Max n_uniprots (Homo)**: 2
 - **Max n_uniprots (Hetero)**: N/A
 
+
+## Expression Comparison
+
+![Expression Comparison](./P09211_expression_comparison.png)
 
 ## Interactors
 
@@ -93,83 +97,83 @@ Name: up_down_regulated, dtype: int64
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
 |            0 |          1 |            2 | Homo          | 11gs         |
-|            0 |          1 |            2 | Homo          | 3kmn         |
+|            0 |          1 |            2 | Homo          | 12gs         |
+|            0 |          1 |            2 | Homo          | 7xba         |
 |            0 |          1 |            2 | Homo          | 9gss         |
-|            0 |          1 |            2 | Homo          | 1md3         |
-|            0 |          1 |            2 | Homo          | 1px6         |
-|            0 |          1 |            2 | Homo          | 17gs         |
-|            0 |          1 |            2 | Homo          | 1kbn         |
-|            0 |          1 |            2 | Homo          | 2pgt         |
-|            0 |          1 |            2 | Homo          | 4pgt         |
-|            0 |          1 |            2 | Homo          | 2a2r         |
-|            0 |          1 |            2 | Homo          | 22gs         |
-|            0 |          1 |            2 | Homo          | 3dgq         |
-|            0 |          1 |            2 | Homo          | 10gs         |
-|            0 |          1 |            2 | Homo          | 13gs         |
-|            0 |          1 |            2 | Homo          | 5ddl         |
+|            0 |          1 |            2 | Homo          | 3dd3         |
+|            0 |          1 |            2 | Homo          | 2gss         |
+|            0 |          1 |            2 | Homo          | 5l6x         |
+|            0 |          1 |            2 | Homo          | 1eog         |
+|            0 |          1 |            2 | Homo          | 5x79         |
 |            0 |          1 |            2 | Homo          | 6y1e         |
 |            1 |          2 |            2 | Homo          | 6y1e         |
-|            0 |          1 |            2 | Homo          | 3hkr         |
+|            0 |          1 |            2 | Homo          | 1pgt         |
+|            0 |          1 |            2 | Homo          | 3n9j         |
+|            0 |          1 |            2 | Homo          | 3ie3         |
+|            0 |          1 |            2 | Homo          | 3csj         |
+|            0 |          1 |            2 | Homo          | 1lbk         |
+|            0 |          1 |            2 | Homo          | 3dgq         |
+|            0 |          1 |            2 | Homo          | 6gss         |
+|            0 |          1 |            2 | Homo          | 1md4         |
+|            0 |          1 |            2 | Homo          | 5djl         |
+|            0 |          1 |            2 | Homo          | 13gs         |
+|            0 |          1 |            2 | Homo          | 5djm         |
+|            0 |          1 |            2 | Homo          | 1gss         |
+|            0 |          1 |            2 | Homo          | 2a2r         |
+|            0 |          1 |            2 | Homo          | 16gs         |
+|            0 |          1 |            2 | Homo          | 3gus         |
+|            0 |          1 |            2 | Homo          | 5gss         |
+|            0 |          1 |            2 | Homo          | 1zgn         |
+|            0 |          1 |            2 | Homo          | 1px6         |
+|            0 |          1 |            2 | Homo          | 17gs         |
 |            0 |          1 |            2 | Homo          | 3csi         |
 |            1 |          2 |            2 | Homo          | 3csi         |
-|            0 |          1 |            2 | Homo          | 5l6x         |
-|            0 |          1 |            2 | Homo          | 5gss         |
-|            0 |          1 |            2 | Homo          | 2gss         |
-|            0 |          1 |            2 | Homo          | 1eog         |
-|            0 |          1 |            2 | Homo          | 1md4         |
-|            0 |          1 |            2 | Homo          | 19gs         |
-|            0 |          1 |            2 | Homo          | 5djm         |
 |            0 |          1 |            2 | Homo          | 5dcg         |
-|            0 |          1 |            2 | Homo          | 16gs         |
-|            0 |          1 |            2 | Homo          | 7gss         |
-|            0 |          1 |            2 | Homo          | 5x79         |
-|            0 |          1 |            2 | Homo          | 1pgt         |
-|            0 |          1 |            2 | Homo          | 4gss         |
-|            0 |          1 |            2 | Homo          | 5dak         |
-|            0 |          1 |            2 | Homo          | 5djl         |
-|            0 |          1 |            2 | Homo          | 5jcw         |
-|            0 |          1 |            2 | Homo          | 6ap9         |
-|            0 |          1 |            2 | Homo          | 7xba         |
-|            0 |          1 |            2 | Homo          | 1lbk         |
-|            0 |          1 |            2 | Homo          | 5j41         |
-|            0 |          1 |            2 | Homo          | 1aqv         |
-|            0 |          1 |            2 | Homo          | 3gss         |
-|            0 |          1 |            2 | Homo          | 2a2s         |
-|            0 |          1 |            2 | Homo          | 1aqw         |
-|            1 |          2 |            2 | Homo          | 1aqw         |
-|            0 |          1 |            2 | Homo          | 1zgn         |
-|            0 |          1 |            1 | Homo          | 6llx         |
-|            1 |          2 |            1 | Homo          | 6llx         |
-|            0 |          1 |            2 | Homo          | 3csj         |
-|            0 |          1 |            2 | Homo          | 5dal         |
-|            0 |          1 |            2 | Homo          | 3ie3         |
-|            0 |          1 |            2 | Homo          | 1aqx         |
-|            1 |          2 |            2 | Homo          | 1aqx         |
-|            0 |          1 |            2 | Homo          | 1gss         |
-|            0 |          1 |            2 | Homo          | 12gs         |
-|            0 |          1 |            2 | Homo          | 3km6         |
-|            0 |          1 |            2 | Homo          | 8gss         |
-|            1 |          2 |            1 | Homo          | 8gss         |
-|            0 |          1 |            2 | Homo          | 3hjo         |
-|            0 |          1 |            2 | Homo          | 3pgt         |
-|            0 |          1 |            2 | Homo          | 6gss         |
-|            0 |          1 |            2 | Homo          | 7bia         |
-|            0 |          1 |            2 | Homo          | 3gus         |
-|            0 |          1 |            2 | Homo          | 3n9j         |
-|            0 |          1 |            2 | Homo          | 14gs         |
-|            0 |          1 |            2 | Homo          | 2j9h         |
-|            0 |          1 |            2 | Homo          | 20gs         |
-|            0 |          1 |            2 | Homo          | 3dd3         |
-|            0 |          1 |            2 | Homo          | 1px7         |
-|            0 |          1 |            2 | Homo          | 3hjm         |
-|            1 |          2 |            2 | Homo          | 3hjm         |
+|            0 |          1 |            2 | Homo          | 4pgt         |
 |            0 |          1 |            2 | Homo          | 18gs         |
-|            0 |          1 |            2 | Homo          | 3kmo         |
-|            0 |          1 |            2 | Homo          | 3csh         |
 |            0 |          1 |            2 | Homo          | 1eoh         |
 |            1 |          2 |            2 | Homo          | 1eoh         |
 |            2 |          3 |            2 | Homo          | 1eoh         |
 |            3 |          4 |            2 | Homo          | 1eoh         |
+|            0 |          1 |            2 | Homo          | 19gs         |
+|            0 |          1 |            2 | Homo          | 3kmo         |
+|            0 |          1 |            2 | Homo          | 3gss         |
+|            0 |          1 |            2 | Homo          | 5ddl         |
+|            0 |          1 |            2 | Homo          | 1aqv         |
+|            0 |          1 |            2 | Homo          | 3km6         |
+|            0 |          1 |            2 | Homo          | 2a2s         |
+|            0 |          1 |            2 | Homo          | 7bia         |
+|            0 |          1 |            2 | Homo          | 1kbn         |
+|            0 |          1 |            2 | Homo          | 1md3         |
+|            0 |          1 |            2 | Homo          | 3hjm         |
+|            1 |          2 |            2 | Homo          | 3hjm         |
+|            0 |          1 |            2 | Homo          | 3hjo         |
+|            0 |          1 |            2 | Homo          | 5jcw         |
+|            0 |          1 |            2 | Homo          | 1px7         |
+|            0 |          1 |            2 | Homo          | 6ap9         |
+|            0 |          1 |            2 | Homo          | 10gs         |
+|            0 |          1 |            1 | Homo          | 6llx         |
+|            1 |          2 |            1 | Homo          | 6llx         |
+|            0 |          1 |            2 | Homo          | 3hkr         |
+|            0 |          1 |            2 | Homo          | 1aqw         |
+|            1 |          2 |            2 | Homo          | 1aqw         |
+|            0 |          1 |            2 | Homo          | 3csh         |
+|            0 |          1 |            2 | Homo          | 5dal         |
+|            0 |          1 |            2 | Homo          | 2pgt         |
+|            0 |          1 |            2 | Homo          | 5j41         |
+|            0 |          1 |            2 | Homo          | 7gss         |
+|            0 |          1 |            2 | Homo          | 8gss         |
+|            1 |          2 |            1 | Homo          | 8gss         |
+|            0 |          1 |            2 | Homo          | 14gs         |
+|            0 |          1 |            2 | Homo          | 20gs         |
+|            0 |          1 |            2 | Homo          | 4gss         |
+|            0 |          1 |            2 | Homo          | 5dak         |
+|            0 |          1 |            2 | Homo          | 22gs         |
+|            0 |          1 |            2 | Homo          | 1aqx         |
+|            1 |          2 |            2 | Homo          | 1aqx         |
+|            0 |          1 |            2 | Homo          | 2j9h         |
+|            0 |          1 |            2 | Homo          | 3kmn         |
+|            0 |          1 |            2 | Homo          | 3pgt         |
 
 ## Combined Per-Residue Information
 

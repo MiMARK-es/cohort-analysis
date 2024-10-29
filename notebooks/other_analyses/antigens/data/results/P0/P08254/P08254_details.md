@@ -21,13 +21,17 @@
 - **Biomarker Application**: diagnosis,efficacy
 - **Number of Isoforms**: 0
 - **Regulation**: -1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 0.61
+- **(transcriptomics) Fold Change**: 1.42
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 91
 - **Max n_uniprots (Homo)**: 2
 - **Max n_uniprots (Hetero)**: 2
 
+
+## Expression Comparison
+
+![Expression Comparison](./P08254_expression_comparison.png)
 
 ## Interactors
 
@@ -76,87 +80,87 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            1 | Homo          | 2d1o         |
-|            1 |          2 |            1 | Homo          | 2d1o         |
-|            0 |          1 |            2 | Homo          | 1bqo         |
-|            1 |          2 |            2 | Homo          | 1bqo         |
-|            2 |          3 |            2 | Homo          | 1bqo         |
-|            0 |          1 |            1 | Homo          | 1bm6         |
-|            0 |          1 |            2 | Homo          | 1d7x         |
-|            0 |          1 |            1 | Homo          | 1qic         |
-|            1 |          2 |            1 | Homo          | 1qic         |
-|            2 |          3 |            1 | Homo          | 1qic         |
-|            3 |          4 |            1 | Homo          | 1qic         |
 |            0 |          1 |            1 | Homo          | 1hfs         |
-|            0 |          1 |            1 | Homo          | 2jt6         |
-|            0 |          1 |            1 | Homo          | 1d8m         |
-|            1 |          2 |            1 | Homo          | 1d8m         |
-|            0 |          1 |            1 | Homo          | 1ciz         |
-|            1 |          2 |            1 | Homo          | 1ciz         |
-|            0 |          1 |            1 | Homo          | 1sln         |
 |            0 |          1 |            1 | Homo          | 1g49         |
 |            1 |          2 |            1 | Homo          | 1g49         |
-|            0 |          1 |            2 | Homo          | 1c8t         |
-|            0 |          1 |            1 | Homo          | 2usn         |
-|            0 |          1 |            1 | Homo          | 4g9l         |
-|            1 |          2 |            1 | Homo          | 4g9l         |
-|            0 |          1 |            1 | Homo          | 4ja1         |
-|            1 |          2 |            1 | Homo          | 4ja1         |
-|            0 |          1 |            1 | Homo          | 1g4k         |
-|            1 |          2 |            1 | Homo          | 1g4k         |
-|            2 |          3 |            1 | Homo          | 1g4k         |
+|            0 |          1 |            1 | Homo          | 1ums         |
+|            0 |          1 |            1 | Homo          | 1bm6         |
+|            0 |          1 |            2 | Hetero        | 1uea         |
+|            1 |          2 |            2 | Hetero        | 1uea         |
+|            0 |          1 |            1 | Homo          | 1slm         |
+|            0 |          1 |            1 | Homo          | 2d1o         |
+|            1 |          2 |            1 | Homo          | 2d1o         |
+|            0 |          1 |            1 | Homo          | 3usn         |
+|            0 |          1 |            2 | Homo          | 1biw         |
 |            0 |          1 |            1 | Homo          | 3oho         |
 |            1 |          2 |            1 | Homo          | 3oho         |
 |            2 |          3 |            1 | Homo          | 3oho         |
-|            0 |          1 |            1 | Homo          | 1d8f         |
-|            1 |          2 |            1 | Homo          | 1d8f         |
-|            0 |          1 |            1 | Homo          | 1umt         |
-|            0 |          1 |            1 | Homo          | 2srt         |
-|            0 |          1 |            1 | Homo          | 1caq         |
-|            1 |          2 |            1 | Homo          | 1caq         |
-|            0 |          1 |            2 | Hetero        | 6mav         |
-|            0 |          1 |            2 | Hetero        | 1oo9         |
-|            0 |          1 |            2 | Hetero        | 7s7l         |
-|            0 |          1 |            2 | Hetero        | 1uea         |
-|            1 |          2 |            2 | Hetero        | 1uea         |
-|            0 |          1 |            1 | Homo          | 1g05         |
-|            1 |          2 |            1 | Homo          | 1g05         |
-|            0 |          1 |            1 | Homo          | 3ohl         |
-|            1 |          2 |            1 | Homo          | 3ohl         |
-|            0 |          1 |            2 | Homo          | 1biw         |
-|            0 |          1 |            2 | Hetero        | 7s7m         |
-|            0 |          1 |            2 | Hetero        | 6n9d         |
-|            0 |          1 |            2 | Homo          | 1b3d         |
-|            0 |          1 |            1 | Homo          | 1hy7         |
-|            1 |          2 |            1 | Homo          | 1hy7         |
-|            2 |          3 |            2 | Homo          | 1hy7         |
-|            3 |          4 |            2 | Homo          | 1hy7         |
-|            0 |          1 |            1 | Homo          | 2jt5         |
-|            0 |          1 |            1 | Homo          | 1slm         |
-|            0 |          1 |            1 | Homo          | 1b8y         |
-|            1 |          2 |            1 | Homo          | 1b8y         |
-|            0 |          1 |            1 | Homo          | 1ums         |
 |            0 |          1 |            1 | Homo          | 1qia         |
 |            1 |          2 |            1 | Homo          | 1qia         |
 |            2 |          3 |            1 | Homo          | 1qia         |
 |            3 |          4 |            1 | Homo          | 1qia         |
 |            4 |          5 |            2 | Homo          | 1qia         |
 |            5 |          6 |            2 | Homo          | 1qia         |
-|            0 |          1 |            1 | Homo          | 1d5j         |
-|            1 |          2 |            1 | Homo          | 1d5j         |
+|            0 |          1 |            1 | Homo          | 2jnp         |
+|            0 |          1 |            1 | Homo          | 1b8y         |
+|            1 |          2 |            1 | Homo          | 1b8y         |
+|            0 |          1 |            1 | Homo          | 1g4k         |
+|            1 |          2 |            1 | Homo          | 1g4k         |
+|            2 |          3 |            1 | Homo          | 1g4k         |
+|            0 |          1 |            1 | Homo          | 4g9l         |
+|            1 |          2 |            1 | Homo          | 4g9l         |
+|            0 |          1 |            1 | Homo          | 4dpe         |
+|            1 |          2 |            1 | Homo          | 4dpe         |
+|            0 |          1 |            1 | Homo          | 2jt5         |
+|            0 |          1 |            2 | Hetero        | 7s7l         |
+|            0 |          1 |            2 | Homo          | 1bqo         |
+|            1 |          2 |            2 | Homo          | 1bqo         |
+|            2 |          3 |            2 | Homo          | 1bqo         |
+|            0 |          1 |            1 | Homo          | 1d8m         |
+|            1 |          2 |            1 | Homo          | 1d8m         |
+|            0 |          1 |            1 | Homo          | 1hy7         |
+|            1 |          2 |            1 | Homo          | 1hy7         |
+|            2 |          3 |            2 | Homo          | 1hy7         |
+|            3 |          4 |            2 | Homo          | 1hy7         |
+|            0 |          1 |            1 | Homo          | 4ja1         |
+|            1 |          2 |            1 | Homo          | 4ja1         |
 |            0 |          1 |            1 | Homo          | 1usn         |
 |            1 |          2 |            1 | Homo          | 1usn         |
 |            2 |          3 |            1 | Homo          | 1usn         |
+|            0 |          1 |            1 | Homo          | 2srt         |
+|            0 |          1 |            2 | Hetero        | 6mav         |
+|            0 |          1 |            2 | Hetero        | 7s7m         |
+|            0 |          1 |            1 | Homo          | 1d8f         |
+|            1 |          2 |            1 | Homo          | 1d8f         |
+|            0 |          1 |            1 | Homo          | 1g05         |
+|            1 |          2 |            1 | Homo          | 1g05         |
+|            0 |          1 |            2 | Homo          | 1d7x         |
+|            0 |          1 |            2 | Homo          | 1c8t         |
+|            0 |          1 |            1 | Homo          | 1d5j         |
+|            1 |          2 |            1 | Homo          | 1d5j         |
+|            0 |          1 |            2 | Hetero        | 1oo9         |
+|            0 |          1 |            1 | Homo          | 1caq         |
+|            1 |          2 |            1 | Homo          | 1caq         |
+|            0 |          1 |            1 | Homo          | 2usn         |
+|            0 |          1 |            2 | Hetero        | 6n9d         |
+|            0 |          1 |            1 | Homo          | 1qic         |
+|            1 |          2 |            1 | Homo          | 1qic         |
+|            2 |          3 |            1 | Homo          | 1qic         |
+|            3 |          4 |            1 | Homo          | 1qic         |
+|            0 |          1 |            1 | Homo          | 1ciz         |
+|            1 |          2 |            1 | Homo          | 1ciz         |
+|            0 |          1 |            1 | Homo          | 1umt         |
+|            0 |          1 |            1 | Homo          | 1sln         |
+|            0 |          1 |            2 | Homo          | 1b3d         |
+|            0 |          1 |            1 | Homo          | 2jt6         |
 |            0 |          1 |            2 | Homo          | 1c3i         |
 |            1 |          2 |            2 | Homo          | 1c3i         |
+|            0 |          1 |            1 | Homo          | 3ohl         |
+|            1 |          2 |            1 | Homo          | 3ohl         |
 |            0 |          1 |            1 | Homo          | 1cqr         |
 |            1 |          2 |            1 | Homo          | 1cqr         |
 |            2 |          3 |            2 | Homo          | 1cqr         |
 |            3 |          4 |            2 | Homo          | 1cqr         |
-|            0 |          1 |            1 | Homo          | 4dpe         |
-|            1 |          2 |            1 | Homo          | 4dpe         |
-|            0 |          1 |            1 | Homo          | 3usn         |
-|            0 |          1 |            1 | Homo          | 2jnp         |
 
 ## Combined Per-Residue Information
 

@@ -21,13 +21,17 @@
 - **Biomarker Application**:  
 - **Number of Isoforms**: 2
 - **Regulation**: 2
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
+- **(transcriptomics) AUC**: 0.35
+- **(transcriptomics) Fold Change**: 1.04
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 174
-- **Max n_uniprots (Homo)**: 2
-- **Max n_uniprots (Hetero)**: 4
+- **Max n_uniprots (Homo)**: 1
+- **Max n_uniprots (Hetero)**: 3
 
+
+## Expression Comparison
+
+![Expression Comparison](./Q15436_expression_comparison.png)
 
 ## Isoform Alignment
 
@@ -72,33 +76,33 @@ Q15436-2 <span style='background-color: yellow;'>-</span><span style='background
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            1 | Homo          | 2yrd         |
-|            0 |          1 |            4 | Hetero        | 5vnh         |
-|            0 |          1 |            2 | Hetero        | 5kyy         |
-|            0 |          1 |            4 | Hetero        | 3egx         |
-|            0 |          1 |            4 | Hetero        | 5vni         |
-|            0 |          1 |            4 | Hetero        | 5vnf         |
-|            0 |          1 |            4 | Hetero        | 5vne         |
-|            0 |          1 |            4 | Hetero        | 5vnk         |
-|            0 |          1 |            4 | Hetero        | 8hr0         |
+|            0 |          1 |            2 | Hetero        | 3eg9         |
+|            0 |          1 |            2 | Hetero        | 5kyx         |
+|            0 |          1 |            3 | Hetero        | 5vnk         |
+|            0 |          1 |            3 | Hetero        | 5vne         |
+|            0 |          1 |            3 | Hetero        | 3egx         |
+|            0 |          1 |            1 | Homo          | 2yrc         |
+|            0 |          1 |            3 | Hetero        | 2nup         |
+|            0 |          1 |            3 | Hetero        | 5vno         |
+|            0 |          1 |            3 | Hetero        | 5vnh         |
+|            0 |          1 |            3 | Hetero        | 5vni         |
+|            0 |          1 |            2 | Hetero        | 5kyu         |
 |            0 |          1 |            3 | Hetero        | 5vnl         |
 |            1 |          2 |            3 | Hetero        | 5vnl         |
-|            0 |          1 |            3 | Hetero        | 3eg9         |
-|            0 |          1 |            3 | Hetero        | 5kyw         |
-|            0 |          1 |            2 | Hetero        | 5kyx         |
-|            0 |          1 |            3 | Hetero        | 5vnn         |
-|            0 |          1 |            3 | Hetero        | 2nup         |
-|            0 |          1 |            1 | Homo          | 2yrc         |
-|            0 |          1 |            4 | Hetero        | 5vnj         |
-|            0 |          1 |            1 | Homo          | 5kyn         |
-|            1 |          2 |            2 | Homo          | 5kyn         |
-|            0 |          1 |            3 | Hetero        | 5kyu         |
-|            0 |          1 |            3 | Hetero        | 5vnm         |
+|            0 |          1 |            2 | Hetero        | 5kyy         |
+|            0 |          1 |            3 | Hetero        | 5vng         |
 |            0 |          1 |            3 | Hetero        | 2nut         |
-|            0 |          1 |            3 | Hetero        | 5vno         |
-|            0 |          1 |            3 | Hetero        | 3efo         |
-|            0 |          1 |            4 | Hetero        | 5vng         |
-|            0 |          1 |            4 | Hetero        | 3egd         |
+|            0 |          1 |            2 | Hetero        | 3efo         |
+|            0 |          1 |            3 | Hetero        | 5vnm         |
+|            0 |          1 |            2 | Hetero        | 5kyw         |
+|            0 |          1 |            1 | Homo          | 2yrd         |
+|            0 |          1 |            3 | Hetero        | 3egd         |
+|            0 |          1 |            1 | Homo          | 5kyn         |
+|            1 |          2 |            1 | Homo          | 5kyn         |
+|            0 |          1 |            3 | Hetero        | 8hr0         |
+|            0 |          1 |            3 | Hetero        | 5vnf         |
+|            0 |          1 |            3 | Hetero        | 5vnn         |
+|            0 |          1 |            3 | Hetero        | 5vnj         |
 
 ## Combined Per-Residue Information
 

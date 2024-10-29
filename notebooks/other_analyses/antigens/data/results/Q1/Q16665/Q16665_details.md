@@ -21,13 +21,17 @@
 - **Biomarker Application**: diagnosis,efficacy,prognosis,response to therapy
 - **Number of Isoforms**: 3
 - **Regulation**: 1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 0.71
+- **(transcriptomics) Fold Change**: 1.04
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 217
-- **Max n_uniprots (Homo)**: 2
+- **Max n_uniprots (Homo)**: 1
 - **Max n_uniprots (Hetero)**: 4
 
+
+## Expression Comparison
+
+![Expression Comparison](./Q16665_expression_comparison.png)
 
 ## Isoform Alignment
 
@@ -109,34 +113,34 @@ Q16665-3 <span style='background-color: yellow;'>M</span><span style='background
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            2 | Hetero        | 1h2l         |
-|            0 |          1 |            4 | Hetero        | 4ajy         |
-|            0 |          1 |            2 | Hetero        | 5jwp         |
-|            0 |          1 |            2 | Hetero        | 3hqr         |
-|            0 |          1 |            4 | Hetero        | 5las         |
-|            0 |          1 |            2 | Hetero        | 7lvs         |
+|            0 |          1 |            2 | Hetero        | 1l3e         |
 |            0 |          1 |            2 | Hetero        | 5la9         |
 |            1 |          2 |            2 | Hetero        | 5la9         |
-|            0 |          1 |            2 | Hetero        | 1h2m         |
-|            0 |          1 |            4 | Hetero        | 1lqb         |
-|            1 |          2 |            4 | Hetero        | 1lqb         |
-|            0 |          1 |            2 | Hetero        | 1h2k         |
+|            0 |          1 |            4 | Hetero        | 4ajy         |
+|            0 |          1 |            3 | Hetero        | 6gmr         |
+|            0 |          1 |            2 | Hetero        | 7qgs         |
+|            0 |          1 |            2 | Hetero        | 5jwp         |
 |            0 |          1 |            2 | Hetero        | 3hqu         |
+|            0 |          1 |            2 | Hetero        | 4h6j         |
+|            0 |          1 |            4 | Hetero        | 5las         |
 |            0 |          1 |            2 | Hetero        | 5l9v         |
 |            1 |          2 |            2 | Hetero        | 5l9v         |
+|            0 |          1 |            2 | Hetero        | 1h2l         |
+|            0 |          1 |            2 | Hetero        | 1l8c         |
+|            0 |          1 |            2 | Hetero        | 3hqr         |
+|            0 |          1 |            2 | Hetero        | 7lvs         |
+|            0 |          1 |            4 | Hetero        | 1lqb         |
+|            1 |          2 |            4 | Hetero        | 1lqb         |
+|            0 |          1 |            4 | Hetero        | 1lm8         |
+|            0 |          1 |            3 | Hetero        | 6gfx         |
+|            0 |          1 |            2 | Hetero        | 1h2k         |
+|            0 |          1 |            1 | Homo          | 8he3         |
+|            0 |          1 |            2 | Hetero        | 1h2m         |
+|            0 |          1 |            2 | Hetero        | 2ilm         |
+|            0 |          1 |            2 | Hetero        | 8he0         |
+|            0 |          1 |            2 | Hetero        | 6yw3         |
 |            0 |          1 |            2 | Hetero        | 5l9b         |
 |            1 |          2 |            2 | Hetero        | 5l9b         |
-|            0 |          1 |            2 | Hetero        | 2ilm         |
-|            0 |          1 |            2 | Hetero        | 7qgs         |
-|            0 |          1 |            2 | Homo          | 8he3         |
-|            0 |          1 |            2 | Hetero        | 1l3e         |
-|            0 |          1 |            4 | Hetero        | 6gmr         |
-|            0 |          1 |            2 | Hetero        | 4h6j         |
-|            0 |          1 |            2 | Hetero        | 8he0         |
-|            0 |          1 |            2 | Hetero        | 1l8c         |
-|            0 |          1 |            3 | Hetero        | 6yw3         |
-|            0 |          1 |            4 | Hetero        | 6gfx         |
-|            0 |          1 |            4 | Hetero        | 1lm8         |
 
 ## Combined Per-Residue Information
 

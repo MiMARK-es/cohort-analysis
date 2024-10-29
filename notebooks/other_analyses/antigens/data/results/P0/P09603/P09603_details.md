@@ -21,13 +21,17 @@
 - **Biomarker Application**: diagnosis,disease progression,efficacy,prognosis,unspecified application
 - **Number of Isoforms**: 3
 - **Regulation**: 1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
+- **(transcriptomics) AUC**: 0.28
+- **(transcriptomics) Fold Change**: 1.08
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 95
-- **Max n_uniprots (Homo)**: 6
-- **Max n_uniprots (Hetero)**: 11
+- **Max n_uniprots (Homo)**: 3
+- **Max n_uniprots (Hetero)**: 10
 
+
+## Expression Comparison
+
+![Expression Comparison](./P09603_expression_comparison.png)
 
 ## Isoform Alignment
 
@@ -63,23 +67,23 @@ P09603-3 <span>M</span><span>T</span><span>A</span><span>P</span><span>G</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            2 | Homo          | 5lxf         |
-|            0 |          1 |           11 | Hetero        | 4adf         |
-|            1 |          2 |           11 | Hetero        | 4adf         |
-|            0 |          1 |            6 | Hetero        | 3uez         |
-|            1 |          2 |            6 | Hetero        | 3uez         |
+|            0 |          1 |            6 | Hetero        | 4fa8         |
+|            1 |          2 |            3 | Homo          | 4fa8         |
+|            2 |          3 |            1 | Homo          | 4fa8         |
+|            3 |          4 |            2 | Homo          | 4fa8         |
+|            0 |          1 |            2 | Homo          | 1hmc         |
 |            0 |          1 |            2 | Homo          | 3uf2         |
 |            1 |          2 |            2 | Homo          | 3uf2         |
 |            2 |          3 |            2 | Homo          | 3uf2         |
 |            3 |          4 |            2 | Homo          | 3uf2         |
 |            4 |          5 |            2 | Homo          | 3uf2         |
-|            0 |          1 |            2 | Homo          | 1hmc         |
-|            0 |          1 |            9 | Hetero        | 4fa8         |
-|            1 |          2 |            6 | Homo          | 4fa8         |
-|            2 |          3 |            1 | Homo          | 4fa8         |
-|            3 |          4 |            2 | Homo          | 4fa8         |
-|            0 |          1 |            9 | Hetero        | 4wrl         |
+|            0 |          1 |            4 | Hetero        | 4wrl         |
 |            0 |          1 |            2 | Hetero        | 4wrm         |
+|            0 |          1 |           10 | Hetero        | 4adf         |
+|            1 |          2 |           10 | Hetero        | 4adf         |
+|            0 |          1 |            4 | Hetero        | 3uez         |
+|            1 |          2 |            4 | Hetero        | 3uez         |
+|            0 |          1 |            2 | Homo          | 5lxf         |
 
 ## Combined Per-Residue Information
 

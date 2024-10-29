@@ -111,19 +111,19 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            1 | Homo          | 3tn2         |
-|            1 |          2 |            1 | Homo          | 3tn2         |
-|            0 |          1 |            2 | Homo          | 2ffk         |
-|            0 |          1 |            2 | Homo          | 1hun         |
-|            0 |          1 |            2 | Hetero        | 4ral         |
-|            1 |          2 |            2 | Hetero        | 4ral         |
-|            0 |          1 |            1 | Homo          | 1je4         |
-|            0 |          1 |            2 | Homo          | 2fin         |
+|            0 |          1 |            1 | Homo          | 2ffk         |
+|            0 |          1 |            1 | Homo          | 2fin         |
+|            0 |          1 |            2 | Homo          | 1hum         |
 |            0 |          1 |            5 | Homo          | 2x6l         |
 |            1 |          2 |            2 | Homo          | 2x6l         |
 |            2 |          3 |            2 | Homo          | 2x6l         |
 |            3 |          4 |            1 | Homo          | 2x6l         |
-|            0 |          1 |            2 | Homo          | 1hum         |
+|            0 |          1 |            2 | Homo          | 1hun         |
+|            0 |          1 |            1 | Homo          | 1je4         |
+|            0 |          1 |            1 | Homo          | 3tn2         |
+|            1 |          2 |            1 | Homo          | 3tn2         |
+|            0 |          1 |            2 | Hetero        | 4ral         |
+|            1 |          2 |            2 | Hetero        | 4ral         |
 
 ## Combined Per-Residue Information
 

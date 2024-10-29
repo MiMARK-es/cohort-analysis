@@ -21,13 +21,17 @@
 - **Biomarker Application**: disease progression,prognosis,response to therapy
 - **Number of Isoforms**: 0
 - **Regulation**: 1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 0.74
+- **(transcriptomics) Fold Change**: 1.03
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 94
-- **Max n_uniprots (Homo)**: 3
-- **Max n_uniprots (Hetero)**: 4
+- **Max n_uniprots (Homo)**: 2
+- **Max n_uniprots (Hetero)**: 2
 
+
+## Expression Comparison
+
+![Expression Comparison](./P35613_expression_comparison.png)
 
 ## Interactors
 
@@ -63,32 +67,32 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            2 | Homo          | 3qr2         |
-|            1 |          2 |            2 | Homo          | 3qr2         |
-|            0 |          1 |            2 | Hetero        | 7ckr         |
+|            0 |          1 |            2 | Hetero        | 4u0q         |
+|            1 |          2 |            2 | Hetero        | 4u0q         |
+|            0 |          1 |            2 | Hetero        | 8xej         |
+|            0 |          1 |            2 | Hetero        | 7dce         |
+|            0 |          1 |            1 | Homo          | 7daa         |
+|            0 |          1 |            1 | Homo          | 5xf0         |
+|            0 |          1 |            1 | Homo          | 7xy8         |
+|            1 |          2 |            1 | Homo          | 7xy8         |
+|            0 |          1 |            2 | Hetero        | 6lyy         |
+|            0 |          1 |            2 | Hetero        | 7da5         |
 |            0 |          1 |            1 | Homo          | 3b5h         |
 |            1 |          2 |            1 | Homo          | 3b5h         |
 |            2 |          3 |            1 | Homo          | 3b5h         |
 |            3 |          4 |            1 | Homo          | 3b5h         |
-|            0 |          1 |            2 | Hetero        | 6lz0         |
-|            0 |          1 |            3 | Homo          | 5x0t         |
-|            1 |          2 |            3 | Homo          | 5x0t         |
-|            0 |          1 |            2 | Homo          | 3qqn         |
-|            0 |          1 |            2 | Hetero        | 6lyy         |
-|            0 |          1 |            3 | Homo          | 7daa         |
-|            0 |          1 |            2 | Hetero        | 7cko         |
-|            0 |          1 |            2 | Hetero        | 4u0q         |
-|            1 |          2 |            2 | Hetero        | 4u0q         |
 |            0 |          1 |            2 | Homo          | 3i84         |
 |            1 |          2 |            2 | Homo          | 3i84         |
-|            0 |          1 |            3 | Homo          | 7xy8         |
-|            1 |          2 |            3 | Homo          | 7xy8         |
+|            0 |          1 |            1 | Homo          | 5x0t         |
+|            1 |          2 |            1 | Homo          | 5x0t         |
+|            0 |          1 |            2 | Hetero        | 7cko         |
+|            0 |          1 |            2 | Homo          | 3qqn         |
+|            0 |          1 |            2 | Hetero        | 7ckr         |
 |            0 |          1 |            1 | Homo          | 3i85         |
 |            1 |          2 |            1 | Homo          | 3i85         |
-|            0 |          1 |            4 | Hetero        | 7dce         |
-|            0 |          1 |            4 | Hetero        | 8xej         |
-|            0 |          1 |            2 | Hetero        | 7da5         |
-|            0 |          1 |            1 | Homo          | 5xf0         |
+|            0 |          1 |            2 | Homo          | 3qr2         |
+|            1 |          2 |            2 | Homo          | 3qr2         |
+|            0 |          1 |            2 | Hetero        | 6lz0         |
 
 ## Combined Per-Residue Information
 

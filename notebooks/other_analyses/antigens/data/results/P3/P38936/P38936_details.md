@@ -21,13 +21,17 @@
 - **Biomarker Application**: diagnosis,efficacy,prognosis,response to therapy
 - **Number of Isoforms**: 0
 - **Regulation**: -1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
+- **(transcriptomics) AUC**: 0.42
+- **(transcriptomics) Fold Change**: 1.03
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 16
-- **Max n_uniprots (Homo)**: 6
+- **Max n_uniprots (Homo)**: 3
 - **Max n_uniprots (Hetero)**: 6
 
+
+## Expression Comparison
+
+![Expression Comparison](./P38936_expression_comparison.png)
 
 ## Interactors
 
@@ -94,30 +98,30 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
+|            0 |          1 |            2 | Hetero        | 4rjf         |
+|            1 |          2 |            2 | Hetero        | 4rjf         |
+|            2 |          3 |            2 | Hetero        | 4rjf         |
 |            0 |          1 |            6 | Hetero        | 2zvw         |
 |            1 |          2 |            6 | Hetero        | 2zvw         |
 |            2 |          3 |            2 | Hetero        | 2zvw         |
 |            3 |          4 |            2 | Hetero        | 2zvw         |
-|            0 |          1 |            6 | Homo          | 7kq1         |
-|            0 |          1 |            6 | Homo          | 8gjf         |
+|            0 |          1 |            3 | Homo          | 7kq1         |
+|            0 |          1 |            0 | Hetero        | 6civ         |
 |            0 |          1 |            2 | Hetero        | 5e0u         |
 |            1 |          2 |            2 | Hetero        | 5e0u         |
 |            2 |          3 |            2 | Hetero        | 5e0u         |
-|            0 |          1 |            2 | Homo          | 7kq0         |
-|            1 |          2 |            2 | Homo          | 7kq0         |
-|            2 |          3 |            2 | Homo          | 7kq0         |
-|            0 |          1 |            1 | Hetero        | 6civ         |
-|            0 |          1 |            2 | Hetero        | 4rjf         |
-|            1 |          2 |            2 | Hetero        | 4rjf         |
-|            2 |          3 |            2 | Hetero        | 4rjf         |
-|            0 |          1 |            6 | Homo          | 6cbi         |
-|            1 |          2 |            4 | Homo          | 6cbi         |
+|            0 |          1 |            6 | Hetero        | 1axc         |
+|            0 |          1 |            1 | Homo          | 6cej         |
+|            0 |          1 |            3 | Homo          | 6cbi         |
+|            1 |          2 |            3 | Homo          | 6cbi         |
 |            0 |          1 |            2 | Hetero        | 2zvv         |
 |            1 |          2 |            2 | Hetero        | 2zvv         |
 |            0 |          1 |            3 | Hetero        | 6p8h         |
-|            0 |          1 |            1 | Hetero        | 6cix         |
-|            0 |          1 |            6 | Hetero        | 1axc         |
-|            0 |          1 |            1 | Homo          | 6cej         |
+|            0 |          1 |            0 | Hetero        | 6cix         |
+|            0 |          1 |            1 | Homo          | 7kq0         |
+|            1 |          2 |            1 | Homo          | 7kq0         |
+|            2 |          3 |            1 | Homo          | 7kq0         |
+|            0 |          1 |            3 | Homo          | 8gjf         |
 
 ## Combined Per-Residue Information
 

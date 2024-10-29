@@ -21,13 +21,17 @@
 - **Biomarker Application**: unspecified application
 - **Number of Isoforms**: 3
 - **Regulation**: 1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 0.99
+- **(transcriptomics) Fold Change**: 1.34
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 45
 - **Max n_uniprots (Homo)**: 6.0
 - **Max n_uniprots (Hetero)**: N/A
 
+
+## Expression Comparison
+
+![Expression Comparison](./P15531_expression_comparison.png)
 
 ## Isoform Alignment
 
@@ -88,15 +92,15 @@ P22392-2 <span style='background-color: yellow;'>M</span><span style='background
 
 ## Biological Assemblies
 
-|   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
-|-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            6 | Homo          | 1jxv         |
-|            0 |          1 |            2 | Homo          | 4eno         |
-|            0 |          1 |            3 | Homo          | 2hvd         |
-|            0 |          1 |            6 | Homo          | 5ui4         |
-|            0 |          1 |            3 | Homo          | 3l7u         |
-|            0 |          1 |            3 | Homo          | 8oov         |
-|            0 |          1 |            3 | Homo          | 2hve         |
+|   Unnamed: 0 | crystal_id   |   assembly |   n_uniprots | composition   |
+|-------------:|:-------------|-----------:|-------------:|:--------------|
+|            0 | 2hvd         |          1 |            3 | Homo          |
+|            0 | 5ui4         |          1 |            6 | Homo          |
+|            0 | 2hve         |          1 |            3 | Homo          |
+|            0 | 1jxv         |          1 |            6 | Homo          |
+|            0 | 3l7u         |          1 |            3 | Homo          |
+|            0 | 8oov         |          1 |            3 | Homo          |
+|            0 | 4eno         |          1 |            2 | Homo          |
 
 ## Combined Per-Residue Information
 

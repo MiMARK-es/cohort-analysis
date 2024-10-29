@@ -26,7 +26,7 @@
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 328
 - **Max n_uniprots (Homo)**: 8.0
-- **Max n_uniprots (Hetero)**: 11.0
+- **Max n_uniprots (Hetero)**: 8.0
 
 
 ## Isoform Alignment
@@ -94,19 +94,13 @@ O96028-7 <span style='background-color: yellow;'>M</span><span style='background
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            8 | Homo          | 7mdn         |
-|            0 |          1 |           11 | Hetero        | 7e8d         |
 |            0 |          1 |            1 | Homo          | 5lsu         |
 |            1 |          2 |            1 | Homo          | 5lsu         |
-|            0 |          1 |            1 | Homo          | 7vln         |
-|            1 |          2 |            1 | Homo          | 7vln         |
-|            2 |          3 |            1 | Homo          | 7vln         |
-|            0 |          1 |            1 | Homo          | 6xcg         |
-|            1 |          2 |            1 | Homo          | 6xcg         |
-|            2 |          3 |            1 | Homo          | 6xcg         |
+|            0 |          1 |            2 | Homo          | 5vc8         |
 |            0 |          1 |            8 | Homo          | 7lmt         |
-|            0 |          1 |            6 | Homo          | 5vc8         |
-|            0 |          1 |           11 | Hetero        | 7cro         |
+|            0 |          1 |            8 | Hetero        | 7e8d         |
+|            0 |          1 |            8 | Homo          | 7mdn         |
+|            0 |          1 |            8 | Hetero        | 7cro         |
 |            0 |          1 |            1 | Homo          | 6ue6         |
 |            1 |          2 |            1 | Homo          | 6ue6         |
 |            2 |          3 |            1 | Homo          | 6ue6         |
@@ -115,6 +109,12 @@ O96028-7 <span style='background-color: yellow;'>M</span><span style='background
 |            5 |          6 |            1 | Homo          | 6ue6         |
 |            6 |          7 |            1 | Homo          | 6ue6         |
 |            7 |          8 |            1 | Homo          | 6ue6         |
+|            0 |          1 |            1 | Homo          | 7vln         |
+|            1 |          2 |            1 | Homo          | 7vln         |
+|            2 |          3 |            1 | Homo          | 7vln         |
+|            0 |          1 |            1 | Homo          | 6xcg         |
+|            1 |          2 |            1 | Homo          | 6xcg         |
+|            2 |          3 |            1 | Homo          | 6xcg         |
 
 ## Combined Per-Residue Information
 

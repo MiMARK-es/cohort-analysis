@@ -26,7 +26,7 @@
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 24
 - **Max n_uniprots (Homo)**: N/A
-- **Max n_uniprots (Hetero)**: 11
+- **Max n_uniprots (Hetero)**: 10
 
 
 ## Expression Comparison
@@ -100,27 +100,27 @@
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
 |            0 |          1 |            2 | Hetero        | 7org         |
-|            0 |          1 |            3 | Hetero        | 1h27         |
-|            1 |          2 |            2 | Hetero        | 1h27         |
+|            0 |          1 |           10 | Hetero        | 7b5l         |
+|            0 |          1 |            3 | Hetero        | 6p8g         |
+|            0 |          1 |            2 | Hetero        | 7or8         |
+|            0 |          1 |            8 | Hetero        | 7b5m         |
+|            0 |          1 |            4 | Hetero        | 8byl         |
+|            0 |          1 |            3 | Hetero        | 6ath         |
+|            0 |          1 |            3 | Hetero        | 8bzo         |
+|            0 |          1 |            3 | Hetero        | 6p8e         |
+|            0 |          1 |            3 | Hetero        | 6p8f         |
+|            0 |          1 |            7 | Hetero        | 7b5r         |
+|            0 |          1 |            2 | Hetero        | 7ort         |
+|            0 |          1 |            6 | Hetero        | 8bya         |
+|            0 |          1 |            2 | Hetero        | 7ors         |
 |            0 |          1 |            3 | Hetero        | 1jsu         |
+|            0 |          1 |            3 | Hetero        | 5uq3         |
 |            0 |          1 |            4 | Hetero        | 2ast         |
 |            1 |          2 |            4 | Hetero        | 2ast         |
 |            2 |          3 |            4 | Hetero        | 2ast         |
-|            0 |          1 |            8 | Hetero        | 7b5m         |
-|            0 |          1 |            3 | Hetero        | 6p8e         |
-|            0 |          1 |            3 | Hetero        | 6p8g         |
-|            0 |          1 |            3 | Hetero        | 6ath         |
-|            0 |          1 |            7 | Hetero        | 8bya         |
+|            0 |          1 |            3 | Hetero        | 1h27         |
+|            1 |          2 |            2 | Hetero        | 1h27         |
 |            0 |          1 |            2 | Hetero        | 7orh         |
-|            0 |          1 |            3 | Hetero        | 5uq3         |
-|            0 |          1 |            3 | Hetero        | 8bzo         |
-|            0 |          1 |            3 | Hetero        | 6p8f         |
-|            0 |          1 |           11 | Hetero        | 7b5l         |
-|            0 |          1 |            2 | Hetero        | 7or8         |
-|            0 |          1 |            2 | Hetero        | 7ort         |
-|            0 |          1 |            4 | Hetero        | 8byl         |
-|            0 |          1 |            7 | Hetero        | 7b5r         |
-|            0 |          1 |            2 | Hetero        | 7ors         |
 
 ## Combined Per-Residue Information
 

@@ -26,7 +26,7 @@
 - **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 361
 - **Max n_uniprots (Homo)**: 1.0
-- **Max n_uniprots (Hetero)**: 4.0
+- **Max n_uniprots (Hetero)**: 2.0
 
 
 ## Expression Comparison
@@ -101,15 +101,15 @@ P52701-4 <span style='background-color: yellow;'>-</span><span style='background
 
 ## Biological Assemblies
 
-|   Unnamed: 0 | crystal_id   |   assembly |   n_uniprots | composition   |
-|-------------:|:-------------|-----------:|-------------:|:--------------|
-|            0 | 8ag6         |          1 |            4 | Hetero        |
-|            0 | 2o8e         |          1 |            4 | Hetero        |
-|            0 | 2o8b         |          1 |            4 | Hetero        |
-|            0 | 2o8c         |          1 |            4 | Hetero        |
-|            0 | 6oqm         |          1 |            1 | Homo          |
-|            0 | 2o8d         |          1 |            4 | Hetero        |
-|            0 | 2o8f         |          1 |            4 | Hetero        |
+|   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
+|-------------:|-----------:|-------------:|:--------------|:-------------|
+|            0 |          1 |            1 | Homo          | 6oqm         |
+|            0 |          1 |            2 | Hetero        | 2o8c         |
+|            0 |          1 |            2 | Hetero        | 8ag6         |
+|            0 |          1 |            2 | Hetero        | 2o8e         |
+|            0 |          1 |            2 | Hetero        | 2o8f         |
+|            0 |          1 |            2 | Hetero        | 2o8b         |
+|            0 |          1 |            2 | Hetero        | 2o8d         |
 
 ## Combined Per-Residue Information
 

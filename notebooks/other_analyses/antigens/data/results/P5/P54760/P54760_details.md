@@ -21,13 +21,17 @@
 - **Biomarker Application**:  
 - **Number of Isoforms**: 4
 - **Regulation**: 1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
+- **(transcriptomics) AUC**: 0.28
+- **(transcriptomics) Fold Change**: 1.04
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 242
-- **Max n_uniprots (Homo)**: 2
+- **Max n_uniprots (Homo)**: 1
 - **Max n_uniprots (Hetero)**: 2
 
+
+## Expression Comparison
+
+![Expression Comparison](./P54760_expression_comparison.png)
 
 ## Isoform Alignment
 
@@ -113,33 +117,33 @@ P54760-4 <span>M</span><span>E</span><span>L</span><span>R</span><span>V</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            1 | Homo          | 6fnm         |
-|            0 |          1 |            1 | Homo          | 2vwu         |
-|            0 |          1 |            1 | Homo          | 6fni         |
+|            0 |          1 |            1 | Homo          | 2xvd         |
 |            0 |          1 |            1 | Homo          | 2yn8         |
 |            1 |          2 |            1 | Homo          | 2yn8         |
-|            0 |          1 |            1 | Homo          | 2vww         |
-|            0 |          1 |            2 | Hetero        | 2hle         |
-|            0 |          1 |            1 | Homo          | 2xvd         |
-|            0 |          1 |            1 | Homo          | 2vwv         |
-|            0 |          1 |            1 | Homo          | 2vwx         |
-|            0 |          1 |            1 | Homo          | 2qkq         |
-|            1 |          2 |            1 | Homo          | 2qkq         |
-|            0 |          1 |            1 | Homo          | 4aw5         |
-|            0 |          1 |            1 | Homo          | 6fnl         |
-|            0 |          1 |            2 | Homo          | 2bba         |
-|            0 |          1 |            1 | Homo          | 2vwy         |
-|            0 |          1 |            1 | Homo          | 6fnj         |
-|            1 |          2 |            1 | Homo          | 6fnj         |
-|            0 |          1 |            1 | Homo          | 2vx0         |
-|            0 |          1 |            1 | Homo          | 2e7h         |
-|            0 |          1 |            1 | Homo          | 4bb4         |
-|            0 |          1 |            1 | Homo          | 2vwz         |
-|            0 |          1 |            1 | Homo          | 6fnk         |
 |            0 |          1 |            1 | Homo          | 2x9f         |
+|            0 |          1 |            1 | Homo          | 2vwx         |
+|            0 |          1 |            1 | Homo          | 2vwv         |
+|            0 |          1 |            1 | Homo          | 2vx0         |
+|            0 |          1 |            1 | Homo          | 6fni         |
 |            0 |          1 |            1 | Homo          | 2vx1         |
+|            0 |          1 |            1 | Homo          | 6fnk         |
+|            0 |          1 |            1 | Homo          | 4bb4         |
 |            0 |          1 |            1 | Homo          | 3zew         |
 |            1 |          2 |            1 | Homo          | 3zew         |
+|            0 |          1 |            1 | Homo          | 6fnj         |
+|            1 |          2 |            1 | Homo          | 6fnj         |
+|            0 |          1 |            1 | Homo          | 6fnm         |
+|            0 |          1 |            1 | Homo          | 2vwu         |
+|            0 |          1 |            1 | Homo          | 2qkq         |
+|            1 |          2 |            1 | Homo          | 2qkq         |
+|            0 |          1 |            1 | Homo          | 2bba         |
+|            0 |          1 |            1 | Homo          | 2e7h         |
+|            0 |          1 |            1 | Homo          | 2vwz         |
+|            0 |          1 |            1 | Homo          | 6fnl         |
+|            0 |          1 |            1 | Homo          | 2vwy         |
+|            0 |          1 |            1 | Homo          | 4aw5         |
+|            0 |          1 |            1 | Homo          | 2vww         |
+|            0 |          1 |            2 | Hetero        | 2hle         |
 
 ## Combined Per-Residue Information
 

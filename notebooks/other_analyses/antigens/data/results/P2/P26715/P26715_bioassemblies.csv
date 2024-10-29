@@ -1,9 +1,9 @@
 ,assembly,n_uniprots,composition,crystal_id
 0,1,2,Hetero,2rmx
-0,1,2,Hetero,2yu7
 0,1,5,Hetero,3cii
 1,2,5,Hetero,3cii
-0,1,2,Hetero,3bdw
-1,2,2,Hetero,3bdw
 0,1,5,Hetero,3cdg
 1,2,5,Hetero,3cdg
+0,1,2,Hetero,3bdw
+1,2,2,Hetero,3bdw
+0,1,2,Hetero,2yu7

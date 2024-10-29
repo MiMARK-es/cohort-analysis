@@ -21,13 +21,17 @@
 - **Biomarker Application**: diagnosis,disease progression,efficacy,prognosis,unspecified application
 - **Number of Isoforms**: 0
 - **Regulation**: 1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 0.67
+- **(transcriptomics) Fold Change**: 1.17
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 102
-- **Max n_uniprots (Homo)**: 6
+- **Max n_uniprots (Homo)**: 2
 - **Max n_uniprots (Hetero)**: N/A
 
+
+## Expression Comparison
+
+![Expression Comparison](./P35354_expression_comparison.png)
 
 ## Interactors
 
@@ -78,13 +82,13 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            4 | Homo          | 5ikv         |
-|            0 |          1 |            6 | Homo          | 5ikt         |
-|            0 |          1 |            5 | Homo          | 5f19         |
-|            0 |          1 |            4 | Homo          | 5f1a         |
-|            0 |          1 |            4 | Homo          | 5ikr         |
-|            0 |          1 |            4 | Homo          | 5kir         |
-|            0 |          1 |            4 | Homo          | 5ikq         |
+|            0 |          1 |            2 | Homo          | 5ikv         |
+|            0 |          1 |            2 | Homo          | 5f19         |
+|            0 |          1 |            2 | Homo          | 5ikt         |
+|            0 |          1 |            2 | Homo          | 5ikr         |
+|            0 |          1 |            2 | Homo          | 5ikq         |
+|            0 |          1 |            2 | Homo          | 5kir         |
+|            0 |          1 |            2 | Homo          | 5f1a         |
 
 ## Combined Per-Residue Information
 

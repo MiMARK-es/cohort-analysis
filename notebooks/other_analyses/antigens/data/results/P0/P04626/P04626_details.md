@@ -25,8 +25,8 @@
 - **(transcriptomics) Fold Change**: 1.11
 - **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 291
-- **Max n_uniprots (Homo)**: 7.0
-- **Max n_uniprots (Hetero)**: 11.0
+- **Max n_uniprots (Homo)**: 2.0
+- **Max n_uniprots (Hetero)**: 5.0
 
 
 ## Expression Comparison
@@ -150,67 +150,51 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            3 | Hetero        | 3mzw         |
-|            0 |          1 |            4 | Homo          | 4hrn         |
-|            1 |          2 |            2 | Homo          | 4hrn         |
-|            2 |          3 |            2 | Homo          | 4hrn         |
-|            0 |          1 |            3 | Homo          | 8jyr         |
-|            0 |          1 |            5 | Homo          | 5o4g         |
-|            0 |          1 |            1 | Homo          | 3pp0         |
-|            1 |          2 |            1 | Homo          | 3pp0         |
-|            0 |          1 |            2 | Homo          | 3h3b         |
-|            1 |          2 |            2 | Homo          | 3h3b         |
-|            0 |          1 |            1 | Homo          | 8u8x         |
-|            0 |          1 |            4 | Homo          | 4hrm         |
-|            0 |          1 |            4 | Hetero        | 5k33         |
-|            0 |          1 |            3 | Hetero        | 6bgt         |
-|            0 |          1 |            6 | Hetero        | 6oge         |
-|            0 |          1 |            2 | Homo          | 5ob4         |
-|            0 |          1 |            8 | Hetero        | 7mn8         |
-|            0 |          1 |            7 | Homo          | 8pwh         |
+|            0 |          1 |            2 | Hetero        | 2l4k         |
+|            0 |          1 |            2 | Hetero        | 5k33         |
+|            0 |          1 |            1 | Homo          | 3be1         |
+|            0 |          1 |            1 | Homo          | 4hrl         |
+|            0 |          1 |            1 | Homo          | 6lbx         |
+|            0 |          1 |            0 | Hetero        | 8jyq         |
+|            1 |          2 |            0 | Hetero        | 8jyq         |
+|            0 |          1 |            1 | Homo          | 5my6         |
+|            0 |          1 |            3 | Hetero        | 8hgo         |
 |            0 |          1 |            1 | Homo          | 7pcd         |
-|            0 |          1 |            3 | Homo          | 1n8z         |
-|            0 |          1 |            2 | Hetero        | 1mw4         |
-|            0 |          1 |            3 | Homo          | 3wsq         |
-|            0 |          1 |            3 | Hetero        | 1qr1         |
-|            1 |          2 |            3 | Hetero        | 1qr1         |
+|            0 |          1 |            2 | Homo          | 4hrn         |
+|            1 |          2 |            1 | Homo          | 4hrn         |
+|            2 |          3 |            1 | Homo          | 4hrn         |
+|            0 |          1 |            1 | Homo          | 4gfu         |
+|            0 |          1 |            1 | Homo          | 1mfl         |
+|            0 |          1 |            2 | Hetero        | 4nnd         |
+|            1 |          2 |            2 | Hetero        | 4nnd         |
+|            2 |          3 |            2 | Hetero        | 4nnd         |
+|            3 |          4 |            2 | Hetero        | 4nnd         |
+|            0 |          1 |            1 | Homo          | 8ffj         |
+|            0 |          1 |            1 | Homo          | 8pwh         |
+|            0 |          1 |            1 | Homo          | 3h3b         |
+|            1 |          2 |            1 | Homo          | 3h3b         |
+|            0 |          1 |            1 | Homo          | 3n85         |
+|            0 |          1 |            2 | Homo          | 5ob4         |
+|            0 |          1 |            3 | Hetero        | 7mn6         |
+|            0 |          1 |            2 | Homo          | 2jwa         |
+|            0 |          1 |            1 | Homo          | 3wlw         |
+|            1 |          2 |            1 | Homo          | 3wlw         |
+|            0 |          1 |            1 | Homo          | 3wsq         |
+|            0 |          1 |            5 | Hetero        | 6oge         |
+|            0 |          1 |            1 | Homo          | 1n8z         |
+|            0 |          1 |            1 | Homo          | 6j71         |
+|            0 |          1 |            2 | Hetero        | 5kwg         |
 |            0 |          1 |            1 | Homo          | 3rcd         |
 |            1 |          2 |            1 | Homo          | 3rcd         |
 |            2 |          3 |            1 | Homo          | 3rcd         |
 |            3 |          4 |            1 | Homo          | 3rcd         |
 |            4 |          5 |            2 | Homo          | 3rcd         |
 |            5 |          6 |            2 | Homo          | 3rcd         |
-|            0 |          1 |            6 | Hetero        | 7mn6         |
-|            0 |          1 |            3 | Hetero        | 8jyq         |
-|            1 |          2 |            3 | Hetero        | 8jyq         |
-|            0 |          1 |            5 | Homo          | 3n85         |
-|            0 |          1 |            5 | Hetero        | 8hgp         |
+|            0 |          1 |            1 | Homo          | 1s78         |
+|            1 |          2 |            1 | Homo          | 1s78         |
+|            0 |          1 |            3 | Hetero        | 7mn8         |
 |            0 |          1 |            2 | Hetero        | 2ks1         |
-|            0 |          1 |            2 | Hetero        | 5kwg         |
-|            0 |          1 |            3 | Homo          | 3be1         |
-|            0 |          1 |           11 | Hetero        | 8u4k         |
-|            0 |          1 |            2 | Homo          | 1mfg         |
-|            0 |          1 |            5 | Homo          | 6att         |
-|            0 |          1 |            3 | Homo          | 5my6         |
-|            0 |          1 |            4 | Homo          | 8ffj         |
-|            0 |          1 |            6 | Hetero        | 7mn5         |
-|            0 |          1 |            2 | Hetero        | 5tqs         |
-|            1 |          2 |            2 | Hetero        | 5tqs         |
-|            2 |          3 |            2 | Hetero        | 5tqs         |
-|            3 |          4 |            2 | Hetero        | 5tqs         |
-|            0 |          1 |            2 | Hetero        | 2l4k         |
-|            0 |          1 |            5 | Homo          | 1s78         |
-|            1 |          2 |            6 | Homo          | 1s78         |
-|            0 |          1 |            2 | Hetero        | 4nnd         |
-|            1 |          2 |            2 | Hetero        | 4nnd         |
-|            2 |          3 |            2 | Hetero        | 4nnd         |
-|            3 |          4 |            2 | Hetero        | 4nnd         |
-|            0 |          1 |            3 | Homo          | 6j71         |
-|            0 |          1 |            2 | Homo          | 2jwa         |
-|            0 |          1 |            2 | Homo          | 4gfu         |
-|            0 |          1 |            2 | Homo          | 4hrl         |
-|            0 |          1 |            2 | Homo          | 6lbx         |
-|            0 |          1 |            5 | Hetero        | 8hgo         |
+|            0 |          1 |            3 | Hetero        | 6bgt         |
 |            0 |          1 |            1 | Homo          | 7jxh         |
 |            1 |          2 |            1 | Homo          | 7jxh         |
 |            2 |          3 |            1 | Homo          | 7jxh         |
@@ -219,12 +203,28 @@
 |            5 |          6 |            1 | Homo          | 7jxh         |
 |            6 |          7 |            1 | Homo          | 7jxh         |
 |            7 |          8 |            1 | Homo          | 7jxh         |
-|            0 |          1 |            2 | Homo          | 1mfl         |
-|            0 |          1 |            2 | Homo          | 2a91         |
-|            0 |          1 |            4 | Homo          | 3wlw         |
-|            1 |          2 |            3 | Homo          | 3wlw         |
-|            0 |          1 |           11 | Hetero        | 8u4l         |
+|            0 |          1 |            3 | Hetero        | 8u4k         |
 |            0 |          1 |            2 | Homo          | 2n2a         |
+|            0 |          1 |            2 | Homo          | 4hrm         |
+|            0 |          1 |            1 | Homo          | 2a91         |
+|            0 |          1 |            1 | Homo          | 6att         |
+|            0 |          1 |            3 | Hetero        | 7mn5         |
+|            0 |          1 |            1 | Homo          | 3pp0         |
+|            1 |          2 |            1 | Homo          | 3pp0         |
+|            0 |          1 |            2 | Hetero        | 1mw4         |
+|            0 |          1 |            1 | Homo          | 5o4g         |
+|            0 |          1 |            1 | Homo          | 8jyr         |
+|            0 |          1 |            2 | Hetero        | 5tqs         |
+|            1 |          2 |            2 | Hetero        | 5tqs         |
+|            2 |          3 |            2 | Hetero        | 5tqs         |
+|            3 |          4 |            2 | Hetero        | 5tqs         |
+|            0 |          1 |            3 | Hetero        | 8hgp         |
+|            0 |          1 |            3 | Hetero        | 8u4l         |
+|            0 |          1 |            1 | Homo          | 8u8x         |
+|            0 |          1 |            3 | Hetero        | 1qr1         |
+|            1 |          2 |            3 | Hetero        | 1qr1         |
+|            0 |          1 |            1 | Homo          | 1mfg         |
+|            0 |          1 |            2 | Hetero        | 3mzw         |
 
 ## Combined Per-Residue Information
 

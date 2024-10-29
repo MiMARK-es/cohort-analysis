@@ -21,13 +21,17 @@
 - **Biomarker Application**:  
 - **Number of Isoforms**: 0
 - **Regulation**: 1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 0.77
+- **(transcriptomics) Fold Change**: 1.36
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 57
 - **Max n_uniprots (Homo)**: 4
 - **Max n_uniprots (Hetero)**: N/A
 
+
+## Expression Comparison
+
+![Expression Comparison](./P09758_expression_comparison.png)
 
 ## Interactors
 
@@ -45,13 +49,13 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            1 | Homo          | 2mvl         |
-|            0 |          1 |            3 | Homo          | 7pee         |
-|            1 |          2 |            3 | Homo          | 7pee         |
-|            0 |          1 |            2 | Homo          | 7e5m         |
-|            0 |          1 |            1 | Homo          | 2mae         |
-|            0 |          1 |            1 | Homo          | 2mvk         |
+|            0 |          1 |            2 | Homo          | 7pee         |
+|            1 |          2 |            2 | Homo          | 7pee         |
 |            0 |          1 |            4 | Homo          | 7e5n         |
+|            0 |          1 |            1 | Homo          | 2mae         |
+|            0 |          1 |            2 | Homo          | 7e5m         |
+|            0 |          1 |            1 | Homo          | 2mvl         |
+|            0 |          1 |            1 | Homo          | 2mvk         |
 
 ## Combined Per-Residue Information
 

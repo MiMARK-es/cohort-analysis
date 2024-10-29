@@ -26,7 +26,7 @@
 - **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 14
 - **Max n_uniprots (Homo)**: 2
-- **Max n_uniprots (Hetero)**: 6
+- **Max n_uniprots (Hetero)**: 4
 
 
 ## Expression Comparison
@@ -117,15 +117,15 @@ P78556-2 <span>M</span><span>C</span><span>C</span><span>T</span><span>K</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            1 | Homo          | 1m8a         |
-|            1 |          2 |            1 | Homo          | 1m8a         |
+|            0 |          1 |            2 | Homo          | 2hci         |
+|            0 |          1 |            2 | Homo          | 5ur7         |
+|            0 |          1 |            1 | Homo          | 2jyo         |
+|            0 |          1 |            4 | Hetero        | 6wwz         |
 |            0 |          1 |            2 | Homo          | 7t1e         |
 |            1 |          2 |            2 | Homo          | 7t1e         |
 |            2 |          3 |            1 | Homo          | 7t1e         |
-|            0 |          1 |            1 | Homo          | 2jyo         |
-|            0 |          1 |            2 | Homo          | 5ur7         |
-|            0 |          1 |            2 | Homo          | 2hci         |
-|            0 |          1 |            6 | Hetero        | 6wwz         |
+|            0 |          1 |            1 | Homo          | 1m8a         |
+|            1 |          2 |            1 | Homo          | 1m8a         |
 
 ## Combined Per-Residue Information
 

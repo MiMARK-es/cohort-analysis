@@ -25,7 +25,7 @@
 - **(transcriptomics) Fold Change**: 1.84
 - **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 6
-- **Max n_uniprots (Homo)**: 4
+- **Max n_uniprots (Homo)**: 1
 - **Max n_uniprots (Hetero)**: N/A
 
 
@@ -82,8 +82,8 @@ P10451-5 <span>M</span><span>R</span><span>I</span><span>A</span><span>V</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            4 | Homo          | 3dsf         |
-|            0 |          1 |            4 | Homo          | 3cxd         |
+|            0 |          1 |            1 | Homo          | 3cxd         |
+|            0 |          1 |            1 | Homo          | 3dsf         |
 
 ## Combined Per-Residue Information
 

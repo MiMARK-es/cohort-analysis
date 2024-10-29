@@ -26,7 +26,7 @@
 - **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 66
 - **Max n_uniprots (Homo)**: 1
-- **Max n_uniprots (Hetero)**: 11
+- **Max n_uniprots (Hetero)**: 10
 
 
 ## Expression Comparison
@@ -123,20 +123,20 @@ P14635-2 <span>M</span><span>A</span><span>L</span><span>R</span><span>V</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            3 | Hetero        | 6gu4         |
-|            0 |          1 |            4 | Hetero        | 7nj0         |
-|            0 |          1 |            3 | Hetero        | 5lqf         |
-|            1 |          2 |            3 | Hetero        | 5lqf         |
-|            0 |          1 |            3 | Hetero        | 4yc3         |
-|            0 |          1 |           11 | Hetero        | 8tau         |
 |            0 |          1 |            3 | Hetero        | 4y72         |
-|            0 |          1 |            2 | Hetero        | 2jgz         |
-|            0 |          1 |            3 | Hetero        | 6gu2         |
-|            0 |          1 |            3 | Hetero        | 6gu3         |
 |            0 |          1 |            1 | Homo          | 2b9r         |
 |            1 |          2 |            1 | Homo          | 2b9r         |
+|            0 |          1 |            3 | Hetero        | 6gu3         |
+|            0 |          1 |            3 | Hetero        | 5lqf         |
+|            1 |          2 |            3 | Hetero        | 5lqf         |
+|            0 |          1 |           10 | Hetero        | 8tau         |
+|            0 |          1 |            3 | Hetero        | 6gu2         |
 |            0 |          1 |            3 | Hetero        | 5hq0         |
-|            0 |          1 |           11 | Hetero        | 8tar         |
+|            0 |          1 |            3 | Hetero        | 4yc3         |
+|            0 |          1 |            2 | Hetero        | 2jgz         |
+|            0 |          1 |            4 | Hetero        | 7nj0         |
+|            0 |          1 |           10 | Hetero        | 8tar         |
+|            0 |          1 |            3 | Hetero        | 6gu4         |
 
 ## Combined Per-Residue Information
 

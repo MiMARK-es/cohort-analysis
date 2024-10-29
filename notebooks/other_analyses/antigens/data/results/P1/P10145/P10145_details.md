@@ -21,13 +21,17 @@
 - **Biomarker Application**: diagnosis,disease progression,efficacy,prognosis,response to therapy,safety,unspecified application
 - **Number of Isoforms**: 0
 - **Regulation**: 2
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 0.88
+- **(transcriptomics) Fold Change**: 1.89
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 15
-- **Max n_uniprots (Homo)**: 6
-- **Max n_uniprots (Hetero)**: 7
+- **Max n_uniprots (Homo)**: 4
+- **Max n_uniprots (Hetero)**: 6
 
+
+## Expression Comparison
+
+![Expression Comparison](./P10145_expression_comparison.png)
 
 ## Interactors
 
@@ -105,27 +109,27 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            7 | Hetero        | 6lfm         |
-|            0 |          1 |            6 | Hetero        | 6lfo         |
-|            0 |          1 |            2 | Homo          | 1il8         |
-|            0 |          1 |            1 | Homo          | 1ikl         |
-|            0 |          1 |            1 | Homo          | 1ikm         |
-|            0 |          1 |            6 | Hetero        | 8ic0         |
+|            0 |          1 |            5 | Hetero        | 6lfo         |
+|            0 |          1 |            1 | Homo          | 5wdz         |
+|            0 |          1 |            1 | Homo          | 4xdx         |
+|            0 |          1 |            2 | Homo          | 1rod         |
+|            0 |          1 |            2 | Homo          | 6wzm         |
 |            0 |          1 |            1 | Homo          | 3il8         |
-|            0 |          1 |            2 | Homo          | 1icw         |
 |            0 |          1 |            2 | Homo          | 2il8         |
-|            0 |          1 |            6 | Homo          | 6wzm         |
+|            0 |          1 |            1 | Homo          | 6n2u         |
+|            0 |          1 |            2 | Hetero        | 6xmn         |
+|            0 |          1 |            5 | Hetero        | 8ic0         |
+|            0 |          1 |            1 | Homo          | 5d14         |
+|            0 |          1 |            3 | Hetero        | 1ilp         |
+|            0 |          1 |            1 | Homo          | 1ikm         |
 |            0 |          1 |            3 | Hetero        | 1ilq         |
+|            0 |          1 |            1 | Homo          | 1ikl         |
+|            0 |          1 |            2 | Homo          | 1il8         |
 |            0 |          1 |            2 | Homo          | 1qe6         |
 |            1 |          2 |            2 | Homo          | 1qe6         |
 |            2 |          3 |            4 | Homo          | 1qe6         |
-|            0 |          1 |            1 | Homo          | 6n2u         |
-|            0 |          1 |            1 | Homo          | 5wdz         |
-|            0 |          1 |            1 | Homo          | 5d14         |
-|            0 |          1 |            2 | Homo          | 1rod         |
-|            0 |          1 |            3 | Hetero        | 1ilp         |
-|            0 |          1 |            1 | Homo          | 4xdx         |
-|            0 |          1 |            2 | Hetero        | 6xmn         |
+|            0 |          1 |            6 | Hetero        | 6lfm         |
+|            0 |          1 |            2 | Homo          | 1icw         |
 
 ## Combined Per-Residue Information
 

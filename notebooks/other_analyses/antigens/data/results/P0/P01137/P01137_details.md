@@ -26,7 +26,7 @@
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 94
 - **Max n_uniprots (Homo)**: 2
-- **Max n_uniprots (Hetero)**: 11
+- **Max n_uniprots (Hetero)**: 10
 
 
 ## Expression Comparison
@@ -127,24 +127,24 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            2 | Homo          | 4kv5         |
-|            1 |          2 |            2 | Homo          | 4kv5         |
-|            2 |          3 |            1 | Hetero        | 4kv5         |
-|            3 |          4 |            1 | Hetero        | 4kv5         |
-|            4 |          5 |            1 | Hetero        | 4kv5         |
-|            5 |          6 |            1 | Hetero        | 4kv5         |
-|            0 |          1 |           11 | Hetero        | 6om2         |
+|            0 |          1 |            1 | Homo          | 6p7j         |
+|            0 |          1 |            3 | Hetero        | 7y1t         |
 |            0 |          1 |            2 | Homo          | 1kla         |
-|            0 |          1 |            7 | Hetero        | 7y1t         |
-|            0 |          1 |            2 | Homo          | 1kld         |
-|            0 |          1 |           11 | Hetero        | 5ffo         |
+|            0 |          1 |            3 | Hetero        | 7y1r         |
 |            0 |          1 |            2 | Homo          | 1klc         |
 |            0 |          1 |            6 | Hetero        | 3kfd         |
 |            1 |          2 |            6 | Hetero        | 3kfd         |
-|            2 |          3 |           11 | Hetero        | 3kfd         |
-|            0 |          1 |            1 | Homo          | 6p7j         |
-|            0 |          1 |           10 | Hetero        | 7y1r         |
-|            0 |          1 |            2 | Homo          | 5vqp         |
+|            2 |          3 |           10 | Hetero        | 3kfd         |
+|            0 |          1 |            2 | Homo          | 4kv5         |
+|            1 |          2 |            2 | Homo          | 4kv5         |
+|            2 |          3 |            0 | Hetero        | 4kv5         |
+|            3 |          4 |            0 | Hetero        | 4kv5         |
+|            4 |          5 |            0 | Hetero        | 4kv5         |
+|            5 |          6 |            0 | Hetero        | 4kv5         |
+|            0 |          1 |            8 | Hetero        | 5ffo         |
+|            0 |          1 |            1 | Homo          | 5vqp         |
+|            0 |          1 |            4 | Hetero        | 6om2         |
+|            0 |          1 |            2 | Homo          | 1kld         |
 
 ## Combined Per-Residue Information
 

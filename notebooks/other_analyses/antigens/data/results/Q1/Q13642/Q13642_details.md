@@ -119,10 +119,10 @@ Q13642-5 <span style='background-color: yellow;'>-</span><span style='background
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            1 | Homo          | 2cur         |
 |            0 |          1 |            1 | Homo          | 2cup         |
-|            0 |          1 |            1 | Homo          | 1x63         |
+|            0 |          1 |            1 | Homo          | 2cur         |
 |            0 |          1 |            1 | Homo          | 2egq         |
+|            0 |          1 |            1 | Homo          | 1x63         |
 
 ## Combined Per-Residue Information
 

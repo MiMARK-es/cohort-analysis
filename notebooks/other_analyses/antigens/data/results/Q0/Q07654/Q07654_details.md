@@ -52,9 +52,9 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
+|            0 |          1 |            1 | Homo          | 6v1c         |
 |            0 |          1 |            2 | Homo          | 1pe3         |
 |            0 |          1 |            1 | Homo          | 1e9t         |
-|            0 |          1 |            2 | Homo          | 6v1c         |
 
 ## Combined Per-Residue Information
 

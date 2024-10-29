@@ -26,7 +26,7 @@
 - **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 95
 - **Max n_uniprots (Homo)**: 1.0
-- **Max n_uniprots (Hetero)**: 11.0
+- **Max n_uniprots (Hetero)**: 10.0
 
 
 ## Expression Comparison
@@ -100,47 +100,47 @@
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
 |            0 |          1 |            2 | Hetero        | 3k7w         |
-|            0 |          1 |            4 | Hetero        | 2nyl         |
-|            1 |          2 |            4 | Hetero        | 2nyl         |
-|            0 |          1 |            4 | Hetero        | 2nym         |
-|            1 |          2 |            4 | Hetero        | 2nym         |
-|            0 |          1 |            3 | Hetero        | 8u89         |
-|            0 |          1 |           11 | Hetero        | 8rbz         |
-|            0 |          1 |            3 | Hetero        | 6nts         |
-|            0 |          1 |            3 | Hetero        | 8twi         |
-|            0 |          1 |            4 | Hetero        | 8so0         |
-|            0 |          1 |            3 | Hetero        | 3c5w         |
-|            0 |          1 |            4 | Hetero        | 2npp         |
-|            1 |          2 |            4 | Hetero        | 2npp         |
-|            0 |          1 |            3 | Hetero        | 2ie3         |
-|            0 |          1 |            4 | Hetero        | 8twe         |
-|            0 |          1 |            4 | Hetero        | 7soy         |
-|            0 |          1 |            4 | Hetero        | 6iur         |
-|            1 |          2 |            4 | Hetero        | 6iur         |
-|            0 |          1 |            3 | Hetero        | 4lac         |
-|            0 |          1 |            4 | Hetero        | 4i5l         |
-|            1 |          2 |            4 | Hetero        | 4i5l         |
 |            0 |          1 |            1 | Homo          | 1b3u         |
-|            1 |          2 |            1 | Hetero        | 1b3u         |
-|            0 |          1 |            2 | Hetero        | 3k7v         |
-|            0 |          1 |            2 | Hetero        | 2pkg         |
-|            1 |          2 |            2 | Hetero        | 2pkg         |
-|            0 |          1 |            4 | Hetero        | 4i5n         |
-|            1 |          2 |            4 | Hetero        | 4i5n         |
-|            0 |          1 |           11 | Hetero        | 7cun         |
-|            0 |          1 |            3 | Hetero        | 8u1x         |
-|            0 |          1 |            2 | Hetero        | 2ie4         |
+|            1 |          2 |            0 | Hetero        | 1b3u         |
+|            0 |          1 |            9 | Hetero        | 7k36         |
+|            0 |          1 |            3 | Hetero        | 4i5n         |
+|            1 |          2 |            3 | Hetero        | 4i5n         |
+|            0 |          1 |            4 | Hetero        | 8so0         |
+|            0 |          1 |           10 | Hetero        | 7cun         |
+|            0 |          1 |            2 | Hetero        | 2ie3         |
+|            0 |          1 |            3 | Hetero        | 2nym         |
+|            1 |          2 |            3 | Hetero        | 2nym         |
 |            0 |          1 |            3 | Hetero        | 5w0w         |
 |            1 |          2 |            3 | Hetero        | 5w0w         |
 |            2 |          3 |            3 | Hetero        | 5w0w         |
 |            3 |          4 |            3 | Hetero        | 5w0w         |
-|            0 |          1 |            9 | Hetero        | 7k36         |
-|            0 |          1 |            4 | Hetero        | 3dw8         |
-|            1 |          2 |            4 | Hetero        | 3dw8         |
 |            0 |          1 |            3 | Hetero        | 8uwb         |
 |            1 |          2 |            3 | Hetero        | 8uwb         |
-|            0 |          1 |           11 | Hetero        | 8rc4         |
+|            0 |          1 |            4 | Hetero        | 7soy         |
+|            0 |          1 |            3 | Hetero        | 2npp         |
+|            1 |          2 |            3 | Hetero        | 2npp         |
+|            0 |          1 |            2 | Hetero        | 2ie4         |
+|            0 |          1 |            3 | Hetero        | 4i5l         |
+|            1 |          2 |            3 | Hetero        | 4i5l         |
+|            0 |          1 |            2 | Hetero        | 4lac         |
+|            0 |          1 |            3 | Hetero        | 3c5w         |
+|            0 |          1 |            9 | Hetero        | 8rc4         |
+|            0 |          1 |            4 | Hetero        | 8twe         |
+|            0 |          1 |            3 | Hetero        | 8twi         |
+|            0 |          1 |            3 | Hetero        | 8u89         |
+|            0 |          1 |            3 | Hetero        | 2nyl         |
+|            1 |          2 |            3 | Hetero        | 2nyl         |
+|            0 |          1 |            2 | Hetero        | 3k7v         |
 |            0 |          1 |            4 | Hetero        | 8ttb         |
+|            0 |          1 |            2 | Hetero        | 2pkg         |
+|            1 |          2 |            2 | Hetero        | 2pkg         |
+|            0 |          1 |            3 | Hetero        | 3dw8         |
+|            1 |          2 |            3 | Hetero        | 3dw8         |
+|            0 |          1 |            3 | Hetero        | 6nts         |
+|            0 |          1 |            4 | Hetero        | 6iur         |
+|            1 |          2 |            4 | Hetero        | 6iur         |
+|            0 |          1 |            9 | Hetero        | 8rbz         |
+|            0 |          1 |            3 | Hetero        | 8u1x         |
 
 ## Combined Per-Residue Information
 

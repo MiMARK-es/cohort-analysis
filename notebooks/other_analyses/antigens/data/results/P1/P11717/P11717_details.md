@@ -21,13 +21,17 @@
 - **Biomarker Application**: diagnosis
 - **Number of Isoforms**: 0
 - **Regulation**: 1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 0.57
+- **(transcriptomics) Fold Change**: 1.01
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: N/A
-- **Max n_uniprots (Homo)**: 2
+- **Max n_uniprots (Homo)**: 1
 - **Max n_uniprots (Hetero)**: 8
 
+
+## Expression Comparison
+
+![Expression Comparison](./P11717_expression_comparison.png)
 
 ## Interactors
 
@@ -54,24 +58,23 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            2 | Hetero        | 2l29         |
+|            0 |          1 |            1 | Homo          | 2m6t         |
 |            0 |          1 |            1 | Homo          | 1e6f         |
 |            1 |          2 |            1 | Homo          | 1e6f         |
-|            0 |          1 |            2 | Homo          | 6p8i         |
-|            0 |          1 |            2 | Homo          | 6z32         |
-|            1 |          2 |            2 | Homo          | 6z32         |
+|            0 |          1 |            1 | Homo          | 6p8i         |
+|            0 |          1 |            1 | Homo          | 1gp0         |
+|            0 |          1 |            1 | Homo          | 2cnj         |
+|            0 |          1 |            3 | Hetero        | 8afz         |
+|            0 |          1 |            1 | Homo          | 6z32         |
+|            1 |          2 |            1 | Homo          | 6z32         |
+|            0 |          1 |            2 | Hetero        | 2v5p         |
+|            1 |          2 |            2 | Hetero        | 2v5p         |
+|            0 |          1 |            2 | Hetero        | 2l29         |
+|            0 |          1 |            1 | Homo          | 2l2a         |
 |            0 |          1 |            2 | Hetero        | 1lf8         |
 |            1 |          2 |            2 | Hetero        | 1lf8         |
 |            2 |          3 |            2 | Hetero        | 1lf8         |
 |            3 |          4 |            2 | Hetero        | 1lf8         |
-|            0 |          1 |            1 | Homo          | 1gp0         |
-|            0 |          1 |            1 | Homo          | 6n5y         |
-|            0 |          1 |            1 | Homo          | 2m68         |
-|            0 |          1 |            1 | Homo          | 2cnj         |
-|            0 |          1 |            1 | Homo          | 5iei         |
-|            0 |          1 |            1 | Homo          | 2m6t         |
-|            0 |          1 |            2 | Homo          | 6z30         |
-|            0 |          1 |            1 | Homo          | 6v02         |
 |            0 |          1 |            2 | Hetero        | 1jpl         |
 |            1 |          2 |            2 | Hetero        | 1jpl         |
 |            2 |          3 |            2 | Hetero        | 1jpl         |
@@ -82,20 +85,21 @@
 |            7 |          8 |            8 | Hetero        | 1jpl         |
 |            8 |          9 |            4 | Hetero        | 1jpl         |
 |            9 |         10 |            4 | Hetero        | 1jpl         |
-|            0 |          1 |            3 | Hetero        | 2v5p         |
-|            1 |          2 |            2 | Hetero        | 2v5p         |
-|            0 |          1 |            1 | Homo          | 6z31         |
-|            1 |          2 |            1 | Homo          | 6z31         |
-|            0 |          1 |            1 | Homo          | 2l2a         |
-|            0 |          1 |            1 | Homo          | 2v5o         |
-|            0 |          1 |            1 | Homo          | 1gp3         |
+|            0 |          1 |            1 | Homo          | 6z30         |
+|            0 |          1 |            1 | Homo          | 2m68         |
 |            0 |          1 |            1 | Homo          | 6n5x         |
-|            0 |          1 |            1 | Homo          | 1gqb         |
-|            1 |          2 |            1 | Homo          | 1gqb         |
+|            0 |          1 |            1 | Homo          | 2v5n         |
 |            0 |          1 |            2 | Hetero        | 1jwg         |
 |            1 |          2 |            2 | Hetero        | 1jwg         |
-|            0 |          1 |            3 | Hetero        | 8afz         |
-|            0 |          1 |            1 | Homo          | 2v5n         |
+|            0 |          1 |            1 | Homo          | 1gqb         |
+|            1 |          2 |            1 | Homo          | 1gqb         |
+|            0 |          1 |            1 | Homo          | 6v02         |
+|            0 |          1 |            1 | Homo          | 6n5y         |
+|            0 |          1 |            1 | Homo          | 2v5o         |
+|            0 |          1 |            1 | Homo          | 5iei         |
+|            0 |          1 |            1 | Homo          | 6z31         |
+|            1 |          2 |            1 | Homo          | 6z31         |
+|            0 |          1 |            1 | Homo          | 1gp3         |
 
 ## Combined Per-Residue Information
 

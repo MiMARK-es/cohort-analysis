@@ -39,13 +39,17 @@ Name: biomarker_application, dtype: object
 P24864    2
 P24864    1
 Name: up_down_regulated, dtype: int64
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 1.0
+- **(transcriptomics) Fold Change**: 2.30
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 95
 - **Max n_uniprots (Homo)**: N/A
 - **Max n_uniprots (Hetero)**: 2.0
 
+
+## Expression Comparison
+
+![Expression Comparison](./P24864_expression_comparison.png)
 
 ## Isoform Alignment
 
@@ -113,13 +117,13 @@ P24864-3 <span style='background-color: yellow;'>-</span><span style='background
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            2 | Hetero        | 8h6p         |
-|            0 |          1 |            2 | Hetero        | 5l2w         |
 |            0 |          1 |            2 | Hetero        | 7kjs         |
-|            0 |          1 |            2 | Hetero        | 1w98         |
-|            0 |          1 |            2 | Hetero        | 7xqk         |
+|            0 |          1 |            2 | Hetero        | 8h6p         |
 |            0 |          1 |            2 | Hetero        | 8h4r         |
+|            0 |          1 |            2 | Hetero        | 1w98         |
+|            0 |          1 |            2 | Hetero        | 5l2w         |
 |            0 |          1 |            2 | Hetero        | 8h6t         |
+|            0 |          1 |            2 | Hetero        | 7xqk         |
 
 ## Combined Per-Residue Information
 

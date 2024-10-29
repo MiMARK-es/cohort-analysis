@@ -21,13 +21,17 @@
 - **Biomarker Application**: diagnosis,efficacy,prognosis,safety,unspecified application
 - **Number of Isoforms**: 4
 - **Regulation**: 1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
+- **(transcriptomics) AUC**: 0.32
+- **(transcriptomics) Fold Change**: 1.08
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 144
 - **Max n_uniprots (Homo)**: 2
 - **Max n_uniprots (Hetero)**: 2
 
+
+## Expression Comparison
+
+![Expression Comparison](./P00750_expression_comparison.png)
 
 ## Isoform Alignment
 
@@ -82,23 +86,23 @@ P00750-4 <span style='background-color: yellow;'>-</span><span style='background
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            1 | Homo          | 1tpg         |
 |            0 |          1 |            1 | Homo          | 1tpk         |
 |            1 |          2 |            1 | Homo          | 1tpk         |
 |            2 |          3 |            1 | Homo          | 1tpk         |
-|            0 |          1 |            2 | Hetero        | 5zlz         |
-|            0 |          1 |            2 | Homo          | 1rtf         |
-|            0 |          1 |            1 | Homo          | 1pk2         |
-|            0 |          1 |            1 | Homo          | 1bda         |
-|            1 |          2 |            1 | Homo          | 1bda         |
 |            0 |          1 |            1 | Homo          | 1tpn         |
-|            0 |          1 |            2 | Homo          | 1a5h         |
-|            1 |          2 |            2 | Homo          | 1a5h         |
+|            0 |          1 |            1 | Homo          | 1rtf         |
+|            0 |          1 |            1 | Homo          | 1tpg         |
+|            0 |          1 |            2 | Hetero        | 5brr         |
+|            0 |          1 |            1 | Homo          | 1tpm         |
 |            0 |          1 |            1 | Homo          | 1pml         |
 |            1 |          2 |            1 | Homo          | 1pml         |
 |            2 |          3 |            1 | Homo          | 1pml         |
-|            0 |          1 |            2 | Hetero        | 5brr         |
-|            0 |          1 |            1 | Homo          | 1tpm         |
+|            0 |          1 |            1 | Homo          | 1pk2         |
+|            0 |          1 |            1 | Homo          | 1bda         |
+|            1 |          2 |            1 | Homo          | 1bda         |
+|            0 |          1 |            2 | Homo          | 1a5h         |
+|            1 |          2 |            2 | Homo          | 1a5h         |
+|            0 |          1 |            2 | Hetero        | 5zlz         |
 
 ## Combined Per-Residue Information
 

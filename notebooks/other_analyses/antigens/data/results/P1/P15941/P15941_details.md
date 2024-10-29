@@ -25,7 +25,7 @@
 - **(transcriptomics) Fold Change**: 1.05
 - **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 430
-- **Max n_uniprots (Homo)**: 3
+- **Max n_uniprots (Homo)**: 2
 - **Max n_uniprots (Hetero)**: 4
 
 
@@ -97,33 +97,33 @@ P15941-17 <span style='background-color: yellow;'>-</span><span style='backgroun
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            3 | Homo          | 7v64         |
-|            0 |          1 |            3 | Hetero        | 6kx1         |
-|            0 |          1 |            3 | Hetero        | 5t6p         |
-|            1 |          2 |            3 | Hetero        | 5t6p         |
-|            0 |          1 |            3 | Hetero        | 5t78         |
-|            1 |          2 |            3 | Hetero        | 5t78         |
-|            0 |          1 |            3 | Homo          | 7v8q         |
-|            1 |          2 |            3 | Homo          | 7v8q         |
-|            2 |          3 |            3 | Homo          | 7v8q         |
-|            0 |          1 |            2 | Homo          | 8axh         |
-|            0 |          1 |            3 | Homo          | 8p6i         |
-|            1 |          2 |            3 | Homo          | 8p6i         |
 |            0 |          1 |            2 | Homo          | 2acm         |
-|            0 |          1 |            3 | Homo          | 7v4w         |
-|            0 |          1 |            3 | Homo          | 7v7k         |
-|            0 |          1 |            2 | Homo          | 6tgg         |
-|            0 |          1 |            3 | Homo          | 7vac         |
-|            1 |          2 |            3 | Homo          | 7vac         |
-|            2 |          3 |            3 | Homo          | 7vac         |
-|            0 |          1 |            2 | Homo          | 6fzq         |
+|            0 |          1 |            0 | Hetero        | 5t78         |
+|            1 |          2 |            0 | Hetero        | 5t78         |
+|            0 |          1 |            1 | Homo          | 6fzq         |
+|            0 |          1 |            1 | Homo          | 6fzr         |
 |            0 |          1 |            4 | Hetero        | 7q4i         |
-|            0 |          1 |            3 | Homo          | 7vaz         |
-|            1 |          2 |            3 | Homo          | 7vaz         |
-|            2 |          3 |            3 | Homo          | 7vaz         |
-|            0 |          1 |            4 | Hetero        | 2fo4         |
+|            0 |          1 |            3 | Hetero        | 2fo4         |
+|            0 |          1 |            1 | Homo          | 7v8q         |
+|            1 |          2 |            1 | Homo          | 7v8q         |
+|            2 |          3 |            1 | Homo          | 7v8q         |
+|            0 |          1 |            1 | Homo          | 7vaz         |
+|            1 |          2 |            1 | Homo          | 7vaz         |
+|            2 |          3 |            1 | Homo          | 7vaz         |
 |            0 |          1 |            3 | Hetero        | 1sm3         |
-|            0 |          1 |            2 | Homo          | 6fzr         |
+|            0 |          1 |            0 | Hetero        | 6kx1         |
+|            0 |          1 |            1 | Homo          | 8axh         |
+|            0 |          1 |            1 | Homo          | 7v4w         |
+|            0 |          1 |            1 | Homo          | 7vac         |
+|            1 |          2 |            1 | Homo          | 7vac         |
+|            2 |          3 |            1 | Homo          | 7vac         |
+|            0 |          1 |            1 | Homo          | 6tgg         |
+|            0 |          1 |            1 | Homo          | 8p6i         |
+|            1 |          2 |            1 | Homo          | 8p6i         |
+|            0 |          1 |            0 | Hetero        | 5t6p         |
+|            1 |          2 |            0 | Hetero        | 5t6p         |
+|            0 |          1 |            1 | Homo          | 7v7k         |
+|            0 |          1 |            1 | Homo          | 7v64         |
 
 ## Combined Per-Residue Information
 

@@ -25,8 +25,8 @@
 - **(transcriptomics) Fold Change**: 1.24
 - **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 219
-- **Max n_uniprots (Homo)**: 4
-- **Max n_uniprots (Hetero)**: 4
+- **Max n_uniprots (Homo)**: 1
+- **Max n_uniprots (Hetero)**: 2
 
 
 ## Expression Comparison
@@ -108,22 +108,22 @@ P43246-2 <span style='background-color: yellow;'>-</span><span style='background
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            4 | Hetero        | 8om9         |
-|            0 |          1 |            4 | Homo          | 3thx         |
+|            0 |          1 |            1 | Homo          | 3thy         |
+|            0 |          1 |            2 | Hetero        | 8olx         |
+|            0 |          1 |            2 | Hetero        | 2o8c         |
+|            0 |          1 |            2 | Hetero        | 8ag6         |
+|            0 |          1 |            1 | Homo          | 3thw         |
 |            0 |          1 |            2 | Hetero        | 8om5         |
-|            0 |          1 |            4 | Homo          | 3thy         |
-|            0 |          1 |            4 | Hetero        | 8olx         |
-|            0 |          1 |            2 | Hetero        | 8omo         |
-|            0 |          1 |            4 | Hetero        | 8ag6         |
-|            0 |          1 |            4 | Hetero        | 2o8e         |
-|            0 |          1 |            4 | Hetero        | 8oma         |
-|            0 |          1 |            4 | Hetero        | 2o8b         |
-|            0 |          1 |            4 | Hetero        | 2o8c         |
-|            0 |          1 |            4 | Homo          | 3thz         |
-|            0 |          1 |            3 | Homo          | 3thw         |
+|            0 |          1 |            2 | Hetero        | 8om9         |
+|            0 |          1 |            2 | Hetero        | 2o8e         |
+|            0 |          1 |            2 | Hetero        | 2o8f         |
+|            0 |          1 |            1 | Homo          | 3thz         |
+|            0 |          1 |            2 | Hetero        | 2o8b         |
 |            0 |          1 |            2 | Hetero        | 8omq         |
-|            0 |          1 |            4 | Hetero        | 2o8d         |
-|            0 |          1 |            4 | Hetero        | 2o8f         |
+|            0 |          1 |            2 | Hetero        | 8oma         |
+|            0 |          1 |            2 | Hetero        | 2o8d         |
+|            0 |          1 |            2 | Hetero        | 8omo         |
+|            0 |          1 |            1 | Homo          | 3thx         |
 
 ## Combined Per-Residue Information
 

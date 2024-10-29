@@ -63,14 +63,14 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            1 | Homo          | 1opp         |
-|            0 |          1 |            2 | Homo          | 6dz6         |
-|            0 |          1 |            2 | Homo          | 6dxr         |
-|            0 |          1 |            2 | Homo          | 6nf3         |
-|            0 |          1 |            1 | Homo          | 1ioj         |
-|            0 |          1 |            2 | Homo          | 6dvu         |
-|            0 |          1 |            1 | Homo          | 1ale         |
 |            0 |          1 |            1 | Homo          | 1alf         |
+|            0 |          1 |            2 | Homo          | 6dz6         |
+|            0 |          1 |            2 | Homo          | 6dvu         |
+|            0 |          1 |            2 | Homo          | 6dxr         |
+|            0 |          1 |            1 | Homo          | 1ioj         |
+|            0 |          1 |            2 | Homo          | 6nf3         |
+|            0 |          1 |            1 | Homo          | 1ale         |
+|            0 |          1 |            1 | Homo          | 1opp         |
 
 ## Combined Per-Residue Information
 

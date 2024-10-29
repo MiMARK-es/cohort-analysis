@@ -21,13 +21,17 @@
 - **Biomarker Application**: efficacy,unspecified application
 - **Number of Isoforms**: 0
 - **Regulation**: 1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
-- **(transcriptomics) Regulation**: Downregulated
+- **(transcriptomics) AUC**: 0.5
+- **(transcriptomics) Fold Change**: 1.12
+- **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 127
-- **Max n_uniprots (Homo)**: 3
-- **Max n_uniprots (Hetero)**: 4
+- **Max n_uniprots (Homo)**: 1
+- **Max n_uniprots (Hetero)**: 3
 
+
+## Expression Comparison
+
+![Expression Comparison](./P02788_expression_comparison.png)
 
 ## Interactors
 
@@ -65,43 +69,43 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            2 | Hetero        | 7n88         |
-|            0 |          1 |            1 | Homo          | 1bka         |
-|            0 |          1 |            3 | Homo          | 1lfi         |
-|            0 |          1 |            1 | Homo          | 1b0l         |
-|            0 |          1 |            1 | Homo          | 1fck         |
-|            0 |          1 |            3 | Homo          | 1sqy         |
-|            0 |          1 |            1 | Homo          | 1lcf         |
-|            0 |          1 |            1 | Homo          | 1z6v         |
+|            0 |          1 |            1 | Homo          | 1eh3         |
 |            0 |          1 |            1 | Homo          | 1h44         |
-|            0 |          1 |            1 | Homo          | 1vfe         |
-|            0 |          1 |            3 | Homo          | 1lfg         |
-|            0 |          1 |            1 | Homo          | 1lct         |
-|            0 |          1 |            1 | Homo          | 1u62         |
-|            0 |          1 |            1 | Homo          | 1dsn         |
-|            0 |          1 |            1 | Hetero        | 1xv4         |
-|            0 |          1 |            1 | Homo          | 1h43         |
-|            0 |          1 |            1 | Homo          | 2bjj         |
-|            0 |          1 |            1 | Hetero        | 2gmd         |
+|            0 |          1 |            0 | Hetero        | 1xv4         |
 |            0 |          1 |            1 | Homo          | 1vfd         |
-|            0 |          1 |            4 | Hetero        | 1lgb         |
-|            1 |          2 |            4 | Hetero        | 1lgb         |
-|            0 |          1 |            1 | Homo          | 1z6w         |
+|            0 |          1 |            1 | Homo          | 1hse         |
+|            0 |          1 |            1 | Homo          | 1lcf         |
+|            0 |          1 |            1 | Homo          | 1lfh         |
+|            0 |          1 |            1 | Homo          | 1n76         |
+|            0 |          1 |            1 | Homo          | 1sqy         |
+|            0 |          1 |            1 | Homo          | 2bjj         |
+|            0 |          1 |            3 | Hetero        | 1lgb         |
+|            1 |          2 |            3 | Hetero        | 1lgb         |
 |            0 |          1 |            2 | Hetero        | 2pms         |
 |            1 |          2 |            2 | Hetero        | 2pms         |
+|            0 |          1 |            1 | Homo          | 1lfi         |
+|            0 |          1 |            1 | Homo          | 1z6v         |
+|            0 |          1 |            2 | Hetero        | 7n88         |
+|            0 |          1 |            1 | Homo          | 1h43         |
+|            0 |          1 |            0 | Hetero        | 2gmc         |
+|            0 |          1 |            2 | Hetero        | 2hd4         |
+|            0 |          1 |            1 | Homo          | 1bka         |
+|            0 |          1 |            2 | Hetero        | 2dp4         |
+|            0 |          1 |            1 | Homo          | 1u62         |
+|            0 |          1 |            1 | Homo          | 1vfe         |
+|            0 |          1 |            1 | Homo          | 1lfg         |
 |            0 |          1 |            1 | Homo          | 1l5t         |
 |            1 |          2 |            1 | Homo          | 1l5t         |
-|            0 |          1 |            2 | Hetero        | 2hd4         |
-|            0 |          1 |            1 | Homo          | 1lfh         |
-|            0 |          1 |            2 | Hetero        | 7jrd         |
-|            0 |          1 |            1 | Hetero        | 1xv7         |
-|            0 |          1 |            1 | Homo          | 1n76         |
-|            0 |          1 |            1 | Hetero        | 2gmc         |
-|            0 |          1 |            1 | Homo          | 1eh3         |
-|            0 |          1 |            1 | Homo          | 1hse         |
-|            0 |          1 |            2 | Hetero        | 2dp4         |
-|            0 |          1 |            1 | Homo          | 1h45         |
+|            0 |          1 |            1 | Homo          | 1z6w         |
 |            0 |          1 |            1 | Homo          | 1cb6         |
+|            0 |          1 |            0 | Hetero        | 2gmd         |
+|            0 |          1 |            1 | Homo          | 1dsn         |
+|            0 |          1 |            2 | Hetero        | 7jrd         |
+|            0 |          1 |            1 | Homo          | 1fck         |
+|            0 |          1 |            0 | Hetero        | 1xv7         |
+|            0 |          1 |            1 | Homo          | 1b0l         |
+|            0 |          1 |            1 | Homo          | 1h45         |
+|            0 |          1 |            1 | Homo          | 1lct         |
 
 ## Combined Per-Residue Information
 

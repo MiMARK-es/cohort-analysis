@@ -1,5 +1,5 @@
-,assembly,n_uniprots,composition,crystal_id
-0,1,1.0,Homo,6dhs
-1,2,1.0,Homo,6dhs
-2,3,1.0,Homo,6dhs
-3,4,1.0,Homo,6dhs
+,crystal_id,assembly,n_uniprots,composition
+0,6dhs,1,1.0,Homo
+1,6dhs,2,1.0,Homo
+2,6dhs,3,1.0,Homo
+3,6dhs,4,1.0,Homo

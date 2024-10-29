@@ -21,13 +21,17 @@
 - **Biomarker Application**:  
 - **Number of Isoforms**: 2
 - **Regulation**: -1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
+- **(transcriptomics) AUC**: 0.27
+- **(transcriptomics) Fold Change**: 1.06
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 145
 - **Max n_uniprots (Homo)**: 4
 - **Max n_uniprots (Hetero)**: N/A
 
+
+## Expression Comparison
+
+![Expression Comparison](./Q16555_expression_comparison.png)
 
 ## Isoform Alignment
 
@@ -64,21 +68,21 @@ Q16555-2 <span style='background-color: yellow;'>-</span><span style='background
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            1 | Homo          | 7x68         |
-|            0 |          1 |            4 | Homo          | 8dnm         |
-|            0 |          1 |            4 | Homo          | 5mkv         |
-|            0 |          1 |            4 | Homo          | 2vm8         |
-|            0 |          1 |            1 | Homo          | 5x1a         |
-|            0 |          1 |            2 | Homo          | 5mle         |
-|            0 |          1 |            1 | Homo          | 5yza         |
-|            0 |          1 |            4 | Homo          | 2gse         |
-|            0 |          1 |            1 | Homo          | 5x1d         |
-|            0 |          1 |            1 | Homo          | 5yzb         |
-|            0 |          1 |            4 | Homo          | 6jvb         |
 |            0 |          1 |            1 | Homo          | 5yz5         |
-|            0 |          1 |            4 | Homo          | 6jv9         |
 |            0 |          1 |            2 | Homo          | 5x1c         |
+|            0 |          1 |            4 | Homo          | 2vm8         |
+|            0 |          1 |            1 | Homo          | 5yzb         |
+|            0 |          1 |            4 | Homo          | 8dnm         |
+|            0 |          1 |            4 | Homo          | 6jvb         |
+|            0 |          1 |            1 | Homo          | 5x1a         |
 |            0 |          1 |            2 | Homo          | 5lxx         |
+|            0 |          1 |            1 | Homo          | 7x68         |
+|            0 |          1 |            4 | Homo          | 5mkv         |
+|            0 |          1 |            1 | Homo          | 5x1d         |
+|            0 |          1 |            1 | Homo          | 5yza         |
+|            0 |          1 |            2 | Homo          | 5mle         |
+|            0 |          1 |            4 | Homo          | 2gse         |
+|            0 |          1 |            4 | Homo          | 6jv9         |
 
 ## Combined Per-Residue Information
 

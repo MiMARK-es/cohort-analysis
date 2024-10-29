@@ -21,13 +21,17 @@
 - **Biomarker Application**:  
 - **Number of Isoforms**: 0
 - **Regulation**: -1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
+- **(transcriptomics) AUC**: 0.15
+- **(transcriptomics) Fold Change**: 1.10
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 327
-- **Max n_uniprots (Homo)**: 11
+- **Max n_uniprots (Homo)**: 4
 - **Max n_uniprots (Hetero)**: N/A
 
+
+## Expression Comparison
+
+![Expression Comparison](./P01023_expression_comparison.png)
 
 ## Interactors
 
@@ -74,20 +78,20 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |           10 | Homo          | 7o7l         |
-|            0 |          1 |           11 | Homo          | 7o7s         |
-|            0 |          1 |           10 | Homo          | 7o7m         |
-|            0 |          1 |           11 | Homo          | 7o7r         |
+|            0 |          1 |            1 | Homo          | 7von         |
+|            0 |          1 |            4 | Homo          | 6tav         |
+|            0 |          1 |            4 | Homo          | 7o7l         |
+|            0 |          1 |            4 | Homo          | 7o7n         |
+|            0 |          1 |            4 | Homo          | 7o7p         |
+|            0 |          1 |            1 | Homo          | 7voo         |
+|            0 |          1 |            4 | Homo          | 7o7s         |
+|            0 |          1 |            4 | Homo          | 7o7o         |
 |            0 |          1 |            1 | Homo          | 2p9r         |
 |            1 |          2 |            1 | Homo          | 2p9r         |
+|            0 |          1 |            4 | Homo          | 7o7q         |
 |            0 |          1 |            1 | Homo          | 1bv8         |
-|            0 |          1 |            8 | Homo          | 7o7n         |
-|            0 |          1 |           11 | Homo          | 7o7o         |
-|            0 |          1 |            1 | Homo          | 7von         |
-|            0 |          1 |           11 | Homo          | 7o7p         |
-|            0 |          1 |           11 | Homo          | 7o7q         |
-|            0 |          1 |           11 | Homo          | 6tav         |
-|            0 |          1 |            5 | Homo          | 7voo         |
+|            0 |          1 |            4 | Homo          | 7o7m         |
+|            0 |          1 |            4 | Homo          | 7o7r         |
 
 ## Combined Per-Residue Information
 

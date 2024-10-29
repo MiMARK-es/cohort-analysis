@@ -39,13 +39,17 @@ Name: biomarker_application, dtype: object
 P17936   -1
 P17936   -1
 Name: up_down_regulated, dtype: int64
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
+- **(transcriptomics) AUC**: 0.49
+- **(transcriptomics) Fold Change**: 1.00
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 33
 - **Max n_uniprots (Homo)**: N/A
-- **Max n_uniprots (Hetero)**: 4
+- **Max n_uniprots (Hetero)**: 3
 
+
+## Expression Comparison
+
+![Expression Comparison](./P17936_expression_comparison.png)
 
 ## Isoform Alignment
 
@@ -85,7 +89,7 @@ P17936-2 <span>M</span><span>Q</span><span>R</span><span>A</span><span>R</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            4 | Hetero        | 7wrq         |
+|            0 |          1 |            3 | Hetero        | 7wrq         |
 
 ## Combined Per-Residue Information
 

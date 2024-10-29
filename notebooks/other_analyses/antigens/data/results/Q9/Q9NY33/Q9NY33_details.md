@@ -25,7 +25,7 @@
 - **(transcriptomics) Fold Change**: 1.19
 - **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 122
-- **Max n_uniprots (Homo)**: 2
+- **Max n_uniprots (Homo)**: 1
 - **Max n_uniprots (Hetero)**: 2
 
 
@@ -60,15 +60,15 @@ Q9NY33-4 <span style='background-color: yellow;'>M</span><span style='background
 |-------------:|-----------:|-------------:|:--------------|:-------------|
 |            0 |          1 |            1 | Homo          | 3fvy         |
 |            0 |          1 |            1 | Homo          | 5egy         |
-|            0 |          1 |            2 | Homo          | 5e3a         |
-|            0 |          1 |            2 | Homo          | 7oup         |
-|            0 |          1 |            2 | Homo          | 5e33         |
-|            0 |          1 |            2 | Homo          | 5e3c         |
-|            0 |          1 |            2 | Homo          | 5ehh         |
-|            0 |          1 |            2 | Homo          | 3t6b         |
-|            1 |          2 |            2 | Homo          | 3t6b         |
-|            0 |          1 |            2 | Homo          | 3t6j         |
+|            0 |          1 |            1 | Homo          | 3t6j         |
+|            0 |          1 |            1 | Homo          | 5e3c         |
+|            0 |          1 |            1 | Homo          | 5e33         |
+|            0 |          1 |            1 | Homo          | 7oup         |
+|            0 |          1 |            1 | Homo          | 5e3a         |
 |            0 |          1 |            2 | Hetero        | 5e2q         |
+|            0 |          1 |            1 | Homo          | 5ehh         |
+|            0 |          1 |            1 | Homo          | 3t6b         |
+|            1 |          2 |            1 | Homo          | 3t6b         |
 
 ## Combined Per-Residue Information
 

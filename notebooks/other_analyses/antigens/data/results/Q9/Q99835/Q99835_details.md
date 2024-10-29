@@ -26,7 +26,7 @@
 - **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 206
 - **Max n_uniprots (Homo)**: 2
-- **Max n_uniprots (Hetero)**: 6
+- **Max n_uniprots (Hetero)**: 4
 
 
 ## Expression Comparison
@@ -102,24 +102,24 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            2 | Homo          | 5v57         |
-|            0 |          1 |            2 | Homo          | 4n4w         |
-|            0 |          1 |            5 | Hetero        | 6xbl         |
-|            0 |          1 |            5 | Hetero        | 6xbj         |
-|            0 |          1 |            1 | Homo          | 4qin         |
+|            0 |          1 |            1 | Homo          | 4qim         |
+|            0 |          1 |            2 | Homo          | 5v56         |
+|            0 |          1 |            4 | Hetero        | 6xbk         |
 |            0 |          1 |            1 | Homo          | 5l7i         |
 |            1 |          2 |            1 | Homo          | 5l7i         |
+|            0 |          1 |            2 | Homo          | 5v57         |
 |            0 |          1 |            2 | Homo          | 4jkv         |
+|            0 |          1 |            4 | Hetero        | 6xbm         |
+|            0 |          1 |            4 | Hetero        | 6xbl         |
+|            0 |          1 |            4 | Hetero        | 6ot0         |
+|            0 |          1 |            1 | Homo          | 4o9r         |
 |            0 |          1 |            1 | Homo          | 7zi0         |
 |            1 |          2 |            1 | Homo          | 7zi0         |
-|            0 |          1 |            2 | Homo          | 5v56         |
-|            0 |          1 |            1 | Homo          | 4qim         |
-|            0 |          1 |            1 | Homo          | 4o9r         |
+|            0 |          1 |            1 | Homo          | 4qin         |
+|            0 |          1 |            4 | Hetero        | 6xbj         |
 |            0 |          1 |            1 | Homo          | 5l7d         |
 |            1 |          2 |            1 | Homo          | 5l7d         |
-|            0 |          1 |            5 | Hetero        | 6xbk         |
-|            0 |          1 |            5 | Hetero        | 6xbm         |
-|            0 |          1 |            6 | Hetero        | 6ot0         |
+|            0 |          1 |            1 | Homo          | 4n4w         |
 
 ## Combined Per-Residue Information
 

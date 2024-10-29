@@ -21,13 +21,17 @@
 - **Biomarker Application**: diagnosis
 - **Number of Isoforms**: 2
 - **Regulation**: -1
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
+- **(transcriptomics) AUC**: 0.26
+- **(transcriptomics) Fold Change**: 1.13
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: N/A
 - **Max n_uniprots (Homo)**: 2
 - **Max n_uniprots (Hetero)**: 2
 
+
+## Expression Comparison
+
+![Expression Comparison](./Q14315_expression_comparison.png)
 
 ## Isoform Alignment
 
@@ -105,20 +109,20 @@ Q14315-2 <span>M</span><span>M</span><span>N</span><span>N</span><span>S</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            1 | Homo          | 2d7p         |
-|            0 |          1 |            2 | Hetero        | 2k9u         |
-|            0 |          1 |            1 | Homo          | 2d7q         |
-|            0 |          1 |            1 | Homo          | 3v8o         |
-|            1 |          2 |            1 | Homo          | 3v8o         |
-|            0 |          1 |            1 | Homo          | 1v05         |
-|            0 |          1 |            2 | Hetero        | 4mgx         |
-|            0 |          1 |            1 | Homo          | 2nqc         |
-|            0 |          1 |            2 | Homo          | 7ouu         |
-|            0 |          1 |            2 | Homo          | 7ouv         |
 |            0 |          1 |            1 | Homo          | 2d7o         |
 |            0 |          1 |            1 | Homo          | 2d7m         |
 |            0 |          1 |            1 | Homo          | 2d7n         |
+|            0 |          1 |            2 | Hetero        | 4mgx         |
+|            0 |          1 |            2 | Hetero        | 2k9u         |
+|            0 |          1 |            1 | Homo          | 1v05         |
+|            0 |          1 |            1 | Homo          | 2d7q         |
 |            0 |          1 |            2 | Homo          | 7p0e         |
+|            0 |          1 |            1 | Homo          | 2nqc         |
+|            0 |          1 |            2 | Homo          | 7ouu         |
+|            0 |          1 |            2 | Homo          | 7ouv         |
+|            0 |          1 |            1 | Homo          | 3v8o         |
+|            1 |          2 |            1 | Homo          | 3v8o         |
+|            0 |          1 |            1 | Homo          | 2d7p         |
 
 ## Combined Per-Residue Information
 

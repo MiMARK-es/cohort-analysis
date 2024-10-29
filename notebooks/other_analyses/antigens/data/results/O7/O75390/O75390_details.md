@@ -97,9 +97,9 @@
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
+|            0 |          1 |            2 | Homo          | 5uzr         |
 |            0 |          1 |            1 | Homo          | 5uzq         |
 |            0 |          1 |            2 | Homo          | 5uzp         |
-|            0 |          1 |            2 | Homo          | 5uzr         |
 
 ## Combined Per-Residue Information
 

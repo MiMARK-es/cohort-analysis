@@ -103,18 +103,18 @@ Q13043-2 <span>M</span><span>E</span><span>T</span><span>V</span><span>Q</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            1 | Homo          | 3com         |
-|            1 |          2 |            1 | Homo          | 3com         |
-|            0 |          1 |            2 | Homo          | 5twg         |
+|            0 |          1 |            1 | Homo          | 5twh         |
 |            0 |          1 |            2 | Homo          | 2jo8         |
 |            0 |          1 |            2 | Hetero        | 4oh8         |
-|            0 |          1 |            2 | Homo          | 6yat         |
+|            0 |          1 |            2 | Homo          | 8a5j         |
 |            0 |          1 |            2 | Homo          | 4nr2         |
 |            1 |          2 |            2 | Homo          | 4nr2         |
 |            2 |          3 |            2 | Homo          | 4nr2         |
 |            3 |          4 |            2 | Homo          | 4nr2         |
-|            0 |          1 |            2 | Homo          | 8a5j         |
-|            0 |          1 |            2 | Homo          | 5twh         |
+|            0 |          1 |            2 | Homo          | 6yat         |
+|            0 |          1 |            1 | Homo          | 3com         |
+|            1 |          2 |            1 | Homo          | 3com         |
+|            0 |          1 |            1 | Homo          | 5twg         |
 
 ## Combined Per-Residue Information
 

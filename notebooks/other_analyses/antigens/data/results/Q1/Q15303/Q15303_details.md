@@ -26,7 +26,7 @@
 - **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 281
 - **Max n_uniprots (Homo)**: 2
-- **Max n_uniprots (Hetero)**: 11
+- **Max n_uniprots (Hetero)**: 4
 
 
 ## Expression Comparison
@@ -148,35 +148,35 @@ Q15303-4 <span>M</span><span>K</span><span>P</span><span>A</span><span>T</span><
 
 |   Unnamed: 0 |   assembly |   n_uniprots | composition   | crystal_id   |
 |-------------:|-----------:|-------------:|:--------------|:-------------|
-|            0 |          1 |            2 | Homo          | 2l2t         |
-|            0 |          1 |           11 | Hetero        | 8u4k         |
-|            0 |          1 |            2 | Hetero        | 3u9u         |
-|            1 |          2 |            2 | Hetero        | 3u9u         |
+|            0 |          1 |            1 | Homo          | 2r4b         |
+|            1 |          2 |            1 | Homo          | 2r4b         |
+|            0 |          1 |            0 | Hetero        | 3u9u         |
+|            1 |          2 |            0 | Hetero        | 3u9u         |
 |            2 |          3 |            1 | Homo          | 3u9u         |
 |            3 |          4 |            1 | Homo          | 3u9u         |
+|            0 |          1 |            4 | Hetero        | 8u4i         |
+|            0 |          1 |            3 | Hetero        | 8u4k         |
+|            0 |          1 |            1 | Homo          | 3bce         |
+|            1 |          2 |            1 | Homo          | 3bce         |
+|            2 |          3 |            1 | Homo          | 3bce         |
+|            0 |          1 |            4 | Hetero        | 8u4j         |
+|            0 |          1 |            3 | Hetero        | 8u4l         |
 |            0 |          1 |            1 | Homo          | 2ahx         |
 |            1 |          2 |            1 | Homo          | 2ahx         |
 |            2 |          3 |            1 | Homo          | 2ahx         |
+|            0 |          1 |            2 | Homo          | 2lcx         |
 |            0 |          1 |            1 | Homo          | 3u2p         |
+|            0 |          1 |            2 | Homo          | 2l2t         |
+|            0 |          1 |            1 | Homo          | 3bbw         |
+|            1 |          2 |            1 | Homo          | 3bbw         |
+|            0 |          1 |            1 | Homo          | 3bbt         |
+|            1 |          2 |            1 | Homo          | 3bbt         |
 |            0 |          1 |            2 | Hetero        | 3u7u         |
 |            1 |          2 |            2 | Hetero        | 3u7u         |
 |            2 |          3 |            2 | Hetero        | 3u7u         |
 |            3 |          4 |            2 | Hetero        | 3u7u         |
 |            4 |          5 |            2 | Hetero        | 3u7u         |
 |            5 |          6 |            2 | Hetero        | 3u7u         |
-|            0 |          1 |            1 | Homo          | 3bce         |
-|            1 |          2 |            1 | Homo          | 3bce         |
-|            2 |          3 |            1 | Homo          | 3bce         |
-|            0 |          1 |           11 | Hetero        | 8u4l         |
-|            0 |          1 |            2 | Homo          | 2lcx         |
-|            0 |          1 |           11 | Hetero        | 8u4j         |
-|            0 |          1 |            1 | Homo          | 2r4b         |
-|            1 |          2 |            1 | Homo          | 2r4b         |
-|            0 |          1 |            1 | Homo          | 3bbt         |
-|            1 |          2 |            1 | Homo          | 3bbt         |
-|            0 |          1 |           11 | Hetero        | 8u4i         |
-|            0 |          1 |            1 | Homo          | 3bbw         |
-|            1 |          2 |            1 | Homo          | 3bbw         |
 
 ## Combined Per-Residue Information
 
