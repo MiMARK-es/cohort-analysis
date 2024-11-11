@@ -1,6 +1,6 @@
-# cohort-analysis
+# Cohort analysis repository
 
-Repository for cohort analyses code safekeeping.
+Repository for cohort analyses code safekeeping at MiMARK.
 
 ## Analyses directory
 
@@ -38,7 +38,17 @@ Repository for cohort analyses code safekeeping.
 
 - [AUCs calculation](<./notebooks/107_aucs_analysis.ipynb>)
 
+# Other analyses
+
 ## Mass spec cross-analyses
 
 - [Housekeeping analysis](<./notebooks/MS_housekeeping.ipynb>)
+
+## Sample size analysis
+
+- [Sample size calculations](<./notebooks/other_analyses/sample_size/risk_benefit.ipynb>)
+
+## Antigen analysis
+
+- [Main results table](<./notebooks/other_analyses/antigens/data/results/general_summary.md>)
 
