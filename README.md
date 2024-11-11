@@ -46,7 +46,7 @@ Repository for cohort analyses code safekeeping at MiMARK.
 
 ## Sample size analysis
 
-- [Sample size calculations](<./notebooks/other_analyses/sample_size/risk_benefit.ipynb>)
+- [Sample size calculations](<./notebooks/other_analyses/sample_size/sample_size_calc.ipynb>)
 
 ## Antigen analysis
 
