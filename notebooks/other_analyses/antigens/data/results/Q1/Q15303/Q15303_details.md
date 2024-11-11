@@ -21,8 +21,8 @@
 - **Biomarker Application**: nan
 - **Number of Isoforms**: 4
 - **Regulation**: 1
-- **(transcriptomics) AUC**: 0.89
-- **(transcriptomics) Fold Change**: 1.91
+- **(transcriptomics) AUC**: 0.9
+- **(transcriptomics) Fold Change**: 2.02
 - **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 281
 - **Max n_uniprots (Homo)**: 2

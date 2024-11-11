@@ -22,7 +22,7 @@
 - **Number of Isoforms**: 0
 - **Regulation**: 1
 - **(transcriptomics) AUC**: 0.92
-- **(transcriptomics) Fold Change**: 1.61
+- **(transcriptomics) Fold Change**: 1.67
 - **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 17
 - **Max n_uniprots (Homo)**: 5

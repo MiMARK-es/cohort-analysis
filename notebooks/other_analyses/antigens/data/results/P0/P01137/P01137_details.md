@@ -21,8 +21,8 @@
 - **Biomarker Application**: diagnosis,disease progression,efficacy,prognosis,safety,unspecified application
 - **Number of Isoforms**: 0
 - **Regulation**: -1
-- **(transcriptomics) AUC**: 0.29
-- **(transcriptomics) Fold Change**: 1.06
+- **(transcriptomics) AUC**: 0.11
+- **(transcriptomics) Fold Change**: 1.13
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 94
 - **Max n_uniprots (Homo)**: 2

@@ -55,12 +55,12 @@ def compare_gene_expression(gene_name, up_acc, save_to=None):
         (merged_df['sample_type'] == 'Normal Tissue') &
         (merged_df['primary_site'] == 'Uterus')
     ]
-    
+
     # Filter for uterine carcinosarcoma samples
     cancer_samples = merged_df[
-        merged_df['primary_disease'] == 'Uterine Carcinosarcoma'
+        merged_df['primary_disease'] == 'Uterine Corpus Endometrioid Carcinoma'
     ]
-    
+
     # Extract the expression values for the specified gene
     normal_expression = normal_samples[gene_name].dropna()
     cancer_expression = cancer_samples[gene_name].dropna()
@@ -82,9 +82,9 @@ def compare_gene_expression(gene_name, up_acc, save_to=None):
 
     # Plot boxplots to compare the expression levels
     plt.figure(figsize=(8, 6))
-    plt.boxplot([normal_expression, cancer_expression], labels=['Normal Uterus', 'Uterine Carcinosarcoma'])
+    plt.boxplot([normal_expression, cancer_expression], labels=['Normal Uterus', 'Uterine Corpus Endometrioid Carcinoma'])
     plt.ylabel(f'{up_acc} Expression')
-    plt.title(f'Comparison of {up_acc} - {gene_name} Expression\nbetween Normal Uterus and Uterine Carcinosarcoma\nAUC: {auc:.2f}')
+    plt.title(f'Comparison of {up_acc} - {gene_name} Expression\nbetween Normal Uterus and Uterine Corpus Endometrioid CarcinomaAUC: {auc:.2f}')
     
     if save_to is not None:
         plt.savefig(save_to+f'/{up_acc}_expression_comparison.png')

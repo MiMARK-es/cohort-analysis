@@ -39,8 +39,8 @@ Name: biomarker_application, dtype: object
 P24864    2
 P24864    1
 Name: up_down_regulated, dtype: int64
-- **(transcriptomics) AUC**: 1.0
-- **(transcriptomics) Fold Change**: 2.30
+- **(transcriptomics) AUC**: 0.98
+- **(transcriptomics) Fold Change**: 2.07
 - **(transcriptomics) Regulation**: Upregulated
 - **Discotope Epitope Count**: 95
 - **Max n_uniprots (Homo)**: N/A

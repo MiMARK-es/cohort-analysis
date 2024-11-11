@@ -39,8 +39,8 @@ Name: biomarker_application, dtype: object
 P17936   -1
 P17936   -1
 Name: up_down_regulated, dtype: int64
-- **(transcriptomics) AUC**: 0.49
-- **(transcriptomics) Fold Change**: 1.00
+- **(transcriptomics) AUC**: 0.47
+- **(transcriptomics) Fold Change**: 1.01
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: 33
 - **Max n_uniprots (Homo)**: N/A
