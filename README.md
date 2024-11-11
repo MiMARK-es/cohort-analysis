@@ -19,6 +19,10 @@ Repository for cohort analyses code safekeeping at MiMARK.
 
 - [AUCs calculation](<./notebooks/60x60_enlarged_aucs_analysis.ipynb>)
 - [MetaVars analysis](<./notebooks/60x60_enlarged_metavars_analysis.ipynb>)
+- [AUCs calculation using **pH** as an *independent* variable](<./notebooks/60x60_enlarged_aucs_analysis_pH.ipynb>)
+- [AUCs calculation using **pH** as a *normalizing* variable](<./notebooks/60x60_enlarged_aucs_analysis_pH_normalizing.ipynb>)
+- [AUCs calculation using **BMI** as an *independent* variable](<./notebooks/60x60_enlarged_aucs_analysis_BMI.ipynb>)
+
 
 ### 20x20 cohort
 
