@@ -44,15 +44,27 @@ Repository for cohort analyses code safekeeping at MiMARK.
 
 # Other analyses
 
-## Mass spec cross-analyses
+### Mass spec cross-analyses
 
 - [Housekeeping analysis](<./notebooks/MS_housekeeping.ipynb>)
 
-## Sample size analysis
+### Sample size analysis
 
 - [Sample size calculations](<./notebooks/other_analyses/sample_size/sample_size_calc.ipynb>)
 
-## Antigen analysis
+### Antigen analysis
 
 - [Main results table](<./notebooks/other_analyses/antigens/data/results/general_summary.md>)
+
+### Buffer extraction analysis
+
+- [Buffer extraction](<./notebooks/other_analyses/biomarker_extraction/extraction_analysis.ipynb>)
+
+### Sonication analysis
+
+- [Sonication](<./notebooks/other_analyses/sonication/sonication_analysis.ipynb>)
+
+### Total protein as normalizing variable
+
+- [Total protein analysis](<./notebooks/other_analyses/total_protein/total_protein_analysis.ipynb>)
 
