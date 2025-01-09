@@ -1,0 +1,496 @@
+centre,sample_code,sample_code_ua,collected_at,cervical_cytology,uterine_aspirate,date_processed,date_collected,age,phase,actual_hormone_treatment,symptoms,other_diseases,study_group,subtype
+Vall Hebron,E01-CS-01-001,,Consulta,1,0,1/19/2024,1/19/2024,45,Secretora,1,Asintomatica,,Endometriosis?,NS
+Vall Hebron,E01-CS-01-012,,Consulta,1,0,2/2/2024,2/2/2024,28,Secretora,1,dolor,,Endometriosis,2
+Vall Hebron,E01-CS-01-013,,Consulta,1,0,2/2/2024,2/2/2024,32,Secretora,0,dolor,VPH,Endometriosis-adenomiosis*,5
+Vall Hebron,E01-CS-01-014,,Consulta,1,0,2/2/2024,2/2/2024,28,Secretora,0,dolor/infertilidad,,Endometriosis-adenomiosis,6
+Vall Hebron,E01-CS-01-015,,Consulta,1,0,2/5/2024,2/5/2024,45,Proliferativa,1?,dolor,,Endometriosis,3
+Vall Hebron,100 T,100 T,Quirofano,1,1,5/20/2022,5/20/2022,37,Proliferativa,0,NS,,Control,
+Vall Hebron,101 T,101 T,Quirofano,1,1,7/15/2022,7/15/2022,36,Ovulatoria,0,NS,,Control,
+Vall Hebron,102T,102T,Quirofano,1,1,7/15/2022,7/15/2022,43,Menstrual,0?,NS,,Control,
+Vall Hebron,103 T,103 T,Quirofano,1,1,7/15/2022,7/15/2022,34,Secretora,0,NS,,Control,
+Vall Hebron,104 T,104 T,Quirofano,1,1,9/9/2022,9/9/2022,39,Proliferativa,0,NS,,Control,
+Vall Hebron,E01-CS-01-016,,Consulta,1,0,2/9/2024,2/9/2024,51,,1,dolor,,Endometriosis,3
+Vall Hebron,106 T,106 T,Quirofano,1,1,9/29/2022,9/29/2022,48,Ovulatoria,1?,NS,,Control,
+Vall Hebron,107 T,107 T,Quirofano,1,1,9/29/2022,9/29/2022,42,,1,NS,,Control,7
+Vall Hebron,108 T,108 T,Quirofano,1,1,12/2/2022,12/2/2022,38,Ovulatoria,0,Asintomatica,,Control,
+Vall Hebron,109 T,109 T,Quirofano,1,1,1/27/2023,1/27/2023,43,Menstrual,0,NS,,Control,
+Vall Hebron,110 T,110 T,Quirofano,1,1,1/27/2023,1/27/2023,37,Secretora,0?,NS,,Control,
+Vall Hebron,111 T,111 T,Quirofano,1,1,2/10/2023,2/10/2023,40,Secretora,0,Asintomatica,,Control,
+Vall Hebron,112 T,112 T,Quirofano,1,1,2/10/2023,2/10/2023,37,,1,Asintomatica,,Control,
+Vall Hebron,113 T,113 T,Quirofano,1,1,3/2/2023,3/2/2023,33,,1,NS,,Control,
+Vall Hebron,114 T,114 T,Quirofano,1,1,3/27/2023,3/27/2023,43,Proliferativa,0,Asintomatica,,Control,
+Vall Hebron,E01-CS-01-017,,Consulta,1,0,2/9/2024,2/9/2024,41,,1,dolor,Mioma,Endometriosis,2/3
+Vall Hebron,115 T,115 T,Quirofano,1,1,3/29/2023,3/29/2023,36,Proliferativa,1,Asintomatica,,Control,
+Vall Hebron,116 T,116 T,Quirofano,1,1,3/29/2023,3/29/2023,35,Secretora,1,Asintomatica,,Control,
+Vall Hebron,117 T,117 T,Quirofano,1,1,4/21/2023,4/21/2023,43,Secretora,1,NS,,Control,
+Vall Hebron,118 T,118 T,Quirofano,1,1,4/21/2023,4/21/2023,33,,1,NS,,Control,
+Vall Hebron,119 T,119 T,Quirofano,1,1,5/11/2023,5/11/2023,42,,1,dolor,,Control,
+Vall Hebron,120 T,120 T,Quirofano,1,1,5/12/2023,5/12/2023,36,Proliferativa,1,NS,,Control,
+Vall Hebron,121 T,121 T,Quirofano,1,1,5/12/2023,5/12/2023,37,Secretora,0,NS,,Control,
+Vall Hebron,122 T,122 T,Quirofano,1,1,5/12/2023,5/12/2023,42,Secretora,NS,NS,,Control,
+Vall Hebron,123 T,123 T,Quirofano,1,1,5/15/2023,5/15/2023,41,Secretora,1?,dolor,,Control,
+Vall Hebron,124 T,124 T,Quirofano,1,1,5/15/2023,5/15/2023,37,Secretora,0,dolor,,Control,
+Vall Hebron,E01-CS-01-018,,Consulta,1,0,2/16/2024,2/16/2024,38,Secretora,1?,dolor/infertilidad,,Endometriosis,3/4
+Vall Hebron,126 T,126 T,Quirofano,1,1,6/16/2023,6/16/2023,37,,1,Asintomatica,,Control,
+Vall Hebron,127 T,127 T,Quirofano,1,1,6/16/2023,6/16/2023,37,Secretora,0,Asintomatica,,Control,
+Vall Hebron,128 T,128 T,Quirofano,1,1,6/27/2023,6/27/2023,41,Menstrual,1,Asintomatica,,Control,
+Vall Hebron,129 T,129 T,Quirofano,1,1,6/27/2023,6/27/2023,41,,1,Asintomatica,,Control,
+Vall Hebron,130 T,130 T,Quirofano,1,1,6/27/2023,6/27/2023,35,Secretora,0,Asintomatica,,Control,
+Vall Hebron,131 T,131 T,Quirofano,1,1,6/30/2023,6/30/2023,35,Ovulatoria,1,NS,,Control,
+Vall Hebron,338 (C17),,Consulta,1,0,9/1/2023,9/1/2023,35,Secretora,1,dolor,,Endometriosis?,NS
+Vall Hebron,E01-CS-01-019,,Consulta,1,0,2/19/2024,2/19/2024,43,Ovulatoria,1?,infertilidad,,Endometriosis,3
+Vall Hebron,339 (C18),,Consulta,1,0,9/1/2023,9/1/2023,27,Secretora,1,Asintomatica,,Endometriosis?,NS
+Vall Hebron,E01-CS-01-020,,Consulta,1,0,2/19/2024,2/19/2024,26,Proliferativa,0,dolor,,Endometriosis,2/3
+Vall Hebron,E01-CS-01-108,E01-UA-01-108,Quirofano,1,1,7/11/2024,7/11/2024,27,,1,dolor,,Endometriosis,2/3
+Vall Hebron,098 T,098 T,Quirofano,1,1,5/20/2022,5/20/2022,34,Secretora,1,NS,,Control,
+Vall Hebron,099 T,099 T,Quirofano,1,1,5/20/2022,5/20/2022,45,Secretora,0,NS,,Control,
+Vall Hebron,E01-CS-01-002,,Consulta,1,0,1/22/2024,1/22/2024,37,,0?,dolor,,Endometriosis,2/3
+Vall Hebron,E01-CS-01-022,E01-UA-01-022,Quirofano,1,1,2/22/2024,2/22/2024,34,Menstrual,0,dolor,,Endometriosis,3
+Vall Hebron,C1,,Consulta,1,0,11/25/2022,11/25/2022,30,Secretora,0,dolor,,,
+Vall Hebron,C10,,Consulta,1,0,1/27/2023,1/27/2023,32,Secretora,0,dolor,,,
+Vall Hebron,C11,,Consulta,1,0,2/17/2023,2/17/2023,47,Ovulatoria,0,Asintomatica,,Endometriosis?,NS
+Vall Hebron,C12,,Consulta,1,0,2/17/2023,2/17/2023,26,Menstrual,0,dolor,,Endometriosis,2
+Vall Hebron,E01-CS-01-006,,Consulta,1,0,1/26/2024,1/26/2024,27,Secretora,0,dolor,,Endometriosis,2
+Vall Hebron,C13,,Consulta,1,0,2/17/2023,2/17/2023,27,Secretora,0,dolor,,Endometriosis?,NS
+Vall Hebron,C14,,Consulta,1,0,6/2/2023,6/2/2023,43,Ovulatoria,0,dolor,,Endometriosis?,NS
+Vall Hebron,C15,,Consulta,1,0,6/2/2023,6/2/2023,36,,1?,dolor,,Endometriosis?,NS
+Vall Hebron,C16,,Consulta,1,0,7/7/2023,7/7/2023,46,,1,dolor,,Endometriosis?,NS
+Vall Hebron,C2,,Consulta,1,0,11/25/2022,11/25/2022,47,Ovulatoria,0,dolor,,,
+Vall Hebron,C3,,Consulta,1,0,11/25/2022,11/25/2022,43,,1,NS,,,
+Vall Hebron,E01-CS-01-023,,Consulta,1,0,2/23/2024,2/23/2024,37,Proliferativa,0,dolor,,Endometriosis,2
+Vall Hebron,C4,,Consulta,1,0,12/16/2022,12/16/2022,44,Proliferativa,1,dolor,,Endometriosis?,NS
+Vall Hebron,C5,,Consulta,1,0,12/16/2022,12/16/2022,48,Proliferativa,1,Asintomatica,,Endometriosis?,NS
+Vall Hebron,C6,,Consulta,1,0,12/16/2022,12/16/2022,48,,1,Asintomatica,,Endometriosis?,NS
+Vall Hebron,C7,,Consulta,1,0,12/16/2022,12/16/2022,38,Secretora,1?,dolor,,Endometriosis?,NS
+Vall Hebron,C8,,Consulta,1,0,1/13/2023,1/13/2023,30,,1,Asintomatica,,,
+Vall Hebron,C9,,Consulta,1,0,1/20/2023,1/20/2023,43,,1?,dolor,,Endometriosis?,NS
+Vall Hebron,E01-CS-01-041,E01-UA-01-041,Quirofano,1,1,3/5/2024,3/5/2024,44,,1,Asintomatica,,Endometriosis,3
+Vall Hebron,F1,,Consulta,1,0,11/20/2023,11/20/2023,39,Menstrual,0,dolor/infertilidad,,Endometriosis,2/3
+Vall Hebron,F2,,Consulta,1,0,11/24/2023,11/24/2023,32,,1,NS/infertilidad,,Endometriosis,1
+Vall Hebron,F3,,Consulta,1,0,11/24/2023,11/24/2023,28,Secretora,0,dolor/infertilidad,,Endometriosis,2/3
+Vall Hebron,F4,,Consulta,1,0,11/30/2023,11/30/2023,35,Secretora,0,infertilidad,,Control?,
+Vall Hebron,E01-CS-01-024,,Consulta,1,0,2/23/2024,2/23/2024,40,Menstrual,0,dolor,,Endometriosis,2/3
+Vall Hebron,F5,,Consulta,1,0,11/30/2023,11/30/2023,31,Proliferativa,0,dolor/infertilidad,,Endometriosis,3
+Vall Hebron,F6,,Consulta,1,0,12/14/2023,12/14/2023,29,Proliferativa,0?,infertilidad,,Control?,
+Vall Hebron,F7,,Consulta,1,0,12/14/2023,12/14/2023,34,Secretora,0,dolor/infertilidad,,Control?,
+Vall Hebron,E01-CS-01-025,,Consulta,1,0,2/23/2024,2/23/2024,45,Secretora,1,dolor,"Hipertiroidismo, PCOS, mioma y hidrosalpinx",Endometriosis,3/5
+Vall Hebron,E01-CS-01-026,,Consulta,1,0,2/23/2024,2/23/2024,45,,1,dolor,,Endometriosis?,1
+Vall Hebron,E01-CS-01-027,E01-UA-01-027,Quirofano,1,1,2/23/2024,2/23/2024,38,Ovulatoria,0,Asintomatica,,Control,
+Vall Hebron,E01-CS-01-028,E01-UA-01-028,Quirofano,1,1,2/23/2024,2/23/2024,42,Proliferativa,0,Asintomatica,,Control,
+Vall Hebron,E01-CS-01-029,E01-UA-01-029,Quirofano,1,1,2/23/2024,2/23/2024,34,Ovulatoria,0,Asintomatica,,Control,
+Vall Hebron,E01-CS-01-030,,Consulta,1,0,2/23/2024,2/23/2024,31,Proliferativa,0?,dolor/infertilidad,,Control?,
+Vall Hebron,E01-CS-01-031,,Consulta,1,0,2/23/2024,2/23/2024,39,Proliferativa,1?,Asintomatica,Colitis ulcerosa,Control?,
+Vall Hebron,E01-CS-01-008,E01-UA-01-008,Quirofano,1,1,1/26/2024,1/26/2024,43,,1,NS,,Control,
+Vall Hebron,E01-CS-01-032,,Consulta,1,0,2/23/2024,2/23/2024,41,Proliferativa,0?,infertilidad,Hipotiroidismo,Control?,
+Vall Hebron,E01-CS-01-033,,Consulta,1,0,2/23/2024,2/23/2024,37,Proliferativa,0,Asintomatica,,Control,1
+Vall Hebron,E01-CS-01-034,,Consulta,1,0,2/23/2024,2/23/2024,34,Proliferativa,1?,infertilidad,,Control?,
+Vall Hebron,E01-CS-01-035,,Consulta,1,0,2/23/2024,2/23/2024,38,Proliferativa,0,dolor/infertilidad,Hipotiroidismo,Control?,
+Vall Hebron,E01-CS-01-036,,Consulta,1,0,2/23/2024,2/23/2024,37,Proliferativa,1?,dolor/infertilidad,,Endometriosis,2
+Vall Hebron,E01-CS-01-037,,Consulta,1,0,2/29/2024,2/29/2024,38,Ovulatoria,0,dolor/infertilidad,,Endometriosis,5
+Vall Hebron,E01-CS-01-038,,Consulta,1,0,2/29/2024,2/29/2024,31,Proliferativa,0,dolor/infertilidad,,Endometriosis,2
+Vall Hebron,E01-CS-01-039,,Consulta,1,0,3/1/2024,3/1/2024,53,Ovulatoria,0,dolor,Antes PCOS,Endometriosis,3/6
+Vall Hebron,E01-CS-01-113,,Consulta,1,0,7/19/2024,7/19/2024,38,Secretora,1?,dolor/infertilidad,,Endometriosis,5
+Vall Hebron,E01-CS-01-040,,Consulta,1,0,3/1/2024,3/1/2024,31,Menstrual,0,dolor,,Endometriosis,2/3
+Vall Hebron,E01-CS-01-042,,Consulta,1,0,3/6/2024,3/6/2024,39,Secretora,0?,dolor/infertilidad,,Endometriosis,2
+Vall Hebron,E01-CS-01-004,,Consulta,1,0,1/26/2024,1/26/2024,41,,1,dolor/infertilidad,,Endometriosis,5
+Vall Hebron,E01-CS-01-043,,Consulta,1,0,3/7/2024,3/7/2024,36,Ovulatoria,0,dolor/infertilidad,,Endometriosis,2
+Vall Hebron,E01-CS-01-044,,Consulta,1,0,3/8/2024,3/8/2024,39,Ovulatoria,0,Asintomatica,Herpes,Endometriosis,2/4
+Vall Hebron,E01-CS-01-045,,Consulta,1,0,3/8/2024,3/8/2024,20,Menstrual,1?,dolor,Possible papiloma (pendiente de prueba),Endometriosis,2
+Vall Hebron,E01-CS-01-046,,Consulta,1,0,3/12/2024,3/12/2024,36,,0,infertilidad,,Endometriosis,2
+Vall Hebron,E01-CS-01-047,,Consulta,1,0,3/14/2024,3/14/2024,36,Proliferativa,0,infertilidad,,Control?,
+Vall Hebron,E01-CS-01-048,,Consulta,1,0,3/14/2024,3/14/2024,39,Menstrual,0,infertilidad,,Control,1
+Vall Hebron,E01-CS-01-049,,Consulta,1,0,3/14/2024,3/14/2024,26,,0,dolor,,Control?,
+Vall Hebron,E01-CS-01-050,E01-UA-01-050,Quirofano,1,1,3/14/2024,3/14/2024,44,,1,NS,,Endometriosis,2
+Vall Hebron,E01-CS-01-051,,Consulta,1,0,3/15/2024,3/15/2024,25,Secretora,0,dolor,Chron,Endometriosis,4
+Vall Hebron,E01-CS-01-052,E01-UA-01-052,Quirofano,1,1,3/19/2024,3/19/2024,45,,1,dolor,,Endometriosis,NS
+Vall Hebron,286,286,Quirofano,1,1,2/15/2022,2/15/2022,43,,1,NS,,Endometriosis,NS
+Vall Hebron,287,287,Quirofano,1,1,2/17/2022,2/17/2022,46,,1,dolor,,Endometriosis,3
+Vall Hebron,E01-CS-01-005,,Consulta,1,0,1/26/2024,1/26/2024,38,Secretora,0,dolor,,Endometriosis,2
+Vall Hebron,E01-CS-01-003,,Consulta,1,0,1/22/2024,1/22/2024,41,Secretora,1,dolor,"Asma, celiaquia y EGE",Endometriosis?,NS
+Vall Hebron,E01-CS-01-053,E01-UA-01-053,Quirofano,1,1,3/21/2024,3/21/2024,41,,1?,Asintomatica,,Endometriosis,3
+Vall Hebron,288,288,Quirofano,1,1,3/15/2022,3/15/2022,43,,1,Asintomatica,,Endometriosis,3
+Vall Hebron,289,289,Quirofano,1,1,3/17/2022,3/17/2022,48,,1,dolor,,Endometriosis,4
+Vall Hebron,290,290,Quirofano,1,1,3/24/2022,3/24/2022,46,,1,dolor,,Endometriosis,4
+Vall Hebron,291,291,Quirofano,1,1,3/29/2022,3/29/2022,32,,0?,dolor,,Endometriosis,2/3
+Vall Hebron,292,292,Quirofano,1,1,4/21/2022,4/21/2022,36,,0?,dolor,,Endometriosis,2
+Vall Hebron,293,293,Quirofano,1,1,4/26/2022,4/26/2022,36,,1,dolor,,Endometriosis,2/3
+Vall Hebron,295,295,Quirofano,1,1,5/10/2022,5/10/2022,26,Secretora,1?,dolor,,Endometriosis,2/3
+Vall Hebron,296,296,Quirofano,1,1,5/16/2022,5/16/2022,56,,NS,NS,,Endometriosis,NS
+Vall Hebron,297,297,Quirofano,1,1,5/17/2022,5/17/2022,29,Secretora,0,dolor,,Endometriosis,2
+Vall Hebron,E01-CS-01-054,,Consulta,1,0,4/5/2024,4/5/2024,32,Proliferativa,1?,dolor/infertilidad,PCOS,Endometriosis,2
+Vall Hebron,298,298,Quirofano,1,1,5/26/2022,5/26/2022,42,,1,dolor,,Endometriosis,3
+Vall Hebron,299,299,Quirofano,1,1,5/27/2022,5/27/2022,30,Secretora,1?,dolor,,Endometriosis,2
+Vall Hebron,300,300,Quirofano,1,1,6/7/2022,6/7/2022,40,,1,dolor,,Endometriosis,2
+Vall Hebron,301,301,Quirofano,1,1,6/9/2022,6/9/2022,27,Proliferativa,1,dolor,,Endometriosis,3
+Vall Hebron,302,302,Quirofano,1,1,6/14/2022,6/14/2022,36,,1,dolor,,Endometriosis,3
+Vall Hebron,303,303,Quirofano,1,1,6/17/2022,6/17/2022,38,Secretora,NS,NS,,Endometriosis,NS
+Vall Hebron,304,304,Quirofano,1,1,6/20/2022,6/20/2022,39,Menstrual,0,dolor,,Endometriosis,2
+Vall Hebron,305,305,Quirofano,1,1,6/28/2022,6/28/2022,30,,0,dolor,,Endometriosis,2/3
+Vall Hebron,306,306,Quirofano,1,1,6/30/2022,6/30/2022,39,Secretora,1,NS,,Endometriosis,NS
+Vall Hebron,307,307,Quirofano,1,1,7/5/2022,7/5/2022,42,Secretora,0,dolor,,Endometriosis,3
+Vall Hebron,E01-CS-01-055,,Consulta,1,0,4/5/2024,4/5/2024,21,Secretora,1,dolor,Piel at?pica,Endometriosis,2
+Vall Hebron,308,308,Quirofano,1,1,7/12/2022,7/12/2022,37,,1,dolor,,Endometriosis,2/3
+Vall Hebron,309,309,Quirofano,1,1,7/14/2022,7/14/2022,38,,1?,dolor,,Endometriosis,2/3
+Vall Hebron,310,310,Quirofano,1,1,7/28/2022,7/28/2022,46,,1?,Asintomatica,,Endometriosis,2/3
+Vall Hebron,311,311,Quirofano,1,1,9/29/2022,9/29/2022,48,,1?,dolor,,Endometriosis,2/3
+Vall Hebron,312,312,Quirofano,1,1,10/7/2022,10/7/2022,24,Secretora,1?,NS,,Endometriosis,2
+Vall Hebron,313,313,Quirofano,1,1,10/11/2022,10/11/2022,38,Proliferativa,0,dolor,,Endometriosis,2/3
+Vall Hebron,314,314,Quirofano,1,1,10/13/2022,10/13/2022,42,,1?,dolor,,Endometriosis,3
+Vall Hebron,315,315,Quirofano,1,1,10/25/2022,10/25/2022,38,Secretora,0?,NS,,Endometriosis,3
+Vall Hebron,316,316,Quirofano,1,1,11/15/2022,11/15/2022,,,0,dolor,,Endometriosis,4
+Vall Hebron,317,317,Quirofano,1,1,12/20/2022,12/20/2022,47,,1?,dolor,,Endometriosis,3
+Vall Hebron,E01-CS-01-056,,Consulta,1,0,4/9/2024,4/9/2024,38,Secretora,0,dolor/infertilidad,,Control,1
+Vall Hebron,318,318,Quirofano,1,1,1/10/2023,1/10/2023,47,,0,dolor,,Endometriosis,2
+Vall Hebron,319,319,Quirofano,1,1,1/12/2023,1/12/2023,29,,1?,dolor,,Endometriosis,3
+Vall Hebron,320,320,Quirofano,1,1,2/3/2023,2/3/2023,35,,0?,dolor,,Endometriosis,2
+Vall Hebron,322,322,Quirofano,1,1,2/16/2023,2/16/2023,27,,1,dolor,,Endometriosis,2
+Vall Hebron,323,323,Quirofano,1,1,3/16/2023,3/16/2023,40,,1,dolor,,Endometriosis,3
+Vall Hebron,324,324,Quirofano,1,1,3/21/2023,3/21/2023,32,Secretora,1,dolor,,Endometriosis,2
+Vall Hebron,325,325,Quirofano,1,1,3/23/2023,3/23/2023,35,Ovulatoria,1,dolor,,Endometriosis,2
+Vall Hebron,326,326,Quirofano,1,1,3/24/2023,3/24/2023,36,Ovulatoria,0,NS,,Control,
+Vall Hebron,327,327,Quirofano,1,1,3/24/2023,3/24/2023,37,Proliferativa,0,NS,,Control,
+Vall Hebron,328,328,Quirofano,1,1,4/18/2023,4/18/2023,43,,0,dolor,,Endometriosis,2/3
+Vall Hebron,E01-CS-01-057,,Consulta,1,0,4/15/2024,4/15/2024,26,Proliferativa,0,dolor,,Control?,
+Vall Hebron,329,329,Quirofano,1,1,5/2/2023,5/2/2023,46,Secretora,1?,dolor,,Endometriosis,2/3
+Vall Hebron,330,330,Quirofano,1,1,5/16/2023,5/16/2023,44,,1?,dolor,,Endometriosis,2/3
+Vall Hebron,331,331,Quirofano,1,1,5/30/2023,5/30/2023,51,Secretora,0,dolor,,Endometriosis,2/3
+Vall Hebron,332,332,Quirofano,1,1,6/1/2023,6/1/2023,36,Ovulatoria,0,dolor,,Endometriosis,2/3
+Vall Hebron,333,333,Quirofano,1,1,6/13/2023,6/13/2023,43,Proliferativa,0,dolor,,Endometriosis,NS
+Vall Hebron,334,334,Quirofano,1,1,6/23/2023,6/23/2023,48,Ovulatoria,0,Asintomatica,,Endometriosis,NS
+Vall Hebron,335,335,Quirofano,1,1,6/27/2023,6/27/2023,32,,1?,dolor,,Endometriosis,2/3
+Vall Hebron,336,336,Quirofano,1,1,7/13/2023,7/13/2023,33,Secretora,1?,dolor,,Endometriosis,NS
+Vall Hebron,337,337,Quirofano,1,1,7/20/2023,7/20/2023,36,,1?,dolor,,Endometriosis,2
+Vall Hebron,340,340,Quirofano,1,1,9/14/2023,9/14/2023,34,,0?,NS,,Endometriosis,NS
+Vall Hebron,E01-CS-01-058,,Consulta,1,0,4/15/2024,4/15/2024,23,Menstrual,0,Asintomatica,,Endometriosis,2
+Vall Hebron,341,341,Quirofano,1,1,9/21/2023,9/21/2023,48,,1,dolor,,Endometriosis,3
+Vall Hebron,342,342,Quirofano,1,1,10/5/2023,10/5/2023,45,Secretora,1,dolor,,Endometriosis,3
+Vall Hebron,343,343,Quirofano,1,1,10/17/2023,10/17/2023,43,,1,dolor,,Endometriosis,3
+Vall Hebron,344,344,Quirofano,1,1,10/19/2023,10/19/2023,47,Secretora,1,dolor,,Endometriosis,2/3
+Vall Hebron,345,345,Quirofano,1,1,11/14/2023,11/14/2023,41,,0,dolor,,Endometriosis,2/3
+Vall Hebron,346,,Quirofano,1,0,11/20/2023,11/20/2023,49,,0,Asintomatica,,Endometriosis,NS
+Vall Hebron,347,347,Quirofano,1,1,12/5/2023,12/5/2023,25,,0?,dolor,,Endometriosis,2
+Vall Hebron,348,348,Quirofano,1,1,1/11/2024,1/11/2024,48,,1,dolor,,Endometriosis,2/3
+Vall Hebron,1701,1701,Quirofano,1,1,9/15/2022,9/15/2022,34,,1,Asintomatica,,Endometriosis,NS
+Vall Hebron,E01-CS-01-060,,Consulta,1,0,4/19/2024,4/19/2024,41,,1,dolor/infertilidad,,Endometriosis,NS
+Vall Hebron,E01-CS-01-079,E01-UA-01-079,Quirofano,1,1,5/28/2024,5/28/2024,48,,1?,NS,,Endometriosis,2
+Vall Hebron,E01-CS-01-080,,Consulta,1,0,5/31/2024,5/31/2024,32,Secretora,0?,dolor,alergias cut?as,,
+Vall Hebron,E01-CS-01-061,,Consulta,1,0,4/19/2024,4/19/2024,35,,1,dolor,,Endometriosis,2/3
+Vall Hebron,E01-CS-01-081,,Consulta,1,0,5/31/2024,5/31/2024,26,Secretora,0,dolor,,Control,1
+Vall Hebron,E01-CS-01-082,E01-UA-01-082,Quirofano,1,1,6/4/2024,6/4/2024,37,Menstrual,1,Asintomatica,,Control,
+Vall Hebron,E01-CS-01-083,,Consulta,1,0,6/10/2024,6/7/2024,20,,1,dolor,,Control,1
+Vall Hebron,E01-CS-01-084,,Consulta,1,0,6/10/2024,6/10/2024,21,Secretora,0,dolor,,,
+Vall Hebron,E01-CS-01-085,,Consulta,1,0,6/10/2024,6/7/2024,33,,0,dolor,,,
+Vall Hebron,E01-CS-01-086,E01-UA-01-086,Quirofano,1,1,6/11/2024,6/11/2024,34,Ovulatoria,0?,infertilidad,,Endometriosis,2/3
+Vall Hebron,E01-CS-01-087,,Consulta,1,0,6/12/2024,6/11/2024,35,Proliferativa,0,NS,,Control?,
+Vall Hebron,E01-CS-01-088,,Consulta,1,0,6/12/2024,6/12/2024,39,Secretora,1?,infertilidad,,Control,1
+Vall Hebron,E01-CS-01-089,,Consulta,1,0,6/12/2024,6/12/2024,41,Secretora,0,dolor/infertilidad,,Control,1
+Vall Hebron,E01-CS-01-090,,Consulta,1,0,6/12/2024,6/12/2024,39,Menstrual,0,infertilidad,,Control?,
+Vall Hebron,E01-CS-01-062,,Consulta,1,0,4/19/2024,4/19/2024,39,Ovulatoria,0,dolor/infertilidad,quistes ov�ricos,Endometriosis,3
+Vall Hebron,E01-CS-01-091,,Consulta,1,0,6/12/2024,6/12/2024,36,Proliferativa,0,infertilidad,,Control?,
+Vall Hebron,E01-CS-01-092,,Consulta,1,0,6/14/2024,6/14/2024,21,Menstrual,1?,dolor,asma,Endometriosis,3
+Vall Hebron,E01-CS-01-093,,Consulta,1,0,6/14/2024,6/14/2024,40,,1,dolor,,Endometriosis,3
+Vall Hebron,E01-CS-01-094,,Consulta,1,0,6/14/2024,6/14/2024,40,Menstrual,0,Asintomatica,,Endometriosis,2
+Vall Hebron,E01-CS-01-095,E01-UA-01-095,Quirofano,1,1,6/14/2024,6/14/2024,38,,NS,dolor,,Endometriosis,2
+Vall Hebron,E01-CS-01-096,,Consulta,1,0,6/14/2024,6/14/2024,40,Secretora,0?,dolor/infertilidad,,Control,1
+Vall Hebron,E01-CS-01-097,,Consulta,1,0,6/17/2024,6/17/2024,39,,1,dolor,,,
+Vall Hebron,E01-CS-01-098,,Consulta,1,0,6/17/2024,6/17/2024,36,,1,dolor/infertilidad,,Endometriosis,2/3/6
+Vall Hebron,E01-CS-01-099,,Consulta,1,0,6/17/2024,6/17/2024,33,Secretora,0,infertilidad,,Control?,
+Vall Hebron,E01-CS-01-100,E01-UA-01-100,Quirofano,1,1,6/18/2024,6/18/2024,22,Proliferativa,NS,dolor,,Endometriosis,2
+Vall Hebron,E01-CS-01-063,,Consulta,1,0,4/22/2024,4/22/2024,46,Ovulatoria,0,dolor,,Endometriosis,3
+Vall Hebron,E01-CS-01-101,E01-UA-01-101,Quirofano,1,1,6/20/2024,6/20/2024,55,,0,dolor,,Endometriosis,2/7
+Vall Hebron,E01-CS-01-102,,Consulta,1,0,6/20/2024,6/20/2024,26,Proliferativa,0?,infertilidad,,Control?,
+Vall Hebron,E01-CS-01-103,,Consulta,1,0,6/20/2024,6/20/2024,36,Proliferativa,0?,infertilidad,,Control?,
+Vall Hebron,E01-CS-01-104,,Consulta,1,0,6/20/2024,6/20/2024,31,Proliferativa,0,NS/infertilidad,,Control?,
+Vall Hebron,E01-CS-01-105,,Consulta,1,0,6/21/2024,6/21/2024,42,,0,dolor,,Endometriosis,2
+Vall Hebron,E01-CS-01-106,,Consulta,1,0,7/5/2024,7/5/2024,35,Secretora,1,dolor/infertilidad,,Endometriosis,2
+Vall Hebron,E01-CS-01-107,,Consulta,1,0,6/27/2024,6/27/2024,32,Menstrual,0,dolor/infertilidad,hipo-?,Control?,
+Vall Hebron,E01-CS-01-109,,Consulta,1,0,7/12/2024,7/12/2024,50,,1,dolor,,Endometriosis,4
+Vall Hebron,E01-CS-01-110,,Consulta,1,0,7/12/2024,7/12/2024,34,Menstrual,1,dolor,,Endometriosis,6
+Vall Hebron,E01-CS-01-111,,Consulta,1,0,7/12/2024,7/12/2024,32,,1,dolor/infertilidad,"chron, PCOS",Endometriosis,3
+Vall Hebron,E01-CS-01-007,,Consulta,1,0,1/26/2024,1/26/2024,38,Secretora,1,Asintomatica,"Papiloma, PCOS",Endometriosis,2/3
+Vall Hebron,E01-CS-01-064,,Consulta,1,0,4/22/2024,4/22/2024,23,,1,dolor,,Control?,
+Vall Hebron,E01-CS-01-112,,Consulta,1,0,7/15/2024,7/15/2024,30,,1?,dolor,"asma, cancer de mama",Endometriosis,2/3
+Vall Hebron,E01-CS-01-114,,Consulta,1,0,7/19/2024,7/19/2024,42,Secretora,0,dolor,,,
+Vall Hebron,E01-CS-01-115,,Consulta,1,0,7/19/2024,7/19/2024,42,,1,infertilidad,hipotiroidismo nunca diagnosticado definitivamente,Endometriosis,2/3
+Vall Hebron,E01-CS-01-116,,Consulta,1,0,7/29/2024,7/29/2024,41,Menstrual,1,dolor,,Endometriosis*,1
+Vall Hebron,E01-CS-01-117,,Consulta,1,0,8/2/2024,8/2/2024,26,,0?,dolor,mioma,,
+Vall Hebron,E01-CS-01-118,,Consulta,1,0,8/5/2024,8/5/2024,38,Menstrual,0,dolor,,Endometriosis,2
+Vall Hebron,E01-CS-01-119,,Consulta,1,0,8/13/2024,8/13/2024,27,Menstrual,0,dolor,,,
+Vall Hebron,E01-CS-01-120,E01-UA-01-120,Quirofano,1,1,8/22/2024,8/22/2024,27,Secretora,0?,dolor,,Endometriosis,2
+Vall Hebron,E01-CS-01-121,E01-UA-01-121,Quirofano,1,1,8/29/2024,8/29/2024,35,,1?,Asintomatica,,Endometriosis,2
+Vall Hebron,E01-CS-01-122,,Consulta,1,0,9/2/2024,9/2/2024,35,Proliferativa,0,dolor,ASMA,,
+Vall Hebron,E01-CS-01-065,E01-UA-01-065,Quirofano,1,1,4/25/2024,4/25/2024,42,,1,dolor,,Endometriosis,2
+Vall Hebron,E01-CS-01-123,E01-UA-01-123,Quirofano,1,1,9/12/2024,9/12/2024,49,,1,NS,,Endometriosis,2/3
+Vall Hebron,E01-CS-01-124,,Consulta,1,0,9/16/2024,9/16/2024,24,Proliferativa,1,dolor,,Endometriosis,3
+Vall Hebron,E01-CS-01-125,,Consulta,1,0,9/16/2024,9/16/2024,46,Secretora,1,Asintomatica,,Endometriosis,2
+Vall Hebron,E01-CS-01-126,,Consulta,1,0,9/16/2024,9/16/2024,40,Proliferativa,0,dolor/infertilidad,,Control?,
+Vall Hebron,E01-CS-01-127,,Consulta,1,0,9/18/2024,9/18/2024,20,Secretora,0,NS/infertilidad,PCOS,Control?,
+Vall Hebron,E01-CS-01-128,,Consulta,1,0,9/18/2024,9/18/2024,39,Proliferativa,0,dolor/infertilidad,,Control?,
+Vall Hebron,E01-CS-01-129,,Consulta,1,0,9/19/2024,9/19/2024,33,Menstrual,0,dolor,,Endometriosis*,1
+Vall Hebron,E01-CS-01-130,,Consulta,1,0,9/19/2024,9/19/2024,30,Secretora,0,dolor,,Endometriosis,2
+Vall Hebron,E01-CS-01-131,,Consulta,1,0,9/19/2024,9/19/2024,29,Secretora,0,infertilidad,,Control,1
+Vall Hebron,E01-CS-01-132,,Consulta,1,0,9/19/2024,9/19/2024,33,Proliferativa,0,Asintomatica,,Control,1
+Vall Hebron,E01-CS-01-066,,Consulta,1,0,4/29/2024,4/29/2024,39,Proliferativa,1,Asintomatica,,Endometriosis,2
+Vall Hebron,E01-CS-01-133,,Consulta,1,0,9/25/2024,9/25/2024,34,Proliferativa,0,infertilidad,,Control?,
+Vall Hebron,E01-CS-01-134,E01-UA-01-134,Quirofano,1,1,9/26/2024,9/26/2024,32,,1,dolor,,Endometriosis,2
+Vall Hebron,E01-CS-01-135,,Consulta,1,0,9/26/2024,9/26/2024,32,Secretora,0,dolor/infertilidad,,Control?,
+Vall Hebron,E01-CS-01-136,,Consulta,1,0,9/26/2024,9/26/2024,34,Proliferativa,0,Asintomatica,,Control?,
+Vall Hebron,E01-CS-01-137,,Consulta,1,0,9/26/2024,9/26/2024,36,Secretora,0,infertilidad,utero en T,Control?,
+Vall Hebron,E01-CS-01-138,E01-UA-01-138,Quirofano,1,1,10/1/2024,10/1/2024,39,,0,NS,,Endometriosis,2
+Vall Hebron,E01-CS-01-139,E01-UA-01-139,Quirofano,1,1,10/3/2024,10/3/2024,41,,0,dolor,,Endometriosis,2
+Vall Hebron,E01-CS-01-140,,Consulta,1,0,10/4/2024,10/4/2024,38,Secretora,0,dolor,,Endometriosis,2
+Vall Hebron,E01-CS-01-141,E01-UA-01-141,Quirofano,1,1,10/10/2024,10/10/2024,45,,0,dolor,,Endometriosis,NS
+Vall Hebron,E01-CS-01-067,,Consulta,1,0,4/29/2024,4/29/2024,29,,1?,dolor,,Endometriosis,4
+Vall Hebron,E01-CS-01-142,,Consulta,1,0,10/11/2024,10/11/2024,39,Proliferativa,0,dolor/infertilidad,,Control*,1
+Vall Hebron,E01-CS-01-143,,Consulta,1,0,10/11/2024,10/11/2024,28,Secretora,1,Asintomatica,,,
+Vall Hebron,E01-CS-01-144,E01-UA-01-144,Quirofano,1,1,10/17/2024,10/17/2024,40,,1,dolor,,Endometriosis,3
+Vall Hebron,E01-CS-01-145,,Consulta,1,0,10/17/2024,10/17/2024,36,Proliferativa,0,dolor,,Control,1
+Vall Hebron,E01-CS-01-146,,Consulta,1,0,10/17/2024,10/17/2024,37,Secretora,0,infertilidad,,Endometriosis,2
+Vall Hebron,E01-CS-01-147,,Consulta,1,0,10/17/2024,10/17/2024,38,Proliferativa,0,dolor,,Control,1
+Vall Hebron,E01-CS-01-148,,Consulta,1,0,10/21/2024,10/21/2024,32,,1,dolor,antecedents UPH,Endometriosis,2/3
+Vall Hebron,E01-CS-01-149,E01-UA-01-149,Quirofano,1,1,10/22/2024,10/22/2024,34,,1,Asintomatica,,Endometriosis,3
+Vall Hebron,E01-CS-01-150,E01-UA-01-150,Quirofano,1,1,10/24/2024,10/24/2024,45,,1?,NS,,Endometriosis,5/6
+Vall Hebron,E01-CS-01-151,,Consulta,1,0,10/28/2024,10/28/2024,39,,1,dolor,,Endometriosis,2
+Vall Hebron,E01-CS-01-068,,Consulta,1,0,5/6/2024,5/6/2024,45,Proliferativa,0?,dolor,,Control?,
+Vall Hebron,E01-CS-01-152,,Consulta,1,0,11/4/2024,11/4/2024,28,Menstrual,1,dolor,DM1,,
+Vall Hebron,E01-CS-01-153,,Consulta,1,0,11/7/2024,11/7/2024,34,Proliferativa,0,Asintomatica,,Control?,
+Vall Hebron,E01-CS-01-154,,Consulta,1,0,11/7/2024,11/7/2024,31,Secretora,0,dolor/infertilidad,,,
+Vall Hebron,E01-CS-01-155,,Consulta,1,0,11/7/2024,11/7/2024,32,Secretora,0,infertilidad,VPH,Control,1
+Vall Hebron,E01-CS-01-156,,Consulta,1,0,11/7/2024,11/7/2024,35,,0,infertilidad,,Control?,
+Vall Hebron,E01-CS-01-157,E01-UA-01-157,Quirofano,1,1,11/12/2024,11/12/2024,48,,NS,NS,,Endometriosis,NS
+Vall Hebron,E01-CS-01-158,E01-UA-01-158,Consulta,1,0,11/14/2024,11/14/2024,26,,1,dolor,,Endometriosis,3
+Vall Hebron,E01-CS-01-159,E01-UA-01-159,Quirofano,1,1,11/14/2024,11/14/2024,30,,NS,NS,,Endometriosis,NS
+Vall Hebron,E01-CS-01-160,,Consulta,1,0,11/21/2024,11/21/2024,32,Secretora,0,infertilidad,,Control?,
+Vall Hebron,E01-CS-01-161,E01-UA-01-161,Consulta,1,0,11/21/2024,11/21/2024,35,Secretora,0,infertilidad,,Control,1
+Vall Hebron,E01-CS-01-069,E01-UA-01-069,Quirofano,1,1,5/7/2024,5/7/2024,28,,1,dolor,,Endometriosis,2/3
+Vall Hebron,E01-CS-01-162,E01-UA-01-162,Consulta,1,0,11/22/2024,11/22/2024,30,Secretora,0,Asintomatica,lupus,Endometriosis,2/3
+Vall Hebron,E01-CS-01-163,E01-UA-01-163,Consulta,1,0,11/25/2024,11/25/2024,34,Menstrual,1,dolor,,Endometriosis,2/3
+Vall Hebron,E01-CS-01-165,E01-UA-01-165,Quirofano,1,1,11/26/2024,11/26/2024,45,,NS,NS,,Endometriosis,NS
+Vall Hebron,C20,,Consulta,1,0,1/15/2024,1/15/2024,25,,1?,Asintomatica,,Endometriosis?,NS
+Vall Hebron,E01-CS-01-166,,Consulta,1,0,11/28/2024,11/28/2024,37,Ovulatoria,0?,Asintomatica,,Control?,
+Vall Hebron,E01-CS-01-167,,Consulta,1,0,12/21/2024,12/21/2024,41,Secretora,0,dolor,"Tiroides, PCOS",Endometriosis,2
+Vall Hebron,E01-CS-01-168,,Consulta,1,0,12/5/2024,12/5/2024,27,Proliferativa,0?,NS/infertilidad,,Control,1
+Vall Hebron,E01-CS-01-169,,Consulta,1,0,12/5/2024,12/5/2024,37,Proliferativa,0?,infertilidad,,Control?,
+Vall Hebron,E01-CS-01-170,,Consulta,1,0,12/5/2024,12/5/2024,36,Ovulatoria,0,NS/infertilidad,,Control,1
+Vall Hebron,E01-CS-01-070,E01-UA-01-070,Quirofano,1,1,5/7/2024,5/7/2024,27,Menstrual,1,dolor,,Endometriosis,3
+Vall Hebron,E01-CS-01-171,,Consulta,1,0,12/5/2024,12/5/2024,35,Ovulatoria,0?,dolor/infertilidad,,Control,1
+Vall Hebron,E01-CS-01-172,E01-UA-01-172,Quirofano,1,1,12/5/2024,12/5/2024,49,,1,dolor,,Endometriosis,3/5
+Vall Hebron,E01-CS-01-071,E01-UA-01-071,Quirofano,1,1,5/7/2024,5/7/2024,43,,0,dolor,,Endometriosis,2/3
+Vall Hebron,321,321,Quirofano,1,1,2/7/2023,2/7/2023,28,Secretora,0,NS,,Endometriosis,NS
+Vall Hebron,E01-CS-01-072,,Consulta,1,0,5/17/2024,5/17/2024,29,Proliferativa,0,dolor/infertilidad,,Endometriosis,2/3
+Vall Hebron,E01-CS-01-073,,Consulta,1,0,5/17/2024,5/17/2024,25,Secretora,1,dolor,,Endometriosis,2
+Vall Hebron,E01-CS-01-009,E01-UA-01-009,Quirofano,1,1,1/26/2024,1/26/2024,30,Secretora,1,Asintomatica,,Control,
+Vall Hebron,E01-CS-01-074,,Consulta,1,0,5/17/2024,5/17/2024,38,Secretora,0,dolor/infertilidad,tiroiditis. herpes i papiloma ja tractada,Endometriosis,3
+Vall Hebron,E01-CS-01-075,E01-UA-01-075,Quirofano,1,1,5/21/2024,5/21/2024,49,,1,NS,,Endometriosis,2
+Vall Hebron,C19,,Consulta,1,0,1/15/2024,1/15/2024,38,,0?,NS,,Endometriosis,2
+Vall Hebron,E01-CS-01-076,E01-UA-01-076,Quirofano,1,1,5/21/2024,5/21/2024,38,,0?,NS,,Endometriosis,2
+Vall Hebron,E01-CS-01-077,,Consulta,1,0,5/24/2024,5/24/2024,18,Secretora,0,dolor,,Endometriosis?,NS
+Vall Hebron,E01-CS-01-078,,Consulta,1,0,5/24/2024,5/24/2024,30,Proliferativa,0,dolor,,Endometriosis?,NS
+Vall Hebron,E01-CS-01-010,E01-UA-01-010,Quirofano,1,1,1/26/2024,1/26/2024,35,,1,Asintomatica,,Control,
+Valencia,E01-CS-03-001,E01-UA-03-001,Quirofano,1,1,6/27/2024,6/26/2024,32,,0,dolor/infertilidad,,Endometriosis,2/3/4/6
+Valencia,E01-CS-03-048,,Consulta,1,0,10/5/2024,10/4/2024,48,,NS,Asintomatica,,Endometriosis,3
+Valencia,E01-CS-03-049,,Consulta,1,0,10/5/2024,10/4/2024,41,,NS,Asintomatica,,Endometriosis,2
+Valencia,E01-CS-03-050,,Consulta,1,0,10/5/2024,10/4/2024,26,Ovulatoria,1,Asintomatica,PCOS,Endometriosis,3/4/10
+Valencia,E01-CS-03-051,,Consulta,1,0,10/14/2024,10/11/2024,53,Proliferativa,1,dolor,,Endometriosis,3
+Valencia,E01-CS-03-052,,Consulta,1,0,10/14/2024,10/11/2024,34,,1,dolor/infertilidad,,Endometriosis,4
+Valencia,E01-CS-03-029,,Consulta,1,0,10/4/2024,10/1/2024,32,Secretora,0,infertilidad,,Control,1
+Valencia,E01-CS-03-053,,Consulta,1,0,,,,,1,infertilidad,,Endometriosis,2/3/8
+Valencia,E01-CS-03-054,,Consulta,1,0,,,,,0,dolor,,Endometriosis,2
+Valencia,E01-CS-03-055,,Consulta,1,0,,,,,1,Asintomatica,Hashimoto,Endometriosis,2/3
+Valencia,E01-CS-03-056,,Consulta,1,0,11/11/2024,11/8/2024,27,,1?,Asintomatica,,Endometriosis,2
+Valencia,E01-CS-03-027,,Consulta,1,0,7/24/2024,7/22/2024,37,Proliferativa,0,dolor/infertilidad,,Control,1
+Valencia,E01-CS-03-067,,Consulta,1,0,,,,,NS,NS,,Endometriosis,2
+Valencia,E01-CS-03-058,,Consulta,1,0,11/11/2024,11/8/2024,39,,1,Asintomatica,,Endometriosis,2
+Valencia,E01-CS-03-059,,Consulta,1,0,11/23/2024,11/22/2024,37,,1,dolor/infertilidad,,Endometriosis,2/3/5
+Valencia,E01-CS-03-060,,Consulta,1,0,11/23/2024,11/22/2024,32,Secretora,1,dolor,,Endometriosis*,1
+Valencia,E01-CS-03-023,,Consulta,1,0,9/21/2024,9/17/2024,38,Proliferativa,0,dolor/infertilidad,,Endometriosis,2
+Valencia,E01-CS-03-021,,Consulta,1,0,9/21/2024,9/17/2024,34,Proliferativa,0,infertilidad,,Control,1
+Valencia,E01-CS-03-025,,Consulta,1,0,9/21/2024,9/19/2024,37,Ovulatoria,0,infertilidad,,Endometriosis,2
+Valencia,E01-CS-03-057,,Consulta,1,0,11/11/2024,11/8/2024,22,Proliferativa,1,Asintomatica,,Endometriosis,2
+Valencia,E01-CS-03-045,,Consulta,1,0,9/28/2024,9/27/2024,45,,1?,infertilidad,,Endometriosis,2/3/6
+Valencia,E01-CS-03-046,,Consulta,1,0,9/28/2024,9/27/2024,43,,1?,Asintomatica,,Endometriosis,2
+Valencia,E01-CS-03-002,E01-UA-03-002,Quirofano,1,1,7/24/2024,7/23/2024,26,,1,dolor,,Endometriosis,2/3
+Valencia,E01-CS-03-044,,Consulta,1,0,9/28/2024,9/27/2024,46,Secretora,1,dolor/infertilidad,mioma,Endometriosis,2/3/7
+Valencia,E01-CS-03-022,,Consulta,1,0,7/11/2024,7/9/2024,40,Ovulatoria,0,infertilidad,,Control?,
+Valencia,E01-CS-03-026,,Consulta,1,0,7/6/2024,7/4/2024,37,Proliferativa,0,dolor/infertilidad,,Endometriosis,2/3/10
+Valencia,E01-CS-03-042,,Consulta,1,0,9/21/2024,9/20/2024,26,,1,Asintomatica,,Endometriosis,2
+Valencia,E01-CS-03-043,,Consulta,1,0,9/21/2024,9/20/2024,41,Proliferativa,0,dolor/infertilidad,,Endometriosis,2
+Valencia,E01-CS-03-003,E01-UA-03-003,Quirofano,1,1,9/27/2024,9/24/2024,44,,1?,dolor/infertilidad,,Endometriosis,2
+Dexeus,E01-CS-02-051,,Consulta,1,0,10/29/2024,10/29/2024,23,,1,dolor,"Mastocytosis, Malformacion uterina ESHRE U2b C1 V1",Endometriosis,3
+Dexeus,E01-CS-02-046,,Consulta,1,0,11/13/2024,11/12/2024,30,,1,dolor,,Endometriosis,3/4/6
+Dexeus,E01-CS-02-057,,Consulta,1,0,11/13/2024,11/12/2024,30,Ovulatoria,1,Asintomatica,,Endometriosis,3
+Dexeus,E01-CS-02-047,,Consulta,1,0,11/13/2024,11/13/2024,49,Menstrual,1,dolor,,Endometriosis,4/6/8
+Dexeus,E01-CS-02-044,,Consulta,1,0,11/14/2024,11/13/2024,42,Menstrual,1,dolor,,Endometriosis,2/3/4/6/10
+Dexeus,E01-CS-02-043,,Consulta,1,0,11/14/2024,11/13/2024,42,,1,Asintomatica,,Endometriosis,2/3/4/7/8
+Dexeus,E01-CS-02-022,E01-UA-02-022,Quirofano,1,1,11/20/2024,11/18/2024,40,Proliferativa,1,Asintomatica,,Endometriosis,2
+Dexeus,E01-CS-02-048,,Consulta,1,0,11/20/2024,11/19/2024,36,,1,dolor,,Endometriosis,3
+Dexeus,E01-CS-02-056,,Consulta,1,0,11/20/2024,11/19/2024,44,,0,dolor/infertilidad,DM1,Endometriosis-adenomiosis*,5/6
+Dexeus,E01-CS-02-052,,Consulta,1,0,11/27/2024,11/26/2024,28,,1,Asintomatica,,Endometriosis,3
+Dexeus,E01-CS-02-059,,Consulta,1,0,10/29/2024,10/29/2024,19,Secretora,0,dolor,,Endometriosis,3
+Dexeus,E01-CS-02-055,,Consulta,1,0,11/27/2024,11/26/2024,29,,0,dolor,,Endometriosis,2/3
+Dexeus,E01-CS-02-039,,Consulta,1,0,11/27/2024,11/26/2024,39,Proliferativa,0,dolor,,Endometriosis,2/3
+Dexeus,E01-CS-02-054,,Consulta,1,0,11/27/2024,11/26/2024,39,Proliferativa,1,Asintomatica,Conizaci�n CIN III,Endometriosis,2/3/4/7
+Dexeus,E01-CS-02-038,,Consulta,1,0,11/27/2024,11/26/2024,43,,1,dolor/infertilidad,"Tiroidits Hashimoto, Psoriasis",Endometriosis,2/3/4/6
+Dexeus,E01-CS-02-034,,Consulta,1,0,11/28/2024,11/27/2024,37,Proliferativa,1,dolor,,Endometriosis,2/3
+Dexeus,E01-CS-02-035,,Consulta,1,0,11/28/2024,11/27/2024,36,,0,Asintomatica,,Endometriosis,2/3
+Dexeus,E01-CS-02-025,E01-UA-02-025,Quirofano,1,1,12/4/2024,12/2/2024,33,,1,dolor/infertilidad,EPI tras histeroscopia diagn�stica con ingreso en Febrero 2024,Endometriosis,2/3
+Dexeus,E01-CS-02-024,E01-UA-02-024,Quirofano,1,1,12/4/2024,12/2/2024,41,,1,dolor/infertilidad,,Endometriosis,2/3
+Dexeus,E01-CS-02-053,,Consulta,1,0,12/5/2024,12/4/2024,27,Proliferativa,1,dolor,,Control,7
+Dexeus,E01-CS-02-042,,Consulta,1,0,12/5/2024,12/4/2024,30,Secretora,0?,dolor,,Endometriosis,2
+Dexeus,E01-CS-02-050,,Consulta,1,0,11/6/2024,11/5/2024,39,Secretora,0,dolor,,Endometriosis,2/3
+Dexeus,E01-CS-02-036,,Consulta,1,0,12/5/2024,12/4/2024,38,,0,dolor,,Endometriosis,3
+Dexeus,E01-CS-02-037,,Consulta,1,0,12/4/2024,12/3/2024,50,Ovulatoria,0,dolor,,Endometriosis,2/6/9/10
+Dexeus,E01-CS-02-019,E01-UA-02-019,Quirofano,1,1,,12/9/2024,47,Menstrual,0,dolor/infertilidad,,Endometriosis,7
+Dexeus,E01-CS-02-031,,Consulta,1,0,12/11/2024,12/10/2024,36,,1,dolor,,Endometriosis,3
+Dexeus,E01-CS-02-032,,Consulta,1,0,12/11/2024,12/10/2024,33,Proliferativa,1,dolor,,Endometriosis,3
+Dexeus,E01-CS-02-058,,Consulta,1,0,11/6/2024,11/5/2024,35,Menstrual,0,dolor/infertilidad,,Endometriosis,3
+Dexeus,E01-CS-02-049,,Consulta,1,0,11/6/2024,11/6/2024,31,,1,dolor/infertilidad,,Endometriosis,2/3
+Dexeus,E01-CS-02-018,E01-UA-02-018,Quirofano,1,1,11/13/2024,11/11/2024,41,Proliferativa,0,dolor,,Control,6
+Dexeus,E01-CS-02-041,,Consulta,1,0,11/5/2024,11/5/2024,36,Secretora,0,Asintomatica,,Endometriosis,2/3/10
+Dexeus,E01-CS-02-060,,Consulta,1,0,11/6/2024,11/5/2024,44,,1?,dolor,Colitis ulcerosa,Endometriosis,3/4
+Dexeus,E01-CS-02-045,,Consulta,1,0,11/13/2024,11/12/2024,21,,1,dolor,,Endometriosis,3
+Mallorca,E01-CS-04-035,E01-UA-04-035,Quirofano,1,1,11/7/2024,11/4/2024,33,,0,dolor,,,
+Vall Hebron,,045 T,Quirofano,0,1,3/1/2019,3/1/2019,39,,0?,NS,,Control,
+Vall Hebron,,046 T,Quirofano,0,1,3/7/2019,3/7/2019,34,,NS,NS,,Control,
+Vall Hebron,,047 T,Quirofano,0,1,3/22/2019,3/22/2019,36,,0?,NS,,Control,
+Vall Hebron,,048 T,Quirofano,0,1,3/29/2019,3/29/2019,37,,0?,NS,,Control,
+Vall Hebron,,049 T,Quirofano,0,1,4/1/2019,4/1/2019,37,,1,NS,,Control,
+Vall Hebron,,050 T,Quirofano,0,1,4/4/2019,4/4/2019,41,,NS,NS,,Control,
+Vall Hebron,,051 T,Quirofano,0,1,5/13/2019,5/13/2019,43,,NS,NS,,Control,
+Vall Hebron,,052 T,Quirofano,0,1,5/30/2019,5/30/2019,45,,1?,NS,,Control,
+Vall Hebron,,053 T,Quirofano,0,1,5/31/2019,5/31/2019,35,,NS,NS,,Control,
+Vall Hebron,,054 T,Quirofano,0,1,6/3/2019,6/3/2019,40,,NS,NS,,Control,
+Vall Hebron,,055 T,Quirofano,0,1,6/14/2019,6/14/2019,41,,0?,NS,,Control,
+Vall Hebron,,056 T,Quirofano,0,1,6/19/2020,6/19/2020,40,Menstrual,1?,NS,,Control,
+Vall Hebron,,057 T,Quirofano,0,1,9/29/2020,9/29/2020,21,Secretora,1?,dolor,,Control,
+Vall Hebron,,058 T,Quirofano,0,1,10/8/2020,10/8/2020,30,Menstrual,0?,dolor,,Control,
+Vall Hebron,,059 T,Quirofano,0,1,10/9/2020,10/9/2020,43,Secretora,NS,NS,,Control,
+Vall Hebron,,060 T,Quirofano,0,1,10/9/2020,10/9/2020,25,Ovulatoria,0?,NS,,Control,
+Vall Hebron,,061 T,Quirofano,0,1,10/9/2020,10/9/2020,37,Ovulatoria,0?,NS,,Control,
+Vall Hebron,,062 T,Quirofano,0,1,10/9/2020,10/9/2020,38,Menstrual,0?,NS,,Control,
+Vall Hebron,,064 T,Quirofano,0,1,10/9/2020,10/9/2020,34,Menstrual,NS,NS,,Control,
+Vall Hebron,,067 T,Quirofano,0,1,10/22/2020,10/22/2020,26,Ovulatoria,NS,dolor,,Control,
+Vall Hebron,,069 T,Quirofano,0,1,10/23/2020,10/23/2020,43,,1?,NS,,Control,
+Vall Hebron,,105 T,Quirofano,0,1,9/28/2022,9/28/2022,35,,NS,NS,,Control,
+Vall Hebron,,132 T,Quirofano,0,1,9/8/2023,9/8/2023,41,Secretora,0?,NS,,Control,
+Vall Hebron,,133 T,Quirofano,0,1,9/8/2023,9/8/2023,44,Secretora,1,NS,,Control,
+Vall Hebron,,71 T,Quirofano,0,1,10/30/2020,10/30/2020,31,Menstrual,1?,NS,,Control,
+Vall Hebron,,75 T,Quirofano,0,1,11/5/2020,11/5/2020,37,Proliferativa,0?,NS,,Control,
+Vall Hebron,,76 T,Quirofano,0,1,11/5/2020,11/5/2020,36,Secretora,0?,NS,,Control,
+Vall Hebron,,77 T,Quirofano,0,1,11/6/2020,11/6/2020,42,Proliferativa,0?,NS,,Control,
+Vall Hebron,,78 T,Quirofano,0,1,11/6/2020,11/6/2020,44,Proliferativa,0?,NS,,Control,
+Vall Hebron,,79 T,Quirofano,0,1,11/6/2020,11/6/2020,38,Menstrual,0?,NS,,Control,
+Vall Hebron,,80 T,Quirofano,0,1,11/6/2020,11/6/2020,31,Menstrual,1?,NS,,Control,
+Vall Hebron,,81 T,Quirofano,0,1,11/6/2020,11/6/2020,38,Proliferativa,0?,NS,,Control,
+Vall Hebron,,082 T,Quirofano,0,1,11/10/2020,11/10/2020,35,Ovulatoria,NS,NS,,Control,
+Vall Hebron,,083 T,Quirofano,0,1,11/11/2020,11/11/2020,43,,NS,NS,,Control,
+Vall Hebron,,084 T,Quirofano,0,1,11/11/2020,11/11/2020,41,Secretora,NS,NS,,Control,
+Vall Hebron,,085 T,Quirofano,0,1,11/16/2020,11/16/2020,41,Proliferativa,0?,NS,,Control,
+Vall Hebron,,086 T,Quirofano,0,1,11/16/2020,11/16/2020,40,Proliferativa,1?,NS,,Control,
+Vall Hebron,,087 T,Quirofano,0,1,12/4/2020,12/4/2020,40,,NS,NS,,Control,
+Vall Hebron,,091 T,Quirofano,0,1,12/11/2020,12/11/2020,39,Secretora,NS,dolor,,Control,
+Vall Hebron,,092 T,Quirofano,0,1,1/29/2021,1/29/2021,36,Proliferativa,0?,NS,,Control,
+Vall Hebron,,093 T,Quirofano,0,1,1/29/2021,1/29/2021,35,Proliferativa,0?,NS,,Control,
+Vall Hebron,,094 T,Quirofano,0,1,1/29/2021,1/29/2021,33,Proliferativa,1?,NS,,Control,
+Vall Hebron,,095 T,Quirofano,0,1,1/29/2021,1/29/2021,33,Proliferativa,NS,NS,,Control,
+Vall Hebron,,096 T,Quirofano,0,1,2/8/2021,2/8/2021,43,,1?,NS,,Control,
+Vall Hebron,,097 T,Quirofano,0,1,1/21/2022,1/21/2022,35,,0?,NS,,Control,
+Vall Hebron,,E01-UA-01-059,Quirofano,0,1,4/16/2024,4/16/2024,32,,NS,NS,,Endometriosis,NS
+Vall Hebron,,179,Quirofano,0,1,2/18/2019,2/18/2019,42,,1,NS,,Endometriosis,3
+Vall Hebron,,180,Quirofano,0,1,3/5/2019,3/5/2019,43,,NS,NS,,Endometriosis,NS
+Vall Hebron,,181,Quirofano,0,1,3/15/2019,3/15/2019,37,,0?,Asintomatica,,Endometriosis,2
+Vall Hebron,,182,Quirofano,0,1,3/22/2019,3/22/2019,26,,NS,NS,,Endometriosis,NS
+Vall Hebron,,183,Quirofano,0,1,3/28/2019,3/28/2019,43,,1,Asintomatica,,Endometriosis,NS
+Vall Hebron,,187,Quirofano,0,1,5/21/2019,5/21/2019,28,,NS,NS,,Endometriosis,NS
+Vall Hebron,,188,Quirofano,0,1,5/28/2019,5/28/2019,29,Ovulatoria,0?,Asintomatica,,Endometriosis,NS
+Vall Hebron,,190,Quirofano,0,1,6/18/2019,6/18/2019,46,,NS,NS,,Endometriosis,NS
+Vall Hebron,,191,Quirofano,0,1,6/27/2019,6/27/2019,37,,1?,Asintomatica,,Endometriosis,3
+Vall Hebron,,193,Quirofano,0,1,7/11/2019,7/11/2019,46,,NS,NS,,Endometriosis,NS
+Vall Hebron,,194,Quirofano,0,1,7/16/2019,7/16/2019,42,,1?,Asintomatica,,Endometriosis,2
+Vall Hebron,,195,Quirofano,0,1,7/19/2019,7/19/2019,37,,0?,Asintomatica,,Endometriosis,2
+Vall Hebron,,196,Quirofano,0,1,7/23/2019,7/23/2019,29,,NS,NS,,Endometriosis,NS
+Vall Hebron,,197,Quirofano,0,1,10/1/2019,10/1/2019,33,,NS,NS,,Endometriosis,NS
+Vall Hebron,,198,Quirofano,0,1,10/15/2019,10/15/2019,43,,NS,NS,,Endometriosis,NS
+Vall Hebron,,199,Quirofano,0,1,10/21/2019,10/21/2019,40,,1?,NS,,Endometriosis,2
+Vall Hebron,,200,Quirofano,0,1,10/31/2019,10/31/2019,31,,NS,NS,,Endometriosis,NS
+Vall Hebron,,201,Quirofano,0,1,11/5/2019,11/5/2019,46,,NS,NS,,Endometriosis,NS
+Vall Hebron,,202,Quirofano,0,1,11/8/2019,11/8/2019,41,,0?,Asintomatica,,Endometriosis,2
+Vall Hebron,,203,Quirofano,0,1,11/12/2019,11/12/2019,41,,1?,Asintomatica,,Endometriosis,NS
+Vall Hebron,,204,Quirofano,0,1,11/19/2019,11/19/2019,38,,0?,NS,,Endometriosis,NS
+Vall Hebron,,205,Quirofano,0,1,11/25/2019,11/25/2019,46,,NS,NS,,Endometriosis,NS
+Vall Hebron,,206,Quirofano,0,1,12/10/2019,12/10/2019,42,,NS,NS,,Endometriosis,NS
+Vall Hebron,,207,Quirofano,0,1,12/12/2019,12/12/2019,43,,0?,Asintomatica,,Endometriosis,NS
+Vall Hebron,,208,Quirofano,0,1,1/17/2020,1/17/2020,30,,NS,NS,,Endometriosis,NS
+Vall Hebron,,209,Quirofano,0,1,1/20/2020,1/20/2020,32,,NS,NS,,Endometriosis,NS
+Vall Hebron,,210,Quirofano,0,1,1/23/2020,1/23/2020,28,,NS,NS,,Endometriosis,NS
+Vall Hebron,,211,Quirofano,0,1,1/27/2020,1/27/2020,34,,NS,NS,,Endometriosis,NS
+Vall Hebron,,213,Quirofano,0,1,2/10/2020,2/10/2020,35,Proliferativa,0,Asintomatica,,Endometriosis,NS
+Vall Hebron,,214,Quirofano,0,1,2/21/2020,2/21/2020,44,,1?,Asintomatica,,Endometriosis,2
+Vall Hebron,,215,Quirofano,0,1,2/24/2020,2/24/2020,50,,NS,NS,,Endometriosis,NS
+Vall Hebron,,216,Quirofano,0,1,3/2/2020,3/2/2020,40,,0?,dolor,,Endometriosis,3
+Vall Hebron,,217,Quirofano,0,1,3/3/2020,3/3/2020,40,,1,NS,,Endometriosis,NS
+Vall Hebron,,218,Quirofano,0,1,3/6/2020,3/6/2020,51,,NS,NS,,Endometriosis,NS
+Vall Hebron,,219,Quirofano,0,1,3/6/2020,3/6/2020,40,,1,dolor,,Endometriosis,2
+Vall Hebron,,220,Quirofano,0,1,3/9/2020,3/9/2020,44,,0,dolor,,Endometriosis,3
+Vall Hebron,,221,Quirofano,0,1,6/16/2020,6/16/2020,32,Proliferativa,1,NS,,Endometriosis,3
+Vall Hebron,,223,Quirofano,0,1,6/29/2020,6/29/2020,40,,NS,NS,,Endometriosis,NS
+Vall Hebron,,224,Quirofano,0,1,6/30/2020,6/30/2020,36,,NS,NS,,Endometriosis,NS
+Vall Hebron,,225,Quirofano,0,1,7/7/2020,7/7/2020,31,Proliferativa,0?,dolor,,Endometriosis,NS
+Vall Hebron,,226,Quirofano,0,1,7/16/2020,7/16/2020,37,Secretora,0?,dolor,,Endometriosis,3
+Vall Hebron,,227,Quirofano,0,1,9/15/2020,9/15/2020,27,,1,dolor,,Endometriosis,NS
+Vall Hebron,,228,Quirofano,0,1,9/22/2020,9/22/2020,39,Secretora,0?,dolor,,Endometriosis,NS
+Vall Hebron,,229,Quirofano,0,1,9/28/2020,9/28/2020,36,Secretora,1?,dolor,,Endometriosis,NS
+Vall Hebron,,230,Quirofano,0,1,10/2/2020,10/2/2020,24,Secretora,1?,dolor,,Endometriosis,2
+Vall Hebron,,231,Quirofano,0,1,10/5/2020,10/5/2020,48,,1?,dolor,,Endometriosis,3
+Vall Hebron,,232,Quirofano,0,1,10/13/2020,10/13/2020,28,Secretora,1?,dolor,,Endometriosis,NS
+Vall Hebron,,233,Quirofano,0,1,10/19/2020,10/19/2020,41,Secretora,0?,dolor,,Endometriosis,2
+Vall Hebron,,234,Quirofano,0,1,10/20/2020,10/20/2020,31,Secretora,1?,dolor,,Endometriosis,3
+Vall Hebron,,235,Quirofano,0,1,10/26/2020,10/26/2020,35,Proliferativa,1?,dolor,,Endometriosis,NS
+Vall Hebron,,236,Quirofano,0,1,10/27/2020,10/27/2020,44,,0?,dolor,,Endometriosis,3
+Vall Hebron,,237,Quirofano,0,1,10/30/2020,10/30/2020,35,,1?,NS,,Endometriosis,NS
+Vall Hebron,,239,Quirofano,0,1,11/19/2020,11/19/2020,34,,1?,dolor,,Endometriosis,NS
+Vall Hebron,,240,Quirofano,0,1,11/23/2020,11/23/2020,42,Secretora,0?,dolor,,Endometriosis,NS
+Vall Hebron,,241,Quirofano,0,1,11/24/2020,11/24/2020,35,Proliferativa,1?,NS,,Endometriosis,2
+Vall Hebron,,242,Quirofano,0,1,11/27/2020,11/27/2020,33,Secretora,0?,dolor,,Endometriosis,2
+Vall Hebron,,243,Quirofano,0,1,11/30/2020,11/30/2020,40,,0?,dolor,,Endometriosis,NS
+Vall Hebron,,244,Quirofano,0,1,12/1/2020,12/1/2020,37,Proliferativa,1?,dolor,,Endometriosis,3
+Vall Hebron,,245,Quirofano,0,1,12/10/2020,12/10/2020,41,Proliferativa,1?,dolor,,Endometriosis,2
+Vall Hebron,,246,Quirofano,0,1,12/15/2020,12/15/2020,43,,1?,dolor,,Control,
+Vall Hebron,,247,Quirofano,0,1,12/21/2020,12/21/2020,45,,1?,dolor,,Endometriosis,3
+Vall Hebron,,248,Quirofano,0,1,1/12/2021,1/12/2021,42,,1?,dolor,,Endometriosis,3
+Vall Hebron,,249,Quirofano,0,1,1/19/2021,1/19/2021,41,Secretora,0?,dolor,,Endometriosis,NS
+Vall Hebron,,250,Quirofano,0,1,1/26/2021,1/26/2021,30,,NS,NS,,Endometriosis,NS
+Vall Hebron,,251,Quirofano,0,1,1/29/2021,1/29/2021,38,,1?,dolor,,Endometriosis,2
+Vall Hebron,,252,Quirofano,0,1,3/1/2021,3/1/2021,48,,NS,NS,,Endometriosis,NS
+Vall Hebron,,253,Quirofano,0,1,3/9/2021,3/9/2021,45,,NS,NS,,Endometriosis,NS
+Vall Hebron,,254,Quirofano,0,1,3/11/2021,3/11/2021,46,,NS,NS,,Endometriosis,NS
+Vall Hebron,,255,Quirofano,0,1,3/16/2021,3/16/2021,36,,NS,NS,,Endometriosis,NS
+Vall Hebron,,256,Quirofano,0,1,3/18/2021,3/18/2021,43,,1?,dolor,,Endometriosis,3
+Vall Hebron,,257,Quirofano,0,1,3/19/2021,3/19/2021,27,,NS,NS,,Endometriosis,NS
+Vall Hebron,,258,Quirofano,0,1,3/23/2021,3/23/2021,44,,0?,NS,,Endometriosis,NS
+Vall Hebron,,259,Quirofano,0,1,4/8/2021,4/8/2021,45,,NS,NS,,Endometriosis,NS
+Vall Hebron,,260,Quirofano,0,1,4/15/2021,4/15/2021,42,,1?,dolor,,Endometriosis,NS
+Vall Hebron,,261,Quirofano,0,1,4/26/2021,4/26/2021,47,,NS,NS,,Endometriosis,NS
+Vall Hebron,,262,Quirofano,0,1,4/27/2021,4/27/2021,38,,1,NS,,Endometriosis,3
+Vall Hebron,,263,Quirofano,0,1,5/4/2021,5/4/2021,42,,1?,NS,,Endometriosis,3
+Vall Hebron,,264,Quirofano,0,1,5/6/2021,5/6/2021,39,,0?,dolor,,Endometriosis,3
+Vall Hebron,,265,Quirofano,0,1,5/10/2021,5/10/2021,39,,0?,dolor,,Endometriosis,3
+Vall Hebron,,266,Quirofano,0,1,5/18/2021,5/18/2021,32,,NS,NS,,Endometriosis,NS
+Vall Hebron,,267,Quirofano,0,1,2/1/2021,2/1/2021,30,,NS,NS,,Endometriosis,NS
+Vall Hebron,,269,Quirofano,0,1,6/7/2021,6/7/2021,43,,NS,NS,,Endometriosis,NS
+Vall Hebron,,270,Quirofano,0,1,6/10/2021,6/10/2021,37,,NS,NS,,Endometriosis,NS
+Vall Hebron,,271,Quirofano,0,1,6/14/2021,6/14/2021,34,,NS,NS,,Endometriosis,NS
+Vall Hebron,,272,Quirofano,0,1,6/15/2021,6/15/2021,42,,NS,NS,,Endometriosis,NS
+Vall Hebron,,273,Quirofano,0,1,6/22/2021,6/22/2021,34,,NS,NS,,Endometriosis,NS
+Vall Hebron,,274,Quirofano,0,1,7/23/2021,7/23/2021,41,,NS,NS,,Endometriosis,NS
+Vall Hebron,,275,Quirofano,0,1,9/16/2021,9/16/2021,32,,NS,NS,,Endometriosis,NS
+Vall Hebron,,278,Quirofano,0,1,11/18/2021,11/18/2021,32,,NS,NS,,Endometriosis,NS
+Vall Hebron,,279,Quirofano,0,1,11/25/2021,11/25/2021,47,,NS,NS,,Endometriosis,NS
+Vall Hebron,,280,Quirofano,0,1,12/9/2021,12/9/2021,46,,NS,NS,,Endometriosis,NS
+Vall Hebron,,281,Quirofano,0,1,12/23/2021,12/23/2021,40,,NS,NS,,Endometriosis,NS
+Vall Hebron,,282,Quirofano,0,1,1/13/2022,1/13/2022,39,,NS,NS,,Endometriosis,NS
+Vall Hebron,,283,Quirofano,0,1,1/20/2022,1/20/2022,34,,NS,NS,,Endometriosis,NS
+Vall Hebron,,284,Quirofano,0,1,1/21/2022,1/21/2022,37,,NS,NS,,Endometriosis,NS
+Vall Hebron,,285,Quirofano,0,1,2/8/2022,2/8/2022,43,,NS,NS,,Endometriosis,NS
+Vall Hebron,,294,Quirofano,0,1,4/28/2022,4/28/2022,31,,NS,NS,,Endometriosis,NS
+Vall Hebron,,189,Quirofano,0,1,6/11/2019,6/11/2019,39,,NS,NS,,Endometriosis,NS
