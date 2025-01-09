@@ -1,113 +1,113 @@
-Sample	Collection center	Age	Pathology	Hystology grade	Hystology type	FIGO stage 2009	TCGA	Time between collection and processing (h)	Group time	Collected volume (mL)	Sample visual description	Hemolysis	pH	Collected at	MMP9 ng/mL	HSPB1 ng/mL	PERM ng/mL	ADIPOQ ng/mL	TIMP-2 ng/mL	AGRIN ng/mL	KPYM ng/mL 	Total protein BCA mg/mL
-001-0004	Hospital Universitari Campus Vall d'Hebron	76	Benign					23.8	>4h	0.75	Mainly tissue. Very viscous. Dark brown.	4		Consulta	1281.13	526.71	598.36			1564.01	220.11	39.36
-001-0005	Hospital Universitari Campus Vall d'Hebron	62	Benign					38.5	>4h	0.1	Mostly bloody . Slightly viscous.	1		Consulta	19.37	7969.64	77.57	238.59	25.5	136.37	105.9	6.82
-001-0006	Hospital Universitari Campus Vall d'Hebron	60	Benign					6	>4h	0.1	Mostly bloody . Slightly viscous.	1		Consulta	0.22	6378.9	37.92	34.86	12.7	67.03	172.66	2.92
-001-0007	Hospital Universitari Campus Vall d'Hebron	70	Endometrial cancer	G2	Endometrioid	Ivb	MSI	6	>4h	0.35	Mostly bloody . Slightly viscous.	1		Consulta	233.79	2403.31	1096.77			384.74	184.81	21.29
-001-0008	Hospital Universitari Campus Vall d'Hebron	75	Benign					4.3	>4h	0.1	Mostly bloody . Slightly viscous.	0		Consulta	47.22	 	282.75	76.38	12.49	97.52	117.2	2.86
-001-0009	Hospital Universitari Campus Vall d'Hebron	50	Benign					46.3	>4h	0.1	Mostly bloody . Slightly viscous.	0		Consulta	6.1	2134.14	11.99			30.27	50.62	1.29
+Sample	Collection center	Age	Pathology	Hystology grade	Hystology type	FIGO stage 2009	TCGA	Time between collection and processing (h)	Group time	Collected volume (mL)	Sample visual description	Hemolysis	pH	Collected at	MMP9 ng/mL	HSPB1 ng/mL	PERM ng/mL	ADIPOQ ng/mL	TIMP-2 ng/mL	AGRIN ng/mL	"KPYM ng/mL "	Total protein BCA mg/mL
+001-0004	Hospital Universitari Campus Vall d'Hebron	76	Benign					23.8	>4h	0.75	Mainly tissue. Very viscous. Dark brown.	4		Consulta	1281.13	526.71	598.36	1342.20	128.43	1564.01	220.11	39.36
+001-0005	Hospital Universitari Campus Vall d'Hebron	62	Benign					38.5	>4h	0.1	Mostly bloody . Slightly viscous.	1		Consulta	19.37	7969.64	77.57	238.59	25.50	136.37	105.9	6.82
+001-0006	Hospital Universitari Campus Vall d'Hebron	60	Benign					6	>4h	0.1	Mostly bloody . Slightly viscous.	1		Consulta	0.22	6378.9	37.92	34.86	12.70	67.03	172.66	2.92
+001-0007	Hospital Universitari Campus Vall d'Hebron	70	Endometrial cancer	G2	Endometrioid	Ivb	MSI	6	>4h	0.35	Mostly bloody . Slightly viscous.	1		Consulta	233.79	2403.31	1096.77	1358.64	34.38	384.74	184.81	21.29
+001-0008	Hospital Universitari Campus Vall d'Hebron	75	Benign					4.3	>4h	0.1	Mostly bloody . Slightly viscous.	0		Consulta	47.22	" "	282.75	76.38	12.49	97.52	117.2	2.86
+001-0009	Hospital Universitari Campus Vall d'Hebron	50	Benign					46.3	>4h	0.1	Mostly bloody . Slightly viscous.	0		Consulta	6.1	2134.14	11.99	37.71	4.27	30.27	50.62	1.29
 001-0011	Hospital Universitari Campus Vall d'Hebron	72	Benign					2.8	<4h	0.1	Mostly bloody . Slightly viscous.	0		Consulta	14.93	1308.33	100.81	97.97	94.56	49.65	117.2	7.51
 001-0012	Hospital Universitari Campus Vall d'Hebron	70	Benign					25.6	>4h	0.05	Bloody . Viscous	3		Consulta	18.56	5149.36	155.48	112.45	78.26	108.14	936.21	6.71
 001-0013	Hospital Universitari Campus Vall d'Hebron	51	Benign					26	>4h	0.1	Mostly bloody . Slightly viscous.	0		Consulta	0	2991.88	59.41	89.96	12.09	103.5	243.79	2.93
-001-0014	Hospital Universitari Campus Vall d'Hebron	56	Benign					70.7	>4h	0.05	Bloody . Viscous	1		Consulta	16.64	11960.37	97.49	269.71	42.3	434.96	623.77	9.87
+001-0014	Hospital Universitari Campus Vall d'Hebron	56	Benign					70.7	>4h	0.05	Bloody . Viscous	1		Consulta	16.64	11960.37	97.49	269.71	42.30	434.96	623.77	9.87
 001-0017	Hospital Universitari Campus Vall d'Hebron	73	Benign					4.8	>4h	0.05	Bloody . Viscous	1		Consulta	19.19	15107.92	232.58	124.14	26.84	314.73	1204.56	8.79
-001-0019	Hospital Universitari Campus Vall d'Hebron	69	Benign					34.7	>4h	0.1	Bloody . Viscous	1		Consulta	157.72	5309.66	209.28			130	327.93	4.99
-001-0024	Hospital Universitari Campus Vall d'Hebron	80	Benign					43.8	>4h	0.05	Bloody . Viscous	0		Consulta	28.83	3207.56	1473.57	63.8	9.76	58.3	167.24	1.63
-001-0025	Hospital Universitari Campus Vall d'Hebron	76	Benign					3	<4h	0.05	Bloody . Viscous	1		Consulta	25.58	1275.61	160.86	14.54		33.99	20.75	0.46
+001-0019	Hospital Universitari Campus Vall d'Hebron	69	Benign					34.7	>4h	0.1	Bloody . Viscous	1		Consulta	157.72	5309.66	209.28	205.89	16.17	130	327.93	4.99
+001-0024	Hospital Universitari Campus Vall d'Hebron	80	Benign					43.8	>4h	0.05	Bloody . Viscous	0		Consulta	28.83	3207.56	1473.57	63.80	9.76	58.3	167.24	1.63
+001-0025	Hospital Universitari Campus Vall d'Hebron	76	Benign					3	<4h	0.05	Bloody . Viscous	1		Consulta	25.58	1275.61	160.86	14.54	4.36	33.99	20.75	0.46
 001-0034	Hospital Universitari Campus Vall d'Hebron	79	Endometrial cancer	G2	Endometrioid	Ib	LCN	1.7	<4h	0.1	Mostly bloody . Slightly viscous.	1		Quirófano	525.27	9833.46	2179.91	194.46	55.69	556.9	1092.02	7.21
-001-0040	Hospital Universitari Campus Vall d'Hebron	71	Endometrial cancer	G2	Endometrioid			0	<4h	0.75	Mostly bloody . Slightly viscous.	0		Quirófano	296.55	34935.19	577.93		45.38	1252.72	10429.51	34.46
-002-0001	Hospital Universitari de Bellvitge	59	Benign					49.9	>4h	0.1	Very viscous and sticked to the walls of the tube	0		Consulta	23.22	0	11.03			37.8	13.03	0.76
-002-0002	Hospital Universitari de Bellvitge	81	Endometrial cancer	G1	Endometrioid	Ia		4.2	>4h	0.1	Bloody, partly tissue.	1	6.995	Consulta	42.42	29910.32	86.55			992.7	1361.6	7.89
-002-0004	Hospital Universitari de Bellvitge	49	Endometrial cancer	G1	Endometrioid	IIIa		4.4	>4h	0.2	0	1	7.492	Consulta	88.17	383.35		5.08		26.22	43.68	0.45
+001-0040	Hospital Universitari Campus Vall d'Hebron	71	Endometrial cancer	G2	Endometrioid			0	<4h	0.75	Mostly bloody . Slightly viscous.	0		Quirófano	296.55	34935.19	577.93	901.15	45.38	1252.72	10429.51	34.46
+002-0001	Hospital Universitari de Bellvitge	59	Benign					49.9	>4h	0.1	Very viscous and sticked to the walls of the tube	0		Consulta	23.22	0	11.03	17.08	4.59	37.8	13.03	0.76
+002-0002	Hospital Universitari de Bellvitge	81	Endometrial cancer	G1	Endometrioid	Ia		4.2	>4h	0.1	Bloody, partly tissue.	1	6.995	Consulta	42.42	29910.32	86.55	285.90	31.18	992.7	1361.6	7.89
+002-0004	Hospital Universitari de Bellvitge	49	Endometrial cancer	G1	Endometrioid	IIIa		4.4	>4h	0.2	0	1	7.492	Consulta	88.17	383.35		5.08	5.48	26.22	43.68	0.45
 002-0005	Hospital Universitari de Bellvitge	76	Endometrial cancer	G1	Endometrioid	Ib		2.2	<4h	0.76	Bloody and mostly liquid	0	7.433	Consulta	375.95	25867.94	609.76	76.01	14.54	5139.46	35.6	5.11
 002-0006	Hospital Universitari de Bellvitge	73	Benign					14.9	>4h	0.1	Viscous with yellow spots. Very low volume.	Y1	7.78	Consulta	86.62	7041.12	307.38	259.83	23.52	466.45	300.7	8.65
 002-0007	Hospital Universitari de Bellvitge	79	Endometrial cancer	G3	Endometrioid	IVa		2.7	<4h	0.15		1	7.637	Consulta	131.93	3220.21	387.88	211.57	22.48	63.93	98.3	2.86
-002-0008	Hospital Universitari de Bellvitge	71	Benign					24.6	>4h	0.1	0	4	7.588	Consulta	43.57	3189.27	68.2		5.34	239.4	0	22.24
-002-0012	Hospital Universitari de Bellvitge	78	Endometrial cancer	G3	Serous	IIIc1		23.7	>4h	0.2	Bloody and viscous	2	7.317	Consulta	2396.66	26655.09	1252.24		52.76	1571.01	831.5	11.14
-002-0013	Hospital Universitari de Bellvitge	61	Benign					61	>4h			Y1	0	Consulta	4.78	1538.69	104.02	63.8	4.7	63.76	0	1.44
+002-0008	Hospital Universitari de Bellvitge	71	Benign					24.6	>4h	0.1	0	4	7.588	Consulta	43.57	3189.27	68.2	146.11	5.34	239.4	0	22.24
+002-0012	Hospital Universitari de Bellvitge	78	Endometrial cancer	G3	Serous	IIIc1		23.7	>4h	0.2	Bloody and viscous	2	7.317	Consulta	2396.66	26655.09	1252.24	761.11	52.76	1571.01	831.5	11.14
+002-0013	Hospital Universitari de Bellvitge	61	Benign					61	>4h			Y1	0	Consulta	4.78	1538.69	104.02	63.80	4.70	63.76	0	1.44
 002-0015	Hospital Universitari de Bellvitge	49	Endometrial cancer	G1	Endometrioid			13.7	>4h	0.25		Y1	0	Consulta	115.6	67753.02	356.25	124.14	15.65	580.14	1478.2	4.95
-002-0016	Hospital Universitari de Bellvitge	71	Benign					4.3	>4h	0		0	0	Consulta	11.04	623.55	24.36		6.39	10.51	0	0.41
-002-0018	Hospital Universitari de Bellvitge	55	Benign					53	>4h	0.1		0	0	Consulta	178.78	89.07	711.33			25.61	39	0.27
+002-0016	Hospital Universitari de Bellvitge	71	Benign					4.3	>4h	0		0	0	Consulta	11.04	623.55	24.36	6.92	6.39	10.51	0	0.41
+002-0018	Hospital Universitari de Bellvitge	55	Benign					53	>4h	0.1		0	0	Consulta	178.78	89.07	711.33		4.71	25.61	39	0.27
 002-0019	Hospital Universitari de Bellvitge	61	Benign					4.8	>4h	0.05		0	7.373	Consulta	163.6	95.92	938.58			6.58	39	0.19
 002-0020	Hospital Universitari de Bellvitge	74	Benign					25.5	>4h			0	0	Consulta	15.03	6585.44	32.41	53.81	21.07	91.62	39	4.19
 002-0022	Hospital Universitari de Bellvitge	77	Endometrial cancer	G3	Serous			3.1	<4h	1	0	Y2	0	Consulta	2353.8	3377.48	19342.69	273.97	27.14	1035.05	804.1	10.76
 002-0023	Hospital Universitari de Bellvitge	64	Endometrial cancer	G3	Serous			4.8	>4h	0.25	Blood and tissue	Y2	0	Consulta	191.64	24764.36	1286.55	518.57	39.39	2175.27	2182	12.07
-002-0024	Hospital Universitari de Bellvitge	75	Benign					34.7	>4h	0.3	0	Y2	0	Consulta	85.72	32.88	17.28		58.33	26.61	37.3	17.61
-002-0025	Hospital Universitari de Bellvitge	56	Benign					30.5	>4h	0.25		0	0	Consulta	138.44	210.21	488.47			36.44	117.2	0.44
-002-0026	Hospital Universitari de Bellvitge	85	Endometrial cancer	G1	Endometrioid			4.3	>4h	0.6	Tissue and blood	Y1	7.088	Consulta	1569.25	5369.08	1837.29		122.72	1714.74	2840.75	15.55
-002-0027	Hospital Universitari de Bellvitge	71	Benign					46.4	>4h	0.1	tissue	1	7.828	Consulta	8.54	3514.86	125.6			87.15	39	3.7
+002-0024	Hospital Universitari de Bellvitge	75	Benign					34.7	>4h	0.3	0	Y2	0	Consulta	85.72	32.88	17.28	123.75	58.33	26.61	37.3	17.61
+002-0025	Hospital Universitari de Bellvitge	56	Benign					30.5	>4h	0.25		0	0	Consulta	138.44	210.21	488.47		2.48	36.44	117.2	0.44
+002-0026	Hospital Universitari de Bellvitge	85	Endometrial cancer	G1	Endometrioid			4.3	>4h	0.6	Tissue and blood	Y1	7.088	Consulta	1569.25	5369.08	1837.29	1222.38	122.72	1714.74	2840.75	15.55
+002-0027	Hospital Universitari de Bellvitge	71	Benign					46.4	>4h	0.1	tissue	1	7.828	Consulta	8.54	3514.86	125.6	412.55	11.64	87.15	39	3.7
 002-0028	Hospital Universitari de Bellvitge	64	Benign					26.1	>4h	0.1	tissue	1	7.607	Consulta	27.26	0	131.96	8.33	6.47	44.11	1.6	0.57
-003-0002	Hospital Clínic	60	Endometrial cancer	G1	Endometrioid	Ia		27.2	>4h		Mostly bloody. Slightly viscous.	0	7.368	Quirófano	495.39	67275.33	1754.36		64.45	2869.33	1521.6	35.48
+003-0002	Hospital Clínic	60	Endometrial cancer	G1	Endometrioid	Ia		27.2	>4h		Mostly bloody. Slightly viscous.	0	7.368	Quirófano	495.39	67275.33	1754.36	851.92	64.45	2869.33	1521.6	35.48
 003-0007	Hospital Clínic	64	Endometrial cancer	G1	Endometrioid	Ia		4.2	>4h	1	Bloody and mostly liquid	Y1	7.401	Consulta	242.73	6719.85	618.37	191.67	37.76	213.44	297.3	7.82
 003-0011	Hospital Clínic	76	Benign					49.7	>4h	0.25	0	1	7.988	Consulta	26.77	13735.6	194.91	365.06	46.51	341.76	185.1	11.32
-003-0012	Hospital Clínic	60	Endometrial cancer		Carcinosarcoma	Ivb		5.5	>4h	1	Bloody, viscous and brownish	2	7.568	Consulta	111.92	2614	791.82		21.86	136.3	642.25	14.23
-003-0013	Hospital Clínic	57	Benign					27.8	>4h	0.5	Bloody and mostly liquid	2	7.709	Consulta	26.18	32229.52	192.65		51.4	779.7	1954.09	28.44
-003-0028	Hospital Clínic	68	Benign					28.7	>4h	0.6	0	1	7.514	Consulta	37.49	7062.49	182.72	260.7	20.09	245.94	359.53	9.65
-003-0030	Hospital Clínic	65	Endometrial cancer	G2	Endometrioid	Ib		4.8	>4h	0.05	Bloody. Very low volume.	0	7.532	Consulta	8.96	5056.32	34.66	12.25		163.76	54.7	1.04
-003-0035	Hospital Clínic	68	Endometrial cancer	G3	Serous	Ia	HCN	2.2	<4h	0.5	Bloody and mostly liquid.	3	7.655	Quirófano	562.57	58907.05	1278.85			964.69	2404.75	34.91
+003-0012	Hospital Clínic	60	Endometrial cancer		Carcinosarcoma	Ivb		5.5	>4h	1	Bloody, viscous and brownish	2	7.568	Consulta	111.92	2614	791.82	776.85	21.86	136.3	642.25	14.23
+003-0013	Hospital Clínic	57	Benign					27.8	>4h	0.5	Bloody and mostly liquid	2	7.709	Consulta	26.18	32229.52	192.65	2149.31	51.40	779.7	1954.09	28.44
+003-0028	Hospital Clínic	68	Benign					28.7	>4h	0.6	0	1	7.514	Consulta	37.49	7062.49	182.72	260.70	20.09	245.94	359.53	9.65
+003-0030	Hospital Clínic	65	Endometrial cancer	G2	Endometrioid	Ib		4.8	>4h	0.05	Bloody. Very low volume.	0	7.532	Consulta	8.96	5056.32	34.66	12.25	2.24	163.76	54.7	1.04
+003-0035	Hospital Clínic	68	Endometrial cancer	G3	Serous	Ia	HCN	2.2	<4h	0.5	Bloody and mostly liquid.	3	7.655	Quirófano	562.57	58907.05	1278.85	1959.40	178.01	964.69	2404.75	34.91
 003-0039	Hospital Clínic	84	Endometrial cancer	G2	Endometrioid	Ia		29.7	>4h	0.9	Mixture of blood, tissue and white spots	2	6.611	Quirófano	1614.85	41867.97	9228.26	577.97	35.14	1149.58	15992.26	19.28
-003-0043	Hospital Clínic	72	Endometrial cancer	G3	Endometrioid	II	LCN	6.7	>4h	0.9	0	1	6.932	Quirófano	426.13	55415.17	2896.62		50.29	2097.33	5089.8	25.22
-003-0044	Hospital Clínic	60	Endometrial cancer	G2	Endometrioid	IIIc1	LCN	7.9	>4h	1.25	Bloody and completely liquid.	3	7.68	Quirófano	154.34	5198.94	1024.15		91.91	391.13	280.8	34.07
-003-0047	Hospital Clínic	78	Endometrial cancer	G1	Endometrioid	Ia		1.8	<4h	0.25	Very viscous and mucous. Sticked to the walls of the tube.	Y1	7.123	Quirófano	1484.37	45322.69	1914.72		69.91	2842.95	2167.5	19.86
+003-0043	Hospital Clínic	72	Endometrial cancer	G3	Endometrioid	II	LCN	6.7	>4h	0.9	0	1	6.932	Quirófano	426.13	55415.17	2896.62	1541.89	50.29	2097.33	5089.8	25.22
+003-0044	Hospital Clínic	60	Endometrial cancer	G2	Endometrioid	IIIc1	LCN	7.9	>4h	1.25	Bloody and completely liquid.	3	7.68	Quirófano	154.34	5198.94	1024.15	1423.89	91.91	391.13	280.8	34.07
+003-0047	Hospital Clínic	78	Endometrial cancer	G1	Endometrioid	Ia		1.8	<4h	0.25	Very viscous and mucous. Sticked to the walls of the tube.	Y1	7.123	Quirófano	1484.37	45322.69	1914.72	701.34	69.91	2842.95	2167.5	19.86
 003-0049	Hospital Clínic	64	Endometrial cancer	G3	Endometrioid	Ib	MSI	6.5	>4h	1	Bloody and viscous.	2	7.3	Quirófano	401.87	19926.9	1917.55	450.47	79.43	1589.61		26.36
-003-0050	Hospital Clínic	61	Endometrial cancer	G2	Endometrioid	Ib		6.2	>4h	0.75	Tissue sticked to the walls of the tube.	0	6.857	Quirófano	49.64	7551.55	476.92			558.38	303.6	2.04
+003-0050	Hospital Clínic	61	Endometrial cancer	G2	Endometrioid	Ib		6.2	>4h	0.75	Tissue sticked to the walls of the tube.	0	6.857	Quirófano	49.64	7551.55	476.92	59.89	8.36	558.38	303.6	2.04
 003-0062	Hospital Clínic	73	Endometrial cancer	G1	Endometrioid	Ib		24	>4h	0.25	0	1		Quirófano	1198.27	14041.71	6803.12	492.25	38.17	2232.07	1582	11.87
 004-0001	Hospital Universitario Quirónsalud Madrid	62	Endometrial cancer	G1	Endometrioid	Ia		39.6	>4h	0.1	Clotted blood.	2	7.039	Quirófano	100.96	17377.57	1859.6	33.11	3.82	176.54	1069.33	2.28
-004-0003	Hospital Universitario Quirónsalud Madrid	68	Benign					30.2	>4h	0.1	Clotted blood	4	7.579	Consulta	139.23	640.55	250.81			74.66	49.09	5.09
-004-0006	Hospital Universitario Quirónsalud Madrid	70	Endometrial cancer	G2	Endometrioid	Ib		25.5	>4h	0.75	Looks like brownish tissue with yellow spots	1	6.493	Quirófano	1300.83	3808.64	881.34	110.4	20.06	439.38	774.43	3.47
-004-0008	Hospital Universitario Quirónsalud Madrid	69	Benign					75	>4h	0.05	Bloody. Very low volume.	1	7.398	Consulta	4.44	1331.53	11.39	37.6	13.05	65.7	412.3	3.9
-004-0009	Hospital Universitario Quirónsalud Madrid	62	Benign					4.9	>4h	0.05	Bloody and viscous. Very low volume	1	7.93	Consulta	25.34	10609.01	45.78			122.94	223.25	5.41
+004-0003	Hospital Universitario Quirónsalud Madrid	68	Benign					30.2	>4h	0.1	Clotted blood	4	7.579	Consulta	139.23	640.55	250.81	81.98	24.56	74.66	49.09	5.09
+004-0006	Hospital Universitario Quirónsalud Madrid	70	Endometrial cancer	G2	Endometrioid	Ib		25.5	>4h	0.75	Looks like brownish tissue with yellow spots	1	6.493	Quirófano	1300.83	3808.64	881.34	110.40	20.06	439.38	774.43	3.47
+004-0008	Hospital Universitario Quirónsalud Madrid	69	Benign					75	>4h	0.05	Bloody. Very low volume.	1	7.398	Consulta	4.44	1331.53	11.39	37.60	13.05	65.7	412.3	3.9
+004-0009	Hospital Universitario Quirónsalud Madrid	62	Benign					4.9	>4h	0.05	Bloody and viscous. Very low volume	1	7.93	Consulta	25.34	10609.01	45.78	159.17	27.75	122.94	223.25	5.41
 005-0003	Hospital Universitario 12 de Octubre	57	Endometrial cancer	G1	Endometrioid	IIa	LCN	51.5	>4h	1	High bloody sample dark color.	4	7.452	Quirófano	1406.22	1661.08	8498.03		95.13	2739.64	302.25	56.51
-005-0004	Hospital Universitario 12 de Octubre	62	Endometrial cancer	G2	Endometrioid	Ib	LCN	29.8	>4h	1	Mixture of blood, tissue and white spots.	Y1	6.595	Quirófano	182.65	33747.18	675.39			2940.31	2318.1	23.46
-005-0007	Hospital Universitario 12 de Octubre	61	Endometrial cancer	G1	Mixed	Ib	MSI	17.2	>4h	1	Tissue and blood	1	7.12	Quirófano	453.19	84213.33	2876.42			3498.32	3952	24.85
-005-0008	Hospital Universitario 12 de Octubre	58	Endometrial cancer	G1	Endometrioid	IIc1	MSI	49.7	>4h	1	tissue and blood	3	7.28	Quirófano	305.71	8910.5	1194.17	0	37.27	815	1086	30.99
-006-0001	Hospital Universitario de Torrevieja	55	Endometrial cancer	G1	Endometrioid	IIIc1	HCN	29.5	>4h	1	Mixture of tissue, cells and blood.	2	0	Quirófano	773.7	16541.55	1177.68			3625.32	4481.68	32.22
-006-0009	Hospital Universitario de Torrevieja	67	Endometrial cancer	G3	Carcinosarcoma	Ia	HCN	62	>4h	1.25	Mixture of blood, tissue and white spots.	1	6.525	Quirófano	39.17	12495.62	2043.73			1465.5	16032.8	24.75
-007-0002	Hospital General Universitari València	64	Endometrial cancer	G3	Serous	IIIc1	HCN	24.8	>4h	0.4	Tissue with little white spots that could be caused by lipids.	Y1	6.715	Quirófano	128.22	49242.56	359.42			2032.4	5873.1	18.74
+005-0004	Hospital Universitario 12 de Octubre	62	Endometrial cancer	G2	Endometrioid	Ib	LCN	29.8	>4h	1	Mixture of blood, tissue and white spots.	Y1	6.595	Quirófano	182.65	33747.18	675.39	1546.85	52.49	2940.31	2318.1	23.46
+005-0007	Hospital Universitario 12 de Octubre	61	Endometrial cancer	G1	Mixed	Ib	MSI	17.2	>4h	1	Tissue and blood	1	7.12	Quirófano	453.19	84213.33	2876.42	2005.02	64.54	3498.32	3952	24.85
+005-0008	Hospital Universitario 12 de Octubre	58	Endometrial cancer	G1	Endometrioid	IIc1	MSI	49.7	>4h	1	tissue and blood	3	7.28	Quirófano	305.71	8910.5	1194.17	2241.09	37.27	815	1086	30.99
+006-0001	Hospital Universitario de Torrevieja	55	Endometrial cancer	G1	Endometrioid	IIIc1	HCN	29.5	>4h	1	Mixture of tissue, cells and blood.	2	0	Quirófano	773.7	16541.55	1177.68	2912.23	45.32	3625.32	4481.68	32.22
+006-0009	Hospital Universitario de Torrevieja	67	Endometrial cancer	G3	Carcinosarcoma	Ia	HCN	62	>4h	1.25	Mixture of blood, tissue and white spots.	1	6.525	Quirófano	39.17	12495.62	2043.73	454.03	156.24	1465.5	16032.8	24.75
+007-0002	Hospital General Universitari València	64	Endometrial cancer	G3	Serous	IIIc1	HCN	24.8	>4h	0.4	Tissue with little white spots that could be caused by lipids.	Y1	6.715	Quirófano	128.22	49242.56	359.42	570.90	106.24	2032.4	5873.1	18.74
 007-0004	Hospital General Universitari València	69	Endometrial cancer	G2	Endometrioid	Ia		6	>4h	0.75	Tissue with white spots and blood	1	6.761	Quirófano	657.48	30681.21	954.01	297.65	23.09	2950.4	1949.7	8.78
-007-0006	Hospital General Universitari València	73	Endometrial cancer	G3	Endometrioid	Ib	MSI	50.2	>4h		0	0	0	Quirófano	16.22	4312.11	103.86	117.7	7.3	110.29	271.7	3.97
+007-0006	Hospital General Universitari València	73	Endometrial cancer	G3	Endometrioid	Ib	MSI	50.2	>4h		0	0	0	Quirófano	16.22	4312.11	103.86	117.70	7.30	110.29	271.7	3.97
 007-0009	Hospital General Universitari València	55	Endometrial cancer	G2	Endometrioid	Ia	Unclassifiable	47.7	>4h	0.25	Clotted Blood	1	0	Quirófano	61.76	5278.36	539.81	187.84	13.18	1049.51	558.9	5.77
 007-0010	Hospital General Universitari València	57	Endometrial cancer	G1	Endometrioid	Ia		49	>4h	0.1	clotted blood	2	7.403	Quirófano	43.04	15248.25	519.51			237.49	1480.24	4.79
-007-0011	Hospital General Universitari València	67	Endometrial cancer	G2	Endometrioid	Ia	MSI	43.4	>4h	0.75	tissue and blood	2	6.96	Quirófano	342.89	5463.92	8864.89	514.56	71.73	2507.8	16326	34.13
+007-0011	Hospital General Universitari València	67	Endometrial cancer	G2	Endometrioid	Ia	MSI	43.4	>4h	0.75	tissue and blood	2	6.96	Quirófano	342.89	5463.92	8864.89	270.04	71.73	2507.8	16326	34.13
 007-0012	Hospital General Universitari València	59	Endometrial cancer	G2	Endometrioid	Ia		49.8	>4h	0.75	tissue and blood	1	7.488	Quirófano	1152.09	15519.51	3145.23	336.38	18.88	601.26	311.5	8.86
-007-0013	Hospital General Universitari València	66	Endometrial cancer	G3	Serous			50	>4h	0.75	tissue + blood	2	7.045	Quirófano	288.19	61013.28			53.88	3538.98	5605.1	24.02
+007-0013	Hospital General Universitari València	66	Endometrial cancer	G3	Serous			50	>4h	0.75	tissue + blood	2	7.045	Quirófano	288.19	61013.28		712.54	53.88	3538.98	5605.1	24.02
 008-0034	Hospital Universitario Marqués de Valdecilla	63	Benign					25.3	>4h	0.1	Bloody	2	7.457	Consulta	34.29	10078.72	299.07	191.48	14.72	166.17	138.3	5.62
-008-0035	Hospital Universitario Marqués de Valdecilla	56	Benign					4.2	>4h	0.1	Bloody and mostly liquid	2	7.616	Consulta	44.9	4796.87	171.14		18.49	175.88	802.38	7.96
+008-0035	Hospital Universitario Marqués de Valdecilla	56	Benign					4.2	>4h	0.1	Bloody and mostly liquid	2	7.616	Consulta	44.9	4796.87	171.14	1430.66	23.13	175.88	802.38	7.96
 010-0007	Hospital Universitario La Paz	66	Endometrial cancer	G1	Endometrioid	Ib		23.7	>4h	0.4	Bloody and small portion of tissue	1	6.811	Consulta	727.73	43698.55	1207.26	429.45	44.09	956.75	2207.3	9.79
 010-0012	Hospital Universitario La Paz	56	Endometrial cancer	G1	Endometrioid			25.5	>4h	1	Blood and clotted blood	Y1	6.92	Consulta	1269.5	14090.35	4223	252.94	34.82	228.19	415.44	14.79
-011-0002	Hospital Universitario y Politécnico La Fe	51	Endometrial cancer	G1	Endometrioid	Ia	MSI	22	>4h	1.25	Tissue blood, lipids	Y1	0	Quirófano	192.33	44453.59	417.58	0	31.64	1862.87	2368.1	34.69
+011-0002	Hospital Universitario y Politécnico La Fe	51	Endometrial cancer	G1	Endometrioid	Ia	MSI	22	>4h	1.25	Tissue blood, lipids	Y1	0	Quirófano	192.33	44453.59	417.58		31.64	1862.87	2368.1	34.69
 011-0032	Hospital Universitario y Politécnico La Fe	51	Benign					51.7	>4h	0.25	Bloody and liquid	2	7.29	Consulta	42.82	3174.41	11.56	41.25	8.79	57.95	68.8	2.55
 012-0001	Hospital Materno Infantil de Gran Canaria	82	Endometrial cancer	G3	Indiferenciado			50.3	>4h	1.5	Bloody and mostly liquid	2	7.171	Consulta	1100.47	9815.24	1217.16			573.53	401.5	57.65
-012-0002	Hospital Materno Infantil de Gran Canaria	72	Benign					47.7	>4h	0.3	Bloody and mostly liquid	2	7.786	Consulta	13.93	25584.78	62.78			741.5	1688.42	25.02
-012-0003	Hospital Materno Infantil de Gran Canaria	68	Benign					29.3	>4h	0.2	Bloody and brownish. Similar to clotted blood.	2	7.696	Consulta	124.71	18224.12	489.24			263.22	1519.13	13.81
-012-0005	Hospital Materno Infantil de Gran Canaria	90	Endometrial cancer	G3	Serous			25.1	>4h	0.8	Bloody and mostly liquid	4	7.411	Consulta	1881.96	10491.23	20823.36			724.86	1232.74	31.83
+012-0002	Hospital Materno Infantil de Gran Canaria	72	Benign					47.7	>4h	0.3	Bloody and mostly liquid	2	7.786	Consulta	13.93	25584.78	62.78	579.97	120.23	741.5	1688.42	25.02
+012-0003	Hospital Materno Infantil de Gran Canaria	68	Benign					29.3	>4h	0.2	Bloody and brownish. Similar to clotted blood.	2	7.696	Consulta	124.71	18224.12	489.24	464.64	37.22	263.22	1519.13	13.81
+012-0005	Hospital Materno Infantil de Gran Canaria	90	Endometrial cancer	G3	Serous			25.1	>4h	0.8	Bloody and mostly liquid	4	7.411	Consulta	1881.96	10491.23	20823.36	1343.16	121.35	724.86	1232.74	31.83
 012-0007	Hospital Materno Infantil de Gran Canaria	76	Benign					5.3	>4h	0.4	Brownish and viscous	4	7.204	Consulta	162.66	15860.44	1292.39	255.08	38.12	479.65	977.95	15.21
-012-0008	Hospital Materno Infantil de Gran Canaria	55	Benign					7.7	>4h	0.5	0	2	0	Consulta	1931.29	6174.61	4552.87			1591.82	1394.46	35.86
+012-0008	Hospital Materno Infantil de Gran Canaria	55	Benign					7.7	>4h	0.5	0	2	0	Consulta	1931.29	6174.61	4552.87	497.21	150.87	1591.82	1394.46	35.86
 012-0009	Hospital Materno Infantil de Gran Canaria	58	Benign					3.6	<4h	0.25	0	2	0	Consulta	75.3	10519.83	1206.61	368.98	63.33	454.5	796.4	14.13
-012-0012	Hospital Materno Infantil de Gran Canaria	74	Benign					45.4	>4h	0.25	0	1	0	Consulta	24.82	33948.07	479.18			551.24	749.82	14.79
+012-0012	Hospital Materno Infantil de Gran Canaria	74	Benign					45.4	>4h	0.25	0	1	0	Consulta	24.82	33948.07	479.18	159.57	31.07	551.24	749.82	14.79
 012-0013	Hospital Materno Infantil de Gran Canaria	69	Benign					6.7	>4h	0.05		2	0	Consulta	7.93	4584.04	26.72	110.79	14.11	67.7	53.9	3.49
 012-0014	Hospital Materno Infantil de Gran Canaria	55	Endometrial cancer	G1	Endometrioid	Ia		57.7	>4h	0.55	0	1	0	Consulta	657.47	26483.64	880.91	366.45	18.21	958.18	815.7	10.84
-012-0015	Hospital Materno Infantil de Gran Canaria	62	Benign					25.6	>4h	0.1		0	0	Consulta	2.83	3034.96	147.82			62.86	47.64	1.34
+012-0015	Hospital Materno Infantil de Gran Canaria	62	Benign					25.6	>4h	0.1		0	0	Consulta	2.83	3034.96	147.82	36.94	7.55	62.86	47.64	1.34
 012-0016	Hospital Materno Infantil de Gran Canaria	75	Endometrial cancer	G3	Serous			44.4	>4h	0.75	0	2	0	Consulta	128.84	52587.86	283.71		58.62	2217.05	2045.9	37.34
-012-0018	Hospital Materno Infantil de Gran Canaria	100	Endometrial cancer	G2	Endometrioid	Ia		29	>4h	0.75	0	Y2	0	Consulta	603.43	31866.6	3010.9			6585.87	4543.52	20.14
-012-0023	Hospital Materno Infantil de Gran Canaria	83	Benign					27	>4h	0.25	0	2	0	Consulta	99.17	49518.99	537.29			649.98	1995.81	17.4
+012-0018	Hospital Materno Infantil de Gran Canaria	100	Endometrial cancer	G2	Endometrioid	Ia		29	>4h	0.75	0	Y2	0	Consulta	603.43	31866.6	3010.9	549.81	79.97	6585.87	4543.52	20.14
+012-0023	Hospital Materno Infantil de Gran Canaria	83	Benign					27	>4h	0.25	0	2	0	Consulta	99.17	49518.99	537.29	509.00	62.46	649.98	1995.81	17.4
 012-0025	Hospital Materno Infantil de Gran Canaria	71	Benign					4.7	>4h	0.75	0	3	0	Consulta	128.09	29636.46	1443.36			1008.62	2559.7	55.54
-012-0026	Hospital Materno Infantil de Gran Canaria	60	Benign					24.3	>4h	0.5	0	2	0	Consulta	920.81	33732.3	1069.83			2147.69	3246.01	34.56
+012-0026	Hospital Materno Infantil de Gran Canaria	60	Benign					24.3	>4h	0.5	0	2	0	Consulta	920.81	33732.3	1069.83	1323.77	105.15	2147.69	3246.01	34.56
 012-0027	Hospital Materno Infantil de Gran Canaria	63	Benign					50.1	>4h	0.1		1	0	Consulta	63.99	8997.22	381.2	48.11	28.38	252.26	120.8	3.11
-012-0028	Hospital Materno Infantil de Gran Canaria	59	Benign					4.8	>4h	0.1		1	7.173	Consulta	14.63	1522.96	86.62	43.37		31.21	88.13	1.36
-012-0029	Hospital Materno Infantil de Gran Canaria	71	Benign					1.6	<4h	0.75	0	2	0	Consulta	0	18180.04	6411.82		10.47	1167.75	1491.4	35.83
-012-0030	Hospital Materno Infantil de Gran Canaria	64	Benign					26.1	>4h	0.1		1	0	Consulta	34.27	2976.55	41.37			50.02	777.85	1.41
+012-0028	Hospital Materno Infantil de Gran Canaria	59	Benign					4.8	>4h	0.1		1	7.173	Consulta	14.63	1522.96	86.62	43.37	4.57	31.21	88.13	1.36
+012-0029	Hospital Materno Infantil de Gran Canaria	71	Benign					1.6	<4h	0.75	0	2	0	Consulta	0	18180.04	6411.82	1073.01	10.47	1167.75	1491.4	35.83
+012-0030	Hospital Materno Infantil de Gran Canaria	64	Benign					26.1	>4h	0.1		1	0	Consulta	34.27	2976.55	41.37	29.98	2.41	50.02	777.85	1.41
 013-0003	Hospital Universitario de Getafe	60	Benign					3.2	<4h	0.5	blood	2	7.957	Consulta	117.31	24736.86	330.55	378.06	43.54	395.99	252.7	15.54
-013-0006	Hospital Universitario de Getafe	67	Endometrial cancer	G3	Mixed	Ia		49.9	>4h	0.75	Bloody and mostly liquid	3	0	Quirófano	384.57	28277.65	529.62		45.71	917.99	809.7	26.16
+013-0006	Hospital Universitario de Getafe	67	Endometrial cancer	G3	Mixed	Ia		49.9	>4h	0.75	Bloody and mostly liquid	3	0	Quirófano	384.57	28277.65	529.62	1833.91	45.71	917.99	809.7	26.16
 014-0026	Hospital Universitario de León	62	Endometrial cancer	G1	Endometrioid	Ib	LCN	24.4	>4h	0.75	Tissue + lipids	1	7.521	Quirófano	694.02	8666.58	1727.6	65.37	5.08	323.49	148.1	2.44
-016-0033	Hospital Universitari Son Espases	58	Benign					46.6	>4h	1.4	clotted blood	2	7.732	Consulta	1006.16	22062.07	1522.73			596.05	760.38	42.76
-016-0043	Hospital Universitari Son Espases	82	Endometrial cancer	G3	Serous			47.5	>4h	1	0	Y2	0	Quirófano	186.48	44754.5	1114.3			766.23	11582.6	27.1
-018-0001	Hospital General Universitari de Castelló	57	Endometrial cancer	G3	Indiferenciado			50.5	>4h	0.9	Bloody and liquid	Y2	7.405	Consulta	740.2	23461.98	2952.59			2277.93	7283.57	32.03
-018-0002	Hospital General Universitari de Castelló	60	Endometrial cancer	G3	Endometrioid			50.5	>4h	0.25	Bloody with yellow spots	1	7.133	Consulta	358.75	20171.32	2465.35			2279.19	1211.59	12.66
+016-0033	Hospital Universitari Son Espases	58	Benign					46.6	>4h	1.4	clotted blood	2	7.732	Consulta	1006.16	22062.07	1522.73	4386.49	141.21	596.05	760.38	42.76
+016-0043	Hospital Universitari Son Espases	82	Endometrial cancer	G3	Serous			47.5	>4h	1	0	Y2	0	Quirófano	186.48	44754.5	1114.3	2115.69	45.16	766.23	11582.6	27.1
+018-0001	Hospital General Universitari de Castelló	57	Endometrial cancer	G3	Indiferenciado			50.5	>4h	0.9	Bloody and liquid	Y2	7.405	Consulta	740.2	23461.98	2952.59	758.50	139.63	2277.93	7283.57	32.03
+018-0002	Hospital General Universitari de Castelló	60	Endometrial cancer	G3	Endometrioid			50.5	>4h	0.25	Bloody with yellow spots	1	7.133	Consulta	358.75	20171.32	2465.35	257.12		2279.19	1211.59	12.66
 018-0006	Hospital General Universitari de Castelló	58	Endometrial cancer	G1	Endometrioid			49.2	>4h	0.75	Mixture of tissue and blood	0	0	Consulta	58.37	1531.31	91.85			138.3	42.22	0.49
-018-0016	Hospital General Universitari de Castelló	76	Benign					52.7	>4h	0.1	Very viscous and bloody	2	7.237	Consulta	2367.28	219.87	6912.65			55.22	593.16	5.1
-020-0001	Hospital Puerto Real	69	Endometrial cancer	G1	Endometrioid	Ia	LCN	41	>4h	0.75	0	Y2	0	Consulta	350.64	37808.86	495.94		50.7	2038.12	1155.4	25.56
+018-0016	Hospital General Universitari de Castelló	76	Benign					52.7	>4h	0.1	Very viscous and bloody	2	7.237	Consulta	2367.28	219.87	6912.65	120.19	20.98	55.22	593.16	5.1
+020-0001	Hospital Puerto Real	69	Endometrial cancer	G1	Endometrioid	Ia	LCN	41	>4h	0.75	0	Y2	0	Consulta	350.64	37808.86	495.94	4327.37	50.70	2038.12	1155.4	25.56
 020-0002	Hospital Puerto Real	84	Endometrial cancer	G3	Endometrioid	Ib	LCN	53.5	>4h	1	0	Y1	0	Consulta	3255.85	42706.19	3152.61	395.03	37.16	1137.73	1192.9	12.21
-020-0004	Hospital Puerto Real	56	Endometrial cancer	G1	Endometrioid	Ib	MSI	26.2	>4h	0.3		Y1	0	Consulta	199.13	7050.95	1651.03			99.49	378.07	1.28
+020-0004	Hospital Puerto Real	56	Endometrial cancer	G1	Endometrioid	Ib	MSI	26.2	>4h	0.3		Y1	0	Consulta	199.13	7050.95	1651.03	44.04	4.66	99.49	378.07	1.28
 020-0006	Hospital Puerto Real	64	Benign					70	>4h	0.25		1	0	Consulta	69.88	5292.92	549.9	26.61	13.18	114.32	57.9	2.94
 020-0007	Hospital Puerto Real	71	Endometrial cancer	G3	Endometrioid	Ia	POLE mutated	28.9	>4h	0.75	Mixture of tissue and blood	Y1	6.427	Consulta	333.81	19514.12	1348.62	210.97	89.31	2188.85	3221.1	9.38
 020-0008	Hospital Puerto Real	71	Benign					1.6	<4h	0.25	BLOODY	1	7.39	Consulta	75.01	557.03	110.11			31.9	57.69	1.06
@@ -116,6 +116,6 @@ Sample	Collection center	Age	Pathology	Hystology grade	Hystology type	FIGO stage
 020-0023	Hospital Puerto Real	56	Benign					5.4	>4h	0.4	Bloody, viscous and attached to the wall of the tube.	1	7.473	Consulta	217.66	2461.18	551.35	62.12	18.15	56.89	225.2	3.91
 020-0034	Hospital Puerto Real	55	Benign					51.1	>4h	0.5	Bloody and viscous	Y2	7.868	Consulta	372.85	10662.51	525.54			1807.85	129	38.55
 020-0037	Hospital Puerto Real	64	Benign					3.9	<4h		0	0	0	Consulta	31.93	2033.7	526.98	93.32	15.59	151.6	70.85	3.55
-020-0047	Hospital Puerto Real	54	Endometrial cancer	G1	Endometrioid	Ia	HCN	29.8	>4h	0.5	Clotted blood	1	7.42	Consulta	325.44	12181.69	616.35			125.25	263.74	3.91
+020-0047	Hospital Puerto Real	54	Endometrial cancer	G1	Endometrioid	Ia	HCN	29.8	>4h	0.5	Clotted blood	1	7.42	Consulta	325.44	12181.69	616.35	65.10	12.92	125.25	263.74	3.91
 020-0049	Hospital Puerto Real	53	Endometrial cancer	G1	Endometrioid	Ia	MSI	12	>4h	0.5	blood	2	7.583	Consulta	34.28	27046.61	259.82		32.39	760.88	1346.8	27.12
-020-0050	Hospital Puerto Real	66	Benign					4.4	>4h	0.25	mucus and blood	1	7.535	Consulta	195.38	2403.69	307.73			62.09	1152.17	5.24
+020-0050	Hospital Puerto Real	66	Benign					4.4	>4h	0.25	mucus and blood	1	7.535	Consulta	195.38	2403.69	307.73	106.92	4.99	62.09	1152.17	5.24
