@@ -23,6 +23,13 @@ Repository for cohort analyses code safekeeping at MiMARK.
 - [AUCs calculation using **pH** as a *normalizing* variable](<./notebooks/60x60_enlarged_aucs_analysis_pH_normalizing.ipynb>)
 - [AUCs calculation using **BMI** as an *independent* variable](<./notebooks/60x60_enlarged_aucs_analysis_BMI.ipynb>)
 
+#### 60x60 __enlarged__ cohort with downregulated biomarkers
+
+ - [AUCs calculation](<./notebooks/60x60_dr_aucs_analysis.ipynb>)
+ - [AUCs ratios calculation (RUO)](<./notebooks/60x60_dr_ratios_ruo_aucs_analysis.ipynb>)
+ - [AUCs ratios calculation (MMK)](<./notebooks/60x60_dr_ratios_mmk_aucs_analysis.ipynb>)
+ - [Ratios validation as C.V. correction](<./notebooks/60x60_dr_validation.ipynb>)
+ - [Neural networks & overfitting checks](<./notebooks/60x60_dr_aucs_analysis_nn.ipynb>)
 
 ### 20x20 cohort
 
