@@ -94,6 +94,7 @@ def compute_models( df,
                     method='direct', 
                     normalizing_col = None,
                     volume_col = None,
+                    force_dx_positive_col = None,
                     volume_added = 0.5,
                     apply_log=False, 
                     avoid_same_biomarker=True,
@@ -199,6 +200,12 @@ def compute_models( df,
             try:
                 # compute the AUC
                 y_pred = model.predict(X)
+
+                # force_dx_positive_col is used to force the model to predict positive for the samples
+                # that have the value in force_dx_positive_col
+                if force_dx_positive_col:
+                    y_pred[df_copy[force_dx_positive_col] == 2] = 1
+
                 auc = roc_auc_score(y, y_pred)
 
                 if auc < auc_threshold:
@@ -694,6 +701,7 @@ def compute_all_models_and_save(df,
                                 target_col='Pathology',
                                 normalizing_col=None,
                                 volume_col=None,
+                                force_dx_positive_col=None,
                                 volume_added=0.5,
                                 apply_log=True,
                                 avoid_same_biomarker=True,
@@ -716,6 +724,7 @@ def compute_all_models_and_save(df,
                                     method, 
                                     normalizing_col,
                                     volume_col,
+                                    force_dx_positive_col,
                                     volume_added,
                                     apply_log, 
                                     avoid_same_biomarker,

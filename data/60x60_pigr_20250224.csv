@@ -1,0 +1,153 @@
+Sample	Pathology	PIGR	Repeats
+001-0004	Benign	346.3794903	1
+001-0005	Benign	919.0562115	1
+001-0006	Benign	882.318578	0
+001-0007	Endometrial cancer	5602.776864	0
+001-0008	Benign	281.4213395	1
+001-0009	Benign	2656.206421	0
+001-0011	Benign	LOQ	1
+001-0012	Benign	LOQ	1
+001-0013	Benign	1694.645223	0
+001-0014	Benign	2963.976304	0
+001-0017	Benign	6829.242023	0
+001-0019	Benign	LOQ	1
+001-0024	Benign	2117.694719	0
+001-0025	Benign	1790.562794	0
+001-0034	Endometrial cancer	918.8090053	0
+001-0040	Endometrial cancer	3553.730947	1
+001-0063	Endometrial cancer	1114.683001	1
+002-0001	Benign	5883.038468	0
+002-0002	Endometrial cancer	LOQ	1
+002-0004	Endometrial cancer	4110.838236	0
+002-0005	Endometrial cancer	6466.637731	0
+002-0006	Benign	2786.507511	0
+002-0007	Endometrial cancer	1417.10826	0
+002-0008	Benign	1169.932742	0
+002-0012	Endometrial cancer	138.8038266	1
+002-0013	Benign	LOQ	1
+002-0015	Endometrial cancer	4565.455376	0
+002-0016	Benign	1208.790825	0
+002-0018	Benign	988.4907478	0
+002-0019	Benign	726.5391529	0
+002-0020	Benign	1918.405698	0
+002-0022	Endometrial cancer	1060.54039	0
+002-0023	Endometrial cancer	LOQ	1
+002-0024	Benign	2045.107238	0
+002-0025	Benign	491.838034	1
+002-0026	Endometrial cancer	5657.941919	0
+002-0027	Benign	3571.878422	0
+002-0028	Benign	4693.143906	0
+003-0002	Endometrial cancer	22867.84195	1
+003-0005	Benign	1490.681457	0
+003-0006	Benign	1916.097327	1
+003-0007	Endometrial cancer	6746.831224	0
+003-0009	Benign	LOQ	1
+003-0011	Benign	1198.275904	0
+003-0012	Endometrial cancer	LOQ	1
+003-0013	Benign	1439.415058	0
+003-0021	Endometrial cancer	4025.723082	0
+003-0022	Endometrial cancer	821.8292083	1
+003-0028	Benign	6698.244234	0
+003-0030	Endometrial cancer	LOQ	1
+003-0035	Endometrial cancer	2877.951492	0
+003-0039	Endometrial cancer	7028.754698	0
+003-0043	Endometrial cancer	6427.39883	0
+003-0044	Endometrial cancer	728.6806192	0
+003-0047	Endometrial cancer	6372.687408	0
+003-0049	Endometrial cancer	6030.834077	0
+003-0050	Endometrial cancer	4861.543858	0
+003-0051	Benign	7141.011602	0
+003-0056	Endometrial cancer	12943.27834	1
+003-0062	Endometrial cancer	1226.183938	0
+003-0064	Benign	2809.009261	0
+003-0065	Benign	2249.527972	0
+003-0067	Benign	1169.299845	0
+003-0070	Benign	1038.623891	1
+003-0082	Benign	1328.432382	0
+003-0086	Benign	4671.63391	0
+003-0088	Benign	18467.36756	1
+003-0090	Benign	LOQ	1
+003-0092	Endometrial cancer	765.9935377	0
+004-0001	Endometrial cancer	541.4887872	1
+004-0003	Benign	LOQ	1
+004-0006	Endometrial cancer	6940.963669	0
+004-0007	Endometrial cancer	21635.59707	1
+004-0008	Benign	LOQ	1
+004-0009	Benign	LOQ	1
+005-0003	Endometrial cancer	UQL	1
+005-0004	Endometrial cancer	5614.9991	0
+005-0007	Endometrial cancer	7182.651694	0
+005-0008	Endometrial cancer	783.2054949	1
+005-0009	Endometrial cancer	726.5391529	0
+005-0012	Endometrial cancer	LOQ	1
+006-0001	Endometrial cancer	304.0669686	1
+006-0009	Endometrial cancer	LOQ	1
+006-0020	Benign	2318.042745	0
+006-0030	Benign	6500.357018	0
+006-0031	Benign	5366.556564	0
+006-0037	Endometrial cancer	1181.949394	0
+006-0045	Benign	4380.14705	0
+007-0002	Endometrial cancer	LOQ	1
+007-0004	Endometrial cancer	6415.620088	0
+007-0006	Endometrial cancer	133.7371346	1
+007-0009	Endometrial cancer	6902.13659	0
+007-0010	Endometrial cancer	2862.7872	0
+007-0011	Endometrial cancer	898.9007488	0
+007-0012	Endometrial cancer	3402.105643	0
+007-0013	Endometrial cancer	791.7045757	0
+008-0034	Benign	1912.946034	0
+008-0035	Benign	4428.424158	0
+009-0026	Endometrial cancer	1126.922938	1
+010-0007	Endometrial cancer	5583.761008	1
+010-0012	Endometrial cancer	10763.52561	0
+011-0002	Endometrial cancer	1489.547716	0
+011-0032	Benign	2514.248352	0
+012-0001	Endometrial cancer	150.5727408	1
+012-0002	Benign	628.8781441	0
+012-0003	Benign	256.5532518	1
+012-0005	Endometrial cancer	LOQ	1
+012-0007	Benign	LOQ	1
+012-0008	Benign	248.0477541	1
+012-0009	Benign	1026.597477	0
+012-0012	Benign	3979.728413	0
+012-0013	Benign	354.8889749	1
+012-0014	Endometrial cancer	1956.459597	0
+012-0015	Benign	484.8977991	1
+012-0016	Endometrial cancer	LOQ	1
+012-0018	Endometrial cancer	5463.677971	0
+012-0023	Benign	744.8691041	0
+012-0025	Benign	161.313616	1
+012-0026	Benign	835.1992928	0
+012-0027	Benign	12700.2813	1
+012-0028	Benign	1054.567424	0
+012-0029	Benign	989.8492744	0
+012-0030	Benign	635.8880707	0
+013-0003	Benign	291.9527377	1
+013-0006	Endometrial cancer	291.9527377	1
+013-0047	Endometrial cancer	UQL	1
+014-0024	Endometrial cancer	LOQ	1
+014-0026	Endometrial cancer	10622.51415	1
+015-0023	Endometrial cancer	808.5652943	0
+015-0048	Endometrial cancer	LOQ	1
+015-0049	Endometrial cancer	LOQ	1
+016-0033	Benign	190.9678522	1
+018-0001	Endometrial cancer	295.0319902	1
+018-0002	Endometrial cancer	UQL	1
+018-0006	Endometrial cancer	5950.106673	0
+018-0016	Benign	LOQ	1
+020-0001	Endometrial cancer	239.1951862	1
+020-0002	Endometrial cancer	4658.319339	0
+020-0004	Endometrial cancer	6555.126472	0
+020-0006	Benign	272.6717409	1
+020-0007	Endometrial cancer	9159.103276	0
+020-0008	Benign	922.0835455	0
+020-0014	Benign	LOQ	1
+020-0023	Benign	1514.057645	0
+020-0034	Benign	8701.783357	1
+020-0037	Benign	621.800531	0
+020-0047	Endometrial cancer	275.9889679	1
+020-0049	Endometrial cancer	171.2493483	1
+020-0050	Benign	305.0530196	1
+020-0077	Endometrial cancer	853.4935078	0
+016-0043	Endometrial cancer	LoQ	1
+020-0015	Benign	LoQ	1
