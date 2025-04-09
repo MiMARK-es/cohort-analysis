@@ -1,0 +1,7 @@
+[2025-04-09 10:51:00,806] Single-chain mode set, will predict PDBs as single chains
+[2025-04-09 10:51:00,807] Single PDB file input (Q5S248), extracting single chains to /tmp/tmpyempbn49
+[2025-04-09 10:51:00,861] Found 1 extracted single chains in /tmp/tmpyempbn49
+[2025-04-09 10:51:00,861] Pre-processing PDBs using ESM-IF1
+[2025-04-09 10:51:11,117] Predicting PDBs with DiscoTope-3.0
+[2025-04-09 10:51:12,169] Saving predictions for Q5S248_A.pdb to /home/leandro/Insync/gdrive/Mimark/code/cohort-analysis/notebooks/other_analyses/antigens/data/results_screenEC/Q5/Q5S248//Q5S248/Q5S248_A_discotope3.csv
+[2025-04-09 10:51:12,241] Predicted 1 / 1 PDB files extracted from 1 input PDBs, saved to /home/leandro/Insync/gdrive/Mimark/code/cohort-analysis/notebooks/other_analyses/antigens/data/results_screenEC/Q5/Q5S248//Q5S248

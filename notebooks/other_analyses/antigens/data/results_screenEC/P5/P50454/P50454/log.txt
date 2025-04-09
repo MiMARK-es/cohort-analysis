@@ -1,0 +1,7 @@
+[2025-04-09 10:52:21,543] Single-chain mode set, will predict PDBs as single chains
+[2025-04-09 10:52:21,543] Single PDB file input (P50454), extracting single chains to /tmp/tmp0r48yi9j
+[2025-04-09 10:52:21,597] Found 1 extracted single chains in /tmp/tmp0r48yi9j
+[2025-04-09 10:52:21,598] Pre-processing PDBs using ESM-IF1
+[2025-04-09 10:52:30,240] Predicting PDBs with DiscoTope-3.0
+[2025-04-09 10:52:31,354] Saving predictions for P50454_A.pdb to /home/leandro/Insync/gdrive/Mimark/code/cohort-analysis/notebooks/other_analyses/antigens/data/results_screenEC/P5/P50454//P50454/P50454_A_discotope3.csv
+[2025-04-09 10:52:31,426] Predicted 1 / 1 PDB files extracted from 1 input PDBs, saved to /home/leandro/Insync/gdrive/Mimark/code/cohort-analysis/notebooks/other_analyses/antigens/data/results_screenEC/P5/P50454//P50454

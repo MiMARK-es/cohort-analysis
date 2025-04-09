@@ -21,13 +21,17 @@
 - **Biomarker Application**: NA
 - **Number of Isoforms**: 0
 - **Regulation**: NA
-- **(transcriptomics) AUC**: nan
-- **(transcriptomics) Fold Change**: nan
+- **(transcriptomics) AUC**: 0.17
+- **(transcriptomics) Fold Change**: 1.10
 - **(transcriptomics) Regulation**: Downregulated
 - **Discotope Epitope Count**: N/A
 - **Max n_uniprots (Homo)**: 3.0
 - **Max n_uniprots (Hetero)**: 3.0
 
+
+## Expression Comparison
+
+![Expression Comparison](./P02452_expression_comparison.png)
 
 ## Interactors
 

@@ -1,0 +1,7 @@
+[2025-04-09 10:51:31,675] Single-chain mode set, will predict PDBs as single chains
+[2025-04-09 10:51:31,675] Single PDB file input (P35321), extracting single chains to /tmp/tmpxjoex132
+[2025-04-09 10:51:31,688] Found 1 extracted single chains in /tmp/tmpxjoex132
+[2025-04-09 10:51:31,688] Pre-processing PDBs using ESM-IF1
+[2025-04-09 10:51:37,709] Predicting PDBs with DiscoTope-3.0
+[2025-04-09 10:51:38,778] Saving predictions for P35321_A.pdb to /home/leandro/Insync/gdrive/Mimark/code/cohort-analysis/notebooks/other_analyses/antigens/data/results_screenEC/P3/P35321//P35321/P35321_A_discotope3.csv
+[2025-04-09 10:51:38,801] Predicted 1 / 1 PDB files extracted from 1 input PDBs, saved to /home/leandro/Insync/gdrive/Mimark/code/cohort-analysis/notebooks/other_analyses/antigens/data/results_screenEC/P3/P35321//P35321
