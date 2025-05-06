@@ -75,7 +75,7 @@ def find_optimal_threshold(y_true, y_pred_prob):
     
     for threshold in thresholds:
         sensitivity, specificity, npv, ppv = compute_metrics(y_true, y_pred_prob, threshold)
-        if sensitivity > 0.95 and specificity > best_score:
+        if sensitivity > 0.945 and specificity > best_score:
         #if sensitivity + specificity > best_score:
             
             #best_score = round(specificity, 5)
@@ -208,6 +208,11 @@ def compute_models( df,
 
                 auc = roc_auc_score(y, y_pred)
 
+                # if the auc is below 0.5, invert the predictions
+                if auc < 0.5:
+                    auc = 1 - auc
+                    y_pred = 1 - y_pred
+                    
                 if auc < auc_threshold:
                     continue
 
