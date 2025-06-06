@@ -1,0 +1,3 @@
+Biomarker_1,AUC,se_97_Threshold,se_97_Sensitivity,se_97_Specificity,se_97_NPV,se_97_PPV,se_95_Threshold,se_95_Sensitivity,se_95_Specificity,se_95_NPV,se_95_PPV,max_sum_Threshold,max_sum_Sensitivity,max_sum_Specificity,max_sum_NPV,max_sum_PPV
+Endometrial_thickness,0.87021,0.22222,0.96610,0.45614,0.92857,0.64773,0.22222,0.96610,0.45614,0.92857,0.64773,0.60606,0.64407,0.92982,0.71622,0.90476
+AGRIN_TIMP2_eps,0.82275,0.09091,0.98276,0.03509,0.66667,0.50893,0.10101,0.94828,0.05263,0.50000,0.50459,0.61616,0.67241,0.96491,0.74324,0.95122
