@@ -1,4 +1,3 @@
-
 import pandas as pd
 import numpy as np
 import os
@@ -57,51 +56,72 @@ def compute_metrics(y_true, y_pred_prob, threshold=0.5):
     ppv = tp / (tp + fp) if (tp + fp) > 0 else 0
     return sensitivity, specificity, npv, ppv
 
-def find_optimal_threshold(y_true, y_pred_prob):
+def find_optimal_thresholds(y_true, y_pred_prob):
     '''
-    Find the optimal threshold that maximizes the specificity while keeping the sensitivity
-    above 95%.
+    Find optimal thresholds based on three different criteria:
+    1. Max specificity with sensitivity > 97%
+    2. Max specificity with sensitivity > 94.5% (roundable to 95%)
+    3. Max(sensitivity + specificity)
 
-    TODO: This is a dummy function we need to implement a better way to find the optimal threshold
-          or the one that is useful for us.
+    Returns metrics for all three criteria.
     '''
     thresholds = np.linspace(0, 1, 100)
-    best_threshold = 0.5
-    best_score = 0
-    best_sensitivity = 0
-    best_specificity = 0
-    best_npv = 0
-    best_ppv = 0
+    
+    # Initialize variables for each criterion
+    best_threshold_se97 = 0.5
+    best_threshold_se95 = 0.5
+    best_threshold_max_sum = 0.5
+    
+    best_score_se97 = 0
+    best_score_se95 = 0
+    best_score_max_sum = 0
+    
+    best_metrics_se97 = {"sensitivity": 0, "specificity": 0, "npv": 0, "ppv": 0}
+    best_metrics_se95 = {"sensitivity": 0, "specificity": 0, "npv": 0, "ppv": 0}
+    best_metrics_max_sum = {"sensitivity": 0, "specificity": 0, "npv": 0, "ppv": 0}
     
     for threshold in thresholds:
         sensitivity, specificity, npv, ppv = compute_metrics(y_true, y_pred_prob, threshold)
-        if sensitivity > 0.945 and specificity > best_score:
-        #if sensitivity + specificity > best_score:
-            
-            #best_score = round(specificity, 5)
-            best_score = sensitivity + specificity
-            best_threshold = round(threshold, 5)
-            best_sensitivity = round(sensitivity, 5)
-            best_specificity = round(specificity, 5)
-            best_npv = round(npv, 5)
-            best_ppv = round(ppv, 5)
+        current_metrics = {"sensitivity": sensitivity, "specificity": specificity, "npv": npv, "ppv": ppv}
+        
+        # Criterion 1: Max specificity with sensitivity > 96.5%
+        if sensitivity > 0.965 and specificity > best_score_se97:
+            best_score_se97 = specificity
+            best_threshold_se97 = threshold
+            best_metrics_se97 = current_metrics.copy()
+        
+        # Criterion 2: Max specificity with sensitivity > 94.5%
+        if sensitivity > 0.945 and specificity > best_score_se95:
+            best_score_se95 = specificity
+            best_threshold_se95 = threshold
+            best_metrics_se95 = current_metrics.copy()
+        
+        # Criterion 3: Max(sensitivity + specificity)
+        if sensitivity + specificity > best_score_max_sum:
+            best_score_max_sum = sensitivity + specificity
+            best_threshold_max_sum = threshold
+            best_metrics_max_sum = current_metrics.copy()
     
-    return best_threshold, best_sensitivity, best_specificity, best_npv, best_ppv
+    return {
+        "se_97": {"threshold": round(best_threshold_se97, 5), "metrics": best_metrics_se97},
+        "se_95": {"threshold": round(best_threshold_se95, 5), "metrics": best_metrics_se95},
+        "max_sum": {"threshold": round(best_threshold_max_sum, 5), "metrics": best_metrics_max_sum}
+    }
 
-def compute_models( df, 
-                    cols, 
-                    max_combination_size=1, 
-                    method='direct', 
-                    normalizing_col = None,
-                    volume_col = None,
-                    force_dx_positive_col = None,
-                    volume_added = 0.5,
-                    apply_log=False, 
-                    avoid_same_biomarker=True,
-                    target_col='Pathology',
-                    compute_auc_ci=False,
-                    auc_threshold=0.6,
-                    ):
+def compute_models(df, 
+                   cols, 
+                   max_combination_size=1, 
+                   method='direct', 
+                   normalizing_col = None,
+                   volume_col = None,
+                   force_dx_positive_col = None,
+                   volume_added = 0.5,
+                   apply_log=False, 
+                   avoid_same_biomarker=True,
+                   target_col='Pathology',
+                   compute_auc_ci=False,
+                   auc_threshold=0.6,
+                   ):
     '''
     Compute all the models for the combinations of the columns in the dataframe df.
 
@@ -185,12 +205,15 @@ def compute_models( df,
             if apply_log:
                 X = np.log(X + 1)
             y = df_copy[target_col]
+            n_positive = int((y == 1).sum())
+            n_negative = int((y == 0).sum())
 
             # define the dependent variable
             y = df_copy[target_col]
 
             # fit the logistic regression model
             try:
+                X = sm.add_constant(X, has_constant='add')
                 model = sm.Logit(y, X).fit(disp=0)
             except Exception as e:
                 print(f'Could not fit the model for biomarkers: {list(combo)}')
@@ -227,26 +250,34 @@ def compute_models( df,
                 else:
                     auc_ci = None
 
-                best_threshold, best_sensitivity, best_specificity, best_npv, best_ppv = find_optimal_threshold(y, y_pred)
-
-                # save the model
-                models[combo] = {'model': model, 
-                                'coef': model.params,
-                                'df': df_copy, 
-                                'biomarkers': list(combo),
-                                'y_true': y,
-                                'y_pred': y_pred,
-                                'roc_values': roc_curve(y, y_pred),
-                                'auc': round(auc, 5), 
-                                'auc_ci': auc_ci,
-                                'sensitivity': best_sensitivity, 
-                                'specificity': best_specificity, 
-                                'npv': best_npv, 
-                                'ppv': best_ppv,
-                                'best_threshold': best_threshold
-                                }
+                # Get optimal thresholds for all criteria
+                thresholds_data = find_optimal_thresholds(y, y_pred)
+                
+                # For backward compatibility, keep the se_95 criteria as default values
+                se95_data = thresholds_data["se_95"]
+                
+                models[combo] = {
+                    'model': model, 
+                    'coef': model.params,
+                    'df': df_copy, 
+                    'biomarkers': list(combo),
+                    'y_true': y,
+                    'y_pred': y_pred,
+                    'roc_values': roc_curve(y, y_pred),
+                    'auc': round(auc, 5), 
+                    'auc_ci': auc_ci,
+                    'thresholds_data': thresholds_data,
+                    'sensitivity': round(se95_data["metrics"]["sensitivity"], 5),
+                    'specificity': round(se95_data["metrics"]["specificity"], 5),
+                    'npv': round(se95_data["metrics"]["npv"], 5),
+                    'ppv': round(se95_data["metrics"]["ppv"], 5),
+                    'best_threshold': se95_data["threshold"],
+                    'n_positive': n_positive,    # <-- add this
+                    'n_negative': n_negative     # <-- add this
+                }
             except Exception as e:
                 print(f'Could not compute the AUC for biomarkers: {list(combo)}')
+                print(e)
 
     return models
 
@@ -685,17 +716,40 @@ def models_to_csv(models, path, append=False):
     mode = 'a' if append else 'w'
 
     with open(path, mode) as f:
-        # get the max lenght of model['biomarkers'] for all models 
+        # get the max length of model['biomarkers'] for all models 
         max_len = max([len(model['biomarkers']) for model in models.values()])
         bmk_cols = ','.join([f'Biomarker_{i+1}' for i in range(max_len)])
+        
         if not append or add_header:
-            f.write(f'{bmk_cols},AUC,Sensitivity,Specificity,NPV,PPV,Best_Threshold\n')
+            # Create header with all criteria
+            header = f'{bmk_cols},AUC,Num_Positive,Num_Negative'
+            for criterion in ["se_97", "se_95", "max_sum"]:
+                header += f',{criterion}_Threshold,{criterion}_Sensitivity,{criterion}_Specificity,{criterion}_NPV,{criterion}_PPV'
+            f.write(f'{header}\n')
 
         for model in sorted(models.values(), key=lambda x: x['auc'], reverse=True):
-            f.write(f'{",".join(model["biomarkers"])}')
-            for i in range(max_len + 1 - len(model['biomarkers'])):
-                f.write(',')
-            f.write(f'{model["auc"]},{model["sensitivity"]},{model["specificity"]},{model["npv"]},{model["ppv"]},{model["best_threshold"]}\n')
+            # Write biomarkers
+            row = ",".join(model["biomarkers"])
+            # Add empty columns if needed
+            for i in range(max_len - len(model['biomarkers'])):
+                row += ','
+                
+            # Add AUC
+            row += f',{model["auc"]}'
+            # Add positive/negative counts
+            row += f',{model.get("n_positive", "")},{model.get("n_negative", "")}'
+            
+            # Add metrics for each criterion
+            for criterion in ["se_97", "se_95", "max_sum"]:
+                criterion_data = model["thresholds_data"][criterion]
+                metrics = criterion_data["metrics"]
+                row += f',{criterion_data["threshold"]}'
+                row += f',{metrics["sensitivity"]:.5f}'
+                row += f',{metrics["specificity"]:.5f}'
+                row += f',{metrics["npv"]:.5f}'
+                row += f',{metrics["ppv"]:.5f}'
+            
+            f.write(f'{row}\n')
         f.close()
 
 results_path = lambda folder_name,method, max_biomarker_count : f'{folder_name}/{method}/max_{max_biomarker_count}'
